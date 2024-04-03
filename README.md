@@ -1,0 +1,3 @@
+SimpLeg is my computer science third year project, aiming to summarise and simplify UK legislative texts. This uses Llama2 13B large language model, prompting it to simplify a given piece of text to make it easier to understand, while covering the main points. This approach uses logical chunking of legal documents, summarising individual sections into their key points, and then recursively taking the key points until they are small enough to be interpreted by the model in a more general summary. 
+
+To generate new summaries it requires a some decent GPUs, however the code for how they are all generated are all here. As for the simple user interface, that can be accessed by running the webpage.py using python 3.11.x 
