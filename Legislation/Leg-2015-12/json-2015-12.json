@@ -1,0 +1,377 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/12/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "International Development (Official Development Assistance Target) Act 2015",
+                    "tokenCum": 60,
+                    "wordSum": 8,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 12",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the meeting by the United Kingdom of the targetfor official development assistance (ODA) to constitute 0.7 per cent of grossnational income; to make provision for independent verification that ODA isspent efficiently and effectively; and for connected purposes.",
+                            "tokenCum": 129,
+                            "wordSum": 43,
+                            "tokenSum": 61,
+                            "tokenCount": 61
+                        }
+                    ],
+                    "wordSum": 46,
+                    "tokenSum": 71,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 140,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 197,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Duty to meet United Nations 0.7% target from 2015",
+                            "tokenCum": 216,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "It is the duty of the Secretary of State to ensure that the target forofficial development assistance (referred to in this Act as \u201cODA\u201d) to amountto 0.7% of gross national income (in this Act referred to as \u201cthe 0.7%target\u201d) is met by the United Kingdom in the year 2015 and each subsequentcalendar year.",
+                                    "tokenCum": 297,
+                                    "wordSum": 53,
+                                    "tokenSum": 83,
+                                    "tokenCount": 83
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Whether the 0.7% target has been met by the United Kingdom in any year isto be determined for the purposes of this Act by reference to the amountsspecified for that year in an annual report (in particular, the percentagespecified in accordance with paragraph 1(h) of the Schedule to the 2006 Act).",
+                                    "tokenCum": 372,
+                                    "wordSum": 51,
+                                    "tokenSum": 77,
+                                    "tokenCount": 77
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 376,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe 2006 Act\u201d means the International Development (Reporting and Transparency) Act 2006; ",
+                                            "tokenCum": 407,
+                                            "wordSum": 13,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cannual report\u201d means an annual report under section 1 of the 2006 Act. ",
+                                            "tokenCum": 432,
+                                            "wordSum": 14,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 68,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 143,
+                            "tokenSum": 248,
+                            "tokenCount": 19
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Duty to lay statement before Parliament if 0.7% target not met",
+                            "tokenCum": 449,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "If an annual report laid before Parliament in the year 2016 or anysubsequent calendar year shows that the 0.7% target has not been met in thereport year, the Secretary of State must, as soon as reasonably practicableafter laying the report, lay before Parliament a statement complying withsubsections (3) and (4).",
+                                    "tokenCum": 526,
+                                    "wordSum": 50,
+                                    "tokenSum": 79,
+                                    "tokenCount": 79
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "If an annual report laid before Parliament in the year 2015 or anysubsequent calendar year shows that the 0.7% target has been met in the reportyear but\u2014",
+                                    "tokenCum": 566,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the report is revised under section 1(4) of the 2006 Act by a subsequentannual report, and",
+                                            "tokenCum": 594,
+                                            "wordSum": 16,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the effect of the revision is to show that the 0.7% target was not met inthe report year,",
+                                            "tokenCum": 618,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the Secretary of State must, as soon as reasonably practicable after layingthe subsequent report, lay before Parliament a statement complying withsubsection (3).",
+                                                    "tokenCum": 651,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 64,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 83,
+                                    "tokenSum": 137,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A statement under subsection (1) or (2) must explain why the 0.7% targethas not been met in the report year and, if relevant, refer to the effect ofone or more of the following\u2014",
+                                    "tokenCum": 700,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "economic circumstances and, in particular, any substantial change in grossnational income;",
+                                            "tokenCum": 716,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "fiscal circumstances and, in particular, the likely impact of meeting thetarget on taxation, public spending and public borrowing;",
+                                            "tokenCum": 743,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "circumstances arising outside the United Kingdom.",
+                                            "tokenCum": 751,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 68,
+                                    "tokenSum": 111,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A statement under subsection (1) must also describe any steps that theSecretary of State has taken to ensure that the 0.7% target will be met by theUnited Kingdom in the calendar year following the report year.",
+                                    "tokenCum": 799,
+                                    "wordSum": 36,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section \u201cthe report year\u201d, in relation to an annual report, meansthe period of 12 months which is the most recent relevant period, as definedby section 1(2) of the 2006 Act, to which the information included inaccordance with paragraph 1(h) of the Schedule to that Act relates.",
+                                    "tokenCum": 875,
+                                    "wordSum": 48,
+                                    "tokenSum": 78,
+                                    "tokenCount": 78
+                                }
+                            ],
+                            "wordSum": 296,
+                            "tokenSum": 473,
+                            "tokenCount": 17
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Accountability to Parliament",
+                            "tokenCum": 879,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The only means of securing accountability in relation to the duty insection 1 is that established by the provision in section 2 for the laying ofa statement before Parliament.",
+                                    "tokenCum": 917,
+                                    "wordSum": 29,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Accordingly, the fact that the duty in section 1 has not been, or will ormay not be, complied with does not affect the lawfulness of anything done, oromitted to be done, by any person.",
+                                    "tokenCum": 965,
+                                    "wordSum": 34,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                }
+                            ],
+                            "wordSum": 66,
+                            "tokenSum": 95,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Repeal of section 3 of the 2006 Act",
+                            "tokenCum": 980,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 3 of the 2006 Act (which requires each annual report to include anassessment of the year in which the 0.7% target is expected to be met) isrepealed.",
+                                    "tokenCum": 1026,
+                                    "wordSum": 28,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                }
+                            ],
+                            "wordSum": 36,
+                            "tokenSum": 64,
+                            "tokenCount": 15
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Independent evaluation of official development assistance",
+                            "tokenCum": 1032,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must make arrangements for the independentevaluation of the extent to which ODA provided by the United Kingdomrepresents value for money in relation to the purposes for which it isprovided.",
+                                    "tokenCum": 1076,
+                                    "wordSum": 33,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Secretary of State must include in each annual report a statement as tohow he or she has complied with the duty under subsection (1).",
+                                    "tokenCum": 1106,
+                                    "wordSum": 25,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                }
+                            ],
+                            "wordSum": 64,
+                            "tokenSum": 85,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1114,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the International Development (OfficialDevelopment Assistance Target) Act 2015.",
+                                    "tokenCum": 1140,
+                                    "wordSum": 14,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on 1 June 2015.",
+                                    "tokenCum": 1155,
+                                    "wordSum": 9,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to the whole of the United Kingdom.",
+                                    "tokenCum": 1166,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1166,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 16,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 38,
+                            "tokenSum": 70,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 679,
+                    "tokenSum": 1093,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 737,
+            "tokenSum": 1238,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/12/enacted?view=plain",
+    "title": "International Development (Official Development Assistance Target) Act 2015",
+    "longtitle": "An Act to make provision about the meeting by the United Kingdom of the target for official development assistance (ODA) to constitute 0.7 per cent of gross national income; to make provision for independent verification that ODA is spent efficiently and effectively; and for connected purposes.",
+    "date": "[26th March 2015]",
+    "wordSum": 737,
+    "tokenSum": 1239,
+    "tokenCount": 0,
+    "totalTokens": 1239
+}

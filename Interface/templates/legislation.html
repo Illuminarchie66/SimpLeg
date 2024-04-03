@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Legislation Page</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto">
+    <style>
+        .title-container {
+            text-align: center;
+            margin-bottom: -1;
+        }
+        .title-container img {
+            display: block;
+            margin: 0 auto;
+        }
+        .title-image {
+            width: 1440px;
+            height: 453px;
+        }
+
+        .subtitle {
+            font-size: 100px;
+            font-family: Georgia, serif; 
+        }
+
+        .unfolded-section {
+            display: block; /* Initially hidden */
+            padding: 7px;
+            border: 10px solid #D3D3D3;
+            margin-top: 10px;
+        }
+
+        /* CSS for the button */
+        .toggle-button {
+            cursor: pointer;
+        }
+
+        .list-item {
+            overflow: hidden; /* Clear floats */
+            display: none;
+            padding: 10px; /* Add padding for spacing */
+        }
+
+        .leg-title {
+            font-size: 70px;
+            color:#FAA520;
+            margin-top: 0; /* Remove default margin */
+            margin-bottom: 5px; /* Add some bottom margin */
+        }
+
+        .leg-summary {
+            font-size: 40px;
+        }
+
+        .leg-link {
+            color: black;
+            font-size: 25px; /* Default color of the link */
+            text-decoration: none; /* Remove default underline */
+            margin-left: 20px;
+        }
+
+        /* CSS for the link when hovered over */
+        .leg-link:hover {
+            color: orange; /* Change color to orange on hover */
+            text-decoration: underline; /* Add underline on hover */
+        }
+
+        .leg-text {
+            font-size: 25px;
+            margin-left: 20px;
+        }
+
+        .leg-text2 {
+            font-size: 20px;
+            margin-left: 35px;
+        }
+
+        .leg-point {
+            font-size: 25px;
+            margin-left: 25px;
+        }
+
+        .metric-title {
+            font-size: 35px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 20px;
+        }
+
+        .metric-subtitle {
+            font-size: 25px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 35px;
+        }
+
+        .metric-point {
+            font-size: 20px;
+            margin-left: 40px;
+        }
+
+        .details {
+            padding: 7px;
+            border: 10px solid #D3D3D3;
+        }
+
+        .column {
+            float: left;
+            width: 50%;
+            padding: 10px;
+
+        }
+
+            /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .border-box {
+            border: 2px solid;
+            border-color: #FAA520;
+        }
+
+        .toggle-button {
+            cursor: pointer;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        h1 {
+            margin-bottom: 0;
+            color: #FAA520;
+        }
+
+        h2 {
+            margin-bottom: 0;
+            margin-top: 1px;
+            margin-left: 5px;
+        }
+
+
+        body {
+            font-family: Georgia, serif; /* Use Arial as the primary font, fallback to sans-serif */
+        }
+
+        hr {
+            border: none; /* Remove default border */
+            height: 5px; /* Set the height of the line */
+            background-color: #D3D3D3; /* Set the color of the line */
+            margin: 20px; /* Optional: Add some margin for spacing */
+            margin-left: 0;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        ol {
+            padding-left: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="leg-title">{{title}}</h1>
+    <div class="details">
+        <h2 class="leg-summary"> Original </h2>
+        <a href="{{ link }}" class="leg-link">{{ link }}</a>
+        <hr>
+        <h2 class="leg-summary">General</h2>
+        <div class="leg-text"> {{general|safe}} </div>
+        <hr>
+        <h2 class="leg-summary">Summary</h2>
+        <div class="leg-text"> {{summary|safe}} </div>
+        <hr>
+        <h2 class="leg-summary" onclick="toggleSection2('clause')" style="cursor: pointer;">Clause summaries</h2>
+        <div id="clause" style="display:none">
+            {% for c in chunks %}
+                <b class="leg-point">Short: {{c.short}} </b>
+                <ol>
+                {% for point in c.text%}
+                    <li class="leg-text2">{{ point }}</li>
+                {% endfor %}
+                </ol>
+            {% endfor %}
+        </div>
+
+        <hr>
+        <h2 class="leg-summary">Text metrics</h2>
+
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection2('Text')">
+                <h3 class="metric-title">Text</h3>
+            </div>
+            
+            <div class="row" id="Text" style="display: none;">
+                <div class="column" >
+                    <h2 class="metric-subtitle">Original</h2>
+                    <ul>
+                    {% for metric_key, metric_value in metrics.text.original.items() %}
+                            <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2 class="metric-subtitle">Summary</h2>
+                    <ul>
+                        {% for metric_key, metric_value in metrics.text.fullSumm0.items() %}
+                                <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection2('Readability')">
+                <h3 class="metric-title">Readability</h3>
+            </div>
+
+            <div class="row" id="Readability" style="display: none;">
+                <div class="column">
+                    <h2 class="metric-subtitle">Original</h2>
+                    <ul>
+                        {% for metric_key, metric_value in metrics.readability.original.items() %}
+                            <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2 class="metric-subtitle">Summary</h2>
+                    <ul>
+                        {% for metric_key, metric_value in metrics.readability.fullSumm0.items() %}
+                            <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br>
+        
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection1('Summarisation')">
+                <h3 class="metric-title">Summarisation</h3>
+            </div>
+            <div id="Summarisation" style="display: none;">
+                <div class="row">
+                    <div class="column">
+                        <h2 class="metric-subtitle">ROUGE</h2>
+                        <ul>
+                            {% for metric_key, metric_value in metrics.summarisation.full_summ0.rouge.items() %}
+                                <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                            {% endfor %}
+                        </ul>    
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column">
+                        <h2 class="metric-subtitle">BERT</h2>
+                        <ul>
+                            <li class="metric-point"> bert: {{metrics.summarisation.full_summ0.bert.f1[0]}}</li>
+                        </ul>    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection1('Orthographic')">
+                <h3 class="metric-title">Orthographic</h3>
+            </div>
+            <div class="row" id="Orthographic" style="display: none;">
+                <div class="column">
+                    <h2 class="metric-subtitle">Original</h2>
+                    <ul>
+                        <li class="metric-point"> parse_errors: {{ metrics.orthographic.original }}</li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2 class="metric-subtitle">Summary</h2>
+                    <ul>
+                        <li class="metric-point"> result_errors: {{ metrics.orthographic.summary }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br>
+        
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection1('Bias')">
+                <h3 class="metric-title">Bias</h3>
+            </div>
+            <div class="row" id="Bias" style="display: none;">
+                <div class="column">
+                    <h2 class="metric-subtitle">Original</h2>
+                    <ul>
+                        <li class="metric-point"> sentiment: {{ metrics.bias.original.label }}</li>
+                        <li class="metric-point"> score: {{ metrics.bias.original.score }}</li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2 class="metric-subtitle">Summary</h2>
+                    <ul>
+                        <li class="metric-point"> sentiment: {{ metrics.bias.summary.label }}</li>
+                        <li class="metric-point"> score: {{ metrics.bias.summary.score }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="border-box">
+            <div class="toggle-button" onclick="toggleSection2('Info')">
+                <h3 class="metric-title">Information theory</h3>
+            </div>
+            <div class="row" id="Info" style="display: none;">
+                <div class="column">
+                    <h2 class="metric-subtitle">Original</h2>
+                    <ul>
+                        {% for metric_key, metric_value in metrics.info.original.items() %}
+                            <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="column">
+                    <h2 class="metric-subtitle">Summary</h2>
+                    <ul>
+                        {% for metric_key, metric_value in metrics.info.fullSumm0.items() %}
+                            <li class="metric-point">{{ metric_key }}: {{ metric_value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleSection1(id) {
+            var section = document.getElementById(id);
+            if (section.style.display === "block" || section.style.display === "") {
+                section.style.display = "none";
+            } else {
+                section.style.display = "block";
+            }
+        }
+
+        function toggleSection2(id) {
+            var section = document.getElementById(id);
+            if (section.style.display === "none" || section.style.display === "") {
+                section.style.display = "block";
+            } else {
+                section.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>

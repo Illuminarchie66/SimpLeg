@@ -1,0 +1,1037 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2020/9/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Sentencing (Pre-consolidation Amendments) Act 2020",
+                    "tokenCum": 62,
+                    "wordSum": 5,
+                    "tokenSum": 20,
+                    "tokenCount": 19
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2020 CHAPTER 9",
+                    "tokenCum": 70,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to give effect to Law Commission recommendations relating tocommencement of enactments relating to sentencing law and to make provisionfor pre-consolidation amendments of sentencing law.",
+                            "tokenCum": 115,
+                            "wordSum": 26,
+                            "tokenSum": 46,
+                            "tokenCount": 46
+                        }
+                    ],
+                    "wordSum": 29,
+                    "tokenSum": 55,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th June 2020]",
+                    "tokenCum": 125,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 182,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Consolidation of sentencing legislation: amendment of law for old offences",
+                            "tokenCum": 200,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 204,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201crepealed provision\u201d means\u2014 ",
+                                            "tokenCum": 215,
+                                            "wordSum": 4,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an enactment, to the extent that it is to be repealed or revoked by thesentencing consolidation;",
+                                            "tokenCum": 215,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a provision made under such an enactment;",
+                                            "tokenCum": 241,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctransition time\u201d, in relation to a repealed provision, means a time that is specified in, or determined in accordance with, an enactment relating to the coming into force of the repealed provision or any other enactment; ",
+                                                    "tokenCum": 304,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctrigger event\u201d, in relation to an offence, means the commission of the offence or any event related to the commission of the offence, including any event\u2014 ",
+                                                    "tokenCum": 341,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                }
+                                            ],
+                                            "wordSum": 71,
+                                            "tokenSum": 111,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "connected with, or which constitutes any part of, the commission of theoffence, or",
+                                            "tokenCum": 341,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "related to the investigation of, or proceedings related to, the offence.",
+                                            "tokenCum": 360,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 118,
+                                    "tokenSum": 201,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsection (3) applies if a person is convicted of an offence on or afterthe consolidation date.",
+                                    "tokenCum": 401,
+                                    "wordSum": 16,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Where\u2014 ",
+                                    "tokenCum": 404,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the application to the offence of a repealed provision depends on the timeat which a particular trigger event occurred in relation to a particulartransition time, and",
+                                            "tokenCum": 438,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the transition time fell after the trigger event occurred,",
+                                            "tokenCum": 448,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the repealed provision has effect as if the transition time had instead fallenbefore the trigger event occurred.",
+                                                    "tokenCum": 468,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 79,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subsection (3) does not operate so far as it would increase\u2014",
+                                    "tokenCum": 483,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the maximum term of imprisonment or detention, or",
+                                            "tokenCum": 494,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the maximum fine,",
+                                            "tokenCum": 498,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "with which the offence is punishable.",
+                                            "tokenCum": 508,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 51,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Subsection (3) is also subject to\u2014",
+                                    "tokenCum": 518,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "Schedule 1 (exceptions);",
+                                            "tokenCum": 526,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any provision made by regulations made by the Secretary of State for thepurpose of securing that subsection (3) does not affect the application ofparticular repealed provisions.",
+                                            "tokenCum": 565,
+                                            "wordSum": 26,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 65,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Where a repealed provision has effect in accordance with subsection (3),any related enactment also has effect in accordance with that subsection.",
+                                    "tokenCum": 597,
+                                    "wordSum": 21,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The following have effect subject to subsections (3) to (6)\u2014",
+                                    "tokenCum": 613,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a commencement or transitional provision relating to the coming into forceof a repealed provision or any related enactment;",
+                                            "tokenCum": 640,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a saving subject to which a repealed provision, or any related enactment,has previously been repealed or revoked.",
+                                            "tokenCum": 666,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 77,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "For the purposes of this section\u2014",
+                                    "tokenCum": 673,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "\u201crelated enactment\u201d, in relation to a repealed provision, means anenactment which\u2014",
+                                            "tokenCum": 694,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "came into force subject to the same commencement or transitional provisionas the repealed provision, or",
+                                            "tokenCum": 715,
+                                            "wordSum": 15,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "has previously been repealed or revoked subject to the same saving as therepealed provision,",
+                                            "tokenCum": 734,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "so far as it is necessary for the repealed provision to have full effect;",
+                                            "tokenCum": 750,
+                                            "wordSum": 14,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "\u201crepealed provision\u201d and \u201crelated enactment\u201d do not include a provision tothe extent that it is not in force immediately before the consolidation date,except to the extent that it will come into force on or after that date byvirtue of an enactment passed or made before that date;",
+                                            "tokenCum": 815,
+                                            "wordSum": 47,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a reference to the application of a repealed provision includes a referenceto whether or not it applies (or applies for a particular purpose), and to theform in which it applies (or applies for a particular purpose);",
+                                            "tokenCum": 859,
+                                            "wordSum": 36,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "references to a repealed provision or related enactment or to anycommencement or transitional provision or saving include references to such aprovision passed or made after the passing of this Act.",
+                                            "tokenCum": 898,
+                                            "wordSum": 30,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 173,
+                                    "tokenSum": 255,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 499,
+                            "tokenSum": 808,
+                            "tokenCount": 18
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Pre-consolidation amendments relating to sentencing",
+                            "tokenCum": 912,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Schedule 2 contains amendments and modifications of sentencing legislationwhich are designed to facilitate, or otherwise desirable in connection with,the consolidation of the whole or a substantial part of the Acts relating tosentencing (with or without other sentencing legislation).",
+                                    "tokenCum": 972,
+                                    "wordSum": 38,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Secretary of State may by regulations make such further amendments andmodifications of sentencing legislation (including Schedule 2) as in theSecretary of State\u2019s opinion facilitate, or are otherwise desirable inconnection with, the consolidation of the whole or a substantial part of theActs relating to sentencing (with or without other sentencing legislation).",
+                                    "tokenCum": 1053,
+                                    "wordSum": 51,
+                                    "tokenSum": 83,
+                                    "tokenCount": 83
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In exercising the power under this section, the Secretary of State may haveregard in particular to the desirability of removing differences betweenprovisions relating to\u2014",
+                                    "tokenCum": 1091,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "forfeiture; ",
+                                            "tokenCum": 1096,
+                                            "wordSum": 1,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "powers of different courts to deal with offenders subject to particularsentences;",
+                                            "tokenCum": 1111,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "powers of different courts to provide for when sentences or particularrequirements of sentences are to take effect.",
+                                            "tokenCum": 1131,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 89,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Provision that may be made by regulations under this section includes, inparticular, provision amending or modifying any provision of sentencinglegislation which\u2014",
+                                    "tokenCum": 1164,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "confers power to make legislation, and",
+                                            "tokenCum": 1173,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "is subject to a relevant restriction,",
+                                            "tokenCum": 1180,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "so as to amend or modify that restriction.",
+                                                    "tokenCum": 1190,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "A \u201crelevant restriction\u201d is one by virtue of which legislation made inexercise of the power is to come into force only for cases in which commissionor conviction of an offence, or any other event, occurs after the time whenthe legislation is made or comes into force, or any other particular time.",
+                                            "tokenCum": 1258,
+                                            "wordSum": 51,
+                                            "tokenSum": 71,
+                                            "tokenCount": 71
+                                        }
+                                    ],
+                                    "wordSum": 92,
+                                    "tokenSum": 142,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "For the purposes of this section, \u201camend\u201d includes repeal or revoke (andsimilar terms are to be read accordingly).",
+                                    "tokenCum": 1285,
+                                    "wordSum": 18,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                }
+                            ],
+                            "wordSum": 257,
+                            "tokenSum": 420,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Interpretation ",
+                            "tokenCum": 1289,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1293,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe Acts relating to sentencing\u201d means\u2014 ",
+                                            "tokenCum": 1308,
+                                            "wordSum": 7,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Powers of Criminal Courts (Sentencing) Act 2000;",
+                                            "tokenCum": 1308,
+                                            "wordSum": 8,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "Part 12 of the Criminal Justice Act 2003;",
+                                            "tokenCum": 1328,
+                                            "wordSum": 8,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the following Acts so far as relating to the sentencing of offenders inEngland and Wales\u2014",
+                                            "tokenCum": 1344,
+                                            "wordSum": 15,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the Serious Organised Crime and Police Act 2005;",
+                                            "tokenCum": 1366,
+                                            "wordSum": 8,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "the Criminal Justice and Immigration Act 2008;",
+                                            "tokenCum": 1381,
+                                            "wordSum": 7,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "the Coroners and Justice Act 2009;",
+                                            "tokenCum": 1396,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iv)",
+                                            "text": "the Legal Aid, Sentencing and Punishment of Offenders Act 2012;",
+                                            "tokenCum": 1409,
+                                            "wordSum": 10,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(v)",
+                                            "text": "the Offender Rehabilitation Act 2014;",
+                                            "tokenCum": 1431,
+                                            "wordSum": 5,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(vi)",
+                                            "text": "the Criminal Justice and Courts Act 2015,",
+                                            "tokenCum": 1445,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and any other provision of an Act so far as it relates to the sentencing ofoffenders in England and Wales, whenever passed;",
+                                                    "tokenCum": 1487,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe consolidation date\u201d means the date on which the sentencing consolidation is to come into force (except so far as it consolidates legislation that is not in force immediately before that date); ",
+                                                    "tokenCum": 1534,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cenactment\u201d includes an enactment contained in subordinate legislation; ",
+                                                    "tokenCum": 1554,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe sentencing consolidation\u201d means, if an Act or group of Acts of a kind mentioned in section 5(2) is passed, that Act or group of Acts; ",
+                                                    "tokenCum": 1597,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csentencing legislation\u201d means any enactment, whenever passed or made which is\u2014 ",
+                                                    "tokenCum": 1619,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 110,
+                                            "tokenSum": 197,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an enactment relating to the sentencing of offenders, including any power tomake such an enactment, or",
+                                            "tokenCum": 1619,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an enactment referring to, or applying, modifying, amending, repealing orrevoking, an enactment within paragraph (a);",
+                                            "tokenCum": 1645,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe sentencing of offenders\u201d includes anything done by a court, including making an order\u2014 ",
+                                                    "tokenCum": 1698,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 60,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to a parent or guardian of an offender, or",
+                                            "tokenCum": 1698,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "relating to the behaviour of the offender,",
+                                            "tokenCum": 1712,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "when dealing with an offender for an offence.",
+                                            "tokenCum": 1733,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 259,
+                                    "tokenSum": 515,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "References in this Act to a person\u2019s being convicted include\u2014",
+                                    "tokenCum": 1747,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a special verdict (within the meaning of section 1 of the CriminalProcedure (Insanity) Act 1964) being returned,",
+                                            "tokenCum": 1781,
+                                            "wordSum": 17,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a finding mentioned in section 5(1)(b) of that Act being made of theperson\u2019s having done the act or made the omission charged (following a findingof being under a disability), and",
+                                            "tokenCum": 1826,
+                                            "wordSum": 30,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "being convicted by or before a service court (within the meaning given insection 305 of the Criminal Justice Act 2003).",
+                                            "tokenCum": 1859,
+                                            "wordSum": 20,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 77,
+                                    "tokenSum": 137,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 337,
+                            "tokenSum": 657,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Regulations ",
+                            "tokenCum": 1862,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Any power to make regulations under section 1 or 2 is exercisable bystatutory instrument.",
+                                    "tokenCum": 1885,
+                                    "wordSum": 14,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A statutory instrument containing any such regulations may not be madeunless a draft of the instrument has been laid before and approved by aresolution of each House of Parliament.",
+                                    "tokenCum": 1922,
+                                    "wordSum": 29,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Any such regulations are to come into force in accordance with section 5.",
+                                    "tokenCum": 1939,
+                                    "wordSum": 13,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                }
+                            ],
+                            "wordSum": 57,
+                            "tokenSum": 87,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Commencement, extent and short title",
+                            "tokenCum": 1947,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "So far as necessary to enable regulations to be made under section 1 or 2,this Act comes into force on the day on which it is passed.",
+                                    "tokenCum": 1980,
+                                    "wordSum": 27,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subject to that, this Act, and any regulations made under section 1 or 2,do not come into force unless\u2014",
+                                    "tokenCum": 2008,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a single Act, or",
+                                            "tokenCum": 2013,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a group of two or more Acts,",
+                                            "tokenCum": 2022,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "is passed consolidating the whole or a substantial part of the Acts relatingto sentencing (with or without other sentencing legislation).",
+                                                    "tokenCum": 2052,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 50,
+                                    "tokenSum": 84,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "If the sentencing consolidation is passed, this Act, so far as not alreadyin force, and any regulations made under section 1 or 2\u2014",
+                                    "tokenCum": 2086,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "come into force immediately before the consolidation date, and",
+                                            "tokenCum": 2098,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "so far as they apply in relation to an offence, have effect only inrelation to an offence of which a person is convicted on or after that date.",
+                                            "tokenCum": 2132,
+                                            "wordSum": 28,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 88,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subject to the following, this Act extends to England and Wales only.",
+                                    "tokenCum": 2147,
+                                    "wordSum": 12,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A modification of a provision by section 1 has the same extent within theUnited Kingdom as the provision modified.",
+                                    "tokenCum": 2170,
+                                    "wordSum": 19,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "An amendment, repeal or revocation made by Schedule 2, or by regulationsunder section 2, has the same extent within the United Kingdom as theprovision amended, repealed or revoked.",
+                                    "tokenCum": 2217,
+                                    "wordSum": 28,
+                                    "tokenSum": 49,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In Schedule 2\u2014",
+                                    "tokenCum": 2223,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "paragraph 133 also extends to Northern Ireland, and",
+                                            "tokenCum": 2235,
+                                            "wordSum": 8,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "paragraph 134 also extends to Scotland and Northern Ireland.",
+                                            "tokenCum": 2248,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 39,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The power conferred by section 338 of the Criminal Justice Act 2003 (powerto extend to Channel Islands and Isle of Man, and to modify) is exercisable inrelation to any amendment or modification of that Act that is made by or underthis Act.",
+                                    "tokenCum": 2311,
+                                    "wordSum": 42,
+                                    "tokenSum": 65,
+                                    "tokenCount": 65
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "The armed forces provisions also extend to\u2014",
+                                    "tokenCum": 2320,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Isle of Man, and",
+                                            "tokenCum": 2327,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the British overseas territories except Gibraltar.",
+                                            "tokenCum": 2339,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 36,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "The powers conferred by section 384 of the Armed Forces Act 2006 (power toextend Act to the Channel Islands and powers to make provisions of that Actapply with modifications in relation to the Channel Islands, British overseasterritories and the Isle of Man) are exercisable in relation to any armedforces provision.",
+                                    "tokenCum": 2414,
+                                    "wordSum": 50,
+                                    "tokenSum": 77,
+                                    "tokenCount": 77
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "\u201cArmed forces provision\u201d means\u2014",
+                                    "tokenCum": 2422,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an amendment, modification or repeal made by or under this Act of aprovision of the Armed Forces Act 2006;",
+                                            "tokenCum": 2452,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an amendment, modification or repeal made by or under this Act of any otherprovision, so far as the provision is applied (by whatever words) by or underthe Armed Forces Act 2006.",
+                                            "tokenCum": 2499,
+                                            "wordSum": 31,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 93,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(12)",
+                                    "text": "This Act may be cited as the Sentencing (Pre-consolidation Amendments) Act2020.",
+                                    "tokenCum": 2526,
+                                    "wordSum": 11,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                }
+                            ],
+                            "wordSum": 396,
+                            "tokenSum": 646,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 1582,
+                    "tokenSum": 2676,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1620,
+            "tokenSum": 2806,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2020/9/enacted?view=plain",
+    "title": "Sentencing (Pre-consolidation Amendments) Act 2020",
+    "longtitle": "An Act to give effect to Law Commission recommendations relating to commencement of enactments relating to sentencing law and to make provision for pre-consolidation amendments of sentencing law.",
+    "date": "[8th June 2020]",
+    "wordSum": 1620,
+    "tokenSum": 2807,
+    "tokenCount": 0,
+    "totalTokens": 2807
+}

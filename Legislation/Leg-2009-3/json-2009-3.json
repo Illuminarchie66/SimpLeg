@@ -1,0 +1,476 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2009/3/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Northern Ireland Act 2009",
+                    "tokenCum": 51,
+                    "wordSum": 4,
+                    "tokenSum": 9,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2009 CHAPTER 3",
+                    "tokenCum": 59,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision in relation to policing and justice in NorthernIreland; and to amend section 86 of the Northern Ireland Act 1998.",
+                            "tokenCum": 95,
+                            "wordSum": 24,
+                            "tokenSum": 37,
+                            "tokenCount": 37
+                        }
+                    ],
+                    "wordSum": 27,
+                    "tokenSum": 46,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th March 2009]",
+                    "tokenCum": 106,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 163,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Northern Ireland department with policing and justice functions",
+                            "tokenCum": 172,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Schedule 1 (Northern Ireland department with policing and justice functions)has effect.",
+                                    "tokenCum": 192,
+                                    "wordSum": 11,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 19,
+                            "tokenSum": 32,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Judicial appointments and removals",
+                            "tokenCum": 199,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "For sections 12 and 12B of the Judicature (Northern Ireland) Act [1978 (c.23)](/id/ukpga/1978/23?view=plain \"Go to item of legislation\") substitute thesections 12 to 12C set out in Schedule 2.",
+                                    "tokenCum": 277,
+                                    "wordSum": 28,
+                                    "tokenSum": 80,
+                                    "tokenCount": 80
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Justice (Northern Ireland) Act [2002 (c.26)](/id/ukpga/2002/26?view=plain \"Go to item of legislation\") is amended asset out in Schedule 3.",
+                                    "tokenCum": 334,
+                                    "wordSum": 19,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Schedule 4 (which transfers appointment and other related functions fromthe Lord Chancellor to the Northern Ireland Judicial Appointments Commissionetc) has effect.",
+                                    "tokenCum": 368,
+                                    "wordSum": 21,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Schedule 5 (which contains consequential amendments and transitionalprovision) has effect.",
+                                    "tokenCum": 389,
+                                    "wordSum": 10,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Schedule 6 (which makes provision for reviewing arrangements for judicialappointments and removals etc) has effect.",
+                                    "tokenCum": 416,
+                                    "wordSum": 15,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                }
+                            ],
+                            "wordSum": 97,
+                            "tokenSum": 235,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Miscellaneous amendments",
+                            "tokenCum": 422,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In Article 26C(5) of the Juries (Northern Ireland) Order 1996 ([S.I.1996/1141 (N.I. 6)](/id/nisi/1996/1141?view=plain \"Go to item oflegislation\"))\u2014",
+                                    "tokenCum": 498,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for \u201cAttorney General\u201d substitute \u201crelevant authority\u201d, and",
+                                            "tokenCum": 511,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "at the end insert \u201c; and for this purpose \u201crelevant authority\u201d means\u2014",
+                                            "tokenCum": 528,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to cases in which national security or terrorism is involved,the Advocate General for Northern Ireland;",
+                                            "tokenCum": 551,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in relation to other cases, the Attorney General for Northern Ireland.\u201d",
+                                            "tokenCum": 565,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 64,
+                                    "tokenSum": 157,
+                                    "tokenCount": 77
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "After section 30 of the Justice (Northern Ireland) Act [2002 (c.26)](/id/ukpga/2002/26?view=plain \"Go to item of legislation\") insert\u2014",
+                                    "tokenCum": 619,
+                                    "wordSum": 17,
+                                    "tokenSum": 56,
+                                    "tokenCount": 56
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c30ACorporation sole etc",
+                                    "tokenCum": 628,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Director of Public Prosecutions for Northern Ireland is a corporationsole.",
+                                            "tokenCum": 644,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Director may do anything, apart from borrowing money, which iscalculated to facilitate the exercise of the Director\u2019s functions or which isincidental or conducive to the exercise of those functions.",
+                                            "tokenCum": 688,
+                                            "wordSum": 30,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An instrument or other document purporting to be signed or otherwiseexecuted by or on behalf of the Director is to be received in evidence and is,unless the contrary is proved, to be taken to be so signed or executed.\u201d",
+                                            "tokenCum": 736,
+                                            "wordSum": 39,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        }
+                                    ],
+                                    "wordSum": 83,
+                                    "tokenSum": 128,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 166,
+                            "tokenSum": 348,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Amendments to section 86 of the Northern Ireland Act 1998",
+                            "tokenCum": 754,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 86 of the Northern Ireland Act [1998 (c.47)](/id/ukpga/1998/47?view=plain \"Go to item of legislation\") is amended asfollows.",
+                                    "tokenCum": 807,
+                                    "wordSum": 17,
+                                    "tokenSum": 55,
+                                    "tokenCount": 55
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsections (2)(a) and (3)(a) for \u201c(whether by virtue of an Order undersection 4 or otherwise)\u201d substitute \u201cother than by virtue of an Order undersection 4\u201d.",
+                                    "tokenCum": 853,
+                                    "wordSum": 26,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (3) insert\u2014",
+                                    "tokenCum": 861,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(3A)An Order under subsection (1) in relation to an Order under section 4 maymake provision doing any of the following\u2014",
+                                            "tokenCum": 892,
+                                            "wordSum": 20,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "transferring to a United Kingdom authority, with effect from any datespecified in the Order under subsection (1), any function which immediatelybefore that date is exercisable by a Northern Ireland authority;",
+                                            "tokenCum": 933,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "transferring to a Northern Ireland authority, with effect from any datespecified in the Order under subsection (1), any function which immediatelybefore that date is exercisable by a United Kingdom authority;",
+                                            "tokenCum": 974,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "conferring a function on a United Kingdom authority or a Northern Irelandauthority;",
+                                            "tokenCum": 990,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "removing a function from a United Kingdom authority or a Northern Irelandauthority.\u201d",
+                                            "tokenCum": 1005,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 108,
+                                    "tokenSum": 169,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 161,
+                            "tokenSum": 291,
+                            "tokenCount": 18
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Final provisions",
+                            "tokenCum": 1008,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Northern Ireland Act 2009.",
+                                    "tokenCum": 1025,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "An amendment or repeal contained in this Act has the same extent as theenactment or instrument or relevant part of the enactment or instrument towhich the amendment or repeal relates.",
+                                    "tokenCum": 1069,
+                                    "wordSum": 30,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State may by order made by statutory instrument makesupplementary, incidental or consequential provision for the purposes of, inconsequence of or for giving full effect to any provision of this Act.",
+                                    "tokenCum": 1113,
+                                    "wordSum": 33,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An order under subsection (3) may contain\u2014",
+                                    "tokenCum": 1124,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provision amending any Act or Northern Ireland legislation or anyinstrument made under an Act or Northern Ireland legislation;",
+                                            "tokenCum": 1148,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "transitory and transitional provision and savings.",
+                                            "tokenCum": 1158,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 53,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A statutory instrument containing an order under subsection (3) may not bemade unless a draft of it has been laid before and approved by a resolution ofeach House of Parliament.",
+                                    "tokenCum": 1196,
+                                    "wordSum": 30,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Subject to subsection (7), this Act comes into force on the day it ispassed.",
+                                    "tokenCum": 1217,
+                                    "wordSum": 14,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The following provisions come into force on the day appointed by theSecretary of State by order made by statutory instrument\u2014",
+                                    "tokenCum": 1243,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 2 and the Schedules mentioned in that section;",
+                                            "tokenCum": 1256,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 3(1);",
+                                            "tokenCum": 1262,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and different days may be appointed for different purposes.",
+                                                    "tokenCum": 1272,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 67,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The Secretary of State may by order made by statutory instrument maketransitory or transitional provision or savings in connection with the cominginto force of any provision of this Act.",
+                                    "tokenCum": 1310,
+                                    "wordSum": 29,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                }
+                            ],
+                            "wordSum": 220,
+                            "tokenSum": 338,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 699,
+                    "tokenSum": 1302,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 734,
+            "tokenSum": 1413,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2009/3/enacted?view=plain",
+    "title": "Northern Ireland Act 2009",
+    "longtitle": "An Act to make provision in relation to policing and justice in Northern Ireland; and to amend section 86 of the Northern Ireland Act 1998.",
+    "date": "[12th March 2009]",
+    "wordSum": 734,
+    "tokenSum": 1414,
+    "tokenCount": 0,
+    "totalTokens": 1414
+}

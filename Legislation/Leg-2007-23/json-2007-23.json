@@ -1,0 +1,972 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2007/23/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Sustainable Communities Act 2007",
+                    "tokenCum": 56,
+                    "wordSum": 4,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2007 CHAPTER 23",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about promoting the sustainability of localcommunities; and for connected purposes.",
+                            "tokenCum": 88,
+                            "wordSum": 15,
+                            "tokenSum": 24,
+                            "tokenCount": 24
+                        }
+                    ],
+                    "wordSum": 18,
+                    "tokenSum": 34,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[23rd October 2007]",
+                    "tokenCum": 99,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 156,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Sustainability of local communities",
+                            "tokenCum": 163,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The principal aim of this Act is to promote the sustainability of localcommunities.",
+                                    "tokenCum": 182,
+                                    "wordSum": 13,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In this Act references to promoting the sustainability of localcommunities, in relation to a local authority, are references to encouragingthe improvement of the economic, social or environmental well-being of theauthority\u2019s area, or part of its area.",
+                                    "tokenCum": 238,
+                                    "wordSum": 36,
+                                    "tokenSum": 58,
+                                    "tokenCount": 58
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In this section \u201csocial well-being\u201d includes participation in civic andpolitical activity.",
+                                    "tokenCum": 258,
+                                    "wordSum": 11,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "It shall be the duty of the Secretary of State to assist local authoritiesin promoting the sustainability of local communities in the ways specified inthis Act.",
+                                    "tokenCum": 290,
+                                    "wordSum": 26,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 90,
+                            "tokenSum": 143,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Proposals by local authorities",
+                            "tokenCum": 296,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must invite local authorities to make proposalswhich they consider would contribute to promoting the sustainability of localcommunities.",
+                                    "tokenCum": 327,
+                                    "wordSum": 21,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Without prejudice to the generality of subsection (1), a proposal mayinclude a request for a transfer of functions from one person to another.",
+                                    "tokenCum": 358,
+                                    "wordSum": 23,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A local authority may not include a request under subsection (2) unless ithas consulted\u2014",
+                                    "tokenCum": 378,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the person whose functions it relates to, and",
+                                            "tokenCum": 388,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the person to whom the local authority considers the functions should betransferred.",
+                                            "tokenCum": 405,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 55,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A local authority must have regard to the matters specified in the Schedulebefore making a proposal.",
+                                    "tokenCum": 424,
+                                    "wordSum": 16,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State must issue the first invitation under this sectionwithin the period of one year beginning with the day on which this Act ispassed.",
+                                    "tokenCum": 456,
+                                    "wordSum": 26,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 124,
+                            "tokenSum": 183,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Decision on short-list",
+                            "tokenCum": 462,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Before inviting proposals under section 2, the Secretary of State mustappoint a person (the \u201cselector\u201d) to consider the proposals and, in co-operation with the Secretary of State, draw up a short-list of proposals inaccordance with regulations under section 5.",
+                                    "tokenCum": 525,
+                                    "wordSum": 39,
+                                    "tokenSum": 65,
+                                    "tokenCount": 65
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The selector must be a person who represents the interests of localauthorities.",
+                                    "tokenCum": 540,
+                                    "wordSum": 12,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "On receiving the short-list from the selector, the Secretary of State mustdecide which of the proposals on the short-list should be implemented.",
+                                    "tokenCum": 571,
+                                    "wordSum": 22,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Before making a decision under subsection (3) the Secretary of State mustconsult the selector and try to reach agreement.",
+                                    "tokenCum": 596,
+                                    "wordSum": 19,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                }
+                            ],
+                            "wordSum": 95,
+                            "tokenSum": 149,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Action plans",
+                            "tokenCum": 598,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must publish\u2014",
+                                    "tokenCum": 605,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the decision under section 3(3) and the reasons for it, and",
+                                            "tokenCum": 621,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "with the decision, a statement of the action the Secretary of Stateproposes to take with a view to the implementation of any proposal.",
+                                            "tokenCum": 648,
+                                            "wordSum": 23,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 58,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A statement published under subsection (1)(b) is referred to in thissection as an action plan.",
+                                    "tokenCum": 670,
+                                    "wordSum": 15,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State must publish and lay before Parliament a report,describing the progress which has been made in relation to any action plan,within the period of one year following the publication of the action plan andat intervals of not more than one year thereafter.",
+                                    "tokenCum": 725,
+                                    "wordSum": 45,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subsection (3) does not apply in relation to an action plan if the actionplan has been implemented.",
+                                    "tokenCum": 747,
+                                    "wordSum": 17,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                }
+                            ],
+                            "wordSum": 119,
+                            "tokenSum": 166,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Proposals: regulations",
+                            "tokenCum": 753,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must make regulations about the procedure to befollowed in relation to proposals under section 2.",
+                                    "tokenCum": 778,
+                                    "wordSum": 19,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Before making regulations the Secretary of State must consult\u2014",
+                                    "tokenCum": 789,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the selector, and",
+                                            "tokenCum": 793,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "such other persons who represent the interests of local authorities as theSecretary of State thinks fit.",
+                                            "tokenCum": 812,
+                                            "wordSum": 16,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 42,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations may, in particular\u2014",
+                                    "tokenCum": 819,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specify, or authorise the selector to specify, steps to be taken by a localauthority before making proposals;",
+                                            "tokenCum": 843,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "specify steps to be taken by the selector in considering the proposals anddrawing up a short-list;",
+                                            "tokenCum": 865,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "require the selector to prepare, and give to the Secretary of State, areport on the proposals.",
+                                            "tokenCum": 886,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 85,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Regulations must\u2014",
+                                    "tokenCum": 890,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "require a local authority, before making any proposal under section 2, toestablish or recognise a panel of representatives of local persons and consultit about the proposal;",
+                                            "tokenCum": 926,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "require a local authority to try to reach agreement about proposals withthe panel or other persons consulted under paragraph (a); and",
+                                            "tokenCum": 952,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "require a local authority to have regard to any guidance issued undersubsection (5).",
+                                            "tokenCum": 969,
+                                            "wordSum": 13,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 62,
+                                    "tokenSum": 94,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State must issue guidance to local authorities aboutmaking proposals, which\u2014",
+                                    "tokenCum": 986,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must include guidance about the inclusion among representatives of localpersons (for the purposes of subsection (4)(a)) of persons from under-represented groups, and",
+                                            "tokenCum": 1022,
+                                            "wordSum": 22,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "may include other guidance about establishing and consulting a panel ofrepresentatives of local persons.",
+                                            "tokenCum": 1042,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 49,
+                                    "tokenSum": 81,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Before issuing or revising guidance under subsection (5) the Secretary ofState must consult\u2014",
+                                    "tokenCum": 1062,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "local authorities, or",
+                                            "tokenCum": 1066,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "persons who represent the interests of local authorities.",
+                                            "tokenCum": 1075,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 41,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "For the purposes of subsection (2) or (6) any consultation undertakenbefore the day on which this Act is passed is as effective as it would havebeen if undertaken after that day.",
+                                    "tokenCum": 1118,
+                                    "wordSum": 31,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1122,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201clocal person\u201d means, in relation to a proposal by a local authority under section 2, a person who is likely to be affected by, or interested in, the proposal; ",
+                                            "tokenCum": 1162,
+                                            "wordSum": 30,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpanel\u201d means a panel constituted in accordance with regulations; ",
+                                            "tokenCum": 1180,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201crepresentative\u201d means, in relation to local persons, a person who appears to the local authority to be representative of the local persons; ",
+                                            "tokenCum": 1212,
+                                            "wordSum": 23,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cunder-represented groups\u201d has the meaning given by regulations. ",
+                                            "tokenCum": 1231,
+                                            "wordSum": 9,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 75,
+                                    "tokenSum": 127,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "Regulations under this section\u2014",
+                                    "tokenCum": 1237,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must be made by statutory instrument, and",
+                                            "tokenCum": 1247,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "are subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 1267,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 44,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 367,
+                            "tokenSum": 593,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Local spending reports",
+                            "tokenCum": 1271,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "For the purpose of assisting in promoting the sustainability of localcommunities, the Secretary of State must make arrangements for the production,by the Secretary of State or another person, of local spending reports.",
+                                    "tokenCum": 1317,
+                                    "wordSum": 32,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A local spending report is a report on expenditure by such authorities, insuch area, and over such period, as are determined in accordance with thearrangements.",
+                                    "tokenCum": 1354,
+                                    "wordSum": 25,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The authorities may be\u2014",
+                                    "tokenCum": 1359,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a local authority;",
+                                            "tokenCum": 1363,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a government department;",
+                                            "tokenCum": 1367,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "any other person exercising public functions.",
+                                            "tokenCum": 1376,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 16,
+                                    "tokenSum": 33,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The area must be\u2014",
+                                    "tokenCum": 1381,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "one or more local authority areas;",
+                                            "tokenCum": 1388,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "one or more parts of a local authority area; or",
+                                            "tokenCum": 1399,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "any combination of those.",
+                                            "tokenCum": 1404,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 39,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The period may be or include a future period.",
+                                    "tokenCum": 1414,
+                                    "wordSum": 9,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The expenditure to be included in relation to any authority, area or periodis to be determined in accordance with the arrangements.",
+                                    "tokenCum": 1442,
+                                    "wordSum": 21,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "A report may relate to different areas or periods for differentauthorities.",
+                                    "tokenCum": 1456,
+                                    "wordSum": 11,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The Secretary of State may make different arrangements for differentreports.",
+                                    "tokenCum": 1470,
+                                    "wordSum": 10,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "The Secretary of State must make the first arrangements under this sectionwithin the period of 18 months beginning with the day on which this Act ispassed.",
+                                    "tokenCum": 1504,
+                                    "wordSum": 26,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "Before making arrangements under this section, the Secretary of State mustconsult such persons likely to be affected by the arrangements as theSecretary of State thinks appropriate.",
+                                    "tokenCum": 1538,
+                                    "wordSum": 26,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "For the purposes of subsection (10) any consultation undertaken before theday on which this Act is passed is as effective as it would have been ifundertaken after that day.",
+                                    "tokenCum": 1577,
+                                    "wordSum": 29,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                }
+                            ],
+                            "wordSum": 232,
+                            "tokenSum": 351,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Sustainable community strategy",
+                            "tokenCum": 1583,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In each of the enactments mentioned in subsection (2) for \u201ccommunitystrategy\u201d substitute \u201csustainable community strategy\u201d.",
+                                    "tokenCum": 1612,
+                                    "wordSum": 15,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Those enactments are\u2014",
+                                    "tokenCum": 1618,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 4(1), (2) and (3) of the Local Government Act [2000 (c.22)](/id/ukpga/2000/22?view=plain \"Go to item of legislation\"), and",
+                                            "tokenCum": 1674,
+                                            "wordSum": 18,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 19(2)(f), (2)(g) and (7) of the Planning and Compulsory PurchaseAct [2004 (c. 5)](/id/ukpga/2004/5?view=plain \"Go to item of legislation\")(local development documents).",
+                                            "tokenCum": 1744,
+                                            "wordSum": 21,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 140,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 4(5) of the Local Government Act 2000 (Wales) at end insert \u201c,and as if for \u201csustainable community strategy\u201d there were substituted\u201ccommunity strategy\u201d.\u201d",
+                                    "tokenCum": 1792,
+                                    "wordSum": 24,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Secretary of State may by regulations amend any other enactment,whenever passed or made, to convert a reference to a \u201ccommunity strategy\u201d to areference to a \u201csustainable community strategy\u201d.",
+                                    "tokenCum": 1837,
+                                    "wordSum": 29,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Regulations under subsection (4)\u2014",
+                                    "tokenCum": 1846,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "may amend an enactment only in so far as the enactment applies in relationto England,",
+                                            "tokenCum": 1868,
+                                            "wordSum": 15,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "must be made by statutory instrument, and",
+                                            "tokenCum": 1878,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "are subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 1898,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 72,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 152,
+                            "tokenSum": 347,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Interpretation ",
+                            "tokenCum": 1902,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1906,
+                                    "wordSum": 3,
+                                    "tokenSum": 6,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201clocal authority\u201d means a county council in England, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly; ",
+                                    "tokenCum": 1949,
+                                    "wordSum": 32,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cregion\u201d means a region specified in Schedule 1 of the Regional Development Agencies Act [1998 (c. 45)](/id/ukpga/1998/45?view=plain \"Go to item of legislation\"). ",
+                                    "tokenCum": 2010,
+                                    "wordSum": 23,
+                                    "tokenSum": 63,
+                                    "tokenCount": 63
+                                }
+                            ],
+                            "wordSum": 59,
+                            "tokenSum": 119,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 9",
+                            "text": "Expenses ",
+                            "tokenCum": 2013,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "There shall be paid out of money provided by Parliament\u2014",
+                                    "tokenCum": 2024,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any sums to be paid by the Secretary of State for or in connection with thecarrying out of his functions under this Act; and",
+                                            "tokenCum": 2052,
+                                            "wordSum": 24,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any increase attributable to this Act in the sums which are payable out ofmoney so provided under any other Act.",
+                                            "tokenCum": 2078,
+                                            "wordSum": 20,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 73,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 55,
+                            "tokenSum": 77,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 10",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 2086,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Sustainable Communities Act 2007.",
+                                    "tokenCum": 2107,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 2116,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 2",
+                                            "tokenCum": 2119,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 17,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 26,
+                            "tokenSum": 49,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 1355,
+                    "tokenSum": 2235,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1381,
+            "tokenSum": 2339,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2007/23/enacted?view=plain",
+    "title": "Sustainable Communities Act 2007",
+    "longtitle": "An Act to make provision about promoting the sustainability of local communities; and for connected purposes.",
+    "date": "[23rd October 2007]",
+    "wordSum": 1381,
+    "tokenSum": 2340,
+    "tokenCount": 0,
+    "totalTokens": 2340
+}

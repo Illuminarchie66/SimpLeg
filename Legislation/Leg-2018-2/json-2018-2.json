@@ -1,0 +1,440 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2018/2/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Armed Forces (Flexible Working) Act 2018",
+                    "tokenCum": 58,
+                    "wordSum": 6,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2018 CHAPTER 2",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for members of the regular forces to serve part-timeor subject to geographic restrictions.",
+                            "tokenCum": 89,
+                            "wordSum": 18,
+                            "tokenSum": 24,
+                            "tokenCount": 24
+                        }
+                    ],
+                    "wordSum": 21,
+                    "tokenSum": 33,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th February 2018]",
+                    "tokenCum": 99,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 156,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Regular forces: part-time service and geographic restrictions",
+                            "tokenCum": 168,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Armed Forces Act 2006 is amended as follows.",
+                                    "tokenCum": 184,
+                                    "wordSum": 9,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 329 (terms and conditions of enlistment and service) is amended inaccordance with subsections (3) and (4).",
+                                    "tokenCum": 218,
+                                    "wordSum": 17,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (2)\u2014",
+                                    "tokenCum": 225,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "after paragraph (h) insert\u2014",
+                                            "tokenCum": 232,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(ha)",
+                                            "text": "enabling a person to serve with a regular force on a part-time basis;\u201d,and",
+                                            "tokenCum": 251,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for paragraphs (i) and (j) substitute\u2014",
+                                            "tokenCum": 263,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(i)",
+                                            "text": "enabling a person\u2019s service with a regular force to be restricted toservice in a particular area or to be subject to other geographicrestrictions;",
+                                            "tokenCum": 295,
+                                            "wordSum": 23,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(j)",
+                                            "text": "requiring a person serving subject to a geographic restriction to servewithout that restriction on a number of occasions not exceeding a prescribedmaximum.\u201d",
+                                            "tokenCum": 324,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 71,
+                                    "tokenSum": 123,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (3) insert\u2014",
+                                    "tokenCum": 332,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(3A)A right conferred on a person by virtue of subsection (2)(ha) to (j) maybe varied, suspended or terminated in prescribed circumstances.\u201d",
+                                            "tokenCum": 370,
+                                            "wordSum": 21,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 51,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In section 373 (orders, regulations and rules), in subsection (3), afterparagraph (e) insert\u2014",
+                                    "tokenCum": 397,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(ea)",
+                                            "text": "regulations under section 329(1) which make provision of a kind mentionedin section 329(2)(ha), (i), or (j),",
+                                            "tokenCum": 433,
+                                            "wordSum": 16,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(eb)",
+                                            "text": "regulations under section 329(3A),\u201d.",
+                                            "tokenCum": 446,
+                                            "wordSum": 4,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 33,
+                                    "tokenSum": 84,
+                                    "tokenCount": 28
+                                }
+                            ],
+                            "wordSum": 162,
+                            "tokenSum": 325,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Consequential amendments",
+                            "tokenCum": 452,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Juries Act 1974 is amended in accordance with subsections (2) to (4).",
+                                    "tokenCum": 477,
+                                    "wordSum": 13,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 9(2A) and (2B) (excusal for members of armed forces), for \u201cfull-time serving member of Her Majesty\u2019s naval, military or air forces\u201d substitute\u201cmember of the regular forces\u201d.",
+                                    "tokenCum": 527,
+                                    "wordSum": 28,
+                                    "tokenSum": 52,
+                                    "tokenCount": 52
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 9A(1A), (1C) and (2B)(a) (discretionary deferral for members ofarmed forces), for \u201cfull-time serving member of Her Majesty\u2019s naval, militaryor air forces\u201d substitute \u201cmember of the regular forces\u201d.",
+                                    "tokenCum": 589,
+                                    "wordSum": 29,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In section 23(2) (interpretation), at the end insert\u2014",
+                                    "tokenCum": 607,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201c\u201cregular forces\u201d has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act).\u201d",
+                                            "tokenCum": 642,
+                                            "wordSum": 20,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 58,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In Part 3 of Schedule 1 to the Law Reform (Miscellaneous Provisions)(Scotland) Act 1980 (persons excusable as of right from jury service), inGroup C, for the words from \u201cFull-time\u201d to the end substitute \u201cMembers of theregular forces within the meaning of the Armed Forces Act 2006 (see section374 of that Act).\u201d",
+                                    "tokenCum": 737,
+                                    "wordSum": 51,
+                                    "tokenSum": 97,
+                                    "tokenCount": 97
+                                }
+                            ],
+                            "wordSum": 151,
+                            "tokenSum": 305,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 745,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Armed Forces (Flexible Working) Act 2018.",
+                                    "tokenCum": 769,
+                                    "wordSum": 13,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This section comes into force on the day on which this Act is passed.",
+                                    "tokenCum": 784,
+                                    "wordSum": 14,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Sections 1 and 2 come into force on such day as the Secretary of State mayappoint by regulations.",
+                                    "tokenCum": 809,
+                                    "wordSum": 18,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Regulations under this section\u2014",
+                                    "tokenCum": 815,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "are to be made by statutory instrument, and",
+                                            "tokenCum": 826,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "may make different provision for different purposes.",
+                                            "tokenCum": 834,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 33,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Section 1 and this section extend to\u2014",
+                                    "tokenCum": 843,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "England and Wales, Scotland and Northern Ireland,",
+                                            "tokenCum": 852,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Isle of Man, and",
+                                            "tokenCum": 859,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the British overseas territories, except Gibraltar.",
+                                            "tokenCum": 872,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 49,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The power under section 384(2) of the Armed Forces Act 2006 may beexercised so as to modify sections 329 and 373 of that Act, as amended bysection 1 of this Act, as it extends to the Isle of Man or a British overseasterritory other than Gibraltar.",
+                                    "tokenCum": 951,
+                                    "wordSum": 46,
+                                    "tokenSum": 81,
+                                    "tokenCount": 81
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The power under section 384(1) of the Armed Forces Act 2006 may beexercised so as to extend the amendments made by section 1 of this Act to anyof the Channel Islands (with or without modifications).",
+                                    "tokenCum": 1006,
+                                    "wordSum": 35,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "In section 2\u2014",
+                                    "tokenCum": 1011,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "subsections (1) to (4) extend to England and Wales only, and",
+                                            "tokenCum": 1028,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "subsection (5) extends to Scotland only.",
+                                            "tokenCum": 1038,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 1038,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 6,
+                                            "tokenSum": 17,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 44,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 195,
+                            "tokenSum": 343,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 544,
+                    "tokenSum": 1031,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 575,
+            "tokenSum": 1135,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2018/2/enacted?view=plain",
+    "title": "Armed Forces (Flexible Working) Act 2018",
+    "longtitle": "An Act to make provision for members of the regular forces to serve part-time or subject to geographic restrictions.",
+    "date": "[8th February 2018]",
+    "wordSum": 575,
+    "tokenSum": 1136,
+    "tokenCount": 0,
+    "totalTokens": 1136
+}

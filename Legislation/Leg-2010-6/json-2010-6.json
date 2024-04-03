@@ -1,0 +1,543 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2010/6/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Marriage (Wales) Act 2010",
+                    "tokenCum": 55,
+                    "wordSum": 4,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2010 CHAPTER 6",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to enable persons to be married in a place of worship in a parish inthe Church in Wales with which they have a qualifying connection; and forconnected purposes.",
+                            "tokenCum": 98,
+                            "wordSum": 30,
+                            "tokenSum": 36,
+                            "tokenCount": 36
+                        }
+                    ],
+                    "wordSum": 33,
+                    "tokenSum": 45,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[18th March 2010]",
+                    "tokenCum": 109,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 166,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Application of this Act",
+                            "tokenCum": 170,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act applies only to parishes in the area subject to the Welsh ChurchAct 1914 and accordingly any reference to \u201ca parish\u201d is to a parish withinthat area.",
+                                    "tokenCum": 209,
+                                    "wordSum": 28,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (1), \u201cthe area subject to the Welsh Church Act 1914\u201d meansthe area in which the Church of England was disestablished by that Act.",
+                                    "tokenCum": 250,
+                                    "wordSum": 25,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                }
+                            ],
+                            "wordSum": 57,
+                            "tokenSum": 89,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Marriages solemnized in churches, etc. in parishes with which a party hasa qualifying connection",
+                            "tokenCum": 272,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A person intending to be married shall have the like, but no greater, rightto have the marriage solemnized in a parish church of a parish with which heor she has a connection specified in subsection (3) (in this Act referred toas a \u201cqualifying connection\u201d) as that person has to have the marriagesolemnized in the parish church of the parish in which he or she resides orwhich is his or her usual place of worship.",
+                                    "tokenCum": 369,
+                                    "wordSum": 74,
+                                    "tokenSum": 99,
+                                    "tokenCount": 99
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Where a church or other building is licensed for the solemnisation ofmarriages under section 21(1) of the 1949 Act this section shall apply to suchchurch or other building, while the designation is in force, as it applies toa parish church.",
+                                    "tokenCum": 430,
+                                    "wordSum": 40,
+                                    "tokenSum": 63,
+                                    "tokenCount": 63
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of this section a person has a qualifying connection witha parish in which the marriage is to be solemnized if\u2014",
+                                    "tokenCum": 457,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "that person was baptised in that parish (unless the baptism took place in acombined rite which included baptism and confirmation) or is a person whoseconfirmation has been entered in the register book of confirmation for anychurch or chapel in that parish;",
+                                            "tokenCum": 514,
+                                            "wordSum": 41,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "that person has at any time had his or her usual place of residence in thatparish for a period of not less than six months;",
+                                            "tokenCum": 542,
+                                            "wordSum": 25,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "that person has at any time habitually attended public worship in thatparish for a period of not less than six months;",
+                                            "tokenCum": 567,
+                                            "wordSum": 21,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a parent of that person has during the lifetime of that person had his orher usual place of residence in that parish for a period of not less than sixmonths or habitually attended public worship in that parish for that period;or",
+                                            "tokenCum": 614,
+                                            "wordSum": 41,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "a parent or grandparent of that person has been married in that parish.",
+                                            "tokenCum": 629,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 164,
+                                    "tokenSum": 216,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "For the purpose of subsection (3)(d) or (e) \u201cparent\u201d includes an adoptiveparent and any other person who has undertaken the care and upbringing of theperson seeking to establish a qualifying connection and \u201cgrandparent\u201d shall beconstrued accordingly.",
+                                    "tokenCum": 689,
+                                    "wordSum": 36,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A person who has the right to have a marriage solemnized in accordance withsubsection (1) shall have the like right to have the banns of that marriagepublished in the parish church where the marriage is to be solemnized.",
+                                    "tokenCum": 738,
+                                    "wordSum": 38,
+                                    "tokenSum": 51,
+                                    "tokenCount": 51
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The right to have banns published conferred by subsection (5) is additionalto and not in substitution for the requirements of section 6 of the 1949 Actfor banns to be published in the parish church of the parish where the partiesto the marriage reside or of each parish in which one of them resides.",
+                                    "tokenCum": 810,
+                                    "wordSum": 53,
+                                    "tokenSum": 74,
+                                    "tokenCount": 74
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "Where a marriage is intended to be solemnized in accordance with subsection(1) following the publication of banns by virtue of subsection (5) subsections11(2) and (4) of the 1949 Act shall apply as those subsections apply to amarriage of which the banns have been published in a parish or district inwhich neither of the persons to be married resides by virtue of section 6(4)of the 1949 Act.",
+                                    "tokenCum": 916,
+                                    "wordSum": 66,
+                                    "tokenSum": 108,
+                                    "tokenCount": 108
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "Subject to subsection (9), a person who wishes to have his or her marriagesolemnized in accordance with subsection (1) shall provide such information,written or otherwise, as the minister of the parish in which the marriage isto be solemnized may require in order to satisfy himself or herself that thatperson has a qualifying connection, and\u2014",
+                                    "tokenCum": 992,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 8 of the 1949 Act shall apply as if the reference in that sectionto a clergyman were a reference to the minister; and",
+                                            "tokenCum": 1025,
+                                            "wordSum": 24,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the minister shall be under a duty, when considering whether anyinformation provided to him or her is sufficient to satisfy himself or herselfunder this subsection that the person wishing to have the marriage solemnizedhas a qualifying connection, to have regard to any guidance issued undersection 4.",
+                                            "tokenCum": 1083,
+                                            "wordSum": 46,
+                                            "tokenSum": 61,
+                                            "tokenCount": 61
+                                        }
+                                    ],
+                                    "wordSum": 124,
+                                    "tokenSum": 175,
+                                    "tokenCount": 77
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "If the minister considers that it is necessary to do so, in order tosatisfy himself or herself that a person has a qualifying connection, he orshe may require that person to supply or support any information required tobe provided under subsection (8) by means of a statutory declaration.",
+                                    "tokenCum": 1146,
+                                    "wordSum": 48,
+                                    "tokenSum": 65,
+                                    "tokenCount": 65
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "Where a public chapel is licensed by a bishop for the publication of bannsand the solemnization of marriages under section 20 of the 1949 Act, thissection shall apply as if that chapel were a parish church of the parish or ofany parish the whole or part of which is within the district specified in thelicence.",
+                                    "tokenCum": 1222,
+                                    "wordSum": 55,
+                                    "tokenSum": 78,
+                                    "tokenCount": 78
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1226,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cchurch\u201d does not include a cathedral; ",
+                                            "tokenCum": 1240,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cminister\u201d means\u2014 ",
+                                            "tokenCum": 1248,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "where a special cure of souls has been assigned to any priest for the area inwhich the church where the marriage is to be solemnized is situated, whetherin a Rectorial Benefice or otherwise, that priest; or",
+                                            "tokenCum": 1248,
+                                            "wordSum": 36,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "where paragraph (a) does not apply, the incumbent of the benefice in the areaof which that church is situated; or",
+                                            "tokenCum": 1296,
+                                            "wordSum": 20,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "where neither of the above paragraphs apply, the priest in charge of thatbenefice; or",
+                                            "tokenCum": 1324,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "where none of the above paragraphs apply, in the case of a Rectorial Benefice,the vicar who has held office for the longest period in that Benefice; or",
+                                            "tokenCum": 1344,
+                                            "wordSum": 27,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "where none of the above paragraphs apply, the area dean of the deanery inwhich that church is situated;",
+                                            "tokenCum": 1383,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cparish\u201d includes a conventional district; and ",
+                                                    "tokenCum": 1421,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * any reference to baptism, confirmation, marriage or public worship shall be construed as a reference to baptism, confirmation, marriage or public worship, as the case may be, according to the rites of the Church in Wales. ",
+                                                    "tokenCum": 1473,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 56
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 101,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 172,
+                                    "tokenSum": 282,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(12)",
+                                    "text": "Where a parish has ceased to exist or the boundaries thereof have beenaltered and a person who wishes to have his or her marriage solemnized inaccordance with subsection (1) can establish a qualifying connection with aplace situated within such a parish then, if that place is, at the time whenthe notice under section 8 of the 1949 Act is delivered, situated within theparish in which the church where the marriage is to be solemnized is situated,that person shall be deemed to have a qualifying connection with that parish.",
+                                    "tokenCum": 1591,
+                                    "wordSum": 88,
+                                    "tokenSum": 120,
+                                    "tokenCount": 120
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(13)",
+                                    "text": "In relation to the establishment of a qualifying connection undersubsection (3)(a) by virtue of confirmation the references in subsection (12)to a place shall be construed as a reference to the church or other place ofworship in whose register the confirmation was entered.",
+                                    "tokenCum": 1651,
+                                    "wordSum": 42,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                }
+                            ],
+                            "wordSum": 1014,
+                            "tokenSum": 1478,
+                            "tokenCount": 22
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Marriage by common licence",
+                            "tokenCum": 1657,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Notwithstanding section 15 of the 1949 Act a common licence may be grantedto a person for the solemnization of a marriage in any church or chapel inwhich that person may be married under section 2 of this Act, and section16(1)(b) of the 1949 Act shall, where a common licence may be granted byvirtue of this section, have effect as if it required one of the persons to bemarried to swear that one or both of those persons has a qualifying connectionwith a parish within the meaning of section 2(3) of this Act and to state thenature of that connection and section 2(8) of this Act shall apply as if thereference therein to the minister of the parish were a reference to theauthority having power to grant the licence.",
+                                    "tokenCum": 1836,
+                                    "wordSum": 128,
+                                    "tokenSum": 181,
+                                    "tokenCount": 181
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Where an application has been made for the grant of a common licence undersubsection (1), section 2(12) shall have effect as if the reference to thedate on which the notice required under section 8 of the 1949 Act is deliveredwere a reference to the date of the application for the grant of the commonlicence.",
+                                    "tokenCum": 1911,
+                                    "wordSum": 54,
+                                    "tokenSum": 77,
+                                    "tokenCount": 77
+                                }
+                            ],
+                            "wordSum": 186,
+                            "tokenSum": 265,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Guidance ",
+                            "tokenCum": 1915,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The Order of Bishops may from time to time issue guidance as to the exerciseof any functions by a minister under section 2(8) or (9) or by the authorityhaving power to grant a common licence under section 2(8) as applied bysection 3.",
+                                    "tokenCum": 1976,
+                                    "wordSum": 42,
+                                    "tokenSum": 63,
+                                    "tokenCount": 63
+                                }
+                            ],
+                            "wordSum": 43,
+                            "tokenSum": 68,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Supplementary ",
+                            "tokenCum": 1980,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act \u201cthe 1949 Act\u201d means the [Marriage Act 1949 (c.76)](/id/ukpga/1949/76?view=plain \"Go to item of legislation\") and, unless thecontext otherwise requires, expressions used in this Act have the same meaningas in the 1949 Act.",
+                                    "tokenCum": 2062,
+                                    "wordSum": 35,
+                                    "tokenSum": 84,
+                                    "tokenCount": 84
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Where a marriage has been solemnized\u2014",
+                                    "tokenCum": 2070,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in accordance with section 2(1), or",
+                                            "tokenCum": 2081,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "on the authority of a common licence granted by virtue of section 3,",
+                                            "tokenCum": 2097,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "it shall not be necessary in support of the marriage to give any proof thateither party had a qualifying connection with the parish in which the marriagewas solemnized and no evidence shall be given to prove the contrary in anyproceedings touching the validity of the marriage.",
+                                                    "tokenCum": 2154,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 80,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 71,
+                                    "tokenSum": 104,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 107,
+                            "tokenSum": 193,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Citation, commencement and extent",
+                            "tokenCum": 2162,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Marriage (Wales) Act 2010.",
+                                    "tokenCum": 2183,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act shall come into force on the day on which this Act is passed.",
+                                    "tokenCum": 2199,
+                                    "wordSum": 15,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 2208,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 2208,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 14,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 38,
+                            "tokenSum": 64,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 1481,
+                    "tokenSum": 2215,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1522,
+            "tokenSum": 2329,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2010/6/enacted?view=plain",
+    "title": "Marriage (Wales) Act 2010",
+    "longtitle": "An Act to enable persons to be married in a place of worship in a parish in the Church in Wales with which they have a qualifying connection; and for connected purposes.",
+    "date": "[18th March 2010]",
+    "wordSum": 1522,
+    "tokenSum": 2330,
+    "tokenCount": 0,
+    "totalTokens": 2330
+}

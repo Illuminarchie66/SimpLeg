@@ -1,0 +1,1999 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2003/22/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Fireworks Act 2003",
+                    "tokenCum": 52,
+                    "wordSum": 3,
+                    "tokenSum": 9,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2003 CHAPTER 22",
+                    "tokenCum": 61,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about fireworks and other explosives.",
+                            "tokenCum": 74,
+                            "wordSum": 10,
+                            "tokenSum": 14,
+                            "tokenCount": 14
+                        }
+                    ],
+                    "wordSum": 13,
+                    "tokenSum": 24,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[18th September 2003]",
+                    "tokenCum": 85,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 142,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Introductory",
+                            "tokenCum": 146,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Introduction ",
+                                    "tokenCum": 148,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act \u201cfireworks\u201d means devices which\u2014",
+                                            "tokenCum": 159,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "are fireworks for the purposes of the British Standard Specificationrelating to fireworks published on 30th November 1988 (BS 7114) or any BritishStandard Specification replacing it, or",
+                                                    "tokenCum": 206,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "would be fireworks for those purposes if they were intended as a form ofentertainment.",
+                                                    "tokenCum": 225,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 88,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by regulations substitute a new definition of\u201cfireworks\u201d for the definition in subsection (1).",
+                                            "tokenCum": 251,
+                                            "wordSum": 18,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "References in this Act to supplying fireworks include\u2014",
+                                            "tokenCum": 262,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "selling them,",
+                                                    "tokenCum": 266,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "exchanging them for any consideration other than money, and",
+                                                    "tokenCum": 278,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "giving them as a prize or otherwise making a gift of them,",
+                                                    "tokenCum": 291,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "but do not include supplying them otherwise than in the course of a business.",
+                                                            "tokenCum": 307,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 26,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 76,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 111,
+                                    "tokenSum": 197,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 112,
+                            "tokenSum": 202,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Fireworks regulations",
+                            "tokenCum": 311,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Power to make regulations about fireworks",
+                                    "tokenCum": 319,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations (\u201cfireworks regulations\u201d) makeany provision which the Secretary of State considers appropriate\u2014",
+                                            "tokenCum": 347,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for securing that there is no risk that use of fireworks will have theconsequences specified in subsection (2), or",
+                                                    "tokenCum": 375,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for securing that the risk that the use of fireworks will have thoseconsequences is the minimum that is compatible with their being used.",
+                                                    "tokenCum": 405,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 97,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The consequences are\u2014",
+                                            "tokenCum": 409,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "death of persons or injury, alarm, distress or anxiety to persons,",
+                                                    "tokenCum": 425,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "death of animals or injury or distress to animals, and",
+                                                    "tokenCum": 437,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "destruction of, or damage to, property.",
+                                                    "tokenCum": 446,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 56,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Before making fireworks regulations the Secretary of State must consult\u2014",
+                                            "tokenCum": 459,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Health and Safety Commission,",
+                                                    "tokenCum": 466,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "organisations which appear to the Secretary of State to be representativeof interests substantially affected by the proposal, and",
+                                                    "tokenCum": 488,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "other persons whom the Secretary of State considers it appropriate toconsult.",
+                                                    "tokenCum": 503,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 72,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Before making fireworks regulations the Secretary of State must issue afull regulatory impact assessment setting out details of the costs andbenefits and the wider economic, social and environmental impact of theproposed regulations.",
+                                            "tokenCum": 548,
+                                            "wordSum": 32,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "But subsection (3) does not apply if the regulations are to\u2014",
+                                            "tokenCum": 564,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "cease to have effect at the end of the period of not more than twelvemonths beginning with the day on which they come into force, and",
+                                                    "tokenCum": 597,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "contain a statement that it appears to the Secretary of State that the needto protect the public requires that the regulations should be made withoutdelay.",
+                                                    "tokenCum": 626,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 89,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The power to make fireworks regulations includes power\u2014",
+                                            "tokenCum": 637,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to make different provision for different cases, and",
+                                                    "tokenCum": 646,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to make any incidental, supplementary, consequential and transitionalprovision which the Secretary of State considers appropriate.",
+                                                    "tokenCum": 672,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 57,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Section 18 of the Consumer Protection Act [1987 (c.43)](/id/ukpga/1987/43?view=plain \"Go to item of legislation\") (power torequire information for deciding whether to make, vary or revoke regulationsunder section 11 of that Act) applies in relation to fireworks regulations asin relation to regulations under section 11 of that Act.",
+                                            "tokenCum": 771,
+                                            "wordSum": 47,
+                                            "tokenSum": 102,
+                                            "tokenCount": 102
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Nothing in this Act shall be construed as in any way limiting the provisionthat may be made in regulations under section 11 of the Consumer ProtectionAct 1987.",
+                                            "tokenCum": 812,
+                                            "wordSum": 27,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 339,
+                                    "tokenSum": 575,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Prohibition of supply etc. to young persons",
+                                    "tokenCum": 822,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons from\u2014",
+                                            "tokenCum": 834,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "supplying, or",
+                                                    "tokenCum": 838,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "offering or agreeing to supply,",
+                                                    "tokenCum": 845,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "fireworks, or fireworks of a description specified in the regulations, topersons who are below an age so specified.",
+                                                            "tokenCum": 871,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 23,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 65,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Fireworks regulations may include provision prohibiting the purchase orpossession of fireworks, or fireworks of a description specified in theregulations, by persons who are below an age so specified.",
+                                            "tokenCum": 911,
+                                            "wordSum": 28,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 931,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 938,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 952,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 95,
+                                    "tokenSum": 172,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Prohibition of supply etc. in certain circumstances",
+                                    "tokenCum": 962,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons fromsupplying, purchasing, possessing or using fireworks, or fireworks of adescription specified in the regulations, during hours of the day sospecified.",
+                                            "tokenCum": 1009,
+                                            "wordSum": 27,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons fromsupplying, exposing for supply, purchasing, possessing or using fireworks, orfireworks of a description specified in the regulations\u2014",
+                                            "tokenCum": 1050,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in places or places of a description, or",
+                                                    "tokenCum": 1059,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in circumstances,",
+                                                    "tokenCum": 1062,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "specified in the regulations.",
+                                                            "tokenCum": 1068,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        }
+                                                    ],
+                                                    "wordSum": 6,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 6
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 75,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 1088,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 1095,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 1109,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 99,
+                                    "tokenSum": 189,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Prohibition of supply etc. of certain fireworks",
+                                    "tokenCum": 1120,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision\u2014",
+                                            "tokenCum": 1128,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "prohibiting persons from supplying, or offering or agreeing to supply,fireworks of a description specified in the regulations, or",
+                                                    "tokenCum": 1155,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "prohibiting persons from supplying, or offering or agreeing to supply,fireworks of a description specified in the regulations to persons of adescription so specified.",
+                                                    "tokenCum": 1189,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 80,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Fireworks regulations may include provision\u2014",
+                                            "tokenCum": 1197,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "prohibiting the purchase or possession of fireworks of a descriptionspecified in the regulations, or",
+                                                    "tokenCum": 1218,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "prohibiting the purchase or possession of fireworks of a descriptionspecified in the regulations by persons of a description so specified.",
+                                                    "tokenCum": 1245,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 67,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsections (1) and (2) shall not apply to class I and class II fireworks.",
+                                            "tokenCum": 1266,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The descriptions of persons which may be specified in fireworks regulationsby virtue of subsection (1) or (2) include in particular persons who do notsatisfy any conditions which are specified in the regulations and relate toany of the matters mentioned in subsection (5).",
+                                            "tokenCum": 1325,
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Those matters are\u2014",
+                                            "tokenCum": 1329,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the satisfactory completion of a course, or courses, of training relatingto fireworks and the means of proving the satisfactory completion of such acourse or courses,",
+                                                    "tokenCum": 1364,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "proficiency or experience in the use of fireworks and the means of provingsuch proficiency or experience, and",
+                                                    "tokenCum": 1389,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the possession of insurance cover against liability arising from the use offireworks and the means of proving possession of such cover.",
+                                                    "tokenCum": 1417,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 107,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 1437,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 1444,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 1458,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 241,
+                                    "tokenSum": 405,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Public fireworks displays",
+                                    "tokenCum": 1462,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons fromoperating a public fireworks display unless\u2014",
+                                            "tokenCum": 1482,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "notice of the display has been given in accordance with the regulations toany local or other authority to which the regulations require it to be given,",
+                                                    "tokenCum": 1513,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other information relating to the display which is required by theregulations to be given to any local or other authority has been so given,",
+                                                    "tokenCum": 1542,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any fee imposed by any local or other authority in accordance with theregulations has been paid, and",
+                                                    "tokenCum": 1564,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "such other conditions relating to the holding of public fireworks displaysas are specified in the regulations have been complied with.",
+                                                    "tokenCum": 1590,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 101,
+                                            "tokenSum": 147,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons fromoperating public fireworks displays unless they satisfy\u2014",
+                                            "tokenCum": 1611,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any conditions which are specified in the regulations and relate to thesatisfactory completion of a course, or courses, of training relating tofireworks and to the means of proving the satisfactory completion of such acourse or courses, or",
+                                                    "tokenCum": 1661,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other conditions which are so specified.",
+                                                    "tokenCum": 1669,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 90,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons fromoperating, or assisting in the operation of, public fireworks displays if theyare below an age specified in the regulations.",
+                                            "tokenCum": 1707,
+                                            "wordSum": 26,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 1727,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 1734,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 1748,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cpublic fireworks display\u201d means a fireworks display atwhich the public, or any section of the public, are present (whether or notthey have paid to be).",
+                                            "tokenCum": 1787,
+                                            "wordSum": 28,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 243,
+                                    "tokenSum": 378,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Licensing of suppliers",
+                                    "tokenCum": 1793,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons, or personsof a description specified in the regulations, from supplying, exposing forsupply or possessing for supply fireworks, or fireworks of a description sospecified, unless\u2014",
+                                            "tokenCum": 1846,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "they are licensed in accordance with the regulations, and",
+                                                    "tokenCum": 1859,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the fireworks are supplied, exposed for supply or kept at premises whichare so licensed.",
+                                                    "tokenCum": 1879,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 97,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of subsection(1), they may contain provision\u2014",
+                                            "tokenCum": 1902,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "specifying the local or other authority by which a licence relating to anyperson or premises may be granted, varied and revoked,",
+                                                    "tokenCum": 1930,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "relating to the grant, variation and revocation of licences,",
+                                                    "tokenCum": 1944,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "about conditions which may be attached to licences (including, inparticular, conditions as to the time of year for which persons or premisesare licensed),",
+                                                    "tokenCum": 1977,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "for the charging of fees for the grant or variation of licences, and",
+                                                    "tokenCum": 1994,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "about appeals against refusals to grant or vary, or variations of,licences.",
+                                                    "tokenCum": 2013,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 157,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The provision that may be contained in fireworks regulations by virtue ofsubsection (1) includes, in particular, provision that a person may not belicensed unless any conditions which are specified in the regulations aresatisfied by the person or his employees (or both).",
+                                            "tokenCum": 2069,
+                                            "wordSum": 41,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Those conditions may include conditions relating to the satisfactorycompletion of a course, or courses, of training about fireworks and the meansof proving the satisfactory completion of such course or courses.",
+                                            "tokenCum": 2110,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 2130,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 2137,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 2151,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 246,
+                                    "tokenSum": 417,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Information about fireworks",
+                                    "tokenCum": 2155,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision for securing that\u2014",
+                                            "tokenCum": 2168,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appropriate information is, and",
+                                                    "tokenCum": 2173,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "inappropriate information is not,",
+                                                    "tokenCum": 2181,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "given in relation to fireworks, or fireworks of a description specified in theregulations.",
+                                                            "tokenCum": 2200,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 17,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 61,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The provision that may be contained in fireworks regulations by virtue ofsubsection (1) includes, in particular, provision\u2014",
+                                            "tokenCum": 2225,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "requiring that a mark, warning or instruction relating to the fireworks beput on or accompany the fireworks, or",
+                                                    "tokenCum": 2250,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "requiring that information specified in the regulations be given to anyperson so specified.",
+                                                    "tokenCum": 2266,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 77,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If fireworks regulations impose any requirement by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 2285,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the requirement, or",
+                                                    "tokenCum": 2291,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the requirement.",
+                                                    "tokenCum": 2304,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 49,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If fireworks regulations impose any requirement by virtue of this section,they may contain provision requiring the keeping of records by any person towhom information is given under the regulations.",
+                                            "tokenCum": 2342,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 136,
+                                    "tokenSum": 234,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Prohibition of importation etc. of fireworks",
+                                    "tokenCum": 2353,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Fireworks regulations may include provision prohibiting persons from\u2014",
+                                            "tokenCum": 2365,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "importing, ",
+                                                    "tokenCum": 2368,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "completing the manufacture of, or",
+                                                    "tokenCum": 2376,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "placing on the market,",
+                                                    "tokenCum": 2381,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "fireworks, or fireworks of a description specified in the regulations, unlessthey have complied with any requirement imposed by the regulations for thegiving of information.",
+                                                            "tokenCum": 2420,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 87,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of subsection(1)(b) or (c), they shall specify the circumstances in which\u2014",
+                                            "tokenCum": 2452,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "(if the prohibition is imposed by virtue of subsection (1)(b)) a personcompletes the manufacture of fireworks, or",
+                                                    "tokenCum": 2482,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "(if the prohibition is imposed by virtue of subsection (1)(c)) a personplaces fireworks on the market.",
+                                                    "tokenCum": 2510,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 101,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain\u2014",
+                                            "tokenCum": 2530,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exceptions from the prohibition, or",
+                                                    "tokenCum": 2537,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision for the granting of dispensations from the prohibition.",
+                                                    "tokenCum": 2551,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 52,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If fireworks regulations impose any prohibition by virtue of this section,they may contain provision requiring the keeping of records by any person towhom information is given under the regulations.",
+                                            "tokenCum": 2590,
+                                            "wordSum": 29,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 156,
+                                    "tokenSum": 295,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Training courses",
+                                    "tokenCum": 2592,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If fireworks regulations specify conditions relating to the satisfactorycompletion of a course, or courses, of training about fireworks, they may makeprovision for courses to be provided by\u2014",
+                                            "tokenCum": 2632,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Secretary of State,",
+                                                    "tokenCum": 2637,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a body or bodies established or recognised by the Secretary of State, or",
+                                                    "tokenCum": 2652,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "licensed persons.",
+                                                    "tokenCum": 2656,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 79,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If fireworks regulations make provision for courses to be provided bylicensed persons, they may\u2014",
+                                            "tokenCum": 2676,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision for the licensing of persons by the Secretary of State or byany body or bodies established or recognised by the Secretary of State,",
+                                                    "tokenCum": 2706,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "authorise the making by the Secretary of State of provision about thecharging of fees for the grant or variation of licences, and",
+                                                    "tokenCum": 2734,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "authorise the making by the Secretary of State, or by any such body orbodies, of provision about any of the matters mentioned in subsection (3).",
+                                                    "tokenCum": 2767,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 86,
+                                            "tokenSum": 126,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Those matters are\u2014",
+                                            "tokenCum": 2771,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the grant, variation and revocation of licences,",
+                                                    "tokenCum": 2782,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "conditions which may be attached to licences, and",
+                                                    "tokenCum": 2792,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "appeals against refusals to grant or vary, or variations of, licences.",
+                                                    "tokenCum": 2810,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 58,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Fireworks regulations may authorise\u2014",
+                                            "tokenCum": 2818,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the making by the Secretary of State of provision about the charging offees for attendance at courses of training about fireworks, and",
+                                                    "tokenCum": 2845,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the making by the Secretary of State, or by any body or bodies establishedor recognised by the Secretary of State under this section, of provision aboutany of the matters mentioned in subsection (5).",
+                                                    "tokenCum": 2886,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 87,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Those matters are\u2014",
+                                            "tokenCum": 2890,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the descriptions of persons who are to be eligible to attend courses oftraining about fireworks,",
+                                                    "tokenCum": 2911,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the subject matter to be covered by courses and the conduct of courses,",
+                                                    "tokenCum": 2925,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the criteria to be applied in determining whether persons havesatisfactorily completed courses,",
+                                                    "tokenCum": 2943,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the form and content of certificates to be awarded to persons who havesatisfactorily completed courses,",
+                                                    "tokenCum": 2964,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "appeals against refusals to award certificates to persons who have attendedcourses, and",
+                                                    "tokenCum": 2983,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "the keeping of records about persons who have attended courses.",
+                                                    "tokenCum": 2994,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 135,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 302,
+                                    "tokenSum": 489,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 1859,
+                            "tokenSum": 3159,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary",
+                            "tokenCum": 2997,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Offences ",
+                                    "tokenCum": 3000,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Any person who contravenes a prohibition imposed by fireworks regulationsis guilty of an offence.",
+                                            "tokenCum": 3023,
+                                            "wordSum": 14,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any person who fails to comply with a requirement imposed by or underfireworks regulations to give or not to give information is guilty of anoffence.",
+                                            "tokenCum": 3056,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where a requirement to give information is imposed by or under fireworksregulations, a person is guilty of an offence if, in giving the information,he\u2014",
+                                            "tokenCum": 3090,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "makes a statement which he knows is false in a material particular, or",
+                                                    "tokenCum": 3104,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "recklessly makes a statement which is false in a material particular.",
+                                                    "tokenCum": 3117,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 72,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person guilty of an offence under this section is liable on summaryconviction to\u2014",
+                                            "tokenCum": 3136,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "imprisonment for a term not exceeding six months, or",
+                                                    "tokenCum": 3148,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a fine not exceeding level 5 on the standard scale,",
+                                                    "tokenCum": 3161,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "or to both.",
+                                                            "tokenCum": 3165,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 9,
+                                                            "tokenCount": 9
+                                                        }
+                                                    ],
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 64,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Fireworks regulations may not provide for any contravention of theregulations to be an offence.",
+                                            "tokenCum": 3186,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Paragraphs (c), (e) and (f) of section 11(3) of the Consumer Protection Act[1987 (c. 43)](/id/ukpga/1987/43?view=plain \"Go to item of legislation\")(provision about offences which may be included in regulations) apply inrelation to fireworks regulations as to regulations under section 11 of thatAct, but as if references to an offence under section 12 of that Act werereferences to an offence under this section.",
+                                            "tokenCum": 3314,
+                                            "wordSum": 61,
+                                            "tokenSum": 131,
+                                            "tokenCount": 131
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Section 39 of that Act (defence of due diligence) applies to offences undersubsections (1) and (2) of this section; and section 40(1) of that Act(liability of persons other than the principal offender) has effectaccordingly.",
+                                            "tokenCum": 3377,
+                                            "wordSum": 34,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In proceedings against any person for an offence of contravening aprohibition imposed by fireworks regulations made by virtue of section 3(1) itis a defence for that person to show that he had no reason to suspect that theperson to whom he supplied, offered to supply or agreed to supply thefireworks was below the age specified in the regulations.",
+                                            "tokenCum": 3455,
+                                            "wordSum": 58,
+                                            "tokenSum": 81,
+                                            "tokenCount": 81
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Section 40(2) and (3) of the Consumer Protection Act [1987 (c.43)](/id/ukpga/1987/43?view=plain \"Go to item of legislation\") (offences bybodies corporate) applies to an offence under this section as to an offenceunder that Act.",
+                                            "tokenCum": 3537,
+                                            "wordSum": 32,
+                                            "tokenSum": 85,
+                                            "tokenCount": 85
+                                        }
+                                    ],
+                                    "wordSum": 323,
+                                    "tokenSum": 590,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Enforcement ",
+                                    "tokenCum": 3541,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 27 of the Consumer Protection Act 1987 (enforcement authorities),apart from subsection (1)(b), applies in relation to fireworks regulations asto regulations under section 11 of that Act.",
+                                            "tokenCum": 3594,
+                                            "wordSum": 27,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The following provisions of that Act\u2014",
+                                            "tokenCum": 3602,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 28(1)(a) and (2) to (4) (test purchases), apart from the referencesto forfeiture and suspension notices,",
+                                                    "tokenCum": 3639,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 29(1) to (5), (6)(a) and (7) and section 30(1) to (9) (powers ofsearch etc.), apart from the references to forfeiture and suspension notices,",
+                                                    "tokenCum": 3692,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 32 (obstruction of officer),",
+                                                    "tokenCum": 3703,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "section 33 (appeals against detention), apart from subsections (2)(a)(ii)and (3)(a)(ii),",
+                                                    "tokenCum": 3733,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "section 34 (compensation for seizure and detention),",
+                                                    "tokenCum": 3749,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "section 35 (recovery of enforcement expenses), apart from subsections(1)(b) and (2)(b),",
+                                                    "tokenCum": 3777,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "section 37 (disclosure of information by Customs and Excise),",
+                                                    "tokenCum": 3794,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "section 41 (civil proceedings), and",
+                                                    "tokenCum": 3805,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "section 44 (service of documents),",
+                                                    "tokenCum": 3814,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "apply in relation to fireworks regulations as to regulations under section 11of that Act.",
+                                                            "tokenCum": 3835,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 19,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 112,
+                                            "tokenSum": 285,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In Schedules 14 and 15 to the Enterprise Act [2002 (c.40)](/id/ukpga/2002/40?view=plain \"Go to item of legislation\") (disclosure ofinformation), insert at the appropriate place\u2014",
+                                            "tokenCum": 3900,
+                                            "wordSum": 23,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201cFireworks Act 2003.\u201d.",
+                                            "tokenCum": 3911,
+                                            "wordSum": 3,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 166,
+                                    "tokenSum": 429,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Savings for certain privileges",
+                                    "tokenCum": 3916,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 47 of the Consumer Protection Act 1987 (savings for privileges)applies in relation to this Act.",
+                                            "tokenCum": 3947,
+                                            "wordSum": 16,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 41,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Prohibition of supply etc. of other explosives",
+                                    "tokenCum": 3958,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The power to make regulations under section 3 or 4(2) applies to explosivesother than fireworks as to fireworks; and regulations made by virtue of thissubsection are fireworks regulations for all the purposes of this Act.",
+                                            "tokenCum": 4009,
+                                            "wordSum": 35,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201cexplosives\u201d has the same meaning as in the ExplosivesAct [1875 (c. 17)](/id/ukpga/1875/17?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 4070,
+                                            "wordSum": 20,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Secretary of State may by regulations substitute a new definition of\u201cexplosives\u201d for the definition in subsection (2).",
+                                            "tokenCum": 4097,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 80,
+                                    "tokenSum": 161,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Repeals and revocation",
+                                    "tokenCum": 4103,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Schedule (repeals and revocation) has effect.",
+                                            "tokenCum": 4117,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 25,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Parliamentary procedure for regulations",
+                                    "tokenCum": 4123,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Any power to make regulations under this Act is exercisable by statutoryinstrument.",
+                                            "tokenCum": 4143,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under section 1(2) or 14(3) must not be made unless a draft ofthe statutory instrument containing them has been laid before Parliament andapproved by a resolution of each House.",
+                                            "tokenCum": 4189,
+                                            "wordSum": 30,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A statutory instrument containing fireworks regulations is subject toannulment in pursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 4218,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 112,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Financial provisions",
+                                    "tokenCum": 4223,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There is to be paid out of money provided by Parliament\u2014",
+                                            "tokenCum": 4235,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any expenses incurred by the Secretary of State in consequence of anyprovision of this Act, and",
+                                                    "tokenCum": 4257,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any increase attributable to this Act in the sums payable out of money soprovided under any other Act.",
+                                                    "tokenCum": 4281,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 69,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any sums received by the Secretary of State by virtue of this Act are to bepaid into the Consolidated Fund.",
+                                            "tokenCum": 4306,
+                                            "wordSum": 20,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 67,
+                                    "tokenSum": 104,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Commencement ",
+                                    "tokenCum": 4310,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1 to 16 (and the Schedule) do not come into force until a dayappointed by order made by the Secretary of State by statutory instrument; anddifferent days may be appointed for different purposes.",
+                                            "tokenCum": 4360,
+                                            "wordSum": 34,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by order made by statutory instrument make suchtransitional provision in connection with the coming into force of anyprovision of this Act as the Secretary of State considers appropriate.",
+                                            "tokenCum": 4401,
+                                            "wordSum": 33,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 68,
+                                    "tokenSum": 103,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Short title and extent",
+                                    "tokenCum": 4405,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the Fireworks Act 2003.",
+                                            "tokenCum": 4422,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act does not extend to Northern Ireland.",
+                                            "tokenCum": 4431,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Section 15",
+                                                    "tokenCum": 4435,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 46,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 824,
+                            "tokenSum": 1615,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 2831,
+                    "tokenSum": 5034,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2851,
+            "tokenSum": 5124,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2003/22/enacted?view=plain",
+    "title": "Fireworks Act 2003",
+    "longtitle": "An Act to make provision about fireworks and other explosives.",
+    "date": "[18th September 2003]",
+    "wordSum": 2851,
+    "tokenSum": 5125,
+    "tokenCount": 0,
+    "totalTokens": 5125
+}

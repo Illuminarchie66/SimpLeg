@@ -1,0 +1,485 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2005/1/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Electoral Registration (Northern Ireland) Act 2005",
+                    "tokenCum": 59,
+                    "wordSum": 6,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2005 CHAPTER 1",
+                    "tokenCum": 67,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the registration of electors in NorthernIreland in cases where required information is not provided.",
+                            "tokenCum": 91,
+                            "wordSum": 20,
+                            "tokenSum": 25,
+                            "tokenCount": 25
+                        }
+                    ],
+                    "wordSum": 23,
+                    "tokenSum": 34,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[24th February 2005]",
+                    "tokenCum": 102,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 159,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Restoration to electoral register of names previously removed",
+                            "tokenCum": 169,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Where\u2014 ",
+                                    "tokenCum": 172,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "on 15th October 2004 a person (\u201cthe former elector\u201d) was for the time beingregistered in the register in respect of any address in Northern Ireland,",
+                                            "tokenCum": 212,
+                                            "wordSum": 25,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "on the conclusion of the canvass conducted in Northern Ireland undersection 10 of the 1983 Act (maintenance of registers: annual canvass) byreference to residence on that day, the name of the former elector was removedfrom the register in respect of that address\u2014",
+                                            "tokenCum": 275,
+                                            "wordSum": 42,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "by virtue of section 10A(5)(a) of that Act, merely because the formmentioned in section 10(4) of that Act was not returned in respect of thataddress, or",
+                                            "tokenCum": 319,
+                                            "wordSum": 26,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "by virtue of section 10A(5A) of that Act, and",
+                                            "tokenCum": 336,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the Chief Electoral Officer has no information which suggests that theformer elector has ceased to be resident at that address or has otherwiseceased to satisfy the conditions for registration set out in section 4 of the1983 Act,",
+                                            "tokenCum": 384,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the Chief Electoral Officer may enter the name of the former elector in theregister in respect of that address.",
+                                                    "tokenCum": 408,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 79,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 159,
+                                    "tokenSum": 260,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The power conferred by subsection (1) may only be exercised\u2014",
+                                    "tokenCum": 424,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "before 1st April 2005, or",
+                                            "tokenCum": 436,
+                                            "wordSum": 5,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "by including the appropriate alteration in any revised version of theregister published under section 13(3) of the 1983 Act on that day;",
+                                            "tokenCum": 472,
+                                            "wordSum": 22,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "and (in either case) the appropriate alteration shall have effect as from thebeginning of that day.",
+                                            "tokenCum": 494,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 97,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Nothing in section 13A of the 1983 Act (alteration of registers) applies inrelation to an alteration taking effect under this section.",
+                                    "tokenCum": 528,
+                                    "wordSum": 21,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Where by virtue of subsection (1) the Chief Electoral Officer enters thename of a person in the register in respect of any address\u2014",
+                                    "tokenCum": 557,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the information supplied by that person pursuant to section 10(4A), 10A(1A)or 13A(2A) of the 1983 Act in connection with his previous registration is tobe taken also to have been supplied by him in connection with his registrationby virtue of this section, and",
+                                            "tokenCum": 629,
+                                            "wordSum": 42,
+                                            "tokenSum": 75,
+                                            "tokenCount": 75
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any request duly made by that person in connection with his previousregistration to be excluded from the version of the register published underregulation 88 of the Representation of the People (Northern Ireland)Regulations 2001 ([S.I. 2001/400](/id/uksi/2001/400?view=plain \"Go to item oflegislation\")) (edited version of register) is to be taken also to have beenmade by him in connection with his registration by virtue of this section.",
+                                            "tokenCum": 751,
+                                            "wordSum": 63,
+                                            "tokenSum": 125,
+                                            "tokenCount": 125
+                                        }
+                                    ],
+                                    "wordSum": 128,
+                                    "tokenSum": 231,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 755,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe Chief Electoral Officer\u201d means the Chief Electoral Officer for Northern Ireland; ",
+                                            "tokenCum": 775,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe register\u201d means\u2014 ",
+                                            "tokenCum": 784,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the register of parliamentary electors maintained by the Chief ElectoralOfficer under section 9 of the 1983 Act, or",
+                                            "tokenCum": 784,
+                                            "wordSum": 18,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the register of local electors maintained by him under that section as appliedby Schedule 1 to the Elected Authorities (Northern Ireland) Act [1989 (c.3)](/id/ukpga/1989/3?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 814,
+                                            "wordSum": 29,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        }
+                                    ],
+                                    "wordSum": 67,
+                                    "tokenSum": 144,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 436,
+                            "tokenSum": 779,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Temporary modifications of s. 10A of Representation of the People Act 1983",
+                            "tokenCum": 904,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "So long as this section remains in force, section 10A of the 1983 Act(maintenance of the registers: register of electors) is modified as follows.",
+                                    "tokenCum": 944,
+                                    "wordSum": 24,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "At the beginning of subsection (5A) insert \u201cSubject to subsection (7B),\u201d.",
+                                    "tokenCum": 965,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For subsection (7) substitute\u2014",
+                                    "tokenCum": 973,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(7)",
+                                    "text": "Subsection (6) has effect subject to subsection (7B), and does not applyif, or to the extent that, regulations so provide in relation to anyprescribed circumstances.\u201d",
+                                    "tokenCum": 1012,
+                                    "wordSum": 25,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (7) insert\u2014",
+                                    "tokenCum": 1020,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(7A)Subsection (7B) applies in the case of a person who is registered in theregister in respect of any address, other than a person who is registered byvirtue of section 1 of the Electoral Registration (Northern Ireland) Act 2005or a person whose entry is retained in the register by virtue of the previousapplication of subsection (7B), where on conclusion of a canvass under section10\u2014",
+                                            "tokenCum": 1119,
+                                            "wordSum": 63,
+                                            "tokenSum": 102,
+                                            "tokenCount": 102
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Chief Electoral Officer for Northern Ireland is unable to satisfyhimself that the person was, on the 15th October in question, resident at thataddress because\u2014",
+                                            "tokenCum": 1154,
+                                            "wordSum": 25,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the form mentioned in section 10(4) was not returned in respect of thataddress, or",
+                                            "tokenCum": 1175,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "for any other reason, insufficient information was obtained as to whetherthat person was resident at that address on that date, or",
+                                            "tokenCum": 1201,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the circumstances fall within paragraph (a) or (b) of subsection (5A).",
+                                            "tokenCum": 1220,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(7B)If the Chief Electoral Officer for Northern Ireland has no informationwhich suggests that the person concerned is no longer resident at the addresson the 15th October in question, subsections (5)(a) and (5A) do not preventthe Chief Electoral Officer from retaining the entry of that person in theregister until the publication of a revised version of the register undersection 13(1) in the year next following that in which the canvass referred toin subsection (7A) was conducted.\u201d",
+                                            "tokenCum": 1334,
+                                            "wordSum": 75,
+                                            "tokenSum": 117,
+                                            "tokenCount": 117
+                                        }
+                                    ],
+                                    "wordSum": 213,
+                                    "tokenSum": 342,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (8), for \u201csubsection (5), (5A) or (6)\u201d substitute\u201csubsections (5) to (7B)\u201d.",
+                                    "tokenCum": 1368,
+                                    "wordSum": 13,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                }
+                            ],
+                            "wordSum": 302,
+                            "tokenSum": 518,
+                            "tokenCount": 23
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Duration of Act",
+                            "tokenCum": 1372,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Subject to subsection (2), this Act shall cease to be in force at the endof the period of 12 months beginning with the day on which it is passed.",
+                                    "tokenCum": 1410,
+                                    "wordSum": 29,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Secretary of State may, on one occasion only, by order made bystatutory instrument provide for the provisions of this Act, apart fromsection 1, to continue in force for a period ending not more than 12 monthsafter the end of the period specified in subsection (1).",
+                                    "tokenCum": 1473,
+                                    "wordSum": 46,
+                                    "tokenSum": 65,
+                                    "tokenCount": 65
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "No order under subsection (2) may be made unless a draft of the statutoryinstrument containing the order has been laid before and approved by aresolution of each House of Parliament.",
+                                    "tokenCum": 1514,
+                                    "wordSum": 30,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                }
+                            ],
+                            "wordSum": 108,
+                            "tokenSum": 153,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Interpretation, short title and extent",
+                            "tokenCum": 1522,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act \u201cthe 1983 Act\u201d means the Representation of the People Act [1983(c. 2)](/id/ukpga/1983/2?view=plain \"Go to item of legislation\").",
+                                    "tokenCum": 1578,
+                                    "wordSum": 20,
+                                    "tokenSum": 58,
+                                    "tokenCount": 58
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act may be cited as the Electoral Registration (Northern Ireland) Act2005.",
+                                    "tokenCum": 1602,
+                                    "wordSum": 12,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to Northern Ireland only.",
+                                    "tokenCum": 1610,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1610,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 7,
+                                    "tokenSum": 13,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 44,
+                            "tokenSum": 106,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 926,
+                    "tokenSum": 1614,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 959,
+            "tokenSum": 1721,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2005/1/enacted?view=plain",
+    "title": "Electoral Registration (Northern Ireland) Act 2005",
+    "longtitle": "An Act to make provision about the registration of electors in Northern Ireland in cases where required information is not provided.",
+    "date": "[24th February 2005]",
+    "wordSum": 959,
+    "tokenSum": 1722,
+    "tokenCount": 0,
+    "totalTokens": 1722
+}

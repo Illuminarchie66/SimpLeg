@@ -1,0 +1,277 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/29/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act2021",
+                    "tokenCum": 69,
+                    "wordSum": 11,
+                    "tokenSum": 26,
+                    "tokenCount": 25
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 29",
+                    "tokenCum": 78,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to provide for the payment out of money provided by Parliament ofexpenditure incurred by the Treasury for, or in connection with, the paymentof compensation to customers of London Capital & Finance plc; provide for themaking of loans to the Board of the Pension Protection Fund for the purposesof its fraud compensation functions; and for connected purposes.",
+                            "tokenCum": 159,
+                            "wordSum": 58,
+                            "tokenSum": 82,
+                            "tokenCount": 82
+                        }
+                    ],
+                    "wordSum": 61,
+                    "tokenSum": 92,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[20th October 2021]",
+                    "tokenCum": 170,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 227,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Compensation payments to customers of London Capital & Finance plc",
+                            "tokenCum": 242,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "There may be paid out of money provided by Parliament expenditure incurredby the Treasury for, or in connection with, the payment of compensation tocustomers of London Capital & Finance plc adversely affected by mattersidentified in the Gloster Report.",
+                                    "tokenCum": 299,
+                                    "wordSum": 38,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsection (3) applies where, under Part 15A of the Financial Services andMarkets Act 2000 (power to require FSCS manager to act in relation to otherschemes), the Treasury require the FSCS manager (within the meaning of thatPart) to exercise functions in relation to a scheme for the payment ofcompensation as mentioned in subsection (1).",
+                                    "tokenCum": 387,
+                                    "wordSum": 53,
+                                    "tokenSum": 90,
+                                    "tokenCount": 90
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Section 138I of that Act (consultation by the Financial Conduct Authority)does not apply in relation to rules made by the Financial Conduct Authorityunder section 224F(5) of that Act (rules about relevant schemes applyingprovisions of the FSCS) in connection with the exercise by the FSCS manager offunctions in relation to that scheme.",
+                                    "tokenCum": 475,
+                                    "wordSum": 51,
+                                    "tokenSum": 90,
+                                    "tokenCount": 90
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In this section the \u201cGloster Report\u201d means the Report of the IndependentInvestigation into the Financial Conduct Authority\u2019s Regulation of LondonCapital & Finance plc, as revised on 10 December 2020.",
+                                    "tokenCum": 530,
+                                    "wordSum": 29,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                }
+                            ],
+                            "wordSum": 181,
+                            "tokenSum": 312,
+                            "tokenCount": 15
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Loans to the Board of the Pension Protection Fund",
+                            "tokenCum": 542,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Pensions Act 2004 is amended as follows.",
+                                    "tokenCum": 557,
+                                    "wordSum": 8,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "After section 115 insert\u2014",
+                                    "tokenCum": 565,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c115ALoans made by the Secretary of State",
+                                    "tokenCum": 578,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may lend money to the Board for the purposes of theexercise of the Board\u2019s functions under Chapter 4 of this Part and anycorresponding provision in force in Northern Ireland.",
+                                            "tokenCum": 622,
+                                            "wordSum": 33,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A loan under this section may be made on such terms (including as torepayment and interest) as the Secretary of State may determine.\u201d",
+                                            "tokenCum": 650,
+                                            "wordSum": 23,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 115 (borrowing from deposit-takers), in subsection (2) (limitson borrowing)\u2014",
+                                            "tokenCum": 680,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "after \u201cborrow\u201d insert \u201cunder this section\u201d;",
+                                                    "tokenCum": 692,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph (a), after \u201cit\u201d insert \u201cunder this section\u201d.",
+                                                    "tokenCum": 707,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 68,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 188 (Fraud Compensation Fund)\u2014",
+                                            "tokenCum": 723,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (1) (contents of the Fund), after paragraph (c) insert\u2014",
+                                                    "tokenCum": 742,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(ca)",
+                                                    "text": "money borrowed by the Board under section 115A for the purposes of thisChapter,\u201d;",
+                                                    "tokenCum": 764,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (3) (permitted payments from the Fund), in paragraph (e)(repayment of money borrowed under section 115), after \u201c(1)(c)\u201d insert \u201cor(ca)\u201d.",
+                                                    "tokenCum": 813,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 121,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 140,
+                                    "tokenSum": 282,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 161,
+                            "tokenSum": 322,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Short title",
+                            "tokenCum": 815,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the Compensation (London Capital & Finance plc andFraud Compensation Fund) Act 2021.",
+                                    "tokenCum": 851,
+                                    "wordSum": 18,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                }
+                            ],
+                            "wordSum": 20,
+                            "tokenSum": 41,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "",
+                            "tokenCum": 851,
+                            "wordSum": 0,
+                            "tokenSum": 1,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 398,
+                    "tokenSum": 734,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 474,
+            "tokenSum": 909,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/29/enacted?view=plain",
+    "title": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021",
+    "longtitle": "An Act to provide for the payment out of money provided by Parliament of expenditure incurred by the Treasury for, or in connection with, the payment of compensation to customers of London Capital & Finance plc; provide for the making of loans to the Board of the Pension Protection Fund for the purposes of its fraud compensation functions; and for connected purposes.",
+    "date": "[20th October 2021]",
+    "wordSum": 474,
+    "tokenSum": 910,
+    "tokenCount": 0,
+    "totalTokens": 910
+}

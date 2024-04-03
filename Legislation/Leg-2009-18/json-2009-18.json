@@ -1,0 +1,1738 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2009/18/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Perpetuities and Accumulations Act 2009",
+                    "tokenCum": 58,
+                    "wordSum": 5,
+                    "tokenSum": 15,
+                    "tokenCount": 14
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2009 CHAPTER 18",
+                    "tokenCum": 67,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the law relating to the avoidance of future interests ongrounds of remoteness and the law relating to accumulations of income.",
+                            "tokenCum": 101,
+                            "wordSum": 24,
+                            "tokenSum": 35,
+                            "tokenCount": 35
+                        }
+                    ],
+                    "wordSum": 27,
+                    "tokenSum": 45,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th November 2009]",
+                    "tokenCum": 112,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 169,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Application of rule against perpetuities",
+                            "tokenCum": 176,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Application of the rule",
+                                    "tokenCum": 180,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The rule against perpetuities applies (and applies only) as provided bythis section.",
+                                            "tokenCum": 198,
+                                            "wordSum": 12,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If an instrument limits property in trust so as to create successiveestates or interests the rule applies to each of the estates or interests.",
+                                            "tokenCum": 227,
+                                            "wordSum": 24,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If an instrument limits property in trust so as to create an estate orinterest which is subject to a condition precedent and which is not one ofsuccessive estates or interests, the rule applies to the estate or interest.",
+                                            "tokenCum": 273,
+                                            "wordSum": 38,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If an instrument limits property in trust so as to create an estate orinterest subject to a condition subsequent the rule applies to\u2014",
+                                            "tokenCum": 299,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any right of re-entry exercisable if the condition is broken, or",
+                                                    "tokenCum": 315,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any equivalent right exercisable in the case of property other than land ifthe condition is broken.",
+                                                    "tokenCum": 335,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 73,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If an instrument which is a will limits personal property so as to createsuccessive interests under the doctrine of executory bequests, the ruleapplies to each of the interests.",
+                                            "tokenCum": 373,
+                                            "wordSum": 28,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If an instrument creates a power of appointment the rule applies to thepower.",
+                                            "tokenCum": 388,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of subsection (2) an estate or interest includes an estateor interest\u2014",
+                                            "tokenCum": 407,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "which arises under a right of reverter on the determination of adeterminable fee simple, or",
+                                                    "tokenCum": 430,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "which arises under a resulting trust on the determination of a determinableinterest.",
+                                                    "tokenCum": 448,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 71,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "This section has effect subject to the exceptions made by section 2 and toany exceptions made under section 3.",
+                                            "tokenCum": 471,
+                                            "wordSum": 19,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In section 4(3) of the [Law of Property Act 1925 (c.20)](/id/ukpga/1925/20?view=plain \"Go to item of legislation\") (rights ofentry affecting a legal estate) omit the words from \u201cbut\u201d to the end.",
+                                            "tokenCum": 546,
+                                            "wordSum": 30,
+                                            "tokenSum": 78,
+                                            "tokenCount": 78
+                                        }
+                                    ],
+                                    "wordSum": 259,
+                                    "tokenSum": 415,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Exceptions to rule\u2019s application",
+                                    "tokenCum": 553,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section contains exceptions to the application of the rule againstperpetuities.",
+                                            "tokenCum": 569,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The rule does not apply to an estate or interest created so as to vest in acharity on the occurrence of an event if immediately before the occurrence anestate or interest in the property concerned is vested in another charity.",
+                                            "tokenCum": 616,
+                                            "wordSum": 40,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The rule does not apply to a right exercisable by a charity on theoccurrence of an event if immediately before the occurrence an estate orinterest in the property concerned is vested in another charity.",
+                                            "tokenCum": 660,
+                                            "wordSum": 34,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The rule does not apply to an interest or right arising under a relevantpension scheme.",
+                                            "tokenCum": 679,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The exception in subsection (4) does not apply if the interest or rightarises under\u2014",
+                                            "tokenCum": 699,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an instrument nominating benefits under the scheme, or",
+                                                    "tokenCum": 709,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an instrument made in the exercise of a power of advancement arising underthe scheme.",
+                                                    "tokenCum": 727,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 140,
+                                    "tokenSum": 206,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Power to specify exceptions",
+                                    "tokenCum": 731,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Lord Chancellor may by order provide that the rule against perpetuitiesis not to apply\u2014",
+                                            "tokenCum": 752,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in cases of a specified description, or",
+                                                    "tokenCum": 760,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if specified conditions are fulfilled.",
+                                                    "tokenCum": 767,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 47,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Different descriptions and conditions may be specified for differentpurposes.",
+                                            "tokenCum": 781,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any order under this section may include such supplementary, incidental,consequential or transitional provisions as appear to the Lord Chancellor tobe necessary or expedient.",
+                                            "tokenCum": 819,
+                                            "wordSum": 23,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201cspecified\u201d means specified in the order.",
+                                            "tokenCum": 832,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The power to make an order under this section is exercisable by statutoryinstrument.",
+                                            "tokenCum": 852,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A statutory instrument containing an order under this section may not bemade unless a draft of the instrument has been laid before and approved by aresolution of each House of Parliament.",
+                                            "tokenCum": 890,
+                                            "wordSum": 31,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 116,
+                                    "tokenSum": 191,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Abolition of existing exceptions",
+                                    "tokenCum": 896,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "These provisions cease to have effect\u2014",
+                                            "tokenCum": 905,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 121(6) of the [Law of Property Act 1925 (c.20)](/id/ukpga/1925/20?view=plain \"Go to item of legislation\") (rule againstperpetuities not to apply to certain powers and remedies);",
+                                                    "tokenCum": 976,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 162 of that Act (declaration that rule does not apply in certaincases);",
+                                                    "tokenCum": 997,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 163 of the [Pension Schemes Act 1993 (c.48)](/id/ukpga/1993/48?view=plain \"Go to item of legislation\") (rule not toapply to trusts and dispositions concerning certain pension schemes).",
+                                                    "tokenCum": 1064,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 71,
+                                                    "tokenCount": 71
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 183,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 73,
+                                    "tokenSum": 191,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 593,
+                            "tokenSum": 1011,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Perpetuity period",
+                            "tokenCum": 1069,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Perpetuity period",
+                                    "tokenCum": 1074,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The perpetuity period is 125 years (and no other period).",
+                                            "tokenCum": 1091,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) applies whether or not the instrument referred to in section1(2) to (6) specifies a perpetuity period; and a specification of a perpetuityperiod in that instrument is ineffective.",
+                                            "tokenCum": 1139,
+                                            "wordSum": 29,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 78,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 43,
+                            "tokenSum": 84,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Perpetuities: miscellaneous",
+                            "tokenCum": 1147,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Start of perpetuity period",
+                                    "tokenCum": 1153,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The perpetuity period starts when the instrument referred to in section1(2) to (6) takes effect; but this is subject to subsections (2) and (3).",
+                                            "tokenCum": 1191,
+                                            "wordSum": 24,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If section 1(2), (3) or (4) applies and the instrument is made in theexercise of a special power of appointment the perpetuity period starts whenthe instrument creating the power takes effect; but this is subject tosubsection (3).",
+                                            "tokenCum": 1247,
+                                            "wordSum": 37,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If section 1(2), (3) or (4) applies and\u2014",
+                                            "tokenCum": 1264,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the instrument nominates benefits under a relevant pension scheme, or",
+                                                    "tokenCum": 1277,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the instrument is made in the exercise of a power of advancement arisingunder a relevant pension scheme,",
+                                                    "tokenCum": 1299,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the perpetuity period starts when the member concerned became a member of thescheme.",
+                                                            "tokenCum": 1317,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 86,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The member concerned is the member in respect of whose interest in thescheme the instrument is made.",
+                                            "tokenCum": 1337,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 130,
+                                    "tokenSum": 217,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Wait and see rule",
+                                    "tokenCum": 1341,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subsection (2) applies if (apart from this section and section 8) an estateor interest would be void on the ground that it might not become vested untiltoo remote a time.",
+                                            "tokenCum": 1383,
+                                            "wordSum": 30,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In such a case\u2014",
+                                            "tokenCum": 1388,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "until such time (if any) as it becomes established that the vesting mustoccur (if at all) after the end of the perpetuity period the estate orinterest must be treated as if it were not subject to the rule againstperpetuities, and",
+                                                    "tokenCum": 1444,
+                                                    "wordSum": 40,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if it becomes so established, that does not affect the validity of anythingpreviously done (whether by way of advancement, application of intermediateincome or otherwise) in relation to the estate or interest.",
+                                                    "tokenCum": 1487,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 115,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (4) applies if (apart from this section) any of the followingwould be void on the ground that it might be exercised at too remote a time\u2014",
+                                            "tokenCum": 1524,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a right of re-entry exercisable if a condition subsequent is broken;",
+                                                    "tokenCum": 1540,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an equivalent right exercisable in the case of property other than land ifa condition subsequent is broken;",
+                                                    "tokenCum": 1561,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a special power of appointment.",
+                                                    "tokenCum": 1567,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 95,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In such a case\u2014",
+                                            "tokenCum": 1572,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the right or power must be treated as regards any exercise of it within theperpetuity period as if it were not subject to the rule against perpetuities,and",
+                                                    "tokenCum": 1607,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the right or power must be treated as void for remoteness only if and sofar as it is not fully exercised within the perpetuity period.",
+                                                    "tokenCum": 1639,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 83,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (6) applies if (apart from this section) a general power ofappointment would be void on the ground that it might not become exercisableuntil too remote a time.",
+                                            "tokenCum": 1680,
+                                            "wordSum": 28,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Until such time (if any) as it becomes established that the power will notbe exercisable within the perpetuity period, it must be treated as if it werenot subject to the rule against perpetuities.",
+                                            "tokenCum": 1726,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 286,
+                                    "tokenSum": 437,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Exclusion of class members to avoid remoteness",
+                                    "tokenCum": 1736,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if\u2014",
+                                            "tokenCum": 1741,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it is apparent at the time an instrument takes effect or becomes apparentat a later time that (apart from this section) the inclusion of certainpersons as members of a class would cause an estate or interest to be treatedas void for remoteness, and",
+                                                    "tokenCum": 1794,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "those persons are potential members of the class or unborn persons who atbirth would become members or potential members of the class.",
+                                                    "tokenCum": 1820,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 95,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "From the time it is or becomes so apparent those persons must be treatedfor all the purposes of the instrument as excluded from the class unless theirexclusion would exhaust the class.",
+                                            "tokenCum": 1857,
+                                            "wordSum": 31,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If this section applies in relation to an estate or interest to whichsection 7 applies, this section does not affect the validity of anythingpreviously done (whether by way of advancement, application of intermediateincome or otherwise) in relation to the estate or interest.",
+                                            "tokenCum": 1913,
+                                            "wordSum": 42,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 1920,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person is a member of a class if in that person\u2019s case all the conditionsidentifying a member of the class are satisfied, and",
+                                                    "tokenCum": 1949,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person is a potential member of a class if in that person\u2019s case someonly of those conditions are satisfied but there is a possibility that theremainder will in time be satisfied.",
+                                                    "tokenCum": 1988,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 86,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 211,
+                                    "tokenSum": 292,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Saving and acceleration of expectant interests",
+                                    "tokenCum": 1996,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "An estate or interest is not void for remoteness by reason only that it isulterior to and dependent on an estate or interest which is so void.",
+                                            "tokenCum": 2028,
+                                            "wordSum": 27,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The vesting of an estate or interest is not prevented from beingaccelerated on the failure of a prior estate or interest by reason only thatthe failure arises because of remoteness.",
+                                            "tokenCum": 2069,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 89,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Determinable interests becoming absolute",
+                                    "tokenCum": 2076,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If an estate arising under a right of reverter on the determination of adeterminable fee simple is void for remoteness the determinable fee simplebecomes absolute.",
+                                            "tokenCum": 2114,
+                                            "wordSum": 25,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If an interest arising under a resulting trust on the determination of adeterminable interest is void for remoteness the determinable interest becomesabsolute.",
+                                            "tokenCum": 2147,
+                                            "wordSum": 22,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 86,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Powers of appointment",
+                                    "tokenCum": 2151,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subsection (2) applies to a power of appointment exercisable otherwise thanby will (whether or not it is also exercisable by will).",
+                                            "tokenCum": 2183,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of the rule against perpetuities the power is a specialpower unless\u2014",
+                                            "tokenCum": 2201,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the instrument creating it expresses it to be exercisable by one persononly, and",
+                                                    "tokenCum": 2219,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "at all times during its currency when that person is of full age andcapacity it could be exercised by that person so as immediately to transfer tothat person the whole of the interest governed by the power without theconsent of any other person or compliance with any other condition (ignoring aformal condition relating only to the mode of exercise of the power).",
+                                                    "tokenCum": 2295,
+                                                    "wordSum": 62,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                }
+                                            ],
+                                            "wordSum": 89,
+                                            "tokenSum": 123,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (4) applies to a power of appointment exercisable by will(whether or not it is also exercisable otherwise than by will).",
+                                            "tokenCum": 2327,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of the rule against perpetuities the power is a specialpower unless\u2014",
+                                            "tokenCum": 2345,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the instrument creating it expresses it to be exercisable by one persononly, and",
+                                                    "tokenCum": 2363,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "that person could exercise it so as to transfer to that person\u2019s personalrepresentatives the whole of the estate or interest to which it relates.",
+                                                    "tokenCum": 2394,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 78,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (6) applies to a power of appointment exercisable by will orotherwise.",
+                                            "tokenCum": 2414,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If for the purposes of the rule against perpetuities the power would be aspecial power under one but not both of subsections (2) and (4), for thepurposes of the rule it is a special power.",
+                                            "tokenCum": 2461,
+                                            "wordSum": 35,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 232,
+                                    "tokenSum": 350,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Pre-commencement instruments: period difficult to ascertain",
+                                    "tokenCum": 2473,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If\u2014 ",
+                                            "tokenCum": 2476,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an instrument specifies for the purposes of property limited in trust aperpetuity period by reference to the lives of persons in being when theinstrument takes effect,",
+                                                    "tokenCum": 2509,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the trustees believe that it is difficult or not reasonably practicable forthem to ascertain whether the lives have ended and therefore whether theperpetuity period has ended, and",
+                                                    "tokenCum": 2547,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "they execute a deed stating that they so believe and that subsection (2) isto apply to the instrument,",
+                                                    "tokenCum": 2571,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "that subsection applies to the instrument.",
+                                                            "tokenCum": 2579,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 24,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 126,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If this subsection applies to an instrument\u2014",
+                                            "tokenCum": 2588,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the instrument has effect as if it specified a perpetuity period of 100years (and no other period);",
+                                                    "tokenCum": 2614,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the rule against perpetuities has effect as if the only perpetuity periodapplicable to the instrument were 100 years;",
+                                                    "tokenCum": 2643,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "sections 6 to 11 of this Act are to be treated as if they applied (andalways applied) in relation to the instrument;",
+                                                    "tokenCum": 2672,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "sections 1 to 12 of the [Perpetuities and Accumulations Act 1964 (c.55)](/id/ukpga/1964/55?view=plain \"Go to item of legislation\") are to betreated as if they did not apply (and never applied) in relation to theinstrument.",
+                                                    "tokenCum": 2750,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 82
+                                                }
+                                            ],
+                                            "wordSum": 97,
+                                            "tokenSum": 190,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A deed executed under this section cannot be revoked.",
+                                            "tokenCum": 2762,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 190,
+                                    "tokenSum": 345,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 1165,
+                            "tokenSum": 1825,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Accumulations",
+                            "tokenCum": 2765,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Abolition of restrictions",
+                                    "tokenCum": 2770,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "These provisions cease to have effect\u2014",
+                                            "tokenCum": 2779,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "sections 164 to 166 of the [Law of Property Act 1925 (c.20)](/id/ukpga/1925/20?view=plain \"Go to item of legislation\") (which imposerestrictions on accumulating income, subject to qualifications);",
+                                                    "tokenCum": 2851,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 76,
+                                                    "tokenCount": 76
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 13 of the [Perpetuities and Accumulations Act1964](/id/ukpga/1964/55?view=plain \"Go to item of legislation\") (which amendssection 164 of the 1925 Act).",
+                                                    "tokenCum": 2915,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 68
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 156,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 163,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Restriction on accumulation for charitable trusts",
+                                    "tokenCum": 2925,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to an instrument to the extent that it provides forproperty to be held on trust for charitable purposes.",
+                                            "tokenCum": 2949,
+                                            "wordSum": 21,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But it does not apply where the provision is made by a court or the CharityCommission for England and Wales.",
+                                            "tokenCum": 2973,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the instrument imposes or confers on the trustees a duty or power toaccumulate income, and apart from this section the duty or power would lastbeyond the end of the statutory period, it ceases to have effect at the end ofthat period unless subsection (5) applies.",
+                                            "tokenCum": 3037,
+                                            "wordSum": 46,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The statutory period is a period of 21 years starting with the first daywhen the income must or may be accumulated (as the case may be).",
+                                            "tokenCum": 3071,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This subsection applies if the instrument provides for the duty or power tocease to have effect\u2014",
+                                            "tokenCum": 3091,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on the death of the settlor, or",
+                                                    "tokenCum": 3100,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on the death of one of the settlors, determined by name or by the order oftheir deaths.",
+                                                    "tokenCum": 3124,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 64,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If a duty or power ceases to have effect under this section the income towhich the duty or power would have applied apart from this section must\u2014",
+                                            "tokenCum": 3154,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "go to the person who would have been entitled to it if there had been noduty or power to accumulate, or",
+                                                    "tokenCum": 3179,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "be applied for the purposes for which it would have had to be applied ifthere had been no such duty or power.",
+                                                    "tokenCum": 3203,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 90,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "This section applies whether or not the duty or power to accumulate extendsto income produced by the investment of income previously accumulated.",
+                                            "tokenCum": 3230,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 251,
+                                    "tokenSum": 354,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 306,
+                            "tokenSum": 521,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Application of statutory provisions",
+                            "tokenCum": 3237,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Application of this Act",
+                                    "tokenCum": 3241,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1, 2, 4 to 11, 13 and 14 apply in relation to an instrument takingeffect on or after the commencement day, except that\u2014",
+                                            "tokenCum": 3283,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "those sections do not apply in relation to a will executed before that day,and",
+                                                    "tokenCum": 3299,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "those sections apply in relation to an instrument made in the exercise of aspecial power of appointment only if the instrument creating the power takeseffect on or after that day.",
+                                                    "tokenCum": 3334,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 104,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Section 12 applies (except as provided by subsection (3)) in relation to\u2014",
+                                            "tokenCum": 3353,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a will executed before the commencement day (whether or not it takes effectbefore that day);",
+                                                    "tokenCum": 3374,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an instrument, other than a will, taking effect before that day.",
+                                                    "tokenCum": 3388,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 65,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 12 does not apply if\u2014",
+                                            "tokenCum": 3397,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the terms of the trust were exhausted before the commencement day, or",
+                                                    "tokenCum": 3413,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "before that day the property became held on trust for charitable purposesby way of a final disposition of the property.",
+                                                    "tokenCum": 3436,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 59,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The commencement day is the day appointed under section 22(2).",
+                                            "tokenCum": 3453,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 158,
+                                    "tokenSum": 254,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Limitation of 1964 Act to existing instruments",
+                                    "tokenCum": 3465,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In section 15 of the [Perpetuities and Accumulations Act 1964 (c.55)](/id/ukpga/1964/55?view=plain \"Go to item of legislation\") the followingsubsections are inserted after subsection (5) (which makes provision as to theinstruments to which the Act applies)\u2014",
+                                            "tokenCum": 3549,
+                                            "wordSum": 34,
+                                            "tokenSum": 87,
+                                            "tokenCount": 87
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 101,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(5A)The foregoing sections of this Act shall not apply in relation to aninstrument taking effect on or after the day appointed under section 22(2) ofthe Perpetuities and Accumulations Act 2009 (commencement), but this shall notprevent those sections applying in relation to an instrument so taking effectif\u2014",
+                                    "tokenCum": 3626,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "it is a will executed before that day, or",
+                                            "tokenCum": 3636,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "it is an instrument made in the exercise of a special power of appointment,and the instrument creating the power took effect before that day.",
+                                            "tokenCum": 3663,
+                                            "wordSum": 24,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(5B)Subsection (5A) above shall not affect the operation of sections 4(6) and11(2) above.\u201d",
+                                            "tokenCum": 3694,
+                                            "wordSum": 13,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 92,
+                                    "tokenSum": 156,
+                                    "tokenCount": 78
+                                }
+                            ],
+                            "wordSum": 295,
+                            "tokenSum": 519,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 3695,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "The Crown",
+                                    "tokenCum": 3697,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act does not extend the application of the rule against perpetuitiesin relation to the Crown.",
+                                            "tokenCum": 3717,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to that, this Act binds the Crown.",
+                                            "tokenCum": 3729,
+                                            "wordSum": 8,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 26,
+                                    "tokenSum": 42,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Rule as to duration not affected",
+                                    "tokenCum": 3735,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act does not affect the rule of law which limits the duration of non-charitable purpose trusts.",
+                                            "tokenCum": 3757,
+                                            "wordSum": 17,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 23,
+                                    "tokenSum": 33,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Provision made otherwise than by instrument",
+                                    "tokenCum": 3764,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "If provision is made in relation to property otherwise than by an instrument,this Act applies as if the provision were contained in an instrument takingeffect on the making of the provision.",
+                                            "tokenCum": 3799,
+                                            "wordSum": 31,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 47,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 20",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3803,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of this Act this section contains provisions relating tothe interpretation of these expressions\u2014",
+                                            "tokenCum": 3823,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "power of appointment, general power of appointment and special power ofappointment;",
+                                                    "tokenCum": 3839,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "relevant pension scheme;",
+                                                    "tokenCum": 3844,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "taking effect (in relation to a will);",
+                                                    "tokenCum": 3853,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "will. ",
+                                                    "tokenCum": 3856,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 72,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A power of appointment includes\u2014",
+                                            "tokenCum": 3862,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a discretionary power to create a beneficial interest in property withoutthe provision of valuable consideration;",
+                                                    "tokenCum": 3883,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a discretionary power to transfer a beneficial interest in property withoutthe provision of valuable consideration.",
+                                                    "tokenCum": 3904,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 59,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 11 applies to interpret references to a general or special power ofappointment.",
+                                            "tokenCum": 3923,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Each of these is a relevant pension scheme\u2014",
+                                            "tokenCum": 3933,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an occupational pension scheme;",
+                                                    "tokenCum": 3940,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a personal pension scheme;",
+                                                    "tokenCum": 3946,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a public service pension scheme.",
+                                                    "tokenCum": 3953,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 45,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The expressions in subsection (4)(a) to (c) have the meanings given bysections 1 and 181(1) of the [Pension Schemes Act 1993 (c.48)](/id/ukpga/1993/48?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 4029,
+                                            "wordSum": 27,
+                                            "tokenSum": 79,
+                                            "tokenCount": 79
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An instrument which is a will takes effect at the testator\u2019s death.",
+                                            "tokenCum": 4045,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A reference to a will includes a reference to a codicil.",
+                                            "tokenCum": 4059,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 158,
+                                    "tokenSum": 319,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 21",
+                                    "text": "Repeals ",
+                                    "tokenCum": 4063,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The enactments mentioned in the Schedule are repealed to the extent specified,but subject to the provision at the end of the Schedule.",
+                                            "tokenCum": 4093,
+                                            "wordSum": 22,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 23,
+                                    "tokenSum": 39,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 22",
+                                    "text": "Commencement ",
+                                    "tokenCum": 4097,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section and sections 23 and 24 come into force on the day on whichthis Act is passed.",
+                                            "tokenCum": 4121,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The other provisions of this Act come into force on such day as the LordChancellor may appoint by order made by statutory instrument.",
+                                            "tokenCum": 4152,
+                                            "wordSum": 23,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 67,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 23",
+                                    "text": "Extent ",
+                                    "tokenCum": 4155,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 4164,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 9,
+                                    "tokenSum": 17,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 24",
+                                    "text": "Short title",
+                                    "tokenCum": 4166,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Perpetuities and Accumulations Act 2009.",
+                                            "tokenCum": 4189,
+                                            "wordSum": 12,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 30,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 21",
+                                    "tokenCum": 4193,
+                                    "wordSum": 2,
+                                    "tokenSum": 6,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 335,
+                            "tokenSum": 602,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 2773,
+                    "tokenSum": 4620,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2809,
+            "tokenSum": 4737,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2009/18/enacted?view=plain",
+    "title": "Perpetuities and Accumulations Act 2009",
+    "longtitle": "An Act to amend the law relating to the avoidance of future interests on grounds of remoteness and the law relating to accumulations of income. ",
+    "date": "[12th November 2009]",
+    "wordSum": 2809,
+    "tokenSum": 4738,
+    "tokenCount": 0,
+    "totalTokens": 4738
+}

@@ -1,0 +1,1444 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/7/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Telecommunications Infrastructure (Leasehold Property) Act 2021",
+                    "tokenCum": 61,
+                    "wordSum": 6,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 7",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the electronic communications code set out in Schedule 3A tothe Communications Act 2003; and for connected purposes.",
+                            "tokenCum": 103,
+                            "wordSum": 21,
+                            "tokenSum": 35,
+                            "tokenCount": 35
+                        }
+                    ],
+                    "wordSum": 24,
+                    "tokenSum": 44,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[15th March 2021]",
+                    "tokenCum": 114,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 171,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Code rights in respect of land connected to leased premises",
+                            "tokenCum": 183,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After Part 4 of Schedule 3A to the Communications Act 2003 (the electroniccommunications code) insert\u2014",
+                                    "tokenCum": 212,
+                                    "wordSum": 15,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201cPART 4ACode rights in respect of land connected to leased premises:unresponsive occupiers",
+                                    "tokenCum": 235,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Introductory",
+                                            "tokenCum": 239,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27AThis Part of this code makes provision for the court to make an orderimposing an agreement which provides that code rights are exercisable by anoperator for the purpose of providing an electronic communications service toleased premises where\u2014",
+                                                    "tokenCum": 290,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the rights are required in respect of land which is connected to the leasedpremises, and",
+                                                            "tokenCum": 310,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the occupier or another person with an interest in the land has notresponded to repeated notices given by the operator seeking agreement toconfer or otherwise be bound by the rights.",
+                                                            "tokenCum": 347,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        }
+                                                    ],
+                                                    "wordSum": 82,
+                                                    "tokenSum": 122,
+                                                    "tokenCount": 54
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 129,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Circumstances in which an application for an order under this Part can bemade",
+                                            "tokenCum": 364,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27B(1)Paragraphs 27C and 27D apply where\u2014",
+                                                    "tokenCum": 386,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "premises within the scope of this Part are occupied under a lease (the\u201ctarget premises\u201d),",
+                                                            "tokenCum": 408,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the lessee in occupation requests an operator to provide an electroniccommunications service to the target premises,",
+                                                            "tokenCum": 429,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in order to fulfil that request, the operator requires a person (the\u201crequired grantor\u201d) to agree\u2014",
+                                                            "tokenCum": 453,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "to confer on the operator a code right in respect of connected land, or",
+                                                            "tokenCum": 468,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "otherwise to be bound by such a code right exercisable by the operator,",
+                                                            "tokenCum": 484,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the operator has, on or after the day on which section 1 of theTelecommunications Infrastructure (Leasehold Property) Act 2021 comes fullyinto force, given the required grantor a notice in accordance with paragraph20(2) of this code seeking that agreement (the \u201crequest notice\u201d), and",
+                                                            "tokenCum": 555,
+                                                            "wordSum": 42,
+                                                            "tokenSum": 76,
+                                                            "tokenCount": 76
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "the required grantor has not responded to the operator.",
+                                                            "tokenCum": 567,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 129,
+                                                    "tokenSum": 242,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Premises are within the scope of this Part if they\u2014",
+                                                    "tokenCum": 579,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "form part of a multiple dwelling building (see paragraph 27I(1)), or",
+                                                            "tokenCum": 598,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "are other premises of a description specified in regulations made by theSecretary of State.",
+                                                            "tokenCum": 617,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 35,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this Part \u201cconnected land\u201d, in relation to the target premises, meansland which\u2014",
+                                                    "tokenCum": 636,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is in common ownership with the target premises (see paragraph 27I(2)), and",
+                                                            "tokenCum": 656,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "is held or used for access to, or otherwise in connection with, the targetpremises.",
+                                                            "tokenCum": 676,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 39,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "For the purposes of this paragraph, the required grantor responds to theoperator if the required grantor\u2014",
+                                                    "tokenCum": 698,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "agrees or refuses, in writing, to confer or otherwise be bound by the coderight specified in the request notice on the terms that the operator seeks, or",
+                                                            "tokenCum": 733,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "otherwise acknowledges the request notice in writing.",
+                                                            "tokenCum": 742,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 50,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 266,
+                                            "tokenSum": 479,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Requirements to be met before applying for an order under this Part",
+                                            "tokenCum": 756,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27C(1)Before applying to the court for an order under this Part (a \u201cPart 4Aorder\u201d) (see paragraph 27E(2)) the operator must, in accordance with thisparagraph, give the required grantor\u2014",
+                                                    "tokenCum": 811,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "two warning notices, and",
+                                                            "tokenCum": 817,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a final notice.",
+                                                            "tokenCum": 821,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 9,
+                                                            "tokenCount": 9
+                                                        }
+                                                    ],
+                                                    "wordSum": 35,
+                                                    "tokenSum": 79,
+                                                    "tokenCount": 58
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A \u201cwarning notice\u201d is a notice in writing which\u2014",
+                                                    "tokenCum": 833,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "includes a copy of the request notice,",
+                                                            "tokenCum": 841,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "states that it is the first or (as the case may be) second of three noticesthat, unless the required grantor responds to the operator, will allow theoperator to apply for a Part 4A order, and",
+                                                            "tokenCum": 889,
+                                                            "wordSum": 35,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "explains the effect of a Part 4A order.",
+                                                            "tokenCum": 900,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 59,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The first warning notice may only be given after the end of the period ofseven days beginning with the day on which the request notice was given.",
+                                                    "tokenCum": 930,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The second warning notice may only be given after the end of the period ofseven days beginning with the day on which the first one was given.",
+                                                    "tokenCum": 960,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A \u201cfinal notice\u201d is a notice in writing which\u2014",
+                                                    "tokenCum": 972,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "includes a copy of the request notice,",
+                                                            "tokenCum": 980,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "states that unless the required grantor responds to the operator before theend of the period of 14 days beginning with the day on which the final noticeis given, the operator intends to apply for a Part 4A order, and",
+                                                            "tokenCum": 1030,
+                                                            "wordSum": 39,
+                                                            "tokenSum": 55,
+                                                            "tokenCount": 55
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "explains the effect of a Part 4A order.",
+                                                            "tokenCum": 1041,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 63,
+                                                    "tokenSum": 100,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "A final notice may only be given within the permitted period.",
+                                                    "tokenCum": 1053,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "The \u201cpermitted period\u201d means the period which\u2014",
+                                                    "tokenCum": 1064,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "begins immediately after the end of whichever of the following ends last\u2014",
+                                                            "tokenCum": 1079,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the period of seven days beginning with the day on which the second warningnotice was given;",
+                                                            "tokenCum": 1098,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "the period of 28 days beginning with the day on which the request noticewas given, and",
+                                                            "tokenCum": 1118,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "ends at the end of the period of 28 days beginning with the day on whichthe second warning notice was given.",
+                                                            "tokenCum": 1144,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 72,
+                                                    "tokenSum": 115,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "The Secretary of State may by regulations specify other conditions that theoperator must satisfy before giving the required grantor a final notice.",
+                                                    "tokenCum": 1170,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27D(1)The operator may apply to the court for a Part 4A order in relation tothe code right specified in the request notice if\u2014",
+                                                    "tokenCum": 1204,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the operator has satisfied the notice requirements set out in paragraph27C,",
+                                                            "tokenCum": 1219,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the period of 14 days beginning with the day on which the final notice wasgiven has ended,",
+                                                            "tokenCum": 1241,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the required grantor has not responded to the operator, and",
+                                                            "tokenCum": 1254,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the operator has satisfied any other specified conditions.",
+                                                            "tokenCum": 1263,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 69,
+                                                    "tokenSum": 117,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An application for a Part 4A order may not be made after the end of thespecified period beginning with the day on which the final notice is given.",
+                                                    "tokenCum": 1297,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The operator must give the required grantor notice of an application for aPart 4A order.",
+                                                    "tokenCum": 1317,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "For the purposes of this paragraph, the required grantor responds to theoperator if the required grantor\u2014",
+                                                    "tokenCum": 1339,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "agrees or refuses, in writing, to confer or otherwise be bound by the coderight specified in the request notice on the terms that the operator seeks, or",
+                                                            "tokenCum": 1374,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "otherwise acknowledges, in writing, the request notice, a warning notice orthe final notice.",
+                                                            "tokenCum": 1393,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 56,
+                                                    "tokenSum": 90,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In this paragraph \u201cspecified\u201d means specified in regulations made by theSecretary of State.",
+                                                    "tokenCum": 1413,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 509,
+                                            "tokenSum": 816,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "When a Part 4A order can be made and its effect",
+                                            "tokenCum": 1426,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27E(1)The court may make a Part 4A order if (and only if)\u2014",
+                                                    "tokenCum": 1450,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "it is satisfied that the requirements for applying for the order have beenmet, and",
+                                                            "tokenCum": 1466,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the required grantor has not objected to the making of the order.",
+                                                            "tokenCum": 1481,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 38,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A Part 4A order is an order which imposes on the operator and the requiredgrantor an agreement between them\u2014",
+                                                    "tokenCum": 1507,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "by which the required grantor confers on the operator the code rightidentified in the request notice in respect of the connected land soidentified, or",
+                                                            "tokenCum": 1538,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "which provides for the code right identified in that notice, which isexercisable by the operator in respect of the connected land so identified,otherwise to bind the required grantor.",
+                                                            "tokenCum": 1576,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        }
+                                                    ],
+                                                    "wordSum": 71,
+                                                    "tokenSum": 109,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this code, a \u201cPart 4A code right\u201d means a code right which is conferredby or otherwise binds the required grantor pursuant to an agreement imposed bya Part 4A order.",
+                                                    "tokenCum": 1622,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The terms of an agreement imposed by a Part 4A order are to be thosespecified in regulations made by the Secretary of State.",
+                                                    "tokenCum": 1653,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Regulations under sub-paragraph (4) must, in particular, provide for anagreement to include terms\u2014",
+                                                    "tokenCum": 1677,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "relating to the provision by the operator to the required grantor ofdetails of the works to be carried out in the exercise of the Part 4A coderight (\u201cthe works\u201d);",
+                                                            "tokenCum": 1717,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "relating to the obtaining by the operator of any consent, permit, licence,permission, authorisation or approval which is necessary for the works to becarried out;",
+                                                            "tokenCum": 1754,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "relating to the giving of notice by the operator to the required grantor orother specified persons before entering on the connected land in the exerciseof the Part 4A code right or carrying out the works;",
+                                                            "tokenCum": 1796,
+                                                            "wordSum": 35,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "restricting the operator\u2019s right to enter on the connected land tospecified times, except in cases of emergency;",
+                                                            "tokenCum": 1821,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "as to the manner in which the works are to be carried out by the operator;",
+                                                            "tokenCum": 1838,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "relating to the restoration by the operator of the connected land at theend of the works, to the reasonable satisfaction of the required grantor;",
+                                                            "tokenCum": 1868,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(g)",
+                                                            "text": "relating to the need for insurance cover or indemnification of the requiredgrantor;",
+                                                            "tokenCum": 1889,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(h)",
+                                                            "text": "relating to the maintenance or upgrading by the operator of apparatusinstalled on, under or over the connected land in the exercise of the Part 4Acode right (\u201cthe apparatus\u201d);",
+                                                            "tokenCum": 1930,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "imposing requirements or restrictions on the required grantor for thepurposes of\u2014",
+                                                            "tokenCum": 1946,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "preventing damage to the apparatus,",
+                                                            "tokenCum": 1954,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "facilitating access to the apparatus for the operator, or",
+                                                            "tokenCum": 1967,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "otherwise preventing or minimising disruption to the operation of theapparatus;",
+                                                            "tokenCum": 1984,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(j)",
+                                                            "text": "relating to assignment of the agreement;",
+                                                            "tokenCum": 1992,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(k)",
+                                                            "text": "aimed at ensuring that nothing done by the operator in the exercise of thePart 4A code right unnecessarily prevents or inhibits the provision of anelectronic communications service by any other operator.",
+                                                            "tokenCum": 2036,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 49,
+                                                            "tokenCount": 49
+                                                        }
+                                                    ],
+                                                    "wordSum": 270,
+                                                    "tokenSum": 457,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Before making regulations under sub-paragraph (4), the Secretary of Statemust consult\u2014",
+                                                    "tokenCum": 2055,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "operators, ",
+                                                            "tokenCum": 2058,
+                                                            "wordSum": 1,
+                                                            "tokenSum": 8,
+                                                            "tokenCount": 8
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "persons appearing to the Secretary of State to represent owners ofinterests in land who are likely to be affected by the regulations, and",
+                                                            "tokenCum": 2086,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "any other persons the Secretary of State thinks appropriate.",
+                                                            "tokenCum": 2096,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 44,
+                                                    "tokenSum": 79,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "In sub-paragraph (5), \u201cspecified\u201d mean specified, or of a descriptionspecified, in the regulations.",
+                                                    "tokenCum": 2123,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 500,
+                                            "tokenSum": 846,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Exercise of Part 4A code rights",
+                                            "tokenCum": 2133,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27F(1)A Part 4A code right may be exercised by the operator in respect of theconnected land for the provision of an electronic communications service to\u2014",
+                                                    "tokenCum": 2171,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the target premises, and",
+                                                            "tokenCum": 2177,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "other premises, but only if the provision of the service to the otherpremises in addition to the target premises imposes no additional burden onthe required grantor.",
+                                                            "tokenCum": 2214,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "For the purposes of sub-paragraph (1)(b), an additional burden includesanything that\u2014",
+                                                    "tokenCum": 2235,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "has an additional adverse effect on the required grantor\u2019s enjoyment of theconnected land, or",
+                                                            "tokenCum": 2256,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "causes additional loss, damage or expense to the required grantor.",
+                                                            "tokenCum": 2270,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 35,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 178,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Expiry of Part 4A code rights",
+                                            "tokenCum": 2279,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27G(1)A Part 4A code right ceases to be conferred on the operator by, orotherwise to bind, the required grantor\u2014",
+                                                    "tokenCum": 2315,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "if a replacement agreement comes into effect, in accordance with thatagreement,",
+                                                            "tokenCum": 2332,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if the court decides to refuse an application by the operator for theimposition of a replacement agreement, in accordance with that decision, or",
+                                                            "tokenCum": 2361,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "if the right has not ceased to have that effect as mentioned in paragraph(a) or (b) before the end of the specified period beginning with the day onwhich the agreement imposed by the Part 4A order comes into effect, at the endof that period.",
+                                                            "tokenCum": 2417,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 61,
+                                                            "tokenCount": 61
+                                                        }
+                                                    ],
+                                                    "wordSum": 97,
+                                                    "tokenSum": 157,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In sub-paragraph (1) a \u201creplacement agreement\u201d, in relation to a Part 4Acode right, means an agreement under Part 2 by which the required grantorconfers a code right on the operator, or otherwise agrees to be bound by acode right which is exercisable by the operator, where that right is inrespect of the same land as the Part 4A code right.",
+                                                    "tokenCum": 2503,
+                                                    "wordSum": 60,
+                                                    "tokenSum": 90,
+                                                    "tokenCount": 90
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In sub-paragraph (1)(c) \u201cspecified period\u201d means the period, of no morethan 18 months, specified in regulations made by the Secretary of State.",
+                                                    "tokenCum": 2542,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The required grantor has the right, subject to and in accordance with Part6 of this code, to require the operator to remove any electroniccommunications apparatus placed on the connected land in the exercise of aPart 4A code right which has ceased to have effect, or otherwise to bind, therequired grantor.",
+                                                    "tokenCum": 2608,
+                                                    "wordSum": 50,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                }
+                                            ],
+                                            "wordSum": 235,
+                                            "tokenSum": 372,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Compensation",
+                                            "tokenCum": 2611,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27H(1)This paragraph applies where the court has made a Part 4A order.",
+                                                    "tokenCum": 2633,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The court may, on the application of the required grantor, order theoperator to pay compensation to the required grantor for any loss or damagethat has been sustained or will be sustained by the required grantor as aresult of the exercise by the operator of the Part 4A code right.",
+                                                    "tokenCum": 2699,
+                                                    "wordSum": 49,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "An application for an order under this paragraph may be made at any timeafter the Part 4A order is made (including at a time when the Part 4A coderight has ceased to be conferred on the operator by, or otherwise to bind, therequired grantor).",
+                                                    "tokenCum": 2757,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 62
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "An order under this paragraph may\u2014",
+                                                    "tokenCum": 2764,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "specify the amount of compensation to be paid by the operator, or",
+                                                            "tokenCum": 2778,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "give directions for the determination of any such amount.",
+                                                            "tokenCum": 2789,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 27,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Directions under sub-paragraph (4)(b) may provide\u2014",
+                                                    "tokenCum": 2803,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "for the amount of compensation to be agreed between the operator and therequired grantor;",
+                                                            "tokenCum": 2821,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "for any dispute about that amount to be determined by arbitration.",
+                                                            "tokenCum": 2834,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "An order under this paragraph may provide for the operator\u2014",
+                                                    "tokenCum": 2845,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "to make a lump sum payment,",
+                                                            "tokenCum": 2853,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "to make periodical payments,",
+                                                            "tokenCum": 2860,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "to make a payment or payments on the occurrence of an event or events, or",
+                                                            "tokenCum": 2877,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "to make a payment or payments in such other form or at such other time ortimes as the court may direct.",
+                                                            "tokenCum": 2901,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 56,
+                                                    "tokenSum": 91,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "Paragraph 84 makes further provision about compensation in the case of aPart 4A order.",
+                                                    "tokenCum": 2923,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 234,
+                                            "tokenSum": 386,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "Interpretation of this Part",
+                                            "tokenCum": 2929,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "27I(1)In this Part\u2014",
+                                                    "tokenCum": 2940,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cconnected land\u201d has the meaning given by paragraph 27B(3);",
+                                                    "tokenCum": 2959,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cmultiple dwelling building\u201d means a building which contains two or more sets of premises which are used as, or intended to be used as, a separate dwelling;",
+                                                    "tokenCum": 2996,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cPart 4A order\u201d has the meaning given by paragraph 27C(1);",
+                                                    "tokenCum": 3018,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpremises\u201d includes a part of premises;",
+                                                    "tokenCum": 3032,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201crequest notice\u201d has the meaning given by paragraph 27B(1)(d);",
+                                                    "tokenCum": 3053,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201crequired grantor\u201d has the meaning given by paragraph 27B(1)(c);",
+                                                    "tokenCum": 3075,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctarget premises\u201d has the meaning given by paragraph 27B(1)(a).",
+                                                    "tokenCum": 3097,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "For the purposes of this Part, land is in \u201ccommon ownership\u201d with thetarget premises if a person with a relevant interest in the land also has arelevant interest (whether or not of the same sort) in the target premises.",
+                                                    "tokenCum": 3147,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "For the purposes of sub-paragraph (2), a person has a \u201crelevant interest\u201din land if\u2014",
+                                                    "tokenCum": 3170,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person owns the freehold estate in the land (or, in relation toScotland, is the owner of the land), or",
+                                                            "tokenCum": 3199,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the person is the lessee of the land.\u201d",
+                                                            "tokenCum": 3209,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 42,
+                                                    "tokenSum": 76,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 174,
+                                            "tokenSum": 339,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 2109,
+                                    "tokenSum": 3570,
+                                    "tokenCount": 24
+                                }
+                            ],
+                            "wordSum": 2134,
+                            "tokenSum": 3614,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Related amendments",
+                            "tokenCum": 3214,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The Schedule contains related amendments.",
+                                    "tokenCum": 3223,
+                                    "wordSum": 5,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 7,
+                            "tokenSum": 17,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 3232,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Subject to subsection (2), this Act extends to England and Wales, Scotlandand Northern Ireland.",
+                                    "tokenCum": 3253,
+                                    "wordSum": 14,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The amendments made by paragraphs 5 to 8 of the Schedule extend to Englandand Wales and Scotland.",
+                                    "tokenCum": 3278,
+                                    "wordSum": 17,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The following provisions come into force on the day on which this Act ispassed\u2014",
+                                    "tokenCum": 3296,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "this section;",
+                                            "tokenCum": 3299,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other provision of this Act so far as necessary for enabling theexercise, on or after that day, of any power to make regulations under Part 4Aof Schedule 3A to the Communications Act 2003 (as inserted by section 1).",
+                                            "tokenCum": 3359,
+                                            "wordSum": 39,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 55,
+                                    "tokenSum": 89,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The other provisions of this Act come into force on such day as theSecretary of State may by regulations appoint.",
+                                    "tokenCum": 3384,
+                                    "wordSum": 20,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Different days may be appointed for different purposes.",
+                                    "tokenCum": 3394,
+                                    "wordSum": 8,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The Secretary of State may by regulations make transitional provision inconnection with the coming into force of any provision of this Act.",
+                                    "tokenCum": 3420,
+                                    "wordSum": 22,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "Regulations under this section are to be made by statutory instrument.",
+                                    "tokenCum": 3435,
+                                    "wordSum": 11,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "This Act may be cited as the Telecommunications Infrastructure (LeaseholdProperty) Act 2021.",
+                                    "tokenCum": 3462,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 2",
+                                            "tokenCum": 3465,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 35,
+                                    "tokenCount": 28
+                                }
+                            ],
+                            "wordSum": 166,
+                            "tokenSum": 268,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 2343,
+                    "tokenSum": 3957,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2377,
+            "tokenSum": 4076,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/7/enacted?view=plain",
+    "title": "Telecommunications Infrastructure (Leasehold Property) Act 2021",
+    "longtitle": "An Act to amend the electronic communications code set out in Schedule 3A to the Communications Act 2003; and for connected purposes.",
+    "date": "[15th March 2021]",
+    "wordSum": 2377,
+    "tokenSum": 4077,
+    "tokenCount": 0,
+    "totalTokens": 4077
+}

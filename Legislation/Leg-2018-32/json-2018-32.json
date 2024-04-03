@@ -1,0 +1,331 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2018/32/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Prisons (Interference with Wireless Telegraphy) Act 2018",
+                    "tokenCum": 63,
+                    "wordSum": 7,
+                    "tokenSum": 20,
+                    "tokenCount": 19
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2018 CHAPTER 32",
+                    "tokenCum": 72,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about interference with wireless telegraphy inprisons and similar institutions.",
+                            "tokenCum": 92,
+                            "wordSum": 14,
+                            "tokenSum": 21,
+                            "tokenCount": 21
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 31,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[20th December 2018]",
+                    "tokenCum": 103,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 160,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Interference with wireless telegraphy in prisons etc",
+                            "tokenCum": 171,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 1 of the Prisons (Interference with Wireless Telegraphy) Act 2012(interference with wireless telegraphy in prisons etc) is amended as follows.",
+                                    "tokenCum": 214,
+                                    "wordSum": 21,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "After subsection (2) insert\u2014",
+                                    "tokenCum": 222,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(2A)The Secretary of State may authorise a public communications provider tointerfere with wireless telegraphy.",
+                                            "tokenCum": 249,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 40,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(2B)An interference with wireless telegraphy authorised under subsection (2A)may be carried out only for the purpose of\u2014",
+                                    "tokenCum": 280,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "preventing the use within a relevant institution in England and Wales of anitem specified in subsection (3), or",
+                                            "tokenCum": 303,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "detecting or investigating the use within a relevant institution in Englandand Wales of such an item.",
+                                            "tokenCum": 323,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(2C)An authorisation under subsection (2A) may be given in relation to\u2014",
+                                            "tokenCum": 344,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "one or more relevant institutions in England and Wales,",
+                                            "tokenCum": 354,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "one or more kinds of relevant institution in England and Wales, or",
+                                            "tokenCum": 367,
+                                            "wordSum": 12,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "relevant institutions in England and Wales generally.\u201d",
+                                            "tokenCum": 375,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 90,
+                                    "tokenSum": 146,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (4), after \u201csubsection (2)(b)\u201d insert \u201cor (2B)(b)\u201d.",
+                                    "tokenCum": 400,
+                                    "wordSum": 9,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Omit subsection (5).",
+                                    "tokenCum": 407,
+                                    "wordSum": 3,
+                                    "tokenSum": 9,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (6), for \u201cThe conduct to which subsection (5) applies is\u201dsubstitute \u201cThe following conduct is lawful for all purposes\u2014\u201d.",
+                                    "tokenCum": 441,
+                                    "wordSum": 20,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "After subsection (6) insert\u2014",
+                                    "tokenCum": 449,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(6A)The following conduct is lawful for all purposes\u2014",
+                                    "tokenCum": 464,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "interference with wireless telegraphy that\u2014",
+                                            "tokenCum": 473,
+                                            "wordSum": 5,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "is authorised under subsection (2A), and",
+                                            "tokenCum": 484,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "is carried out in accordance with subsection (2B) and any direction givenunder section 2,",
+                                            "tokenCum": 506,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the retention, use or disclosure of any traffic data, collected as a resultof such an interference with wireless telegraphy, which is carried out inaccordance with this Act.\u201d",
+                                            "tokenCum": 546,
+                                            "wordSum": 27,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 111,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Schedule (interference with wireless telegraphy in prisons etc) haseffect.",
+                                    "tokenCum": 566,
+                                    "wordSum": 10,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 242,
+                            "tokenSum": 458,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Final provisions",
+                            "tokenCum": 569,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Prisons (Interference with WirelessTelegraphy) Act 2018.",
+                                    "tokenCum": 597,
+                                    "wordSum": 13,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on such day as the Secretary of State may appointby regulations made by statutory instrument.",
+                                    "tokenCum": 622,
+                                    "wordSum": 20,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to England and Wales and Scotland.",
+                                    "tokenCum": 632,
+                                    "wordSum": 9,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The power under section 5(2) of the Prisons (Interference with WirelessTelegraphy) Act 2012 may be exercised so as to extend to any of the ChannelIslands or the Isle of Man any amendment or repeal made by this Act of anypart of that Act (with or without modifications).",
+                                    "tokenCum": 706,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 709,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 49,
+                                    "tokenSum": 82,
+                                    "tokenCount": 75
+                                }
+                            ],
+                            "wordSum": 93,
+                            "tokenSum": 155,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 371,
+                    "tokenSum": 671,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 399,
+            "tokenSum": 779,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2018/32/enacted?view=plain",
+    "title": "Prisons (Interference with Wireless Telegraphy) Act 2018",
+    "longtitle": "An Act to make provision about interference with wireless telegraphy in prisons and similar institutions.",
+    "date": "[20th December 2018]",
+    "wordSum": 399,
+    "tokenSum": 780,
+    "tokenCount": 0,
+    "totalTokens": 780
+}

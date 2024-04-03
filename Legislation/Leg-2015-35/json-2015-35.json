@@ -1,0 +1,377 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/35/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "National Insurance Contributions (Rate Ceilings) Act 2015",
+                    "tokenCum": 63,
+                    "wordSum": 7,
+                    "tokenSum": 20,
+                    "tokenCount": 19
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 35",
+                    "tokenCum": 72,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to set a ceiling on the main and additional primary percentages, thesecondary percentage and the upper earnings limit in relation to Class 1national insurance contributions.",
+                            "tokenCum": 110,
+                            "wordSum": 27,
+                            "tokenSum": 39,
+                            "tokenCount": 39
+                        }
+                    ],
+                    "wordSum": 30,
+                    "tokenSum": 49,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[17th December 2015]",
+                    "tokenCum": 121,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 178,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Rate ceilings",
+                            "tokenCum": 183,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Main and additional primary percentages",
+                                    "tokenCum": 189,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In relation to primary Class 1 contributions payable in respect of anyperiod in a tax year to which this section applies\u2014",
+                                            "tokenCum": 214,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the main primary percentage shall not exceed 12%, and",
+                                                    "tokenCum": 226,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the additional primary percentage shall not exceed 2%.",
+                                                    "tokenCum": 236,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 58,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This section applies to a tax year which begins after the day on which thisAct comes into force but before the date of the first parliamentary generalelection after that day.",
+                                            "tokenCum": 270,
+                                            "wordSum": 30,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section, \u201cmain primary percentage\u201d and \u201cadditional primarypercentage\u201d are to be construed in accordance with section 8(2)(a) and (b) ofSSCBA 1992 and SSCB(NI)A 1992.",
+                                            "tokenCum": 330,
+                                            "wordSum": 25,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 98,
+                                    "tokenSum": 166,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Secondary percentage",
+                                    "tokenCum": 333,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In relation to secondary Class 1 contributions payable in respect of anyperiod in a tax year to which this section applies, the secondary percentageshall not exceed 13.8%.",
+                                            "tokenCum": 371,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This section applies to a tax year which begins after the day on which thisAct comes into force but before the date of the first parliamentary generalelection after that day.",
+                                            "tokenCum": 405,
+                                            "wordSum": 30,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section, \u201csecondary percentage\u201d is to be construed in accordancewith section 9(2) of SSCBA 1992 and SSCB(NI)A 1992.",
+                                            "tokenCum": 451,
+                                            "wordSum": 19,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 78,
+                                    "tokenSum": 132,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Upper earnings limit",
+                                    "tokenCum": 455,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The upper earnings limit specified in regulations under section 5(1) ofSSCBA 1992 and SSCB(NI)A 1992 for any tax year to which this section appliesshall not exceed the weekly equivalent of the proposed higher rate thresholdfor that tax year.",
+                                            "tokenCum": 521,
+                                            "wordSum": 38,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This section applies to a tax year\u2014",
+                                            "tokenCum": 529,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "which begins after the day on which this Act comes into force but beforethe date of the first parliamentary general election after that day, and",
+                                                    "tokenCum": 558,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for which income tax is charged.",
+                                                    "tokenCum": 565,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 55,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of this section, the \u201cproposed higher rate threshold\u201d fora tax year is the sum of\u2014",
+                                            "tokenCum": 589,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the basic rate limit for income tax for the tax year as proposed in thepre-budget proposals for that year, and",
+                                                    "tokenCum": 615,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the personal allowance for income tax for the tax year as so proposed.",
+                                                    "tokenCum": 630,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 76,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section, the weekly equivalent of a proposedhigher rate threshold for a tax year is the amount produced by dividing thatthreshold by 52 and rounding up or down to the nearest pound.",
+                                            "tokenCum": 678,
+                                            "wordSum": 36,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cpre-budget proposals\u201d means the government\u2019s pre-budgetfiscal proposals for a tax year which are contained in a document presented toParliament by the Chancellor of the Exchequer by Command of Her Majesty.",
+                                            "tokenCum": 733,
+                                            "wordSum": 33,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        }
+                                    ],
+                                    "wordSum": 199,
+                                    "tokenSum": 315,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 377,
+                            "tokenSum": 619,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final",
+                            "tokenCum": 734,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 738,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 742,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCBA 1992\u201d means the Social Security Contributions and Benefits Act 1992; ",
+                                            "tokenCum": 773,
+                                            "wordSum": 12,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCB(NI)A 1992\u201d means the Social Security Contributions and Benefits (Northern Ireland) Act 1992. ",
+                                            "tokenCum": 813,
+                                            "wordSum": 14,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 90,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 822,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales, Scotland and Northern Ireland.",
+                                            "tokenCum": 835,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force on the day on which it is passed.",
+                                            "tokenCum": 849,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the National Insurance Contributions (RateCeilings) Act 2015.",
+                                            "tokenCum": 877,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 877,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 35,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 79,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 73,
+                            "tokenSum": 171,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 486,
+                    "tokenSum": 848,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 527,
+            "tokenSum": 974,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/35/enacted?view=plain",
+    "title": "National Insurance Contributions (Rate Ceilings) Act 2015",
+    "longtitle": "An Act to set a ceiling on the main and additional primary percentages, the secondary percentage and the upper earnings limit in relation to Class 1 national insurance contributions.",
+    "date": "[17th December 2015]",
+    "wordSum": 527,
+    "tokenSum": 975,
+    "tokenCount": 0,
+    "totalTokens": 975
+}

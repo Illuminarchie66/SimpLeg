@@ -1,0 +1,1683 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2020/2/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Direct Payments to Farmers (Legislative Continuity) Act 2020",
+                    "tokenCum": 63,
+                    "wordSum": 8,
+                    "tokenSum": 21,
+                    "tokenCount": 20
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2020 CHAPTER 2",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for the incorporation of the Direct PaymentsRegulation into domestic law; for enabling an increase in the total maximumamount of direct payments under that Regulation; and for connected purposes.",
+                            "tokenCum": 115,
+                            "wordSum": 33,
+                            "tokenSum": 45,
+                            "tokenCount": 45
+                        }
+                    ],
+                    "wordSum": 36,
+                    "tokenSum": 54,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[30th January 2020]",
+                    "tokenCum": 126,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 183,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Incorporation of Direct Payments Regulation etc",
+                            "tokenCum": 194,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Incorporation of EU legislation governing the CAP direct payment schemes",
+                                    "tokenCum": 210,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "On exit day the EU legislation governing the 2020 CAP direct paymentschemes becomes part of domestic law.",
+                                            "tokenCum": 237,
+                                            "wordSum": 17,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1), \u201cthe EU legislation governing the 2020 CAP directpayment schemes\u201d means the EU legislation listed in subsection (3)\u2014",
+                                            "tokenCum": 275,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "as it has effect in EU law immediately before exit day for the claim year2020, and",
+                                                    "tokenCum": 296,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ignoring for this purpose the disapplication of any of its provisions inthe United Kingdom by the EU withdrawal agreement.",
+                                                    "tokenCum": 321,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 95,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The EU legislation mentioned in subsection (2) is\u2014",
+                                            "tokenCum": 334,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Direct Payments Regulation, apart from article 13;",
+                                                    "tokenCum": 348,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "[Commission Delegated Regulation (EU) No639/2014](/european/regulation/2014/0639?view=plain \"Go to item oflegislation\") of 11 March 2014 supplementing the Direct Payments Regulation;",
+                                                    "tokenCum": 419,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "[Commission Implementing Regulation (EU) No641/2014](/european/regulation/2014/0641?view=plain \"Go to item oflegislation\") of 16 June 2014 laying down rules for the application of theDirect Payments Regulation;",
+                                                    "tokenCum": 495,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "in so far as relating to the CAP direct payment schemes\u2014",
+                                                    "tokenCum": 509,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the Horizontal Regulation;",
+                                                    "tokenCum": 515,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "[Commission Delegated Regulation (EU) No907/2014](/european/regulation/2014/0907?view=plain \"Go to item oflegislation\") of 11 March 2014 supplementing the Horizontal Regulation withregard to paying agencies and other bodies, financial management, clearance ofaccounts, securities and use of euro;",
+                                                    "tokenCum": 613,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 102,
+                                                    "tokenCount": 102
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "[Commission Implementing Regulation (EU) No908/2014](/european/regulation/2014/0908?view=plain \"Go to item oflegislation\") of 6 August 2014 laying down rules for the application of theHorizontal Regulation with regard to paying agencies and other bodies,financial management, clearance of accounts, rules on checks, securities andtransparency;",
+                                                    "tokenCum": 718,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 109,
+                                                    "tokenCount": 109
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iv)",
+                                                    "text": "[Commission Implementing Regulation (EU) No809/2014](/european/regulation/2014/0809?view=plain \"Go to item oflegislation\") of 17 July 2014 laying down rules for the application of theHorizontal Regulation with regard to the integrated administration and controlsystem, rural development measures and cross compliance;",
+                                                    "tokenCum": 809,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 95
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(v)",
+                                                    "text": "[Commission Delegated Regulation (EU) No640/2014](/european/regulation/2014/0640?view=plain \"Go to item oflegislation\") of 11 March 2014 supplementing the Horizontal Regulation withregard to the integrated administration and control system and conditions forrefusal or withdrawal of payments and administrative penalties applicable todirect payments, rural development support and cross compliance.",
+                                                    "tokenCum": 919,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 114,
+                                                    "tokenCount": 114
+                                                }
+                                            ],
+                                            "wordSum": 223,
+                                            "tokenSum": 637,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section brings that EU legislation into domestic law only in the formof the English language version of that legislation, but this does not affectthe use of other language versions for the purposes of interpretation.",
+                                            "tokenCum": 960,
+                                            "wordSum": 35,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This section does not affect any rights, powers, liabilities, obligations,restrictions or other matters arising in relation to the CAP direct paymentschemes for the claim year 2019 or earlier claim years.",
+                                            "tokenCum": 1008,
+                                            "wordSum": 30,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "But for the purposes of any rights, powers, liabilities, obligations,restrictions or other matters arising in relation to the CAP direct paymentschemes for the claim year 2020, that EU legislation is to be treated as if ithad formed part of domestic law from the beginning of 2020.",
+                                            "tokenCum": 1079,
+                                            "wordSum": 46,
+                                            "tokenSum": 74,
+                                            "tokenCount": 74
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 1083,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cCAP direct payment schemes\u201d means the support schemes under the Direct Payments Regulation; ",
+                                                    "tokenCum": 1105,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cclaim year\u201d means a period of 12 months beginning with 1 January (and \u201cclaim year\u201d, followed by a year, means the period of 12 months beginning with 1 January in that year); ",
+                                                    "tokenCum": 1155,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * the \u201cDirect Payments Regulation\u201d means [Regulation (EU) No 1307/2013](/european/regulation/2013/1307?view=plain \"Go to item of legislation\") of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy; ",
+                                                    "tokenCum": 1255,
+                                                    "wordSum": 45,
+                                                    "tokenSum": 104,
+                                                    "tokenCount": 104
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * the \u201cHorizontal Regulation\u201d means [Regulation (EU) No 1306/2013](/european/regulation/2013/1306?view=plain \"Go to item of legislation\") of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy. ",
+                                                    "tokenCum": 1345,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                }
+                                            ],
+                                            "wordSum": 132,
+                                            "tokenSum": 285,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 548,
+                                    "tokenSum": 1234,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Interpretation and status",
+                                    "tokenCum": 1350,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 6 of the European Union (Withdrawal) Act 2018 (interpretation)applies for the purposes of this Act as it applies for the purposes of thatAct and, in particular, it applies when a court or tribunal is deciding aquestion as to the validity, meaning or effect of retained EU law governingthe CAP direct payment schemes as it applies when a court or tribunal isdeciding a question as to the validity, meaning or effect of EU law retainedunder that Act.",
+                                            "tokenCum": 1460,
+                                            "wordSum": 77,
+                                            "tokenSum": 113,
+                                            "tokenCount": 113
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In its application as mentioned in subsection (1), section 6 of that Acthas effect with the modifications in subsections (5) and (6).",
+                                            "tokenCum": 1492,
+                                            "wordSum": 22,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The following provisions of the European Union (Withdrawal) Act 2018 applyin relation to the modification by domestic law of retained direct EU CAPlegislation as they apply in relation to the modification by domestic law ofdirect EU legislation retained under that Act\u2014",
+                                            "tokenCum": 1550,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 7(2) and (3) (modification of retained direct EU legislation), and",
+                                                    "tokenCum": 1571,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraphs 3 to 8 and 10 to 12 of Schedule 8 (existing and future powers tomake subordinate legislation).",
+                                                    "tokenCum": 1604,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 123,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In their application as mentioned in subsection (3), the provisionsmentioned in paragraphs (a) and (b) have effect with the modifications insubsection (5).",
+                                            "tokenCum": 1640,
+                                            "wordSum": 22,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "To the extent that they are applied for the purposes of subsections (1) and(3), the provisions of the European Union (Withdrawal) Act 2018 in questionhave effect as if any reference in them to an expression listed in the firstcolumn of the following Table were a reference to the corresponding expressionin the second column.",
+                                            "tokenCum": 1712,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Expression in applied provision of the European Union (Withdrawal) Act 2018|Modification  ---|---  IP completion day| exit day  retained EU law| retained EU law governing the CAP direct payment schemes  retained direct EU legislation| retained direct EU CAP legislation  retained direct principal EU legislation| the Direct Payments Regulation andthe Horizontal Regulation so far as they form part of domestic law by virtueof section 1(1)  retained direct minor EU legislation| retained direct EU CAP legislation otherthan the Direct Payments Regulation and the Horizontal Regulation    (6)In the definitions in section 6(7) of the European Union (Withdrawal) Act2018 of \u201cretained domestic case law\u201d, \u201cretained EU case law\u201d and \u201cretainedgeneral principles of EU law\u201d (as applied for the purposes of subsection (1)above)\u2014",
+                                                    "tokenCum": 1910,
+                                                    "wordSum": 117,
+                                                    "tokenSum": 202,
+                                                    "tokenCount": 202
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references to anything to which section 2, 3 or 4 of that Act applies areto be read as references to anything to which the EU legislation listed insection 1(3) of this Act applies, and",
+                                                    "tokenCum": 1956,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "references to the principles and decisions excluded by section 5 of, orSchedule 1 to, that Act are to be read as references to the principles anddecisions that would be excluded if that Act were to operate to save andincorporate EU law with exceptions on exit day (instead of IP completion day).",
+                                                    "tokenCum": 2026,
+                                                    "wordSum": 51,
+                                                    "tokenSum": 74,
+                                                    "tokenCount": 74
+                                                }
+                                            ],
+                                            "wordSum": 255,
+                                            "tokenSum": 401,
+                                            "tokenCount": 74
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "When a court or tribunal is deciding any question as to the validity,meaning or effect of subordinate legislation which is both\u2014",
+                                            "tokenCum": 2056,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "retained EU law governing the CAP direct payment schemes, and",
+                                                    "tokenCum": 2069,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "retained EU law within the meaning given by section 6 of the European Union(Withdrawal) Act 2018,",
+                                                    "tokenCum": 2096,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "section 6 of that Act applies with the modifications made by this section sofar as the question relates to the validity, meaning or effect of thesubordinate legislation as retained EU law governing the CAP direct paymentschemes.",
+                                                    "tokenCum": 2146,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 135,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "For the purposes of the Human Rights Act 1998\u2014",
+                                            "tokenCum": 2160,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Direct Payments Regulation and the Horizontal Regulation so far as theyform part of domestic law by virtue of section 1(1) are to be treated asprimary legislation, and",
+                                                    "tokenCum": 2200,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "other retained direct EU CAP legislation is to be treated as primarylegislation so far as it amends any primary legislation but otherwise is to betreated as subordinate legislation.",
+                                                    "tokenCum": 2239,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 104,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In subsection (8), \u201camend\u201d, \u201cprimary legislation\u201d and \u201csubordinatelegislation\u201d have the same meaning as in the Human Rights Act 1998.",
+                                            "tokenCum": 2278,
+                                            "wordSum": 19,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 2282,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cretained EU law governing the CAP direct payment schemes\u201d means\u2014 ",
+                                                    "tokenCum": 2301,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the EU legislation listed in section 1(3) that forms part of domestic law byvirtue of section 1(1), and",
+                                                    "tokenCum": 2301,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any subordinate legislation relating to that legislation,",
+                                                    "tokenCum": 2330,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "as that body of law is added to or otherwise modified by domestic law fromtime to time;",
+                                                    "tokenCum": 2361,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cretained direct EU CAP legislation\u201d means the EU legislation listed in section 1(3) that forms part of domestic law by virtue of section 1(1) (as modified by domestic law from time to time, and including any instruments made under it on or after exit day). ",
+                                                            "tokenCum": 2426,
+                                                            "wordSum": 46,
+                                                            "tokenSum": 70,
+                                                            "tokenCount": 70
+                                                        }
+                                                    ],
+                                                    "wordSum": 63,
+                                                    "tokenSum": 93,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 102,
+                                            "tokenSum": 172,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "The following provisions come into force (to the extent that they are notalready in force) for the purposes of their application under this section atthe same time as this section comes into force\u2014",
+                                            "tokenCum": 2466,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the provisions of the European Union (Withdrawal) Act 2018 applied by thissection,",
+                                                    "tokenCum": 2489,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any provision of that Act so far as is necessary for the operation of theapplied provisions, and",
+                                                    "tokenCum": 2510,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any provision of the European Union (Withdrawal Agreement) Act 2020 whichamends the applied provisions.",
+                                                    "tokenCum": 2538,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 127,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 794,
+                                    "tokenSum": 1298,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Regulations in connection with the retention of EU legislation undersection 1",
+                                    "tokenCum": 2554,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations\u2014",
+                                            "tokenCum": 2563,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make such provision as the Secretary of State considers appropriate toprevent, remedy or mitigate\u2014",
+                                                    "tokenCum": 2584,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "any failure of retained EU law governing the CAP direct payment schemes tooperate effectively, or",
+                                                    "tokenCum": 2604,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "any other deficiency in that body of law,",
+                                                    "tokenCum": 2615,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "arising from the withdrawal of the United Kingdom from the EU;",
+                                                            "tokenCum": 2629,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 19,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "modify retained EU law governing the CAP direct payment schemes so as tomake provision corresponding to any modification of the EU legislation listedin section 1(3) having effect in EU law on or after exit day for the claimyear 2020.",
+                                                    "tokenCum": 2683,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 94,
+                                            "tokenSum": 153,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Before making regulations under subsection (1), the Secretary of State mustobtain the consent of\u2014",
+                                            "tokenCum": 2704,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Scottish Ministers, if the regulations relate to retained EU lawgoverning the CAP direct payment schemes as it applies in or as regardsScotland;",
+                                                    "tokenCum": 2738,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Welsh Ministers, if the regulations relate to that body of law as itapplies in or in relation to Wales;",
+                                                    "tokenCum": 2765,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "DAERA, if the regulations relate to that body of law as it applies in or asregards Northern Ireland.",
+                                                    "tokenCum": 2790,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 122,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A devolved authority may by regulations\u2014",
+                                            "tokenCum": 2800,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make such provision as the authority considers appropriate to prevent,remedy or mitigate\u2014",
+                                                    "tokenCum": 2819,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "any failure of retained EU law governing the CAP direct payment schemes tooperate effectively, or",
+                                                    "tokenCum": 2839,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "any other deficiency in that body of law,",
+                                                    "tokenCum": 2850,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "arising from the withdrawal of the United Kingdom from the EU;",
+                                                    "tokenCum": 2864,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "modify retained EU law governing the CAP direct payment schemes so as tomake provision corresponding to any modification of the EU legislation listedin section 1(3) having effect in EU law on or after exit day for the claimyear 2020.",
+                                                    "tokenCum": 2918,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 151,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "DAERA may by regulations modify retained EU law governing the CAP directpayment schemes, so far as it applies in or as regards Northern Ireland, forthe purpose of ensuring that all payment entitlements, or all paymententitlements within a region, have, or over a period of time reach or movetowards, a uniform unit value.",
+                                            "tokenCum": 2995,
+                                            "wordSum": 52,
+                                            "tokenSum": 80,
+                                            "tokenCount": 80
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of subsections (1)(a)(ii) and (3)(a)(ii), deficiencies inretained EU law governing the CAP direct payment schemes are where theSecretary of State or a devolved authority considers that retained EU lawgoverning the CAP direct payment schemes\u2014",
+                                            "tokenCum": 3062,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "contains anything which has no practical application in relation to theUnited Kingdom or any part of it or is otherwise redundant or substantiallyredundant,",
+                                                    "tokenCum": 3092,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "confers functions on, or in relation to, EU entities which no longer havefunctions in that respect under EU law in relation to the United Kingdom orany part of it,",
+                                                    "tokenCum": 3127,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "makes provision for, or in connection with, reciprocal arrangementsbetween\u2014",
+                                                    "tokenCum": 3143,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the United Kingdom or any part of it or a public authority in the UnitedKingdom, and",
+                                                    "tokenCum": 3163,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the EU, an EU entity, a member State or a public authority in a memberState,",
+                                                    "tokenCum": 3182,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "which no longer exist or are no longer appropriate,",
+                                                    "tokenCum": 3192,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "makes provision for, or in connection with, other arrangements which\u2014",
+                                                    "tokenCum": 3206,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "involve the EU, an EU entity, a member State or a public authority in amember State, or",
+                                                    "tokenCum": 3227,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "are otherwise dependent upon the United Kingdom\u2019s membership of the EU,",
+                                                    "tokenCum": 3241,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and which no longer exist or are no longer appropriate,",
+                                                    "tokenCum": 3252,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "makes provision for, or in connection with, any reciprocal or otherarrangements not falling within paragraph (c) or (d) which no longer exist, orare no longer appropriate, as a result of the United Kingdom ceasing to be aparty to any of the EU Treaties,",
+                                                    "tokenCum": 3313,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 65
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "contains EU references which are no longer appropriate, or",
+                                                    "tokenCum": 3323,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "contains anything which is of a similar kind to any deficiency which fallswithin paragraphs (a) to (f).",
+                                                    "tokenCum": 3349,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 255,
+                                            "tokenSum": 409,
+                                            "tokenCount": 69
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Section 8(5) to (7), apart from subsection (7)(e), of the European Union(Withdrawal) Act 2018 (provision that may be made by regulations) apply inrelation to regulations under subsections (1) and (3) but as if\u2014",
+                                            "tokenCum": 3414,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references in those subsections to section 8(1) of that Act were tosubsections (1) and (3) of this section, and",
+                                                    "tokenCum": 3445,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the reference in section 8(7)(g) to paragraph 21(b) of Schedule 7 to thatAct were to subsection (9)(b) of this section.",
+                                                    "tokenCum": 3485,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 72,
+                                            "tokenSum": 147,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Despite the application of section 8(7)(b) of the European Union(Withdrawal) Act 2018 (regulations may not make retrospective provision),provision made by regulations under subsection (1) or (3) may apply inrelation to any rights, powers, liabilities, obligations, restrictions orother matters arising in relation to the CAP direct payment schemes for thewhole of the claim year 2020.",
+                                            "tokenCum": 3584,
+                                            "wordSum": 54,
+                                            "tokenSum": 102,
+                                            "tokenCount": 102
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "No regulations may be made under subsection (1) or (3) after 31 December2020 (but this does not affect the continuation in force of regulations madebefore that date, including the exercise after that date of any powerconferred by regulations made before that date).",
+                                            "tokenCum": 3647,
+                                            "wordSum": 42,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "A power to make regulations under this section includes power\u2014",
+                                            "tokenCum": 3659,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to make different provision for different purposes;",
+                                                    "tokenCum": 3667,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to make supplementary, incidental, consequential, transitional or savingprovision (including provision re-stating any retained EU law governing theCAP direct payment schemes in a clearer or more accessible way).",
+                                                    "tokenCum": 3712,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 76,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 3716,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdevolved authority\u201d means\u2014 ",
+                                                    "tokenCum": 3727,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Scottish Ministers, so far as the retained EU law governing the CAP directpayment schemes applies in or as regards Scotland,",
+                                                    "tokenCum": 3727,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Welsh Ministers, so far as that body of law applies in or in relation toWales, or",
+                                                    "tokenCum": 3754,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "DAERA, so far as that body of law applies in or as regards Northern Ireland;",
+                                                    "tokenCum": 3777,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cpayment entitlements\u201d has the same meaning as in the Direct Payments Regulation; ",
+                                                            "tokenCum": 3819,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cpublic authority\u201d means a public authority within the meaning of section 6 of the Human Rights Act 1998. ",
+                                                            "tokenCum": 3848,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 85,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 92,
+                                            "tokenSum": 165,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 882,
+                                    "tokenSum": 1489,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Publication and rules of evidence",
+                                    "tokenCum": 3854,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The duty in paragraph 1(1) of Schedule 5 to the European Union (Withdrawal)Act 2018 (things that must be published) does not apply in relation to\u2014",
+                                            "tokenCum": 3898,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Direct Payments Regulation;",
+                                                    "tokenCum": 3905,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "[Commission Delegated Regulation (EU) No639/2014](/european/regulation/2014/0639?view=plain \"Go to item oflegislation\") of 11 March 2014 supplementing the Direct Payments Regulation;",
+                                                    "tokenCum": 3976,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "[Commission Implementing Regulation (EU) No641/2014](/european/regulation/2014/0641?view=plain \"Go to item oflegislation\") of 16 June 2014 laying down rules for the application of theDirect Payments Regulation.",
+                                                    "tokenCum": 4052,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 213,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Queen\u2019s Printer must make arrangements for the publication of thefollowing EU regulations as published in the Official Journal of the EuropeanUnion before exit day.",
+                                            "tokenCum": 4086,
+                                            "wordSum": 25,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The EU regulations are\u2014",
+                                            "tokenCum": 4092,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the regulations listed in subsection (1);",
+                                                    "tokenCum": 4102,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the regulations listed in sub-paragraphs (i) to (v) of section 1(3)(d).",
+                                                    "tokenCum": 4127,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 52,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (2) does not require the publication of\u2014",
+                                            "tokenCum": 4139,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "anything repealed before exit day, or",
+                                                    "tokenCum": 4147,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any modifications made on or after exit day.",
+                                                    "tokenCum": 4156,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 22,
+                                            "tokenSum": 40,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Retained direct EU CAP legislation is a \u201crelevant matter\u201d for the purposesof paragraph 4 of Schedule 5 to the European Union (Withdrawal) Act 2018(power to make provision about judicial notice and admissibility).",
+                                            "tokenCum": 4212,
+                                            "wordSum": 32,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 175,
+                                    "tokenSum": 409,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 2405,
+                            "tokenSum": 4442,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Increase in direct payments ceilings for claim year 2020",
+                            "tokenCum": 4230,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Power to increase direct payments ceilings for 2020",
+                                    "tokenCum": 4245,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Direct Payments Regulation is amended as follows.",
+                                            "tokenCum": 4257,
+                                            "wordSum": 8,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In Article 6(3), for \u201cArticle 14\u201d substitute \u201cArticles 7A and 14\u201d.",
+                                            "tokenCum": 4284,
+                                            "wordSum": 11,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In Article 7(3), after \u201cpursuant to\u201d insert \u201cArticle 7A and\u201d.",
+                                            "tokenCum": 4308,
+                                            "wordSum": 10,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "After Article 7 insert\u2014",
+                                            "tokenCum": 4314,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cArticle 7A",
+                                            "tokenCum": 4320,
+                                            "children": [
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 7",
+                                                    "text": "AIncrease in national and net ceilings",
+                                                    "tokenCum": 4331,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "The Secretary of State may, having regard to the recommendations containedin the report of the Bew Review, decide to increase the total maximum amountof direct payments that could otherwise be granted in relation to the claimyear 2020.",
+                                                            "tokenCum": 4382,
+                                                            "wordSum": 37,
+                                                            "tokenSum": 56,
+                                                            "tokenCount": 56
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "In this Article, the \u201creport of the Bew Review\u201d means the report entitled\u201cIntra-UK Allocations Review\u201d published on 6 September 2019.\u201d",
+                                                            "tokenCum": 4419,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(5)",
+                                                            "text": "In Article 22(5), after \u201cparagraph 3 of this Article,\u201d insert \u201cArticle7A,\u201d.",
+                                                            "tokenCum": 4444,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        }
+                                                    ],
+                                                    "wordSum": 74,
+                                                    "tokenSum": 143,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 152,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 117,
+                                    "tokenSum": 250,
+                                    "tokenCount": 16
+                                }
+                            ],
+                            "wordSum": 126,
+                            "tokenSum": 269,
+                            "tokenCount": 18
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provisions",
+                            "tokenCum": 4447,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Consequential and transitional provision",
+                                    "tokenCum": 4454,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State or the relevant national authority may byregulations make such provision as the Secretary of State or relevant nationalauthority considers appropriate in consequence of this Act.",
+                                            "tokenCum": 4489,
+                                            "wordSum": 29,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The power to make regulations under subsection (1) may (among other things)be exercised by modifying any provision made by or under an enactment.",
+                                            "tokenCum": 4524,
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Schedule 1 contains consequential provision.",
+                                            "tokenCum": 4533,
+                                            "wordSum": 5,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Secretary of State or the relevant national authority may byregulations make such transitional, transitory or saving provision as theSecretary of State or relevant national authority considers appropriate inconnection with the coming into force of any provision of this Act.",
+                                            "tokenCum": 4583,
+                                            "wordSum": 40,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "But the Secretary of State may only make regulations under this sectionthat apply (whether or not the regulations also apply in relation to England)\u2014",
+                                            "tokenCum": 4614,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in or as regards Scotland,",
+                                                    "tokenCum": 4620,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in or in relation to Wales,",
+                                                    "tokenCum": 4627,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in or as regards Northern Ireland,",
+                                                    "tokenCum": 4634,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "if the Secretary of State has obtained the required consent.",
+                                                            "tokenCum": 4645,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 82,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "For the purposes of subsection (5), the \u201crequired consent\u201d is\u2014",
+                                            "tokenCum": 4661,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the consent of the Scottish Ministers, if the regulations apply in or asregards Scotland,",
+                                                    "tokenCum": 4681,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the consent of the Welsh Ministers, if the regulations apply in or inrelation to Wales, and",
+                                                    "tokenCum": 4703,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the consent of DAERA, if the regulations apply in or as regards NorthernIreland.",
+                                                    "tokenCum": 4723,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 93,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this section, \u201cthe relevant national authority\u201d is\u2014",
+                                            "tokenCum": 4735,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Scottish Ministers, for regulations that apply only in or as regardsScotland,",
+                                                    "tokenCum": 4754,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Welsh Ministers, for regulations that apply only in or in relation toWales, and",
+                                                    "tokenCum": 4775,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "DAERA, for regulations that apply only in or as regards Northern Ireland.",
+                                                    "tokenCum": 4792,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 84,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 251,
+                                    "tokenSum": 409,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Regulations ",
+                                    "tokenCum": 4795,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 2 makes provision about regulations under this Act.",
+                                            "tokenCum": 4808,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 21,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 4812,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 4816,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cCAP direct payment schemes\u201d has the meaning given by section 1; ",
+                                            "tokenCum": 4835,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cclaim year\u201d has the meaning given by section 1; ",
+                                            "tokenCum": 4852,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cDAERA\u201d means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland; ",
+                                            "tokenCum": 4876,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * the \u201cDirect Payments Regulation\u201d has the meaning given by section 1; ",
+                                            "tokenCum": 4896,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cdomestic law\u201d means\u2014 ",
+                                            "tokenCum": 4906,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in section 1, the law of England and Wales, Scotland and Northern Ireland, and",
+                                                    "tokenCum": 4906,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other provision, the law of England and Wales, Scotland or NorthernIreland;",
+                                                    "tokenCum": 4924,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cenactment\u201d includes\u2014 ",
+                                                            "tokenCum": 4952,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 16,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an enactment contained in, or in an instrument made under, an Act of theScottish Parliament,",
+                                                    "tokenCum": 4952,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an enactment contained in, or in an instrument made under, a Measure or Act ofthe National Assembly for Wales,",
+                                                    "tokenCum": 4975,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an enactment contained in, or in an instrument made under, Northern Irelandlegislation, and",
+                                                    "tokenCum": 5001,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any retained direct EU legislation;",
+                                                    "tokenCum": 5022,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cEU entity\u201d means an EU institution or any office, body or agency of the EU; ",
+                                                            "tokenCum": 5053,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * the \u201cHorizontal Regulation\u201d has the meaning given by section 1; ",
+                                                            "tokenCum": 5071,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cmodify\u201d includes amend, repeal or revoke (and related expressions are to be read accordingly); ",
+                                                            "tokenCum": 5097,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cretained direct EU CAP legislation\u201d has the meaning given by section 2; ",
+                                                            "tokenCum": 5119,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cretained EU law governing the CAP direct payment schemes\u201d has the meaning given by section 2. ",
+                                                            "tokenCum": 5145,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 77,
+                                                    "tokenSum": 152,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 158,
+                                            "tokenSum": 306,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 210,
+                                    "tokenSum": 411,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 5154,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales, Scotland and Northern Ireland.",
+                                            "tokenCum": 5167,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Section 5 comes into force on exit day.",
+                                            "tokenCum": 5177,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The other provisions of this Act come into force on the day on which thisAct is passed.",
+                                            "tokenCum": 5197,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This Act may be cited as the Direct Payments to Farmers (LegislativeContinuity) Act 2020.",
+                                            "tokenCum": 5226,
+                                            "wordSum": 14,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 55,
+                                    "tokenSum": 95,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 528,
+                            "tokenSum": 940,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 3095,
+                    "tokenSum": 5709,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3143,
+            "tokenSum": 5840,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2020/2/enacted?view=plain",
+    "title": "Direct Payments to Farmers (Legislative Continuity) Act 2020",
+    "longtitle": "An Act to make provision for the incorporation of the Direct Payments Regulation into domestic law; for enabling an increase in the total maximum amount of direct payments under that Regulation; and for connected purposes. ",
+    "date": "[30th January 2020]",
+    "wordSum": 3143,
+    "tokenSum": 5841,
+    "tokenCount": 0,
+    "totalTokens": 5841
+}

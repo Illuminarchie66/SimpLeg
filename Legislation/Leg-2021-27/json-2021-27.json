@@ -1,0 +1,799 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/27/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Supply and Appropriation (Main Estimates) Act 2021",
+                    "tokenCum": 62,
+                    "wordSum": 7,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 27",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to authorise the use of resources for the year ending with 31 March2022; to authorise both the issue of sums out of the Consolidated Fund and theapplication of income for that year; and to appropriate the supply authorisedfor that year by this Act and by the Supply and Appropriation (Anticipationand Adjustments) Act 2021.",
+                            "tokenCum": 156,
+                            "wordSum": 55,
+                            "tokenSum": 86,
+                            "tokenCount": 86
+                        }
+                    ],
+                    "wordSum": 58,
+                    "tokenSum": 96,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[19th July 2021]",
+                    "tokenCum": 167,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Whereas the Commons of the United Kingdom in Parliament assembled haveresolved to authorise the use of resources and the issue of sums out of theConsolidated Fund towards making good the supply which they have granted toHer Majesty in this Session of Parliament:\u2014",
+                    "tokenCum": 222,
+                    "wordSum": 42,
+                    "tokenSum": 56,
+                    "tokenCount": 55
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it therefore enacted by the Queen\u2019s most Excellent Majesty, by and with theadvice and consent of the Lords Spiritual and Temporal, and Commons, in thispresent Parliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 280,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Main authorisation for use of resources for 2021-22",
+                            "tokenCum": 296,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The amount up to which there is authorisation for the use of resources forthe year ending with 31 March 2022 is increased by \u00a3469,975,548,000.",
+                                    "tokenCum": 344,
+                                    "wordSum": 24,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Of the amount authorised by subsection (1)\u2014",
+                                    "tokenCum": 356,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "\u00a3410,419,109,000 is authorised for use for current purposes, and",
+                                            "tokenCum": 382,
+                                            "wordSum": 9,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "\u00a359,556,439,000 is authorised for use for capital purposes.",
+                                            "tokenCum": 406,
+                                            "wordSum": 8,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 70,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 56,
+                            "tokenSum": 137,
+                            "tokenCount": 16
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Main authorisation for issue of money out of Consolidated Fund in 2021-22",
+                            "tokenCum": 428,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The amount up to which the Treasury has authorisation\u2014",
+                                    "tokenCum": 441,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "to issue money out of the Consolidated Fund, and",
+                                            "tokenCum": 453,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "to apply it in the year ending with 31 March 2022 for expenditureauthorised by Parliament,",
+                                            "tokenCum": 479,
+                                            "wordSum": 15,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "is increased by \u00a3370,413,153,000.",
+                                            "tokenCum": 499,
+                                            "wordSum": 4,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 82,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 49,
+                            "tokenSum": 105,
+                            "tokenCount": 22
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Appropriation of resources authorised for use for year 2021-22",
+                            "tokenCum": 518,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The aggregate of the following (which is \u00a3869,438,720,000) is appropriatedfor the year ending with 31 March 2022 in accordance with subsections (2) to(4)\u2014",
+                                    "tokenCum": 574,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the amount of resources the use of which for that year is authorised bysection 1(1) of the Supply and Appropriation (Anticipation and Adjustments)Act 2021, and",
+                                            "tokenCum": 620,
+                                            "wordSum": 25,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the amount of resources the use of which for that year is authorised bysection 1(1).",
+                                            "tokenCum": 641,
+                                            "wordSum": 15,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 131,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The amount of resources which is\u2014",
+                                    "tokenCum": 648,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "set out in each of the Scheduled Estimates, and",
+                                            "tokenCum": 661,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "identified in that Estimate as a net amount authorised subject to aparticular Departmental Expenditure Limit,",
+                                            "tokenCum": 684,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "is appropriated by this Act for use, for current or for capital purposes(according to how it is identified in the Estimate), in respect of anyrelevant DEL matter.",
+                                                    "tokenCum": 722,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 68,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 93,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The amount of resources which is\u2014",
+                                    "tokenCum": 729,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "set out in each of the Scheduled Estimates, and",
+                                            "tokenCum": 742,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "identified in that Estimate as a net amount of Annually ManagedExpenditure,",
+                                            "tokenCum": 760,
+                                            "wordSum": 11,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "is appropriated by this Act for use, for current or for capital purposes(according to how it is identified in the Estimate), in respect of anyrelevant AME matter.",
+                                            "tokenCum": 798,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 87,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The amount of resources which is\u2014",
+                                    "tokenCum": 805,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "set out in each of the Scheduled Estimates, and",
+                                            "tokenCum": 818,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "identified in that Estimate as a net amount of Non-Budget Expenditure,",
+                                            "tokenCum": 837,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "is appropriated by this Act for use, for current or for capital purposes(according to how it is identified in the Estimate), in respect of anyrelevant NBE matter.",
+                                            "tokenCum": 875,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 88,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Section 5(4) applies (instead of subsections (2) to (4)) to any amount ofresources set out in a Scheduled Estimate if it is identified in that Estimateas representing the amount of an estimated surplus.",
+                                    "tokenCum": 926,
+                                    "wordSum": 33,
+                                    "tokenSum": 53,
+                                    "tokenCount": 53
+                                }
+                            ],
+                            "wordSum": 268,
+                            "tokenSum": 472,
+                            "tokenCount": 19
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Appropriation of money authorised for issue in year 2021-22",
+                            "tokenCum": 945,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The aggregate of the following (which is \u00a3735,336,739,000) is appropriatedfor the year ending with 31 March 2022 in accordance with subsection (2)\u2014",
+                                    "tokenCum": 997,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the amount of money the issue of which out of the Consolidated Fund isauthorised by section 1(3) of the Supply and Appropriation (Anticipation andAdjustments) Act 2021, and",
+                                            "tokenCum": 1047,
+                                            "wordSum": 27,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the amount of money the issue of which out of that Fund is authorised bysection 2.",
+                                            "tokenCum": 1067,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 130,
+                                    "tokenCount": 53
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The amount of money which is set out in each of the Scheduled Estimates andidentified in that Estimate as a net cash requirement is appropriated forexpenditure\u2014",
+                                    "tokenCum": 1105,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "on any use of resources that has been authorised by Parliament in relationto the department or other person to which the Estimate relates, or inrelation to the service to which it relates, or",
+                                            "tokenCum": 1146,
+                                            "wordSum": 33,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for any other purpose specified in that Estimate as a purpose for whichthat money may be applied.",
+                                            "tokenCum": 1166,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 76,
+                                    "tokenSum": 107,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Section 5(4) applies (instead of subsection (2) of this section) to anyamount of money set out in a Scheduled Estimate if it is identified in thatEstimate as representing the amount of an estimated surplus.",
+                                    "tokenCum": 1217,
+                                    "wordSum": 34,
+                                    "tokenSum": 53,
+                                    "tokenCount": 53
+                                }
+                            ],
+                            "wordSum": 184,
+                            "tokenSum": 310,
+                            "tokenCount": 19
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Appropriation and other use of income",
+                            "tokenCum": 1225,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Subsections (2) to (4) make provision (instead of imposing limits onappropriations in aid under section 2 of the Government Resources and AccountsAct 2000) about the use of income arising for the year ending with 31 March2022 from matters specified in the Scheduled Estimates as matters from whichincome may arise.",
+                                    "tokenCum": 1306,
+                                    "wordSum": 49,
+                                    "tokenSum": 83,
+                                    "tokenCount": 83
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Income specified in a Scheduled Estimate may be appropriated for use forcurrent or capital purposes (according to the nature of the income)\u2014",
+                                    "tokenCum": 1337,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "where the matters from which the income may arise are specified in relationto a particular Departmental Expenditure Limit, in respect of relevant DELmatters,",
+                                            "tokenCum": 1370,
+                                            "wordSum": 23,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "where the matters from which the income may arise are specified in relationto an amount of Annually Managed Expenditure, in respect of relevant AMEmatters, and",
+                                            "tokenCum": 1405,
+                                            "wordSum": 25,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "where the matters from which the income may arise are specified in relationto an amount of Non-Budget Expenditure, in respect of relevant NBE matters.",
+                                            "tokenCum": 1439,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 94,
+                                    "tokenSum": 144,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This section authorises an appropriation of income to the extent only thatthe appropriation is made in accordance with any applicable rules about theappropriation of income that have been\u2014",
+                                    "tokenCum": 1476,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "issued by the Treasury; and",
+                                            "tokenCum": 1484,
+                                            "wordSum": 5,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "laid before the House of Commons before the passing of this Act.",
+                                            "tokenCum": 1497,
+                                            "wordSum": 12,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 66,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Where an amount specified in a Scheduled Estimate is identified asrepresenting the amount of an estimated surplus, appropriations of income inrespect of any matter are authorised by this section to the extent only that\u2014",
+                                    "tokenCum": 1543,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "they are consistent, in the opinion of the Treasury, with financialplanning that is calculated to produce a surplus of at least that amount, or",
+                                            "tokenCum": 1575,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "they are authorised by a direction given by the Treasury for the purpose ofanticipating a proposal for the reduction or elimination of the estimatedsurplus by a subsequent Act relating to financial supply and appropriation.",
+                                            "tokenCum": 1621,
+                                            "wordSum": 34,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 92,
+                                    "tokenSum": 132,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "All amounts of money received in the year ending with 31 March 2022 inrespect of any matter whatever by a department or other person to whom aScheduled Estimate relates, or in respect of any service to which a ScheduledEstimate relates, must be paid into the Consolidated Fund, unless\u2014",
+                                    "tokenCum": 1691,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the appropriation for any other use of those amounts, or of the accruedamounts in respect of which they are received, is authorised by this sectionor any other enactment, or",
+                                            "tokenCum": 1732,
+                                            "wordSum": 29,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "they are dealt with in some other manner in accordance with any otherenactment or in consequence of the exercise of a power conferred by any otherenactment.",
+                                            "tokenCum": 1768,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 103,
+                                    "tokenSum": 155,
+                                    "tokenCount": 71
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Where the Treasury determine that there has been or is likely to be acontravention of this section, the Treasury may give the person appearing tothem to be responsible for the contravention whatever directions the Treasurythink fit for rectifying the situation.",
+                                    "tokenCum": 1824,
+                                    "wordSum": 40,
+                                    "tokenSum": 58,
+                                    "tokenCount": 58
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "A direction by the Treasury under this section may be revoked or varied bya subsequent direction.",
+                                    "tokenCum": 1845,
+                                    "wordSum": 16,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 445,
+                            "tokenSum": 670,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Operation from beginning of financial year",
+                            "tokenCum": 1851,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The appropriations and other provision made by sections 3 to 5 are to betreated as having had effect from the beginning of 1 April 2021.",
+                                    "tokenCum": 1886,
+                                    "wordSum": 25,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                }
+                            ],
+                            "wordSum": 31,
+                            "tokenSum": 44,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Interpretation ",
+                            "tokenCum": 1890,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1894,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cestimated surplus\u201d is to be read in accordance with subsection (2); ",
+                                            "tokenCum": 1917,
+                                            "wordSum": 12,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cincome\u201d includes capital amounts but only to the extent that they have accrued in respect of actual or anticipated capital receipts or the acquisition of a capital asset; ",
+                                            "tokenCum": 1958,
+                                            "wordSum": 29,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201crelevant AME matter\u201d, in relation to an amount of Annually Managed Expenditure specified in a Scheduled Estimate, means a matter in relation to which that amount is identified as Annually Managed Expenditure; ",
+                                            "tokenCum": 2009,
+                                            "wordSum": 33,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201crelevant DEL matter\u201d, in relation to a Departmental Expenditure Limit specified in a Scheduled Estimate, means a matter expenditure relating to which is identified in that Estimate as to be included in the expenditure which is to be subject to that limit; ",
+                                            "tokenCum": 2072,
+                                            "wordSum": 43,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201crelevant NBE matter\u201d, in relation to an amount of Non-Budget Expenditure specified in a Scheduled Estimate, means a matter in relation to which that amount is identified as Non-Budget Expenditure; ",
+                                            "tokenCum": 2125,
+                                            "wordSum": 31,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cScheduled Estimates\u201d means the Estimates set out in the Schedule to this Act (being the relevant part of Part 1 of each of the main Estimates as agreed by the House of Commons for the year ending 31 March 2022). ",
+                                            "tokenCum": 2188,
+                                            "wordSum": 41,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        }
+                                    ],
+                                    "wordSum": 192,
+                                    "tokenSum": 318,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "References in this Act to an amount identified in a Scheduled Estimate asrepresenting the amount of an estimated surplus are references to an amountpreceded by a minus sign.",
+                                    "tokenCum": 2226,
+                                    "wordSum": 28,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In relation to a Scheduled Estimate for a body listed in subsection (4)\u2014",
+                                    "tokenCum": 2245,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the reference in section 3(2)(b) to a net amount authorised subject to aparticular Departmental Expenditure Limit is to be read as a reference to anet requirement identified in that Estimate as \u201cDepartmental Expenditure Limitequivalent\u201d;",
+                                            "tokenCum": 2304,
+                                            "wordSum": 34,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "references in this Act to a \u201crelevant DEL matter\u201d are to be read asreferences to a matter expenditure relating to which is identified in theEstimate as to be included in the expenditure which is subject to a netrequirement mentioned in paragraph (a);",
+                                            "tokenCum": 2363,
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the reference in section 5(2)(a) to matters specified in relation to aparticular Departmental Expenditure Limit is to be read as a reference tomatters specified in the Estimate as matters from which income may arise.",
+                                            "tokenCum": 2412,
+                                            "wordSum": 34,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        }
+                                    ],
+                                    "wordSum": 123,
+                                    "tokenSum": 197,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The bodies are\u2014",
+                                    "tokenCum": 2416,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the House of Commons: Administration;",
+                                            "tokenCum": 2423,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the National Audit Office;",
+                                            "tokenCum": 2429,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the Parliamentary Works Sponsor Body.",
+                                            "tokenCum": 2438,
+                                            "wordSum": 5,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 17,
+                                    "tokenSum": 37,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 361,
+                            "tokenSum": 597,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Short title",
+                            "tokenCum": 2440,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the Supply and Appropriation (Main Estimates) Act2021.",
+                                    "tokenCum": 2466,
+                                    "wordSum": 13,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                }
+                            ],
+                            "wordSum": 15,
+                            "tokenSum": 31,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "Section 7",
+                            "tokenCum": 2469,
+                            "wordSum": 2,
+                            "tokenSum": 4,
+                            "tokenCount": 4
+                        }
+                    ],
+                    "wordSum": 1448,
+                    "tokenSum": 2429,
+                    "tokenCount": 58
+                }
+            ],
+            "wordSum": 1559,
+            "tokenSum": 2657,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/27/enacted?view=plain",
+    "title": "Supply and Appropriation (Main Estimates) Act 2021",
+    "longtitle": "An Act to authorise the use of resources for the year ending with 31 March 2022; to authorise both the issue of sums out of the Consolidated Fund and the application of income for that year; and to appropriate the supply authorised for that year by this Act and by the Supply and Appropriation (Anticipation and Adjustments) Act 2021.",
+    "date": "[19th July 2021]",
+    "wordSum": 1559,
+    "tokenSum": 2658,
+    "tokenCount": 0,
+    "totalTokens": 2658
+}

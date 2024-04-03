@@ -1,0 +1,1910 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2006/37/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Parliamentary Costs Act 2006",
+                    "tokenCum": 54,
+                    "wordSum": 4,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2006 CHAPTER 37",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to consolidate the House of Commons Costs Taxation Act 1847, the Houseof Lords Costs Taxation Act 1849, the Parliamentary Costs Act 1865, theParliamentary Costs Act 1867, the Parliamentary Costs Act 1871 and the Houseof Commons Costs Taxation Act 1879, with amendments to give effect torecommendations of the Law Commission and the Scottish Law Commission.",
+                            "tokenCum": 174,
+                            "wordSum": 56,
+                            "tokenSum": 112,
+                            "tokenCount": 112
+                        }
+                    ],
+                    "wordSum": 59,
+                    "tokenSum": 122,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th November 2006]",
+                    "tokenCum": 184,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 241,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Functions of responsible officers",
+                            "tokenCum": 246,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Appointment of taxing officers",
+                                    "tokenCum": 253,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The responsible officer of each House of Parliament must appoint a personto be the taxing officer of that House.",
+                                            "tokenCum": 275,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The taxing officer\u2014",
+                                            "tokenCum": 280,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is to hold and vacate office according to the terms of his appointment, and",
+                                                    "tokenCum": 296,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "must act according to any directions he receives from his responsibleofficer.",
+                                                    "tokenCum": 311,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 47,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cResponsible officer\u201d means\u2014",
+                                            "tokenCum": 320,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to the House of Commons, the Speaker, and",
+                                                    "tokenCum": 333,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to the House of Lords, the Clerk of the Parliaments (or, in hisabsence, the Clerk Assistant).",
+                                                    "tokenCum": 365,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 65,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 82,
+                                    "tokenSum": 146,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Authorisation of representatives' charges",
+                                    "tokenCum": 372,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The responsible officer of each House of Parliament may prepare a listwhich specifies\u2014",
+                                            "tokenCum": 388,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "matters relating to proceedings of that House on private Bills and forwhich representatives may charge costs, and",
+                                                    "tokenCum": 411,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the amount of costs which they may charge for each matter.",
+                                                    "tokenCum": 423,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 62,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "On an assessment of costs under this Act, a taxing officer may not allowcosts for a matter specified under subsection (1)(a) in so far as they exceedthe amount specified for that matter under subsection (1)(b).",
+                                            "tokenCum": 474,
+                                            "wordSum": 35,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But he may allow reasonable costs for a matter which\u2014",
+                                            "tokenCum": 485,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "relates to the proceedings, but",
+                                                    "tokenCum": 493,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not specified under subsection (1)(a).",
+                                                    "tokenCum": 504,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 41,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 101,
+                                    "tokenSum": 166,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 187,
+                            "tokenSum": 318,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Assessment of disputed costs",
+                            "tokenCum": 511,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Application for assessment",
+                                    "tokenCum": 515,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Either of the following may apply for an assessment of costs relating toproceedings of Parliament on a private Bill\u2014",
+                                            "tokenCum": 540,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a representative (or a successor of his) to whom payment of the costs isoverdue,",
+                                                    "tokenCum": 559,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a party who has been charged with, but who objects to, the costs.",
+                                                    "tokenCum": 575,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 71,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) does not apply unless the representative (or a partner orsuccessor of his) has signed a bill of the costs and\u2014",
+                                            "tokenCum": 605,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "delivered it to the party, or",
+                                                    "tokenCum": 612,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sent it by post to, or left it for him at, his workplace, home or lastknown home address.",
+                                                    "tokenCum": 636,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 72,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The application must be made\u2014",
+                                            "tokenCum": 642,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "where the proceedings took place in only one House, to the taxing officerof that House;",
+                                                    "tokenCum": 662,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where they took place in both Houses, to either taxing officer.",
+                                                    "tokenCum": 677,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 52,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The application must be accompanied by a true copy of the bill of costs.",
+                                            "tokenCum": 692,
+                                            "wordSum": 14,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If, pending an assessment of costs on an application under this section,proceedings are brought to recover the costs, those proceedings are stayeduntil the costs have been certified under section 8.",
+                                            "tokenCum": 734,
+                                            "wordSum": 30,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 170,
+                                    "tokenSum": 264,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Duty to assess: general",
+                                    "tokenCum": 741,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A taxing officer who receives an application under section 3 must assessthe costs to which the application relates (except in so far as they are to beassessed by another officer as a result of section 5).",
+                                            "tokenCum": 788,
+                                            "wordSum": 36,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) does not apply in the case of an application within section3(1)(b) if\u2014",
+                                            "tokenCum": 812,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "before the application is made, judgment is obtained in proceedings for therecovery of the costs, or",
+                                                    "tokenCum": 833,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the application is made after the end of the period of six months beginningwith the day on which the bill of costs is delivered, sent or left inaccordance with section 3(2).",
+                                                    "tokenCum": 873,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 96,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But if, in the case of an application within section 3(1)(b) made after theend of that period, the taxing officer informs his responsible officer ofspecial circumstances, the responsible officer may, having regard to thatinformation, direct the taxing officer to assess the costs to which theapplication relates.",
+                                            "tokenCum": 939,
+                                            "wordSum": 46,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        }
+                                    ],
+                                    "wordSum": 147,
+                                    "tokenSum": 224,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Duty to assess: special cases",
+                                    "tokenCum": 947,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subsection (2) applies where\u2014",
+                                            "tokenCum": 955,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the taxing officer of one House receives an application under section 3,and",
+                                                    "tokenCum": 971,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the bill of costs to which the application relates includes costs whichrelate to a private Bill but not to proceedings of that House.",
+                                                    "tokenCum": 999,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 63,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The taxing officer may\u2014",
+                                            "tokenCum": 1005,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "assess the costs himself, or",
+                                                    "tokenCum": 1011,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ask the taxing officer of the other House or an authorised court officer toassess some or all of them.",
+                                                    "tokenCum": 1035,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 47,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (5) applies where\u2014",
+                                            "tokenCum": 1043,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an officer is asked under subsection (2)(b) to assess costs, or",
+                                                    "tokenCum": 1060,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Secretary of State asks the taxing officer of the House of Commons toassess costs relating to a Bill or to a provisional order.",
+                                                    "tokenCum": 1091,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 67,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (5) also applies where an authorised court officer asks eithertaxing officer to assess costs\u2014",
+                                            "tokenCum": 1115,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "relating to a private Bill, and",
+                                                    "tokenCum": 1123,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "included in a bill of costs which the authorised officer is directed toassess by the court by which he is authorised.",
+                                                    "tokenCum": 1149,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 69,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The officer concerned must\u2014",
+                                            "tokenCum": 1154,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "assess the costs, and",
+                                                    "tokenCum": 1159,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "give his opinion to the person who asked him to assess them.",
+                                                    "tokenCum": 1172,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 34,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An authorised court officer may\u2014",
+                                            "tokenCum": 1179,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the purpose of assessing costs under this section, exercise any powershe has for the purpose of assessing costs under his authority, and",
+                                                    "tokenCum": 1207,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "receive fees for assessing costs under this section on the same basis as hewould for assessing costs under his authority.",
+                                                    "tokenCum": 1233,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 72,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "\u201cAuthorised court officer\u201d means an officer of a court who is authorised bythat court to assess costs relating to its proceedings.",
+                                            "tokenCum": 1262,
+                                            "wordSum": 21,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 242,
+                                    "tokenSum": 394,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Report to responsible officer",
+                                    "tokenCum": 1266,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "After the assessment of costs on an application under section 3, the taxingofficer must, if required to do so by the representative (or his successor) orthe party, report the assessment to his responsible officer.",
+                                            "tokenCum": 1313,
+                                            "wordSum": 34,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The report must specify\u2014",
+                                            "tokenCum": 1318,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the amount of costs allowed on the assessment,",
+                                                    "tokenCum": 1328,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "how much of that amount has yet to be paid, and",
+                                                    "tokenCum": 1340,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the amount of costs payable for carrying out the assessment.",
+                                                    "tokenCum": 1353,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 55,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where the amount specified for the purposes of subsection (2)(a) includesan amount for costs assessed under section 5, that amount may be specified inthe report and certified under section 8.",
+                                            "tokenCum": 1396,
+                                            "wordSum": 30,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 101,
+                                    "tokenSum": 157,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Complaints about report",
+                                    "tokenCum": 1401,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 1406,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a taxing officer reports an assessment of costs under section 6, and",
+                                                    "tokenCum": 1422,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the representative (or his successor) or the party wishes to complain aboutthe report.",
+                                                    "tokenCum": 1440,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 50,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The person wishing to complain may give a statement of his complaint to theresponsible officer of the House concerned.",
+                                            "tokenCum": 1466,
+                                            "wordSum": 19,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The statement must be given to the responsible officer before the end ofthe applicable period.",
+                                            "tokenCum": 1483,
+                                            "wordSum": 15,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The responsible officer may\u2014",
+                                            "tokenCum": 1488,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "give the report and the statement to the taxing officer, and",
+                                                    "tokenCum": 1501,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "require him to make a further report on the assessment.",
+                                                    "tokenCum": 1513,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 25,
+                                            "tokenSum": 41,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "On receiving that further report, the responsible officer may require thetaxing officer to amend the report to which the statement of complaintrelates.",
+                                            "tokenCum": 1543,
+                                            "wordSum": 22,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section and section 8, \u201capplicable period\u201d, in relation to a reportunder section 6, means the period of 21 days beginning with the day after theone on which the report is made.",
+                                            "tokenCum": 1589,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 146,
+                                    "tokenSum": 229,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Certificate by responsible officer",
+                                    "tokenCum": 1594,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 1599,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "at the end of the applicable period, no statement of complaint has beengiven under section 7, or",
+                                                    "tokenCum": 1622,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any matters complained of in a statement given under that section have beenfinally disposed of.",
+                                                    "tokenCum": 1642,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the representative or party applies to the responsible officer for acertificate of costs, the responsible officer must certify to him the amountof the costs.",
+                                            "tokenCum": 1675,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The certificate is to be treated for the purposes of any proceedings asconclusive evidence of\u2014",
+                                            "tokenCum": 1695,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the matters to which the costs relate,",
+                                                    "tokenCum": 1703,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the amount of costs allowed on the assessment,",
+                                                    "tokenCum": 1713,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "how much of that amount has, as at the date of the certificate, yet to bepaid, and",
+                                                    "tokenCum": 1735,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the amount of costs payable for carrying out the assessment.",
+                                                    "tokenCum": 1748,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 92,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (5) applies where, in proceedings to recover costs certifiedunder this section, the defendant says he is not liable to pay them (or partof them).",
+                                            "tokenCum": 1786,
+                                            "wordSum": 25,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The certificate is to be treated for the purposes of any proceedings asconclusive evidence only of such amount (if any) as the claimant may recoverfrom the defendant as a result of the proceedings mentioned in subsection (4).",
+                                            "tokenCum": 1836,
+                                            "wordSum": 37,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 184,
+                                    "tokenSum": 288,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 994,
+                            "tokenSum": 1564,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Vexatious proceedings",
+                            "tokenCum": 1842,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Award of costs to promoter of private Bill",
+                                    "tokenCum": 1851,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where, in proceedings of Parliament on a private Bill,a committee of either House\u2014",
+                                            "tokenCum": 1872,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "decides that the preamble to the Bill is proved, and",
+                                                    "tokenCum": 1886,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "unanimously reports that the promoter has been vexatiously exposed to costsas a result of opposition to the Bill by one or more petitioners.",
+                                                    "tokenCum": 1919,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 49,
+                                            "tokenSum": 79,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The promoter may recover from the petitioner (or, where there is more thanone, those specified by the committee)\u2014",
+                                            "tokenCum": 1946,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "such portion as the committee specifies of the promoter\u2019s costs ofpromoting the Bill (subject to their assessment under section 12), or",
+                                                    "tokenCum": 1978,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the committee specifies an amount in respect of those costs and theparties affected agree to it, that amount.",
+                                                    "tokenCum": 2002,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 94,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The committee must specify in its report\u2014",
+                                            "tokenCum": 2010,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the portion or amount of costs recoverable under this section,",
+                                                    "tokenCum": 2022,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "who must pay that portion or amount, and",
+                                                    "tokenCum": 2031,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "who may recover it.",
+                                                    "tokenCum": 2036,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A landowner who at his own risk and cost opposes a private Bill whichproposes the acquisition of any part of his property is not liable under thissection for any costs in respect of his opposition.",
+                                            "tokenCum": 2079,
+                                            "wordSum": 35,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this section and section 10, a committee is to beregarded as reporting unanimously if its report is made by every member of itpresent.",
+                                            "tokenCum": 2115,
+                                            "wordSum": 27,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 206,
+                                    "tokenSum": 318,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Award of costs to petitioner opposing private Bill",
+                                    "tokenCum": 2126,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where, in proceedings of Parliament on a private Bill,a committee of either House\u2014",
+                                            "tokenCum": 2147,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "decides that the preamble to the Bill is not proved, or amends the Bill soas to protect a petitioner who opposes it, and",
+                                                    "tokenCum": 2180,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "unanimously reports that a petitioner who opposes the Bill has beenunreasonably or vexatiously exposed to costs in defending rights of his withwhich the Bill proposes to interfere.",
+                                                    "tokenCum": 2224,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 109,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A petitioner of the kind mentioned in subsection (1)(b) may recover fromthe promoter\u2014",
+                                            "tokenCum": 2247,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the amount of the petitioner\u2019s costs (subject to their assessment undersection 12) for defending rights of his of the kind mentioned in subsection(1)(b),",
+                                                    "tokenCum": 2287,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the committee specifies a portion of those costs, that portion, or",
+                                                    "tokenCum": 2302,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "if the committee specifies an amount in respect of those costs and theparties affected agree to it, that amount.",
+                                                    "tokenCum": 2326,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 67,
+                                            "tokenSum": 117,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The committee must specify in its report\u2014",
+                                            "tokenCum": 2334,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the portion or amount of costs recoverable under this section,",
+                                                    "tokenCum": 2346,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "who must pay that portion or amount, and",
+                                                    "tokenCum": 2355,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "who may recover it.",
+                                                    "tokenCum": 2360,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 170,
+                                    "tokenSum": 288,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Application for assessment etc. on award of vexatious costs",
+                                    "tokenCum": 2374,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person entitled to recover costs under section 9(2)(a) or 10(2)(a) or (b)may apply for their assessment and certification.",
+                                            "tokenCum": 2412,
+                                            "wordSum": 19,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person entitled to recover costs under section 9(2)(b) or 10(2)(c) mayapply only for their certification.",
+                                            "tokenCum": 2444,
+                                            "wordSum": 16,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The application must be made to the taxing officer of the House to whichthe members of the committee awarding the costs belong.",
+                                            "tokenCum": 2471,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The application\u2014",
+                                            "tokenCum": 2474,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "must be made before the end of the period of six months beginning with thedate of the committee\u2019s report, but",
+                                                    "tokenCum": 2498,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if made under subsection (1), must not be made before the end of the periodof one month beginning with the day on which a duly signed bill of the costsis delivered to the person required to pay those costs.",
+                                                    "tokenCum": 2544,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 84,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "\u201cDuly signed\u201d, in relation to a bill of costs, means signed (or, whereappropriate, sealed) by or on behalf of the applicant.",
+                                            "tokenCum": 2580,
+                                            "wordSum": 21,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 148,
+                                    "tokenSum": 245,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Duty to assess and certify vexatious costs",
+                                    "tokenCum": 2593,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where a taxing officer receives an application under section 11(1), he mustassess and certify the costs to which the application relates.",
+                                            "tokenCum": 2625,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where a taxing officer receives an application under section 11(2), he mustcertify the costs to which the application relates.",
+                                            "tokenCum": 2654,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The certificate must specify\u2014",
+                                            "tokenCum": 2659,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the amount of costs recoverable (\u201cthe recoverable costs\u201d),",
+                                                    "tokenCum": 2673,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the person entitled to recover that amount (\u201cthe entitled person\u201d),",
+                                                    "tokenCum": 2687,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any person liable to pay it (\u201cthe liable person\u201d), and",
+                                                    "tokenCum": 2703,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the extent to which he is liable to do so (\u201cthe specified extent\u201d).",
+                                                    "tokenCum": 2721,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 86,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The certificate is to be treated for the purposes of any proceedings asconclusive evidence of\u2014",
+                                            "tokenCum": 2741,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the recoverable costs, and",
+                                                    "tokenCum": 2747,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the right of the entitled person to recover those costs from the liableperson to the specified extent.",
+                                                    "tokenCum": 2767,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 57,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The certificate must be\u2014",
+                                            "tokenCum": 2772,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "signed by the taxing officer giving it, and",
+                                                    "tokenCum": 2782,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "given by him to such of the parties affected as he thinks appropriate.",
+                                                    "tokenCum": 2796,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The entitled person must, on recovering the recoverable costs, give areceipt at the foot of the certificate; and the receipt discharges theliability to pay the costs.",
+                                            "tokenCum": 2835,
+                                            "wordSum": 26,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 179,
+                                    "tokenSum": 307,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 705,
+                            "tokenSum": 1165,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Powers etc. on assessment",
+                            "tokenCum": 2842,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Functions of taxing officers",
+                                    "tokenCum": 2848,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A taxing officer required to assess costs under this Act may\u2014",
+                                            "tokenCum": 2861,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "take evidence on oath from a party to, or a witness connected with, theproceedings on the assessment;",
+                                                    "tokenCum": 2886,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "require a party to those proceedings to produce documents in his possessionwhich relate to the assessment.",
+                                                    "tokenCum": 2906,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 69,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A taxing officer required to assess costs under section 4 or 5 must\u2014",
+                                            "tokenCum": 2923,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "hold a hearing for the purpose of carrying out the assessment, and",
+                                                    "tokenCum": 2937,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "give the parties to the proceedings on the assessment reasonable notice ofthe hearing.",
+                                                    "tokenCum": 2954,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 59,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If a party neglects to attend the hearing, it may be held in his absence.",
+                                            "tokenCum": 2972,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If costs have been assessed under this Act, the taxing officer may, havingworked out how much of the amount assessed has already been paid, report\u2014",
+                                            "tokenCum": 3006,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the amount already paid, and",
+                                                    "tokenCum": 3012,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any amount still owing.",
+                                                    "tokenCum": 3018,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 57,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 135,
+                                    "tokenSum": 214,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Fees ",
+                                    "tokenCum": 3021,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A taxing officer may require a party to proceedings on an assessment underthis Act, or a person affected by a certification under this Act, to pay him\u2014",
+                                            "tokenCum": 3056,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the costs of carrying out the assessment or certification, and",
+                                                    "tokenCum": 3069,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an amount equivalent to any fees which he is authorised or required by theorders of the House concerned to charge for carrying it out (or such portionof that amount as he directs).",
+                                                    "tokenCum": 3108,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 98,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If he receives any money under this section, he must apply it according tothe orders of the House.",
+                                            "tokenCum": 3129,
+                                            "wordSum": 18,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 127,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 227,
+                            "tokenSum": 349,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Miscellaneous",
+                            "tokenCum": 3132,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Application to other types of Bill etc.",
+                                    "tokenCum": 3140,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Any function exercisable under section 2, 4, 6, 7 or 8 by the Speaker ortaxing officer of the House of Commons in respect of a private Bill is alsoexercisable by him in respect of\u2014",
+                                            "tokenCum": 3192,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the promotion of, or opposition to, a provisional order or provisionalorder Bill;",
+                                                    "tokenCum": 3212,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the opposition to a hybrid Bill.",
+                                                    "tokenCum": 3220,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 91,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The power under section 3 is exercisable in respect of proceedings of theHouse of Commons on a matter within paragraph (a) or (b) of subsection (1) asit is in respect of proceedings of that House on a private Bill.",
+                                            "tokenCum": 3275,
+                                            "wordSum": 39,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A reference in this Act to an assessment of costs made, or required to bemade, under this Act is accordingly to be read as including a reference to anassessment made, or required to be made, as a result of subsection (1) or (2).",
+                                            "tokenCum": 3332,
+                                            "wordSum": 43,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Sections 9 to 12 apply in relation to a provisional order Bill referred toa select committee of either House as they apply in relation to a privateBill.",
+                                            "tokenCum": 3369,
+                                            "wordSum": 27,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where section 12 applies as a result of subsection (4), any function whichwould be exercisable under section 13(1) or 14 by a taxing officer in respectof a private Bill is exercisable by him in respect of the provisional orderBill.",
+                                            "tokenCum": 3433,
+                                            "wordSum": 39,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        }
+                                    ],
+                                    "wordSum": 207,
+                                    "tokenSum": 326,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Court of Referees",
+                                    "tokenCum": 3438,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Court of Referees may take evidence on oath on such matters in relation toa private Bill as the Court is entitled under an order of the House of Commonsto investigate.",
+                                            "tokenCum": 3475,
+                                            "wordSum": 31,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 47,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 242,
+                            "tokenSum": 377,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final",
+                            "tokenCum": 3476,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Consequential and transitional provisions",
+                                    "tokenCum": 3484,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 6 of the Private Legislation Procedure (Scotland) Act [1936 (c.52)](/id/ukpga/1936/52?view=plain \"Go to item of legislation\") (sittings ofCommissioners on provisional orders), in subsection (6), for the words fromthe beginning to the first \u201cshall\u201d substitute \u201cSections 9 to 12 of theParliamentary Costs Act 2006 shall,\u201d.",
+                                            "tokenCum": 3597,
+                                            "wordSum": 45,
+                                            "tokenSum": 116,
+                                            "tokenCount": 116
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 9 of that Act (procedure on bills to confirm provisionalorders), in subsection (3), for \u201cthe Parliamentary Costs Act, 1865\u201d substitute\u201csections 9 to 12 of the Parliamentary Costs Act 2006\u201d.",
+                                            "tokenCum": 3660,
+                                            "wordSum": 31,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 7 of the Statutory Orders (Special Procedure) Act [1945 (c.18)](/id/ukpga/1945/18?view=plain \"Go to item of legislation\") (costs), insubsection (1), for the words from \u201cunder the Parliamentary Costs Act 1865\u201d to\u201cthe first mentioned Act\u201d substitute \u201cunder sections 9 to 12 of theParliamentary Costs Act 2006 (as a result of section 15(4) and (5) of thatAct); and sections 9 to 12 of that Act\u201d.",
+                                            "tokenCum": 3803,
+                                            "wordSum": 63,
+                                            "tokenSum": 146,
+                                            "tokenCount": 146
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (2) of that section\u2014",
+                                            "tokenCum": 3813,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the words from the beginning to \u201c1849\u201d, substitute \u201cSections 2 to 8, 13and 14 of that Act\u201d, and",
+                                                    "tokenCum": 3848,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for the words from \u201cand section two\u201d to the end substitute \u201cand, for thatpurpose, the reference to the Secretary of State in section 5(3) of that Act(which refers to the procedure under which the Secretary of State requests anassessment of costs) is to be read as including a reference to the Minister.\u201d.",
+                                                    "tokenCum": 3919,
+                                                    "wordSum": 52,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                }
+                                            ],
+                                            "wordSum": 77,
+                                            "tokenSum": 127,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The amendments made by this section have the same extent as the enactmentsto which they relate.",
+                                            "tokenCum": 3941,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Schedule 1 contains repeals and revocations.",
+                                            "tokenCum": 3953,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Schedule 2 contains transitional provisions.",
+                                            "tokenCum": 3963,
+                                            "wordSum": 5,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 247,
+                                    "tokenSum": 518,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3967,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3971,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201ccosts\u201d includes fees, disbursements and expenses, ",
+                                            "tokenCum": 3990,
+                                            "wordSum": 7,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpromoter\u201d means, in the case of a private Bill not promoted by a company\u2014 ",
+                                            "tokenCum": 4012,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any person named in the Bill as a promoter of it, and",
+                                                    "tokenCum": 4012,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any company which would, if the provisions of the Bill were in force, beincorporated as a result,",
+                                                    "tokenCum": 4026,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cprovisional order\u201d means an order or scheme made under, and requiring confirmation by, Act of Parliament, ",
+                                                            "tokenCum": 4078,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cprovisional order Bill\u201d means a Bill to confirm a provisional order, ",
+                                                            "tokenCum": 4099,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crepresentative\u201d includes a parliamentary agent and a solicitor, ",
+                                                            "tokenCum": 4117,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cresponsible officer\u201d has the meaning given by section 1, ",
+                                                            "tokenCum": 4134,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csolicitor\u201d includes a body recognised under section 9 of the Administration of Justice Act [1985 (c. 61)](/id/ukpga/1985/61?view=plain \"Go to item of legislation\") (incorporated practices) and a reference to a solicitor\u2019s partner includes a director of such a body, and ",
+                                                            "tokenCum": 4221,
+                                                            "wordSum": 40,
+                                                            "tokenSum": 92,
+                                                            "tokenCount": 92
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csuccessor\u201d, in relation to a representative, means his executor, administrator or assignee. ",
+                                                            "tokenCum": 4245,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 118,
+                                                    "tokenSum": 253,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 145,
+                                            "tokenSum": 296,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 156,
+                                    "tokenSum": 331,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Commencement, extent and short title",
+                                    "tokenCum": 4253,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act comes into force on 1st April 2007.",
+                                            "tokenCum": 4269,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to section 17(5), this Act extends to Northern Ireland.",
+                                            "tokenCum": 4286,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Parliamentary Costs Act 2006.",
+                                            "tokenCum": 4305,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 71,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 439,
+                            "tokenSum": 922,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 2830,
+                    "tokenSum": 4753,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2897,
+            "tokenSum": 4942,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2006/37/enacted?view=plain",
+    "title": "Parliamentary Costs Act 2006",
+    "longtitle": "An Act to consolidate the House of Commons Costs Taxation Act 1847, the House of Lords Costs Taxation Act 1849, the Parliamentary Costs Act 1865, the Parliamentary Costs Act 1867, the Parliamentary Costs Act 1871 and the House of Commons Costs Taxation Act 1879, with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.",
+    "date": "[8th November 2006]",
+    "wordSum": 2897,
+    "tokenSum": 4943,
+    "tokenCount": 0,
+    "totalTokens": 4943
+}

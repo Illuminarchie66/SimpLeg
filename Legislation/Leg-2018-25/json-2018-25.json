@@ -1,0 +1,557 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2018/25/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act2018",
+                    "tokenCum": 68,
+                    "wordSum": 11,
+                    "tokenSum": 25,
+                    "tokenCount": 24
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2018 CHAPTER 25",
+                    "tokenCum": 77,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision, where two or more hereditaments occupied or owned bythe same person meet certain conditions as to contiguity, for thosehereditaments to be treated for the purposes of non-domestic rating as onehereditament; and to increase the percentage by which a billing authority inEngland may increase the council tax payable in respect of a long-term emptydwelling.",
+                            "tokenCum": 162,
+                            "wordSum": 58,
+                            "tokenSum": 86,
+                            "tokenCount": 86
+                        }
+                    ],
+                    "wordSum": 61,
+                    "tokenSum": 96,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[1st November 2018]",
+                    "tokenCum": 172,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 229,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Non-domestic rating in England",
+                            "tokenCum": 236,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Hereditaments occupied or owned by the same person",
+                                    "tokenCum": 246,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In Part 3 of the Local Government Finance Act 1988 (non-domestic rating),in section 64 (hereditaments), after subsection (3) insert\u2014",
+                                            "tokenCum": 287,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(3ZA)In relation to England, where\u2014",
+                                                    "tokenCum": 300,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "two or more hereditaments (whether in the same building or otherwise) areoccupied by the same person,",
+                                                    "tokenCum": 324,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the hereditaments meet the contiguity condition (see subsection (3ZC)), and",
+                                                    "tokenCum": 344,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "none of the hereditaments is used for a purpose which is wholly differentfrom the purpose for which any of the other hereditaments is used,",
+                                                    "tokenCum": 375,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the hereditaments shall be treated as one hereditament.",
+                                                    "tokenCum": 388,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(3ZB)In relation to England, where\u2014",
+                                                    "tokenCum": 400,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "two or more hereditaments (whether in the same building or otherwise) are\u2014",
+                                                    "tokenCum": 418,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "owned by the same person, and",
+                                                    "tokenCum": 425,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "unoccupied, ",
+                                                    "tokenCum": 430,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the hereditaments\u2014",
+                                                    "tokenCum": 435,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "ceased to be occupied on the same day, and",
+                                                    "tokenCum": 445,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "have each remained unoccupied since that day,",
+                                                    "tokenCum": 455,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "immediately before that day, the hereditaments were, or formed part of, asingle hereditament by virtue of subsection (3ZA), and",
+                                                    "tokenCum": 488,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the hereditaments meet the contiguity condition (see subsection (3ZC)),",
+                                                    "tokenCum": 507,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the hereditaments shall be treated as one hereditament.",
+                                                    "tokenCum": 520,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(3ZC)The hereditaments meet the contiguity condition if\u2014",
+                                                    "tokenCum": 537,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "at least two of the hereditaments are contiguous, and",
+                                                    "tokenCum": 551,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where not all of the hereditaments are contiguous with each other\u2014",
+                                                    "tokenCum": 567,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "one or more of the other hereditaments is contiguous with one or more ofthe hereditaments falling within paragraph (a), and",
+                                                    "tokenCum": 596,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "each of the remaining hereditaments (if any) is contiguous with at leastone hereditament that falls within sub-paragraph (i) or this sub-paragraph.",
+                                                    "tokenCum": 633,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(3ZD)For the purposes of subsection (3ZC) two hereditaments are contiguous if\u2014",
+                                                    "tokenCum": 659,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "some or all of a wall, fence or other means of enclosure of onehereditament forms all or part of a wall, fence or other means of enclosure ofthe other hereditament, or",
+                                                    "tokenCum": 703,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the hereditaments are on consecutive storeys of a building and some or allof the floor of one hereditament lies directly above all or part of theceiling of the other hereditament,",
+                                                    "tokenCum": 744,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and hereditaments occupied or owned by the same person are not prevented frombeing contiguous under paragraph (a) or (b) merely because there is a spacebetween them that is not occupied or owned by that person.\u201d",
+                                                    "tokenCum": 792,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                }
+                                            ],
+                                            "wordSum": 335,
+                                            "tokenSum": 645,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The amendments made by subsection (1) have effect for financial yearsbeginning on or after 1 April 2010.",
+                                            "tokenCum": 822,
+                                            "wordSum": 17,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 360,
+                                    "tokenSum": 690,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 364,
+                            "tokenSum": 698,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Council tax in England",
+                            "tokenCum": 826,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Higher amount for long-term empty dwellings",
+                                    "tokenCum": 836,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 11B of LGFA 1992 (higher amount for long-term empty dwellings:England) is amended as follows.",
+                                            "tokenCum": 871,
+                                            "wordSum": 15,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1)(b) (maximum percentage by which council tax may beincreased)\u2014",
+                                            "tokenCum": 894,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "after \u201cthat day\u201d insert \u201c(\u201cthe relevant day\u201d)\u201d, and",
+                                                    "tokenCum": 910,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for \u201c50\u201d substitute \u201cthe relevant maximum\u201d.",
+                                                    "tokenCum": 921,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 25,
+                                            "tokenSum": 61,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (1) insert\u2014",
+                                            "tokenCum": 929,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)For the financial year beginning on 1 April 2019 the \u201crelevant maximum\u201dis 100.",
+                                                    "tokenCum": 960,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 46,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(1B)For the financial year beginning on 1 April 2020 the \u201crelevant maximum\u201dis\u2014",
+                                            "tokenCum": 986,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in respect of any dwelling where the period mentioned in subsection (8)ending on the relevant day is less than 5 years, 100;",
+                                                    "tokenCum": 1019,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in respect of any dwelling where the period mentioned in subsection (8)ending on the relevant day is at least 5 years, 200.",
+                                                    "tokenCum": 1052,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(1C)For financial years beginning on or after 1 April 2021 the \u201crelevantmaximum\u201d is\u2014",
+                                                    "tokenCum": 1080,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in respect of any dwelling where the period mentioned in subsection (8)ending on the relevant day is less than 5 years, 100;",
+                                                    "tokenCum": 1113,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in respect of any dwelling where the period mentioned in subsection (8)ending on the relevant day is at least 5 years but less than 10 years, 200;",
+                                                    "tokenCum": 1153,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in respect of any dwelling where the period mentioned in subsection (8)ending on the relevant day is at least 10 years, 300.\u201d",
+                                                    "tokenCum": 1187,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 140,
+                                            "tokenSum": 254,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The amendments made by subsections (1) to (3) have effect for financialyears beginning on or after 1 April 2019 (and it does not matter whether theperiod mentioned in section 11B(8) of LGFA 1992 begins before this sectioncomes into force).",
+                                            "tokenCum": 1256,
+                                            "wordSum": 39,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cLGFA 1992\u201d means the Local Government Finance Act 1992.",
+                                            "tokenCum": 1282,
+                                            "wordSum": 12,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 254,
+                                    "tokenSum": 512,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 258,
+                            "tokenSum": 517,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General provisions",
+                            "tokenCum": 1285,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Extent, interpretation and short title",
+                                    "tokenCum": 1292,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales.",
+                                            "tokenCum": 1300,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this Act \u201cfinancial year\u201d means a period of 12 months beginning with 1April.",
+                                            "tokenCum": 1324,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Rating (Property in Common Occupation) andCouncil Tax (Empty Dwellings) Act 2018.",
+                                            "tokenCum": 1360,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 1360,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 43,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 90,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 46,
+                            "tokenSum": 94,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 704,
+                    "tokenSum": 1367,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 780,
+            "tokenSum": 1544,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2018/25/enacted?view=plain",
+    "title": "Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018",
+    "longtitle": "An Act to make provision, where two or more hereditaments occupied or owned by the same person meet certain conditions as to contiguity, for those hereditaments to be treated for the purposes of non-domestic rating as one hereditament; and to increase the percentage by which a billing authority in England may increase the council tax payable in respect of a long-term empty dwelling.",
+    "date": "[1st November 2018]",
+    "wordSum": 780,
+    "tokenSum": 1545,
+    "tokenCount": 0,
+    "totalTokens": 1545
+}

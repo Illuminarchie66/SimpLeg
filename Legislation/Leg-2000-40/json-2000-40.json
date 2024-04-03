@@ -1,0 +1,697 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2000/40/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Protection of Animals (Amendment) Act 2000",
+                    "tokenCum": 60,
+                    "wordSum": 6,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2000 CHAPTER 40",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to enable provision to be made for the care, disposal or slaughter ofanimals to which proceedings under section 1 of the Protection of Animals Act1911 relate; and for connected purposes.",
+                            "tokenCum": 117,
+                            "wordSum": 32,
+                            "tokenSum": 49,
+                            "tokenCount": 49
+                        }
+                    ],
+                    "wordSum": 35,
+                    "tokenSum": 59,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[30th November 2000]",
+                    "tokenCum": 128,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 185,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Application of Act",
+                            "tokenCum": 188,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Sections 2 to 4 apply where\u2014",
+                                    "tokenCum": 198,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a person who is mentioned in subsection (3) (referred to in this Act as\u201cthe prosecutor\u201d) has brought proceedings for an offence under section 1 ofthe [1911 c. 27.] Protection of Animals Act 1911 (referred to in this Act as\u201cthe 1911 Act\u201d) against the owner of the animals to which the offence relates;and",
+                                            "tokenCum": 293,
+                                            "wordSum": 52,
+                                            "tokenSum": 98,
+                                            "tokenCount": 98
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the proceedings have not been discontinued or otherwise disposed of.",
+                                            "tokenCum": 309,
+                                            "wordSum": 10,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 68,
+                                    "tokenSum": 129,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "But those sections only apply in relation to an animal which the ownerkeeps or has kept for commercial purposes.",
+                                    "tokenCum": 331,
+                                    "wordSum": 19,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The persons referred to in subsection (1) are\u2014",
+                                    "tokenCum": 343,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Director of Public Prosecutions;",
+                                            "tokenCum": 351,
+                                            "wordSum": 5,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a Crown Prosecutor;",
+                                            "tokenCum": 357,
+                                            "wordSum": 3,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a government department;",
+                                            "tokenCum": 361,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a local authority;",
+                                            "tokenCum": 365,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "in relation to a prosecution in England, a person who, at the request ofthe Minister of Agriculture, Fisheries and Food, has entered into a writtenagreement under which he may perform the functions conferred on a prosecutorby virtue of this Act;",
+                                            "tokenCum": 422,
+                                            "wordSum": 40,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "in relation to a prosecution in Wales, a person who, at the request of theNational Assembly for Wales, has entered into a written agreement under whichhe may perform the functions conferred on a prosecutor by virtue of this Act.",
+                                            "tokenCum": 472,
+                                            "wordSum": 39,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 101,
+                                    "tokenSum": 161,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 191,
+                            "tokenSum": 318,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Orders for the care, disposal or slaughter of animals",
+                            "tokenCum": 486,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "If, on the application of the prosecutor, it appears to the court fromevidence given by a veterinary surgeon that it is necessary in the interestsof the welfare of the animals in question for the prosecutor to do one or moreof the things mentioned in subsection (2), the court may make an orderauthorising him to do so.",
+                                    "tokenCum": 563,
+                                    "wordSum": 56,
+                                    "tokenSum": 79,
+                                    "tokenCount": 79
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Those things are\u2014",
+                                    "tokenCum": 567,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "taking charge of the animals and caring for them, or causing or procuringthem to be cared for, on the premises on which they are kept or at some otherplace;",
+                                            "tokenCum": 607,
+                                            "wordSum": 29,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "selling the animals at a fair price;",
+                                            "tokenCum": 616,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "disposing of the animals otherwise than by way of sale;",
+                                            "tokenCum": 628,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "slaughtering the animals, or causing or procuring them to be slaughtered.",
+                                            "tokenCum": 648,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 99,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In determining what to authorise by the order, the court must have regardto all the circumstances, including the desirability of protecting the owner\u2019sinterest in the value of the animals and avoiding increasing his costs.",
+                                    "tokenCum": 697,
+                                    "wordSum": 34,
+                                    "tokenSum": 51,
+                                    "tokenCount": 51
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An order under this section ceases to have effect on the discontinuance orother disposal of the proceedings under section 1 of the 1911 Act; but this iswithout prejudice to anything done before, or done in pursuance of a contractentered into before, the order ceases to have effect.",
+                                    "tokenCum": 767,
+                                    "wordSum": 47,
+                                    "tokenSum": 72,
+                                    "tokenCount": 72
+                                }
+                            ],
+                            "wordSum": 206,
+                            "tokenSum": 316,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Powers of entry, etc",
+                            "tokenCum": 773,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Where\u2014 ",
+                                    "tokenCum": 776,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the prosecutor has given notice to the court of his intention to apply foran order under section 2; and",
+                                            "tokenCum": 800,
+                                            "wordSum": 19,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "he is of the opinion that the animals need to be marked for identificationpurposes,",
+                                            "tokenCum": 817,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the prosecutor, or a person authorised by him, may enter the premises on whichthe animals are kept and mark them for those purposes.",
+                                                    "tokenCum": 849,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 56,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 88,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Where an order is made under section 2, the prosecutor, or a personauthorised by him, may\u2014",
+                                    "tokenCum": 874,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "enter the premises on which the animals are kept for the purpose ofexercising the powers conferred by the order;",
+                                            "tokenCum": 900,
+                                            "wordSum": 19,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "mark the animals (whether by the application of an ear tag or by any othermeans); and",
+                                            "tokenCum": 921,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in the case of an order making any provision mentioned in section 2(2)(a),make use for that purpose of any equipment on the premises.",
+                                            "tokenCum": 953,
+                                            "wordSum": 23,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 115,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Any person who obstructs the prosecutor, or a person authorised by him, inthe exercise of powers conferred by subsection (1) or (2) or an order undersection 2 is guilty of an offence and liable on summary conviction to a finenot exceeding level 3 on the standard scale.",
+                                    "tokenCum": 1024,
+                                    "wordSum": 47,
+                                    "tokenSum": 73,
+                                    "tokenCount": 73
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Nothing in this section authorises a person to enter a dwellinghouse.",
+                                    "tokenCum": 1039,
+                                    "wordSum": 11,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A person entering any premises in the exercise of powers conferred on himby this section must, if so required by the owner or occupier or person incharge of the premises\u2014",
+                                    "tokenCum": 1077,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "produce to him some duly authenticated document showing that he is, or is aperson authorised by, the prosecutor; and",
+                                            "tokenCum": 1105,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "state in writing his reasons for entering.",
+                                            "tokenCum": 1113,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 82,
+                                    "tokenCount": 39
+                                }
+                            ],
+                            "wordSum": 249,
+                            "tokenSum": 382,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Other supplementary provisions",
+                            "tokenCum": 1119,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Where an order is made under section 2\u2014",
+                                    "tokenCum": 1129,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the prosecutor is entitled to be reimbursed for any reasonable expensesincurred by him in the exercise of the powers conferred by virtue of theorder; and",
+                                            "tokenCum": 1166,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "subject to that, in the case of an order making any provision mentioned insubsection (2)(b), (c) or (d) of that section, the prosecutor must pay to theowner the proceeds of any disposal or slaughter of the animals.",
+                                            "tokenCum": 1222,
+                                            "wordSum": 37,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 70,
+                                    "tokenSum": 111,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Any amount for which the prosecutor is entitled to be reimbursed undersubsection (1) may be recovered by him from the owner summarily as a civildebt.",
+                                    "tokenCum": 1260,
+                                    "wordSum": 25,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Where\u2014 ",
+                                    "tokenCum": 1263,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an order under section 2 makes any provision mentioned in subsection(2)(b), (c) or (d) of that section; and",
+                                            "tokenCum": 1293,
+                                            "wordSum": 18,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the owner has in his possession or under his control documents\u2014",
+                                            "tokenCum": 1305,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "without which the animals cannot be slaughtered for human consumption; or",
+                                            "tokenCum": 1319,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "which are otherwise relevant to the condition or value of the animals,",
+                                            "tokenCum": 1332,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the owner must, as soon as practicable and in any event within 10 days of themaking of the order, deliver those documents to the prosecutor.",
+                                                    "tokenCum": 1367,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 78,
+                                    "tokenSum": 125,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "If the owner without reasonable excuse fails to deliver any documents asrequired by subsection (3), he is guilty of an offence and liable on summaryconviction to a fine not exceeding level 3 on the standard scale.",
+                                    "tokenCum": 1415,
+                                    "wordSum": 36,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The prosecutor may, if the owner fails to deliver as required by subsection(3) any documents within paragraph (b)(i), apply to the person by whom thedocuments were issued for replacement documents to be issued and that personmust, if he has sufficient information to do so, issue replacement documentsto the prosecutor.",
+                                    "tokenCum": 1484,
+                                    "wordSum": 49,
+                                    "tokenSum": 71,
+                                    "tokenCount": 71
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "An application under subsection (5) is to be accompanied by\u2014",
+                                    "tokenCum": 1498,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a copy of the order under section 2; and",
+                                            "tokenCum": 1509,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "such reasonable fee (if any) as is determined by the person to whom theapplication is made.",
+                                            "tokenCum": 1529,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 53,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In this section, \u201cowner\u201d means the owner against whom the proceedings werebrought.",
+                                    "tokenCum": 1548,
+                                    "wordSum": 12,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                }
+                            ],
+                            "wordSum": 308,
+                            "tokenSum": 478,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Short title, interpretation, commencement and extent",
+                            "tokenCum": 1558,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Protection of Animals (Amendment) Act 2000.",
+                                    "tokenCum": 1583,
+                                    "wordSum": 13,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1587,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe 1911 Act\u201d means the [1911 c. 27.] Protection of Animals Act 1911; ",
+                                            "tokenCum": 1624,
+                                            "wordSum": 14,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201clocal authority\u201d\u2014 ",
+                                            "tokenCum": 1632,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to England, means a county council, a district council, a Londonborough council, the Common Council of the City of London or the Council ofthe Isles of Scilly;",
+                                            "tokenCum": 1632,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in relation to Wales, means a county council or a county borough council;",
+                                            "tokenCum": 1670,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprosecutor\u201d has the meaning given by section 1(3); ",
+                                                    "tokenCum": 1705,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cveterinary surgeon\u201d means a person registered in the register of veterinary surgeons, or the supplementary veterinary register, kept under the [1966 c. 36.] Veterinary Surgeons Act 1966; ",
+                                                    "tokenCum": 1765,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 64
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and expressions which are used in the 1911 Act have the same meanings as inthat Act.",
+                                                    "tokenCum": 1788,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 133,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 115,
+                                    "tokenSum": 231,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act comes into force at the end of the period of two months beginningwith the day on which it is passed.",
+                                    "tokenCum": 1812,
+                                    "wordSum": 22,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 1821,
+                                    "wordSum": 8,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 1821,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 164,
+                            "tokenSum": 308,
+                            "tokenCount": 10
+                        }
+                    ],
+                    "wordSum": 1154,
+                    "tokenSum": 1860,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1199,
+            "tokenSum": 1993,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2000/40/enacted?view=plain",
+    "title": "Protection of Animals (Amendment) Act 2000",
+    "longtitle": "An Act to enable provision to be made for the care, disposal or slaughter of animals to which proceedings under section 1 of the Protection of Animals Act 1911 relate; and for connected purposes.",
+    "date": "[30th November 2000]",
+    "wordSum": 1199,
+    "tokenSum": 1994,
+    "tokenCount": 0,
+    "totalTokens": 1994
+}

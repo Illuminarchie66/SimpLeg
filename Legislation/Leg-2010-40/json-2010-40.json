@@ -1,0 +1,1622 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2010/40/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Identity Documents Act 2010",
+                    "tokenCum": 53,
+                    "wordSum": 4,
+                    "tokenSum": 10,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2010 CHAPTER 40",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for and in connection with the repeal of the IdentityCards Act 2006.",
+                            "tokenCum": 87,
+                            "wordSum": 17,
+                            "tokenSum": 26,
+                            "tokenCount": 26
+                        }
+                    ],
+                    "wordSum": 20,
+                    "tokenSum": 36,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[21st December 2010]",
+                    "tokenCum": 98,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 155,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Repeal of Identity Cards Act 2006",
+                            "tokenCum": 168,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Repeal of Identity Cards Act 2006",
+                                    "tokenCum": 181,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Identity Cards Act 2006 is repealed.",
+                                            "tokenCum": 195,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But\u2014 ",
+                                            "tokenCum": 198,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "sections 25 and 26 of that Act (possession of false identity documentsetc), and",
+                                                    "tokenCum": 220,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 38 of that Act (verifying information provided with passportapplications etc),",
+                                                    "tokenCum": 239,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "are re-enacted by this Act (with consequential amendments and, in the case ofsection 38, also with minor amendments).",
+                                                            "tokenCum": 273,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 29,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 94,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In addition, the amendment of section 1 of the Consular Fees Act 1980 madeby section 36 of the Identity Cards Act 2006 continues to have effect subjectto a consequential amendment (see paragraph 2 of the Schedule to this Act).",
+                                            "tokenCum": 338,
+                                            "wordSum": 39,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        }
+                                    ],
+                                    "wordSum": 95,
+                                    "tokenSum": 194,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Cancellation of ID cards etc",
+                                    "tokenCum": 344,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "No ID cards are to be issued by the Secretary of State at any time on orafter the day on which this Act is passed.",
+                                            "tokenCum": 371,
+                                            "wordSum": 25,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "All ID cards that are valid immediately before that day are to be treatedas cancelled by the Secretary of State at the end of the period of one monthbeginning with that day.",
+                                            "tokenCum": 408,
+                                            "wordSum": 32,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "As soon as reasonably practicable after that day, the Secretary of Statemust send a letter to every cardholder\u2014",
+                                            "tokenCum": 434,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "informing the cardholder that the cardholder\u2019s ID card is to be treated ascancelled as mentioned in subsection (2), and",
+                                                    "tokenCum": 463,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "providing the cardholder with such information about the consequences ofits cancellation as the Secretary of State considers appropriate.",
+                                                    "tokenCum": 486,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 89,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A letter under subsection (3) must be sent to the address recorded (at thetime it is sent) in the National Identity Register as the address of thecardholder\u2019s principal place of residence in the United Kingdom.",
+                                            "tokenCum": 532,
+                                            "wordSum": 35,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this section a person is a \u201ccardholder\u201d if\u2014",
+                                            "tokenCum": 548,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an ID card has been issued to the person, and",
+                                                    "tokenCum": 559,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the ID card is valid immediately before the day on which this Act ispassed.",
+                                                    "tokenCum": 576,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 55,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201cID card\u201d has the same meaning as in the Identity Cards Act2006.",
+                                            "tokenCum": 599,
+                                            "wordSum": 15,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 203,
+                                    "tokenSum": 297,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Destruction of information recorded in National Identity Register",
+                                    "tokenCum": 608,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Secretary of State must ensure that all the information recorded in theNational Identity Register is destroyed before the end of the period of twomonths beginning with the day on which this Act is passed.",
+                                            "tokenCum": 648,
+                                            "wordSum": 35,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 54,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 347,
+                            "tokenSum": 559,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "False identity documents etc",
+                            "tokenCum": 652,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Possession of false identity documents etc with improper intention",
+                                    "tokenCum": 663,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is an offence for a person (\u201cP\u201d) with an improper intention to have inP\u2019s possession or under P\u2019s control\u2014",
+                                            "tokenCum": 695,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an identity document that is false and that P knows or believes to befalse,",
+                                                    "tokenCum": 712,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an identity document that was improperly obtained and that P knows orbelieves to have been improperly obtained, or",
+                                                    "tokenCum": 737,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an identity document that relates to someone else.",
+                                                    "tokenCum": 747,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 99,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Each of the following is an improper intention\u2014",
+                                            "tokenCum": 757,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the intention of using the document for establishing personal informationabout P;",
+                                                    "tokenCum": 771,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the intention of allowing or inducing another to use it for establishing,ascertaining or verifying personal information about P or anyone else.",
+                                                    "tokenCum": 800,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 64,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2)(b) the reference to P or anyone else does not include, inthe case of a document within subsection (1)(c), the individual to whom itrelates.",
+                                            "tokenCum": 841,
+                                            "wordSum": 26,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person guilty of an offence under this section is liable, on convictionon indictment, to imprisonment for a term not exceeding 10 years or a fine (orboth).",
+                                            "tokenCum": 883,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 162,
+                                    "tokenSum": 265,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Apparatus designed or adapted for the making of false identity documentsetc",
+                                    "tokenCum": 897,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is an offence for a person (\u201cP\u201d) with the prohibited intention to makeor to have in P\u2019s possession or under P\u2019s control\u2014",
+                                            "tokenCum": 932,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any apparatus which, to P\u2019s knowledge, is or has been specially designed oradapted for the making of false identity documents, or",
+                                                    "tokenCum": 963,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any article or material which, to P\u2019s knowledge, is or has been speciallydesigned or adapted to be used in the making of such documents.",
+                                                    "tokenCum": 995,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 109,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The prohibited intention is the intention\u2014",
+                                            "tokenCum": 1003,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "that P or another will make a false identity document, and",
+                                                    "tokenCum": 1015,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "that the document will be used by somebody for establishing, ascertainingor verifying personal information about a person.",
+                                                    "tokenCum": 1039,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 55,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person guilty of an offence under this section is liable, on convictionon indictment, to imprisonment for a term not exceeding 10 years or a fine (orboth).",
+                                            "tokenCum": 1081,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 140,
+                                    "tokenSum": 225,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Possession of false identity documents etc without reasonable excuse",
+                                    "tokenCum": 1092,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is an offence for a person (\u201cP\u201d), without reasonable excuse, to have inP\u2019s possession or under P\u2019s control\u2014",
+                                            "tokenCum": 1124,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an identity document that is false,",
+                                                    "tokenCum": 1131,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an identity document that was improperly obtained,",
+                                                    "tokenCum": 1141,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an identity document that relates to someone else,",
+                                                    "tokenCum": 1151,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any apparatus which, to P\u2019s knowledge, is or has been specially designed oradapted for the making of false identity documents, or",
+                                                    "tokenCum": 1182,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "any article or material which, to P\u2019s knowledge, is or has been speciallydesigned or adapted to be used in the making of such documents.",
+                                                    "tokenCum": 1214,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 85,
+                                            "tokenSum": 145,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person guilty of an offence under this section is liable\u2014",
+                                            "tokenCum": 1228,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on conviction on indictment, to imprisonment for a term not exceeding 2years or a fine (or both), or",
+                                                    "tokenCum": 1257,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on summary conviction, to imprisonment for a term not exceeding the maximumperiod or a fine not exceeding the statutory maximum (or both).",
+                                                    "tokenCum": 1289,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 86,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2)(b) \u201cthe maximum period\u201d means\u2014",
+                                            "tokenCum": 1304,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in England and Wales or Scotland, 12 months, and",
+                                                    "tokenCum": 1317,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in Northern Ireland, 6 months.",
+                                                    "tokenCum": 1325,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 47,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (3)(a) the reference to 12 months in England and Wales is tobe read, in relation to an offence committed before the commencement ofsection 154(1) of the Criminal Justice Act 2003, as a reference to 6 months.",
+                                            "tokenCum": 1390,
+                                            "wordSum": 38,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        }
+                                    ],
+                                    "wordSum": 204,
+                                    "tokenSum": 359,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Meaning of \u201cidentity document\u201d",
+                                    "tokenCum": 1397,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of sections 4 to 6 \u201cidentity document\u201d means any documentthat is or purports to be\u2014",
+                                            "tokenCum": 1422,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an immigration document,",
+                                                    "tokenCum": 1427,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a United Kingdom passport (within the meaning of the Immigration Act 1971),",
+                                                    "tokenCum": 1449,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a passport issued by or on behalf of the authorities of a country orterritory outside the United Kingdom or by or on behalf of an internationalorganisation,",
+                                                    "tokenCum": 1483,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a document that can be used (in some or all circumstances) instead of apassport,",
+                                                    "tokenCum": 1502,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "a licence to drive a motor vehicle granted under Part 3 of the Road Traffic1988 or under Part 2 of the Road Traffic (Northern Ireland) Order 1981, or",
+                                                    "tokenCum": 1548,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "a driving licence issued by or on behalf of the authorities of a country orterritory outside the United Kingdom.",
+                                                    "tokenCum": 1573,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 120,
+                                            "tokenSum": 203,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1)(a) \u201cimmigration document\u201d means\u2014",
+                                            "tokenCum": 1588,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a document used for confirming the right of a person under the EU Treatiesin respect of entry or residence in the United Kingdom,",
+                                                    "tokenCum": 1615,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a document that is given in exercise of immigration functions and recordsinformation about leave granted to a person to enter or to remain in theUnited Kingdom, or",
+                                                    "tokenCum": 1648,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a registration card (within the meaning of section 26A of the ImmigrationAct 1971).",
+                                                    "tokenCum": 1674,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 116,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2)(b) \u201cimmigration functions\u201d means functions under theImmigration Acts (within the meaning of the Asylum and Immigration (Treatmentof Claimants, etc.) Act 2004).",
+                                            "tokenCum": 1729,
+                                            "wordSum": 23,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "References in subsection (1) to the issue of a document include itsrenewal, replacement or re-issue (with or without modifications).",
+                                            "tokenCum": 1759,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cdocument\u201d includes a stamp or label.",
+                                            "tokenCum": 1771,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Secretary of State may by order amend the definition of \u201cidentitydocument\u201d.",
+                                            "tokenCum": 1787,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 256,
+                                    "tokenSum": 453,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Meaning of \u201cpersonal information\u201d",
+                                    "tokenCum": 1795,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of sections 4 and 5 \u201cpersonal information\u201d, in relation toan individual (\u201cA\u201d), means\u2014",
+                                            "tokenCum": 1822,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "A\u2019s full name,",
+                                                    "tokenCum": 1828,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "other names by which A is or has previously been known,",
+                                                    "tokenCum": 1840,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "A\u2019s gender,",
+                                                    "tokenCum": 1845,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "A\u2019s date and place of birth,",
+                                                    "tokenCum": 1854,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "external characteristics of A that are capable of being used foridentifying A,",
+                                                    "tokenCum": 1869,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "the address of A\u2019s principal place of residence in the United Kingdom,",
+                                                    "tokenCum": 1884,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "the address of every other place in the United Kingdom or elsewhere where Ahas a place of residence,",
+                                                    "tokenCum": 1904,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "where in the United Kingdom and elsewhere A has previously been resident,",
+                                                    "tokenCum": 1917,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the times at which A was resident at different places in the United Kingdomor elsewhere,",
+                                                    "tokenCum": 1934,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(j)",
+                                                    "text": "A\u2019s current residential status,",
+                                                    "tokenCum": 1942,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(k)",
+                                                    "text": "residential statuses previously held by A, and",
+                                                    "tokenCum": 1952,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(l)",
+                                                    "text": "information about numbers allocated to A for identification purposes andabout the documents (including stamps or labels) to which they relate.",
+                                                    "tokenCum": 1977,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 138,
+                                            "tokenSum": 233,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201cresidential status\u201d means\u2014",
+                                            "tokenCum": 1991,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "A\u2019s nationality,",
+                                                    "tokenCum": 1997,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "A\u2019s entitlement to remain in the United Kingdom, and",
+                                                    "tokenCum": 2011,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "if that entitlement derives from a grant of leave to enter or remain in theUnited Kingdom, the terms and conditions of that leave.",
+                                                    "tokenCum": 2041,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 79,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 182,
+                                    "tokenSum": 322,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Other definitions",
+                                    "tokenCum": 2043,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "\u201cApparatus\u201d includes any equipment, machinery or device and any wire orcable, together with any software used with it.",
+                                            "tokenCum": 2072,
+                                            "wordSum": 18,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In relation to England and Wales and Northern Ireland, an identity documentis \u201cfalse\u201d only if it is false within the meaning of Part 1 of the Forgery andCounterfeiting Act 1981 (see section 9(1)).",
+                                            "tokenCum": 2124,
+                                            "wordSum": 33,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An identity document was \u201cimproperly obtained\u201d if\u2014",
+                                            "tokenCum": 2137,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "false information was provided in, or in connection with, the applicationfor its issue to the person who issued it, or",
+                                                    "tokenCum": 2161,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "false information was provided in, or in connection with, an applicationfor its modification to a person entitled to modify it.",
+                                                    "tokenCum": 2185,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 72,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (3)\u2014",
+                                            "tokenCum": 2192,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cfalse\u201d information includes information containing any inaccuracy oromission that results in a tendency to mislead,",
+                                                    "tokenCum": 2218,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cinformation\u201d includes documents (including stamps and labels) and records,and",
+                                                    "tokenCum": 2234,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the \u201cissue\u201d of a document includes its renewal, replacement or re-issue(with or without modifications).",
+                                                    "tokenCum": 2257,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 87,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "References to the making of a false identity document include themodification of an identity document so that it becomes false.",
+                                            "tokenCum": 2280,
+                                            "wordSum": 20,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This section applies for the purposes of sections 4 to 6.",
+                                            "tokenCum": 2294,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 172,
+                                    "tokenSum": 293,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 1120,
+                            "tokenSum": 1922,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Verification of information",
+                            "tokenCum": 2298,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Verifying information provided with passport applications etc",
+                                    "tokenCum": 2307,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where it appears to the Secretary of State that aperson within subsection (3) may have information that could be used\u2014",
+                                            "tokenCum": 2335,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for verifying information provided to the Secretary of State for thepurposes of, or in connection with, an application for the issue of apassport, or",
+                                                    "tokenCum": 2367,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for determining whether to withdraw an individual\u2019s passport.",
+                                                    "tokenCum": 2380,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 84,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purpose of making the verification or determination mentioned insubsection (1)(a) or (b), the Secretary of State may require the person withinsubsection (3) to provide the Secretary of State with the information by adate specified in the requirement.",
+                                            "tokenCum": 2435,
+                                            "wordSum": 39,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The persons referred to in subsection (1) are\u2014",
+                                            "tokenCum": 2447,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a Minister of the Crown,",
+                                                    "tokenCum": 2453,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a government department,",
+                                                    "tokenCum": 2457,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a Northern Ireland department,",
+                                                    "tokenCum": 2462,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the Welsh Ministers,",
+                                                    "tokenCum": 2468,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "the Registrar General for England and Wales,",
+                                                    "tokenCum": 2478,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "the Registrar General of Births, Deaths and Marriages for Scotland,",
+                                                    "tokenCum": 2497,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "the Registrar General of Births and Deaths in Northern Ireland,",
+                                                    "tokenCum": 2513,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "a qualifying credit reference agency, and",
+                                                    "tokenCum": 2522,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "any other person specified for the purposes of this section by an ordermade by the Secretary of State.",
+                                                    "tokenCum": 2542,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 146,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A credit reference agency is \u201cqualifying\u201d if, at the time a requirement isimposed, the agency is acting for the purposes of a contract for the provisionto the Secretary of State of information that could be used as mentioned insubsection (1)(a) or (b).",
+                                            "tokenCum": 2601,
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A requirement imposed under this section on a qualifying credit referenceagency is enforceable in civil proceedings for\u2014",
+                                            "tokenCum": 2626,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an injunction,",
+                                                    "tokenCum": 2630,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in Scotland, specific performance of a statutory duty under section 45 ofthe Court of Session Act 1988, or",
+                                                    "tokenCum": 2659,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any other appropriate remedy or relief.",
+                                                    "tokenCum": 2667,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 81,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The persons who may be specified under subsection (3)(i) include any personwho carries out a function that\u2014",
+                                            "tokenCum": 2692,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is conferred by or under an enactment (whenever passed or made), and",
+                                                    "tokenCum": 2710,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "falls to be carried out on behalf of the Crown.",
+                                                    "tokenCum": 2722,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 66,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "An order under subsection (3)(i) may provide that where a requirement isimposed under this section on the person specified in the order, the duty tocomply with the requirement is enforceable as mentioned in subsection (5).",
+                                            "tokenCum": 2772,
+                                            "wordSum": 35,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In a case within subsection (1)(a) where a passport is issued, informationprovided in accordance with this section must be destroyed no later than 28days after the passport is issued.",
+                                            "tokenCum": 2816,
+                                            "wordSum": 29,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In a case within subsection (1)(b) where a passport is not withdrawn,information provided in accordance with this section must be destroyed nolater than 28 days after the determination is made not to withdraw thepassport.",
+                                            "tokenCum": 2869,
+                                            "wordSum": 34,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "Subsections (8) and (9) do not apply in a case where it appears to theSecretary of State to be desirable to retain the information for the purposeof\u2014",
+                                            "tokenCum": 2906,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "preventing or detecting crime, or",
+                                                    "tokenCum": 2914,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "apprehending or prosecuting offenders.",
+                                                    "tokenCum": 2924,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 66,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "The Secretary of State may make payments to a person providing informationin accordance with this section in respect of the provision of theinformation.",
+                                            "tokenCum": 2952,
+                                            "wordSum": 23,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2956,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cinformation\u201d includes documents (including stamps and labels) and records,and",
+                                                    "tokenCum": 2972,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the \u201cissue\u201d of a document includes its renewal, replacement or re-issue(with or without modifications).",
+                                                    "tokenCum": 2995,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 54,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 482,
+                                    "tokenSum": 815,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 485,
+                            "tokenSum": 820,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 2996,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Orders ",
+                                    "tokenCum": 2999,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to an order under section 7(6) or 10(3)(i).",
+                                            "tokenCum": 3021,
+                                            "wordSum": 11,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An order is to be made by statutory instrument.",
+                                            "tokenCum": 3033,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An order may be made only if a draft of the statutory instrument containingit has been laid before, and approved by a resolution of, each House ofParliament.",
+                                            "tokenCum": 3068,
+                                            "wordSum": 27,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order may contain incidental, supplemental, consequential ortransitional provision.",
+                                            "tokenCum": 3087,
+                                            "wordSum": 9,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 105,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Consequential amendments",
+                                    "tokenCum": 3093,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Schedule contains consequential amendments.",
+                                            "tokenCum": 3103,
+                                            "wordSum": 5,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 7,
+                                    "tokenSum": 21,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Transitional provision",
+                                    "tokenCum": 3106,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The repeal and re-enactment of provisions by this Act does not affect thecontinuity of the law.",
+                                            "tokenCum": 3131,
+                                            "wordSum": 16,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any subordinate legislation or other thing which\u2014",
+                                            "tokenCum": 3141,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "has been made or done under or for the purposes of a provision repealed andre-enacted by this Act, and",
+                                                    "tokenCum": 3167,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is in force or effective immediately before commencement,",
+                                                    "tokenCum": 3178,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "has effect after commencement as if made or done under or for the purposes ofthe corresponding provision of this Act.",
+                                                            "tokenCum": 3202,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 87,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any reference (express or implied) in any enactment, instrument or documentto a provision of this Act is to be read as including, in relation to times,circumstances or purposes in relation to which any corresponding provisionrepealed by this Act had effect, a reference to that corresponding provision.",
+                                            "tokenCum": 3266,
+                                            "wordSum": 46,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This subsection applies only so far as the context permits.",
+                                            "tokenCum": 3279,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Any reference (express or implied) in any enactment, instrument or documentto a provision repealed and re-enacted by this Act is to be read, in relationto times, circumstances or purposes in relation to which the correspondingprovision of this Act has effect, as a reference or (as the context mayrequire) as including a reference to that corresponding provision.",
+                                            "tokenCum": 3357,
+                                            "wordSum": 56,
+                                            "tokenSum": 81,
+                                            "tokenCount": 81
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This subsection applies only so far as the context permits.",
+                                            "tokenCum": 3370,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Any reference to a provision repealed and re-enacted by this Act which iscontained in a document made, served or issued after commencement is to beread, except so far as a contrary intention appears, as a reference or (as thecontext may require) as including a reference to the corresponding provisionof this Act.",
+                                            "tokenCum": 3439,
+                                            "wordSum": 51,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201ccommencement\u201d means the commencement of this section.",
+                                            "tokenCum": 3456,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "This section has effect instead of section 17(2) of the Interpretation Act1978 (but is without prejudice to section 16 and the other provisions of thatAct).",
+                                            "tokenCum": 3500,
+                                            "wordSum": 25,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        }
+                                    ],
+                                    "wordSum": 280,
+                                    "tokenSum": 439,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Commencement, extent and short title",
+                                    "tokenCum": 3508,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 2 and 3 and this section come into force on the day on which thisAct is passed.",
+                                            "tokenCum": 3531,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The other provisions of this Act come into force at the end of the periodof one month beginning with that day.",
+                                            "tokenCum": 3555,
+                                            "wordSum": 21,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any amendment, repeal or revocation made by this Act has the same extent asthe enactment to which it relates.",
+                                            "tokenCum": 3584,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subject to that, this Act extends to England and Wales, Scotland andNorthern Ireland.",
+                                            "tokenCum": 3604,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act may be cited as the Identity Documents Act 2010.",
+                                            "tokenCum": 3622,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Section 12",
+                                                    "tokenCum": 3626,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 89,
+                                    "tokenSum": 147,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 434,
+                            "tokenSum": 714,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 2422,
+                    "tokenSum": 4073,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2450,
+            "tokenSum": 4176,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2010/40/enacted?view=plain",
+    "title": "Identity Documents Act 2010",
+    "longtitle": "An Act to make provision for and in connection with the repeal of the Identity Cards Act 2006.",
+    "date": "[21st December 2010]",
+    "wordSum": 2450,
+    "tokenSum": 4177,
+    "tokenCount": 0,
+    "totalTokens": 4177
+}

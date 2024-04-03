@@ -1,0 +1,1597 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2006/5/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Transport (Wales) Act 2006",
+                    "tokenCum": 54,
+                    "wordSum": 4,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2006 CHAPTER 5",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about transport to, from and within Wales.",
+                            "tokenCum": 76,
+                            "wordSum": 12,
+                            "tokenSum": 15,
+                            "tokenCount": 15
+                        }
+                    ],
+                    "wordSum": 15,
+                    "tokenSum": 24,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th February 2006]",
+                    "tokenCum": 87,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 144,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General transport functions",
+                            "tokenCum": 147,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "General transport duty",
+                                    "tokenCum": 150,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly must\u2014",
+                                            "tokenCum": 154,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "develop policies for the promotion and encouragement of safe, integrated,sustainable, efficient and economic transport facilities and services to, fromand within Wales, and",
+                                                    "tokenCum": 187,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "carry out its functions so as to implement those policies.",
+                                                    "tokenCum": 198,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 59,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The transport facilities and services mentioned in subsection (1) are\u2014",
+                                            "tokenCum": 212,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "those required to meet the needs of persons living or working in Wales, orvisiting or travelling through Wales, and",
+                                                    "tokenCum": 236,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "those required for the transportation of freight.",
+                                                    "tokenCum": 246,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Those facilities and services include facilities and services forpedestrians and cyclists.",
+                                            "tokenCum": 263,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 85,
+                                    "tokenSum": 143,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Wales Transport Strategy",
+                                    "tokenCum": 267,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly must prepare and publish a document to be known as the WalesTransport Strategy.",
+                                            "tokenCum": 285,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Strategy must set out\u2014",
+                                            "tokenCum": 292,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the policies developed by the Assembly under section 1(1)(a), and",
+                                                    "tokenCum": 308,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "how the Assembly proposes to discharge its duty under section 1(1)(b).",
+                                                    "tokenCum": 327,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 53,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly must keep the Strategy under review and may from time to timerevise it.",
+                                            "tokenCum": 347,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If the Assembly revises the Strategy, it must publish (as it considersappropriate)\u2014",
+                                            "tokenCum": 369,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the whole Strategy as revised, or",
+                                                    "tokenCum": 378,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the revised parts.",
+                                                    "tokenCum": 383,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 47,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In preparing or revising the Strategy the Assembly must consult\u2014",
+                                            "tokenCum": 397,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "each local authority in Wales;",
+                                                    "tokenCum": 403,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "each county council or district council in England whose area abuts Wales;",
+                                                    "tokenCum": 417,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any other persons it considers appropriate.",
+                                                    "tokenCum": 425,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 57,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Strategy and any revision of it do not have effect until approved bythe Assembly.",
+                                            "tokenCum": 443,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The Assembly must not delegate its function under subsection (6).",
+                                            "tokenCum": 456,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 138,
+                                    "tokenSum": 244,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 226,
+                            "tokenSum": 391,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Local transport functions",
+                            "tokenCum": 459,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Local transport plans",
+                                    "tokenCum": 462,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Schedule (which makes provision about local transport plans) has effect.",
+                                            "tokenCum": 477,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 23,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Arrangements for discharge of transport functions",
+                                    "tokenCum": 486,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may direct two or more local authorities in Wales to enterinto arrangements\u2014",
+                                            "tokenCum": 503,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the terms specified in the direction, and",
+                                                    "tokenCum": 512,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to the discharge of transport functions specified in thedirection.",
+                                                    "tokenCum": 526,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 51,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The arrangements may in particular be or include arrangements for the jointdischarge of transport functions.",
+                                            "tokenCum": 548,
+                                            "wordSum": 15,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In deciding whether to give a direction under this section in relation toparticular functions, the Assembly must in particular have regard to theinterests of economy, efficiency and effectiveness in the discharge of thefunctions.",
+                                            "tokenCum": 592,
+                                            "wordSum": 33,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may vary or revoke a direction given under this section inrelation to particular functions by a further such direction, but only if itis satisfied that, on variation or revocation, satisfactory arrangements willbe in place for the discharge of those functions.",
+                                            "tokenCum": 646,
+                                            "wordSum": 42,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Before giving, varying or revoking a direction under this section theAssembly must consult the local authorities concerned and any other persons itconsiders appropriate.",
+                                            "tokenCum": 675,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "\u201cTransport function\u201d means a function of a local authority in Walesrelating to transport.",
+                                            "tokenCum": 693,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 165,
+                                    "tokenSum": 244,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Joint transport authorities",
+                                    "tokenCum": 697,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may by order establish a body (to be known as a jointtransport authority) to discharge specified transport functions for an areamade up of all or any part or parts of the areas of two or more specifiedlocal authorities in Wales.",
+                                            "tokenCum": 747,
+                                            "wordSum": 42,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Before making an order under subsection (1) the Assembly must consult thelocal authorities concerned and any other persons it considers appropriate.",
+                                            "tokenCum": 774,
+                                            "wordSum": 21,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A joint transport authority must be established as a body corporate.",
+                                            "tokenCum": 787,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under subsection (1) may include provision\u2014",
+                                            "tokenCum": 799,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "about the composition of the joint transport authority (including theappointment of members of the authority by the local authorities concerned andby the Assembly);",
+                                                    "tokenCum": 828,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "about the proceedings of the authority (including different provision inrespect of the voting rights of different categories of member);",
+                                                    "tokenCum": 852,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "about the financing of the authority;",
+                                                    "tokenCum": 860,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "about the discharge of the functions of the authority (including provisionfor the discharge of functions by committees);",
+                                                    "tokenCum": 884,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "about officers of the authority;",
+                                                    "tokenCum": 890,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "about the acquisition, appropriation and disposal of land by the authority(including provision for the acquisition of land by agreement orcompulsorily);",
+                                                    "tokenCum": 922,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "for the transfer of staff, property, rights and liabilities to theauthority;",
+                                                    "tokenCum": 939,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "for the payment of compensation in respect of loss suffered by any personin consequence of the constitution of the authority;",
+                                                    "tokenCum": 962,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "for specified enactments relating to local authorities in Wales andtransport functions to have effect, in relation to the authority and itsfunctions, with any specified modifications.",
+                                                    "tokenCum": 995,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 154,
+                                            "tokenSum": 247,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If an order under subsection (1) includes provision for the appointment ofmembers of the authority by persons other than the local authoritiesconcerned, the order must not provide for the total number of members soappointed to be equal to, or exceed, half the total number of members capableof being appointed.",
+                                            "tokenCum": 1060,
+                                            "wordSum": 49,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Assembly may vary or revoke an order under subsection (1) only if it issatisfied that, on variation or revocation, satisfactory arrangements will bein place for the discharge of the functions of the joint transport authority.",
+                                            "tokenCum": 1110,
+                                            "wordSum": 36,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "An order varying or revoking an order under subsection (1) may includeprovision for the transfer of staff, property, rights and liabilities from thejoint transport authority to one or more other joint transport authorities orlocal authorities in Wales.",
+                                            "tokenCum": 1159,
+                                            "wordSum": 37,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Before varying or revoking an order under subsection (1) the Assembly mustconsult\u2014",
+                                            "tokenCum": 1178,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any joint transport authorities and local authorities in Wales which appearto it likely to be affected;",
+                                                    "tokenCum": 1196,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other persons it considers appropriate.",
+                                                    "tokenCum": 1204,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 56,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "An order under subsection (1) is to be treated as being Assembly generalsubordinate legislation for the purposes of the Government of Wales Act [1998(c. 38)](/id/ukpga/1998/38?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 1272,
+                                            "wordSum": 30,
+                                            "tokenSum": 71,
+                                            "tokenCount": 71
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "For the purposes of section 74 of the Local Government Finance Act [1988(c. 41)](/id/ukpga/1988/41?view=plain \"Go to item of legislation\") (levies)\u2014",
+                                            "tokenCum": 1330,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a joint transport authority is to be treated as a levying body with respectto which regulations may be made under subsection (2) of that section, and",
+                                                    "tokenCum": 1363,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the reference in that subsection to the council concerned is to be treatedas a reference to the local authorities specified in the order undersubsection (1) establishing the joint transport authority.",
+                                                    "tokenCum": 1401,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 140,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 1405,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cspecified\u201d, in relation to an order under subsection (1), means specified in the order; ",
+                                                    "tokenCum": 1429,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctransport function\u201d means a function of a local authority in Wales relating to transport. ",
+                                                    "tokenCum": 1450,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 60,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 526,
+                                    "tokenSum": 852,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Financial assistance: local transport functions",
+                                    "tokenCum": 1458,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may give financial assistance to\u2014",
+                                            "tokenCum": 1466,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "joint transport authorities, and",
+                                                    "tokenCum": 1471,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "local authorities in Wales,",
+                                                    "tokenCum": 1476,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "for the purpose of enabling or facilitating them to discharge their functionsrelating to transport.",
+                                                            "tokenCum": 1497,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 18,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 55,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Assembly may attach conditions to financial assistance under thissection.",
+                                            "tokenCum": 1509,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 80,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 752,
+                            "tokenSum": 1203,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Public transport",
+                            "tokenCum": 1511,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Provision of public passenger transport services",
+                                    "tokenCum": 1518,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may secure the provision of any public passenger transportservices which it considers appropriate for the purpose of meeting any publictransport requirements within Wales which would not in its view otherwise bemet.",
+                                            "tokenCum": 1556,
+                                            "wordSum": 33,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In exercising its power under subsection (1) the Assembly must have regardto\u2014",
+                                            "tokenCum": 1575,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a combination of economy, efficiency and effectiveness,",
+                                                    "tokenCum": 1585,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Wales Transport Strategy, and",
+                                                    "tokenCum": 1592,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the transport needs of members of the public who are elderly or disabled.",
+                                                    "tokenCum": 1607,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 66,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purpose of securing the provision of a service under subsection (1)the Assembly may enter into agreements providing for service subsidies.",
+                                            "tokenCum": 1639,
+                                            "wordSum": 22,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But the Assembly may not enter into an agreement under subsection (3)unless the service in question would not be provided without a subsidy.",
+                                            "tokenCum": 1669,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "\u201cPublic passenger transport services\u201d means all those services on whichmembers of the public rely for getting from place to place, when not relyingon private facilities of their own, including school transport but notincluding\u2014",
+                                            "tokenCum": 1711,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "services provided under permits under section 19 of the Transport Act [1985(c. 67)](/id/ukpga/1985/67?view=plain \"Go to item of legislation\") (permits inrelation to use of buses by educational and other bodies) other than servicesprovided wholly or mainly to meet the needs of members of the public who areelderly or disabled;",
+                                                    "tokenCum": 1805,
+                                                    "wordSum": 48,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 98
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "excursions or tours.",
+                                                    "tokenCum": 1812,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 84,
+                                            "tokenSum": 154,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "\u201cAgreements providing for service subsidies\u201d are agreements under which anyperson undertakes to provide public passenger transport services of anydescription on terms which include provision for the making of payments tothat person by the Assembly.",
+                                            "tokenCum": 1859,
+                                            "wordSum": 34,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "\u201cExcursion or tour\u201d has the meaning given in section 137(1) of theTransport Act [1985 (c. 67)](/id/ukpga/1985/67?view=plain \"Go to item oflegislation\").",
+                                            "tokenCum": 1923,
+                                            "wordSum": 20,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        }
+                                    ],
+                                    "wordSum": 259,
+                                    "tokenSum": 455,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Public Transport Users' Committee for Wales",
+                                    "tokenCum": 1930,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may by order establish a body corporate, to be known as thePublic Transport Users' Committee for Wales or Pwyllgor DefnyddwyrTrafnidiaeth Gyhoeddus Cymru.",
+                                            "tokenCum": 1977,
+                                            "wordSum": 24,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Assembly may by order provide for a body established under subsection(1) to be known by a different name.",
+                                            "tokenCum": 2001,
+                                            "wordSum": 19,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A body established under subsection (1) is referred to in this Act as theCommittee.",
+                                            "tokenCum": 2023,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under subsection (1) may include provision\u2014",
+                                            "tokenCum": 2035,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "about the status and membership of the Committee (including how members areto be appointed);",
+                                                    "tokenCum": 2052,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "about the proceedings of the Committee;",
+                                                    "tokenCum": 2060,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "about officers and staff of the Committee;",
+                                                    "tokenCum": 2068,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "about the discharge of functions of the Committee (including provision forthe discharge of functions by sub-committees with members who are not allmembers of the Committee);",
+                                                    "tokenCum": 2103,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "about the making of reports by the Committee to the Assembly;",
+                                                    "tokenCum": 2115,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "about the making of payments to or in respect of officers, staff andmembers of the Committee;",
+                                                    "tokenCum": 2135,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "about the payment of pensions and the making of other payments to or inrespect of former officers and staff of the Committee;",
+                                                    "tokenCum": 2162,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "about the keeping of accounts by the Committee and their audit andsubmission to the Assembly;",
+                                                    "tokenCum": 2181,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "about the acquisition and disposal by the Committee of property, rights andliabilities (including land);",
+                                                    "tokenCum": 2202,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(j)",
+                                                    "text": "authorising the Committee to charge for any services it provides in thedischarge of any of its functions;",
+                                                    "tokenCum": 2225,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(k)",
+                                                    "text": "for the transfer of staff, property, rights and liabilities to theCommittee.",
+                                                    "tokenCum": 2244,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 166,
+                                            "tokenSum": 268,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Assembly may make payments to the Committee of such amounts, at suchtimes, and on such conditions (if any) as it considers appropriate.",
+                                            "tokenCum": 2275,
+                                            "wordSum": 23,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Assembly may by order make provision for the transfer of staff,property, rights and liabilities from the Committee to any other person.",
+                                            "tokenCum": 2302,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 274,
+                                    "tokenSum": 443,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Functions of the Committee",
+                                    "tokenCum": 2307,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Committee may consider and make recommendations to the Assembly aboutany matter relating to public passenger transport services or facilities to,from or within Wales.",
+                                            "tokenCum": 2337,
+                                            "wordSum": 24,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Committee must consider and make recommendations to the Assembly aboutany such matter if asked to do so by the Assembly.",
+                                            "tokenCum": 2361,
+                                            "wordSum": 21,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly may by order\u2014",
+                                            "tokenCum": 2367,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "confer further functions on the Committee;",
+                                                    "tokenCum": 2374,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "remove functions from the Committee;",
+                                                    "tokenCum": 2380,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "make changes to any functions of the Committee;",
+                                                    "tokenCum": 2389,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "transfer any functions of the Committee to another person (including to theAssembly).",
+                                                    "tokenCum": 2404,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 62,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under subsection (3) may confer a function on the Committee, ormake changes to a function of the Committee, only if the new function, or thefunction as changed, relates to public passenger transport services orfacilities to, from or within Wales.",
+                                            "tokenCum": 2459,
+                                            "wordSum": 41,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The functions that may be conferred on the Committee under subsection(3)(a) include a power\u2014",
+                                            "tokenCum": 2481,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to enter into arrangements with another body for discharging functions onbehalf of that body in relation to Wales;",
+                                                    "tokenCum": 2505,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to give effect to any such arrangements;",
+                                                    "tokenCum": 2514,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "to enter into arrangements with another body for that body to discharge anyfunctions of the Committee on behalf of the Committee.",
+                                                    "tokenCum": 2540,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 96,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The discharge of a function by the Committee on behalf of another body doesnot affect the responsibility of the body for the discharge of the function.",
+                                            "tokenCum": 2571,
+                                            "wordSum": 26,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The discharge of a function by another body on behalf of the Committee doesnot affect the responsibility of the Committee for the discharge of thefunction.",
+                                            "tokenCum": 2602,
+                                            "wordSum": 25,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The provision that may be made in an order under subsection (3) includesprovision amending or repealing any provision of an enactment conferringfunctions on the Committee.",
+                                            "tokenCum": 2639,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "The Committee may do anything which is calculated to facilitate, or isconducive or incidental to, the discharge of any of its functions.",
+                                            "tokenCum": 2671,
+                                            "wordSum": 22,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2675,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpublic passenger transport services\u201d has the meaning given in section 7; ",
+                                                    "tokenCum": 2693,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpublic passenger transport facilities\u201d means facilities for public passenger transport services. ",
+                                                    "tokenCum": 2710,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 50,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 311,
+                                    "tokenSum": 476,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Guidance and directions to the Committee",
+                                    "tokenCum": 2718,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may\u2014",
+                                            "tokenCum": 2722,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "issue guidance to the Committee as to how it is to discharge its functions;",
+                                                    "tokenCum": 2738,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "give directions to the Committee as to how it is to discharge itsfunctions.",
+                                                    "tokenCum": 2754,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 47,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Committee must\u2014",
+                                            "tokenCum": 2758,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "have regard to any guidance issued under subsection (1)(a);",
+                                                    "tokenCum": 2772,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "comply with any directions given under subsection (1)(b).",
+                                                    "tokenCum": 2786,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 43,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Guidance or directions under this section must be in writing.",
+                                            "tokenCum": 2799,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may vary or revoke directions given under this section.",
+                                            "tokenCum": 2812,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 77,
+                                    "tokenSum": 132,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 923,
+                            "tokenSum": 1509,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Air transport",
+                            "tokenCum": 2814,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Financial assistance: air transport services",
+                                    "tokenCum": 2822,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may give financial assistance to\u2014",
+                                            "tokenCum": 2830,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "persons who provide or propose to provide air transport services whichstart or end at an airport in Wales, and",
+                                                    "tokenCum": 2852,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "persons who provide or propose to provide airport facilities or services ata place in Wales,",
+                                                    "tokenCum": 2870,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "for the purpose of enabling or facilitating them to provide those services orfacilities.",
+                                                            "tokenCum": 2889,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 83,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But the Assembly may give financial assistance under this section only ifthe services or facilities would not in its view be provided without thefinancial assistance.",
+                                            "tokenCum": 2919,
+                                            "wordSum": 25,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly may attach conditions to financial assistance under thissection.",
+                                            "tokenCum": 2931,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "\u201cAir transport services\u201d means services for the carriage by air ofpassengers or cargo.",
+                                            "tokenCum": 2950,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 107,
+                                    "tokenSum": 163,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 109,
+                            "tokenSum": 166,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary",
+                            "tokenCum": 2953,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Commencement ",
+                                    "tokenCum": 2957,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The preceding provisions of this Act come into force in accordance withprovision made by the Assembly by order.",
+                                            "tokenCum": 2980,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 32,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Orders ",
+                                    "tokenCum": 2983,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to an order made by the Assembly under this Act.",
+                                            "tokenCum": 2997,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The power to make the order is exercisable by statutory instrument.",
+                                            "tokenCum": 3013,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The order\u2014",
+                                            "tokenCum": 3016,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may make different provision for different purposes;",
+                                                    "tokenCum": 3024,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may include incidental, supplemental, consequential, saving or transitionalprovision.",
+                                                    "tokenCum": 3043,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 41,
+                                            "tokenCount": 5
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 82,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3047,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies for the purposes of this Act.",
+                                            "tokenCum": 3057,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cThe Assembly\u201d means the National Assembly for Wales.",
+                                            "tokenCum": 3068,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cLocal authority in Wales\u201d means a county council or county borough councilin Wales.",
+                                            "tokenCum": 3086,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 54,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Money ",
+                                    "tokenCum": 3089,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "There shall be paid out of money provided by Parliament any increaseattributable to this Act in the sums payable out of money provided byParliament under another enactment.",
+                                            "tokenCum": 3125,
+                                            "wordSum": 27,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 44,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Extent ",
+                                    "tokenCum": 3128,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 3137,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 9,
+                                    "tokenSum": 17,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Short title",
+                                    "tokenCum": 3139,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Transport (Wales) Act 2006.",
+                                            "tokenCum": 3159,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 13,
+                                    "tokenSum": 27,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 3",
+                                    "tokenCum": 3162,
+                                    "wordSum": 2,
+                                    "tokenSum": 5,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 145,
+                            "tokenSum": 265,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 2191,
+                    "tokenSum": 3592,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2214,
+            "tokenSum": 3684,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2006/5/enacted?view=plain",
+    "title": "Transport (Wales) Act 2006",
+    "longtitle": "An Act to make provision about transport to, from and within Wales.",
+    "date": "[16th February 2006]",
+    "wordSum": 2214,
+    "tokenSum": 3685,
+    "tokenCount": 0,
+    "totalTokens": 3685
+}

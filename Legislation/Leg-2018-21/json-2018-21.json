@@ -1,0 +1,1469 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2018/21/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Domestic Gas and Electricity (Tariff Cap) Act 2018",
+                    "tokenCum": 62,
+                    "wordSum": 8,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2018 CHAPTER 21",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for the imposition of a cap on rates charged todomestic customers for the supply of gas and electricity; and for connectedpurposes.",
+                            "tokenCum": 105,
+                            "wordSum": 26,
+                            "tokenSum": 35,
+                            "tokenCount": 35
+                        }
+                    ],
+                    "wordSum": 29,
+                    "tokenSum": 45,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[19th July 2018]",
+                    "tokenCum": 116,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 173,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "The cap",
+                            "tokenCum": 175,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Cap on standard variable and default rates",
+                                    "tokenCum": 182,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "As soon as practicable after this Act is passed, the Gas and ElectricityMarkets Authority (\u201cthe Authority\u201d) must modify the standard supply licenceconditions so that they include conditions (\u201ctariff cap conditions\u201d) thatimpose a cap on all standard variable and default rates that may be charged bythe holders of supply licences for the supply of gas or electricity underdomestic supply contracts.",
+                                            "tokenCum": 271,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "But this is subject to section 3 (exemptions from the cap).",
+                                                    "tokenCum": 287,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 112,
+                                            "tokenCount": 91
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Authority\u2014",
+                                            "tokenCum": 291,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may modify the tariff cap conditions from time to time, but",
+                                                    "tokenCum": 304,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "must secure that such conditions continue to be included in the standardsupply licence conditions until they cease to have effect by virtue of section8.",
+                                                    "tokenCum": 334,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 58,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The \u201cstandard supply licence conditions\u201d are the standard conditionsincorporated in supply licences by virtue of section 8 of the Gas Act 1986 orsection 8A of the Electricity Act 1989.",
+                                            "tokenCum": 385,
+                                            "wordSum": 29,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In relation to a domestic supply contract\u2014",
+                                            "tokenCum": 393,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cstandard variable rate\u201d means a rate or amount charged for, or in relationto, the supply of gas or electricity under the contract that is not fixed fora period specified in the contract, and",
+                                                    "tokenCum": 434,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cdefault rate\u201d means a rate or amount charged for, or in relation to, thesupply of gas or electricity under the contract that applies if the customerunder the contract fails to choose an alternative rate.",
+                                                    "tokenCum": 478,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 104,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Modifications made by the Authority under this section may includeconsequential, incidental, supplemental and transitional modifications of thestandard supply licence conditions.",
+                                            "tokenCum": 514,
+                                            "wordSum": 20,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Authority must exercise its functions under this section with a view toprotecting existing and future domestic customers who pay standard variableand default rates, and in so doing it must have regard to the followingmatters\u2014",
+                                            "tokenCum": 558,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the need to create incentives for holders of supply licences to improvetheir efficiency;",
+                                                    "tokenCum": 579,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the need to set the cap at a level that enables holders of supply licencesto compete effectively for domestic supply contracts;",
+                                                    "tokenCum": 606,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the need to maintain incentives for domestic customers to switch todifferent domestic supply contracts;",
+                                                    "tokenCum": 625,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the need to ensure that holders of supply licences who operate efficientlyare able to finance activities authorised by the licence.",
+                                                    "tokenCum": 652,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 103,
+                                            "tokenSum": 157,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Nothing in this section is to be read as requiring the cap imposed on astandard variable or default rate to apply in relation to any charge that\u2014",
+                                            "tokenCum": 682,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "forms part of that rate, but",
+                                                    "tokenCum": 689,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not paid on a regular basis by the majority of customers who pay thatrate.",
+                                                    "tokenCum": 706,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 65,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 388,
+                                    "tokenSum": 598,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Tariff cap conditions",
+                                    "tokenCum": 710,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Tariff cap conditions\u2014",
+                                            "tokenCum": 715,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "have effect in relation to supply licences, whenever granted, and domesticsupply contracts, whenever entered into;",
+                                                    "tokenCum": 740,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "must set out how the cap is to be calculated, and may make provision aboutassumptions required to be made in making the calculation;",
+                                                    "tokenCum": 768,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may make provision specifying how a standard variable or default rate is tobe identified;",
+                                                    "tokenCum": 784,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "may make provision requiring information to be provided by holders ofsupply licences to the Authority for the purposes of exercising functionsrelating to tariff cap conditions;",
+                                                    "tokenCum": 820,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "may confer functions on the Authority;",
+                                                    "tokenCum": 828,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "may make different provision for different areas or different cases;",
+                                                    "tokenCum": 839,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "may do any of the things authorised for supply licences by section7B(5)(a), (6) or (7) of the Gas Act 1986 or section 7(3), (4), (5) or (6A) ofthe Electricity Act 1989.",
+                                                    "tokenCum": 905,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                }
+                                            ],
+                                            "wordSum": 127,
+                                            "tokenSum": 226,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But tariff cap conditions may not\u2014",
+                                            "tokenCum": 913,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "exempt holders of supply licences from their application, or",
+                                                    "tokenCum": 926,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make different provision for different holders of supply licences.",
+                                                    "tokenCum": 938,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 44,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Before making the first modifications under section 1 the Authority must,and before making any subsequent modifications under that section theAuthority may, consult such persons as it considers appropriate on themethodology to be used for the purposes of the cap.",
+                                            "tokenCum": 988,
+                                            "wordSum": 39,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Consultation undertaken before this Act is passed is as effective for thepurposes of subsection (3) as consultation undertaken after it is passed.",
+                                            "tokenCum": 1021,
+                                            "wordSum": 22,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 215,
+                                    "tokenSum": 365,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Exemptions from the cap",
+                                    "tokenCum": 1027,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Tariff cap conditions do not apply in relation to domestic customers who\u2014",
+                                            "tokenCum": 1041,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "benefit from the cap on rates or amounts charged for, or in relation to,the supply of gas or electricity provided for by the Energy MarketInvestigation (Prepayment Charge Restriction) Order 2016, made by theCompetition and Markets Authority, or",
+                                                    "tokenCum": 1103,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "benefit from a cap on such rates or amounts that is a replacement for thecap provided for by that Order.",
+                                                    "tokenCum": 1125,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 109,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Tariff cap conditions may provide for the conditions not to apply inrelation to\u2014",
+                                            "tokenCum": 1141,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "domestic customers who benefit from a cap imposed by the Authority on ratesor amounts charged for, or in relation to, the supply of gas or electricity tocustomers who appear to the Authority to be vulnerable by reason of theirfinancial or other circumstances;",
+                                                    "tokenCum": 1197,
+                                                    "wordSum": 42,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "standard variable rates which apply only if chosen by domestic customersif, or to the extent that, the rates in question appear to the Authority tosupport the production of gas, or the generation of electricity, fromrenewable sources.",
+                                                    "tokenCum": 1245,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 131,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Authority must consult such persons as it considers appropriate aboutwhether and, if so, how to exercise the power conferred by subsection (2)(b).",
+                                            "tokenCum": 1280,
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Authority may carry out the consultation either before, or in thecourse of, taking the steps described in section 4 in relation to proposedmodifications which consist of or include provision to be made in the exerciseof the power conferred by subsection (2)(b).",
+                                            "tokenCum": 1337,
+                                            "wordSum": 42,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Authority must secure that the consultation is carried out at a timethat will enable it, if it decides to exercise the power conferred bysubsection (2)(b), to do so\u2014",
+                                            "tokenCum": 1379,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "when making the first modifications under section 1, or",
+                                                    "tokenCum": 1390,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if that is not practicable, as soon as practicable after it has made thefirst modifications under that section.",
+                                                    "tokenCum": 1415,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 89,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Consultation undertaken before this Act is passed is as effective for thepurposes of subsection (3) as consultation undertaken after it is passed.",
+                                            "tokenCum": 1448,
+                                            "wordSum": 22,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 307,
+                                    "tokenSum": 471,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 912,
+                            "tokenSum": 1437,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Procedure",
+                            "tokenCum": 1450,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Notice of proposed modifications",
+                                    "tokenCum": 1454,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Before making any modifications under section 1, the Authority must takethe following steps.",
+                                            "tokenCum": 1472,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Authority must give notice\u2014",
+                                            "tokenCum": 1479,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "stating that it proposes to make the modifications,",
+                                                    "tokenCum": 1489,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "setting out the proposed modifications and their effect, and",
+                                                    "tokenCum": 1499,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "specifying the period within which representations with respect to theproposed modifications may be made.",
+                                                    "tokenCum": 1516,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "That period must be a period of not less than 28 days beginning with theday on which the notice is published.",
+                                            "tokenCum": 1541,
+                                            "wordSum": 21,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The notice must be published in such manner as the Authority considersappropriate for the purpose of bringing it to the attention of persons likelyto be affected by the proposed modifications, and a copy of the notice must besent to\u2014",
+                                            "tokenCum": 1589,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "each holder of a supply licence,",
+                                                    "tokenCum": 1597,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Secretary of State,",
+                                                    "tokenCum": 1602,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "Citizens Advice, and",
+                                                    "tokenCum": 1609,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "Citizens Advice Scotland.",
+                                                    "tokenCum": 1616,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 94,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Authority must consider any representations which are made before theend of the period specified in the notice.",
+                                            "tokenCum": 1637,
+                                            "wordSum": 18,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Steps taken before this Act is passed are as effective for the purposes ofthis section as steps taken after it is passed.",
+                                            "tokenCum": 1662,
+                                            "wordSum": 22,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 169,
+                                    "tokenSum": 260,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Publication and effect of modifications",
+                                    "tokenCum": 1668,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if, after taking the steps described in section 4, theAuthority decides to make the modifications.",
+                                            "tokenCum": 1693,
+                                            "wordSum": 18,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Authority must\u2014",
+                                            "tokenCum": 1698,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "publish the modifications in such manner as it considers appropriate forthe purpose of bringing them to the attention of persons likely to be affectedby them,",
+                                                    "tokenCum": 1727,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "state the effect of the modifications,",
+                                                    "tokenCum": 1734,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "state how it has taken account of any representations made in the periodspecified in the notice mentioned in section 4, and",
+                                                    "tokenCum": 1759,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "state the reason for any differences between the modifications and thoseset out in the notice.",
+                                                    "tokenCum": 1777,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 103,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Each modification has effect from the day specified by the Authority inrelation to it.",
+                                            "tokenCum": 1794,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "That day must be after the end of the period of 56 days beginning with theday on which the modification is published.",
+                                            "tokenCum": 1820,
+                                            "wordSum": 22,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 129,
+                                    "tokenSum": 188,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 299,
+                            "tokenSum": 451,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Review and termination",
+                            "tokenCum": 1824,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Review of level at which cap is set",
+                                    "tokenCum": 1832,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Authority must, at least once every 6 months while tariff capconditions have effect, review the level at which the cap is set.",
+                                            "tokenCum": 1863,
+                                            "wordSum": 23,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "As soon as practicable after carrying out such a review the Authority mustpublish a statement stating whether, in consequence of the review, theAuthority proposes to change the level at which the cap is set.",
+                                            "tokenCum": 1907,
+                                            "wordSum": 34,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 91,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Review of competition for domestic supply contracts",
+                                    "tokenCum": 1915,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Authority must carry out a review into whether conditions are in placefor effective competition for domestic supply contracts.",
+                                            "tokenCum": 1938,
+                                            "wordSum": 19,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Such a review must, among other things, consider the extent to whichprogress has been made in installing smart meters for use by domesticcustomers.",
+                                            "tokenCum": 1967,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Such a review must be carried out\u2014",
+                                            "tokenCum": 1975,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the year 2020,",
+                                                    "tokenCum": 1984,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the tariff cap conditions are extended to have effect for the year 2021,in that year, and",
+                                                    "tokenCum": 2009,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "if the tariff cap conditions are further extended to have effect for theyear 2022, in that year.",
+                                                    "tokenCum": 2034,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 82,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "As soon as practicable after carrying out the review, and in any event onor before 31 August in the year in question, the Authority must\u2014",
+                                            "tokenCum": 2068,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "produce a report on the outcome, which must include a recommendation as towhether or not the Authority considers that the tariff cap conditions shouldbe extended to have effect for the following year, and",
+                                                    "tokenCum": 2109,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "publish the report and send a copy to the Secretary of State.",
+                                                    "tokenCum": 2122,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 99,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "After considering the report the Secretary of State must publish astatement setting out whether the Secretary of State considers that conditionsare in place for effective competition for domestic supply contracts.",
+                                            "tokenCum": 2157,
+                                            "wordSum": 30,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The statement must be published on or before 31 October in the year inquestion.",
+                                            "tokenCum": 2175,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 208,
+                                    "tokenSum": 308,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Extension and termination of tariff cap conditions",
+                                    "tokenCum": 2185,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The tariff cap conditions cease to have effect at the end of the year 2020unless the statement published by the Secretary of State in that year undersection 7 is to the effect that the conditions are not yet in place foreffective competition for domestic supply contracts, in which case the tariffcap conditions have effect for the year 2021.",
+                                            "tokenCum": 2263,
+                                            "wordSum": 58,
+                                            "tokenSum": 81,
+                                            "tokenCount": 81
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the tariff cap conditions are extended by virtue of subsection (1), theycease to have effect at the end of the year 2021 unless the statementpublished by the Secretary of State in that year under section 7 is to theeffect that the conditions are not yet in place for effective competition fordomestic supply contracts, in which case the tariff cap conditions have effectfor the year 2022.",
+                                            "tokenCum": 2354,
+                                            "wordSum": 66,
+                                            "tokenSum": 94,
+                                            "tokenCount": 94
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the tariff cap conditions are extended by virtue of subsection (2), theycease to have effect at the end of the year 2022 unless the statementpublished by the Secretary of State in that year under section 7 is to theeffect that the conditions are not yet in place for effective competition fordomestic supply contracts, in which case the tariff cap conditions\u2014",
+                                            "tokenCum": 2435,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "have effect for the year 2023, and",
+                                                    "tokenCum": 2447,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "cease to have effect at the end of that year.",
+                                                    "tokenCum": 2459,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 116,
+                                            "tokenCount": 83
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "On the tariff cap conditions ceasing to have effect as provided by thissection, the functions of the Authority under section 1 cease to beexercisable.",
+                                            "tokenCum": 2495,
+                                            "wordSum": 24,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 233,
+                                    "tokenSum": 342,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 509,
+                            "tokenSum": 746,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Protection for customers after termination",
+                            "tokenCum": 2502,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Protection for domestic customers after termination of tariff capconditions",
+                                    "tokenCum": 2516,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Before the tariff cap conditions have ceased to have effect as provided bysection 8, and afterwards at such intervals as the Authority considersappropriate, the Authority must carry out a review into\u2014",
+                                            "tokenCum": 2559,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the pricing practices of holders of supply licences for the supply of gasand electricity under domestic supply contracts, and",
+                                                    "tokenCum": 2585,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "whether there are categories of domestic customers paying, or who may inthe future pay, standard variable and default rates for whom protectionagainst excessive charges should be provided.",
+                                                    "tokenCum": 2621,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 77,
+                                            "tokenSum": 116,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Such a review must, among other things, consider\u2014",
+                                            "tokenCum": 2632,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "whether there are domestic customers who the Authority considers willsuffer an excessive tariff differential where on the termination of fixedrates the customers move to standard variable or default rates, and",
+                                                    "tokenCum": 2672,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "whether customers who appear to the Authority to be vulnerable by reason oftheir financial or other circumstances are in need of protection.",
+                                                    "tokenCum": 2699,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 89,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the review concludes that protection should be provided, the Authoritymust take such steps as it considers appropriate by the exercise of itsfunctions under the Gas Act 1986 and the Electricity Act 1989.",
+                                            "tokenCum": 2748,
+                                            "wordSum": 33,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        }
+                                    ],
+                                    "wordSum": 179,
+                                    "tokenSum": 273,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 184,
+                            "tokenSum": 281,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Consequential modification of conditions",
+                            "tokenCum": 2754,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Consequential modification of standard supply licence conditions",
+                                    "tokenCum": 2764,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Authority may make such modifications of any standard supply licenceconditions as it considers necessary or expedient in consequence of the tariffcap conditions ceasing to have effect as provided by section 8.",
+                                            "tokenCum": 2807,
+                                            "wordSum": 32,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Authority must\u2014",
+                                            "tokenCum": 2812,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "publish the modifications in such manner as it considers appropriate forthe purpose of bringing them to the attention of persons likely to be affectedby them, and",
+                                                    "tokenCum": 2842,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "state the effect of the modifications.",
+                                                    "tokenCum": 2849,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 53,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Each modification has effect from the day specified by the Authority inrelation to it.",
+                                            "tokenCum": 2866,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 131,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 92,
+                            "tokenSum": 138,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provisions",
+                            "tokenCum": 2869,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Amendments of the Utilities Act 2000",
+                                    "tokenCum": 2882,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Utilities Act 2000 is amended as follows.",
+                                            "tokenCum": 2897,
+                                            "wordSum": 8,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 33(1) (standard conditions of electricity licences), omit the\u201cor\u201d after paragraph (f) and after paragraph (g) insert \u201c, or",
+                                            "tokenCum": 2935,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "under section 1 or 10 of the Domestic Gas and Electricity (Tariff Cap) Act2018.\u201d",
+                                                    "tokenCum": 2963,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 73,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 81(2) (standard conditions of gas licences), for \u201cor undersection 139 of the Energy Act 2013\u201d substitute \u201c, under section 139 of theEnergy Act 2013 or under section 1 or 10 of the Domestic Gas and Electricity(Tariff Cap) Act 2018\u201d.",
+                                            "tokenCum": 3048,
+                                            "wordSum": 41,
+                                            "tokenSum": 88,
+                                            "tokenCount": 88
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 105 (general restrictions on disclosure of information)\u2014",
+                                            "tokenCum": 3064,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (1)(a), after \u201cEnergy Act 2008\u201d insert \u201cor the Domestic Gasand Electricity (Tariff Cap) Act 2018\u201d, and",
+                                                    "tokenCum": 3108,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (6), at the end insert\u2014",
+                                                    "tokenCum": 3119,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(z)",
+                                                    "text": "the Domestic Gas and Electricity (Tariff Cap) Act 2018.\u201d",
+                                                    "tokenCum": 3139,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 106,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 132,
+                                    "tokenSum": 300,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3143,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3147,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe Authority\u201d has the meaning given by section 1(1); ",
+                                            "tokenCum": 3166,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cdeemed supply contract\u201d means a contract deemed to exist pursuant to any of the following provisions\u2014 ",
+                                            "tokenCum": 3193,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "paragraph 8 of Schedule 2B to the Gas Act 1986;",
+                                                    "tokenCum": 3193,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraph 3 of Schedule 6 to the Electricity Act 1989;",
+                                                    "tokenCum": 3212,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "paragraph 19 of Schedule 5 to the Gas Act 1995;",
+                                                    "tokenCum": 3231,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "paragraph 23 of Schedule 7 to the Utilities Act 2000;",
+                                                    "tokenCum": 3250,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cdefault rate\u201d has the meaning given by section 1(4); ",
+                                                            "tokenCum": 3288,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cdomestic customer\u201d means a customer under a domestic supply contract; ",
+                                                            "tokenCum": 3305,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cdomestic supply contract\u201d means a contract (including a deemed supply contract) for the supply of gas or electricity at domestic premises wholly or mainly for domestic purposes; ",
+                                                            "tokenCum": 3345,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cmodify\u201d includes amend, add to or remove, and references to modifications are to be construed accordingly; ",
+                                                            "tokenCum": 3372,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cstandard supply licence conditions\u201d has the meaning given by section 1(3); ",
+                                                            "tokenCum": 3393,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cstandard variable rate\u201d has the meaning given by section 1(4); ",
+                                                            "tokenCum": 3412,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csupply\u201d\u2014 ",
+                                                            "tokenCum": 3420,
+                                                            "wordSum": 2,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 101,
+                                                    "tokenSum": 209,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to gas, is to be read in accordance with section 48(2) of the GasAct 1986;",
+                                                    "tokenCum": 3420,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to electricity, is to be read in accordance with section 4(4) ofthe Electricity Act 1989;",
+                                                    "tokenCum": 3450,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csupply licence\u201d means a licence under section 7A(1) of the Gas Act 1986 or section 6(1)(d) of the Electricity Act 1989; ",
+                                                            "tokenCum": 3531,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 55,
+                                                            "tokenCount": 55
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201ctariff cap conditions\u201d has the meaning given by section 1(1). ",
+                                                            "tokenCum": 3551,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 50,
+                                                    "tokenSum": 115,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 215,
+                                            "tokenSum": 457,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 229,
+                                    "tokenSum": 492,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Extent and commencement",
+                                    "tokenCum": 3557,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales and Scotland.",
+                                            "tokenCum": 3567,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force on the day on which it is passed.",
+                                            "tokenCum": 3581,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 38,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Short title",
+                                    "tokenCum": 3583,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Domestic Gas and Electricity (Tariff Cap) Act2018.",
+                                            "tokenCum": 3609,
+                                            "wordSum": 14,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 16,
+                                    "tokenSum": 33,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 3609,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 404,
+                            "tokenSum": 869,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 2436,
+                    "tokenSum": 3980,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2477,
+            "tokenSum": 4101,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2018/21/enacted?view=plain",
+    "title": "Domestic Gas and Electricity (Tariff Cap) Act 2018",
+    "longtitle": "An Act to make provision for the imposition of a cap on rates charged to domestic customers for the supply of gas and electricity; and for connected purposes.",
+    "date": "[19th July 2018]",
+    "wordSum": 2477,
+    "tokenSum": 4102,
+    "tokenCount": 0,
+    "totalTokens": 4102
+}

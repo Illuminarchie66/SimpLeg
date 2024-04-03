@@ -1,0 +1,639 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/22/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Local Government (Review of Decisions) Act 2015",
+                    "tokenCum": 59,
+                    "wordSum": 7,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 22",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the procedure for conducting investigationsunder Part 3 of the Local Government Act 1974; and to make provision for caseswhere an authority to which that Part applies takes a decision that affectsthe holding of an event for a reason relating to health or safety.",
+                            "tokenCum": 131,
+                            "wordSum": 49,
+                            "tokenSum": 64,
+                            "tokenCount": 64
+                        }
+                    ],
+                    "wordSum": 52,
+                    "tokenSum": 74,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 142,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 199,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Decision invoking health or safety: notification, reasons and review",
+                            "tokenCum": 212,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In the Local Government Act 1974 before Part 3 insert\u2014",
+                                    "tokenCum": 228,
+                                    "wordSum": 10,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201cPART 2ADecisions relating to holding of events",
+                                    "tokenCum": 241,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 22",
+                                            "text": "ADecisions invoking health or safety: notification, reasons and review",
+                                            "tokenCum": 255,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Subsection (2) applies if\u2014",
+                                                    "tokenCum": 263,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a decision that relates to an event in England is taken by or on behalf ofan authority to which Part 3 of this Act applies,",
+                                                            "tokenCum": 293,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the decision is taken in connection with the exercise of the authority\u2019sadministrative functions, and",
+                                                            "tokenCum": 313,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "for a reason related to the health or safety of any person, or for reasonsthat include such a reason, the decision has effect to\u2014",
+                                                            "tokenCum": 342,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "stop the holding of the event,",
+                                                            "tokenCum": 349,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "impose restrictions on the holding of the event,",
+                                                            "tokenCum": 359,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "impose conditions to be met in connection with the holding of the event,or",
+                                                            "tokenCum": 375,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iv)",
+                                                            "text": "do all, or any two, of those things.",
+                                                            "tokenCum": 386,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 102,
+                                                    "tokenSum": 170,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The authority must ensure that written notification of the decision isgiven (electronically or otherwise) to\u2014",
+                                                    "tokenCum": 408,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person who made the application or other request to which the decisionis a response, or",
+                                                            "tokenCum": 426,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a person who appears to the authority to be an organiser of the event ifthe decision is made otherwise than on a request.",
+                                                            "tokenCum": 452,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 54,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Written notification given for the purposes of subsection (2)\u2014",
+                                                    "tokenCum": 466,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "must be given on the day the decision is taken or, if it is not reasonablypracticable to give the notification on that day, must be given on the firstworking day after that day,",
+                                                            "tokenCum": 508,
+                                                            "wordSum": 33,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "must, if the decision has the effect mentioned in subsection (1)(c)(i),give details of the decision\u2019s effect,",
+                                                            "tokenCum": 537,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "must, if the decision has the effect mentioned in subsection (1)(c)(ii) or(iii), give details of the restrictions or conditions,",
+                                                            "tokenCum": 568,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "must include the reasons for the decision so far as it has any of theeffects mentioned in subsection (1)(c)(i) to (iii), and",
+                                                            "tokenCum": 601,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "may be a notification that is given also for other purposes.",
+                                                            "tokenCum": 613,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 110,
+                                                    "tokenSum": 190,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Subsection (5) applies if\u2014",
+                                                    "tokenCum": 621,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "for the purposes of subsection (2) an authority gives a person notificationof a decision, and",
+                                                            "tokenCum": 641,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the person, or some other person who is an organiser of the event, asks theauthority to review the decision.",
+                                                            "tokenCum": 666,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        }
+                                                    ],
+                                                    "wordSum": 38,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The authority must ensure\u2014",
+                                                    "tokenCum": 671,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that a review of the decision is completed\u2014",
+                                                            "tokenCum": 680,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "as soon as is reasonably practicable after the authority receives therequest for the review, and",
+                                                            "tokenCum": 700,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "in any event, by the end of 15 days beginning with the day on which theauthority receives the request, and",
+                                                            "tokenCum": 726,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that the person who asked for the review is given (electronically orotherwise) written notification of the decision made on the review, includingthe reasons for the decision, as soon as is reasonably practicable after thedecision is made.",
+                                                            "tokenCum": 777,
+                                                            "wordSum": 36,
+                                                            "tokenSum": 56,
+                                                            "tokenCount": 56
+                                                        }
+                                                    ],
+                                                    "wordSum": 83,
+                                                    "tokenSum": 135,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "On a review under subsection (5) of a decision, the decision is to be\u2014",
+                                                    "tokenCum": 796,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "confirmed, ",
+                                                            "tokenCum": 799,
+                                                            "wordSum": 1,
+                                                            "tokenSum": 8,
+                                                            "tokenCount": 8
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "withdrawn, ",
+                                                            "tokenCum": 804,
+                                                            "wordSum": 1,
+                                                            "tokenSum": 10,
+                                                            "tokenCount": 10
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "replaced by any other decision that could have been taken in the firstinstance, or",
+                                                            "tokenCum": 820,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "varied (but only if the decision as varied is one that could have beentaken in the first instance).",
+                                                            "tokenCum": 842,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 48,
+                                                    "tokenSum": 89,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "If a person has rights to appeal against or otherwise challenge a decisionreviewed under subsection (5), the person has the corresponding rights tochallenge the decision made on the review.",
+                                                    "tokenCum": 879,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "In this section \u201cworking day\u201d means any day other than a Saturday, aSunday, Christmas Day, Good Friday or a day which is a bank holiday under theBanking and Financial Dealings Act 1971 in England and Wales.\u201d",
+                                                    "tokenCum": 936,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 509,
+                                            "tokenSum": 850,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 516,
+                                    "tokenSum": 865,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 535,
+                            "tokenSum": 897,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Procedure for investigations by Local Government Ombudsman",
+                            "tokenCum": 949,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 28 of the Local Government Act 1974 (procedure in respect ofinvestigations under Part 3 by Local Commissioners) is amended as follows.",
+                                    "tokenCum": 987,
+                                    "wordSum": 22,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (2) (investigations by Local Commissioner to be conducted inprivate but otherwise as the Local Commissioner considers appropriate) after\u201cwithout prejudice to the generality of the preceding provision\u201d insert \u201c\u2014",
+                                    "tokenCum": 1035,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Local Commissioner may, as well as adopting different procedure fordifferent cases, adopt different procedure for cases of differentdescriptions; and",
+                                            "tokenCum": 1064,
+                                            "wordSum": 20,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "\u201d. ",
+                                            "tokenCum": 1067,
+                                            "wordSum": 1,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 88,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (4) insert\u2014",
+                                    "tokenCum": 1075,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(5)",
+                                    "text": "The differential procedure authorised by subsection (2)(a) includes (inparticular) procedure for cases of a particular description that is expectedto be faster than that for at least some other cases.\u201d",
+                                    "tokenCum": 1116,
+                                    "wordSum": 29,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                }
+                            ],
+                            "wordSum": 113,
+                            "tokenSum": 195,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Financial provisions",
+                            "tokenCum": 1121,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "There shall be paid out of money provided by Parliament any increaseattributable to this Act in the sums payable under any other Act out of moneyso provided.",
+                                    "tokenCum": 1154,
+                                    "wordSum": 27,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 29,
+                            "tokenSum": 41,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Short title, commencement, consequential amendments and extent",
+                            "tokenCum": 1168,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Local Government (Review of Decisions) Act2015.",
+                                    "tokenCum": 1191,
+                                    "wordSum": 13,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force at the end of 2 months beginning with the day onwhich it is passed.",
+                                    "tokenCum": 1213,
+                                    "wordSum": 19,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State may by order made by statutory instrument make suchprovision amending, repealing or revoking legislation as the Secretary ofState considers appropriate in consequence of any provision made by this Act.",
+                                    "tokenCum": 1258,
+                                    "wordSum": 33,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (3) \u201clegislation\u201d, in relation to any provision made by thisAct, means\u2014",
+                                    "tokenCum": 1281,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any Act passed before, or in the same Session as, this Act, or",
+                                            "tokenCum": 1297,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any instrument made under an Act before the coming into force of theprovision.",
+                                            "tokenCum": 1313,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 63,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State may not make an order under subsection (3) whichamends or repeals a provision of an Act unless a draft of the statutoryinstrument containing the order (whether alone or with other provisions) hasbeen laid before, and approved by a resolution of, each House of Parliament.",
+                                    "tokenCum": 1380,
+                                    "wordSum": 48,
+                                    "tokenSum": 69,
+                                    "tokenCount": 69
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A statutory instrument that\u2014",
+                                    "tokenCum": 1387,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "contains an order under subsection (3), and",
+                                            "tokenCum": 1397,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "is not subject to any requirement that a draft of the instrument be laidbefore, and approved by a resolution of, each House of Parliament,",
+                                            "tokenCum": 1425,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "is subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                                    "tokenCum": 1445,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 77,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "This Act extends to England and Wales only, except that this sectionextends also to Scotland and Northern Ireland.",
+                                    "tokenCum": 1467,
+                                    "wordSum": 18,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 1467,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 225,
+                            "tokenSum": 346,
+                            "tokenCount": 14
+                        }
+                    ],
+                    "wordSum": 938,
+                    "tokenSum": 1537,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1001,
+            "tokenSum": 1684,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/22/enacted?view=plain",
+    "title": "Local Government (Review of Decisions) Act 2015",
+    "longtitle": "An Act to make provision about the procedure for conducting investigations under Part 3 of the Local Government Act 1974; and to make provision for cases where an authority to which that Part applies takes a decision that affects the holding of an event for a reason relating to health or safety.",
+    "date": "[26th March 2015]",
+    "wordSum": 1001,
+    "tokenSum": 1685,
+    "tokenCount": 0,
+    "totalTokens": 1685
+}

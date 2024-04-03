@@ -1,0 +1,250 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2000/10/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Crown Prosecution Service Inspectorate Act 2000",
+                    "tokenCum": 59,
+                    "wordSum": 6,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2000 CHAPTER 10",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for inspection of the Crown Prosecution Service.",
+                            "tokenCum": 84,
+                            "wordSum": 12,
+                            "tokenSum": 17,
+                            "tokenCount": 17
+                        }
+                    ],
+                    "wordSum": 15,
+                    "tokenSum": 27,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[20th July 2000]",
+                    "tokenCum": 95,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 152,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Inspectorate ",
+                            "tokenCum": 157,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Attorney General shall appoint a person as Her Majesty\u2019s ChiefInspector of the Crown Prosecution Service.",
+                                    "tokenCum": 182,
+                                    "wordSum": 16,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Chief Inspector may appoint inspectors and other staff to assist him inthe discharge of his functions.",
+                                    "tokenCum": 205,
+                                    "wordSum": 17,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "There shall be paid out of money provided by Parliament\u2014",
+                                    "tokenCum": 216,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "such sums in respect of salary, pension, allowances and compensation forthe Chief Inspector as the Attorney General may determine, and",
+                                            "tokenCum": 247,
+                                            "wordSum": 20,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "expenditure incurred by the Chief Inspector in the discharge of hisfunctions, including expenditure on payments to or in respect of staff.",
+                                            "tokenCum": 281,
+                                            "wordSum": 21,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 84,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 85,
+                            "tokenSum": 142,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Functions ",
+                            "tokenCum": 284,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Chief Inspector shall\u2014",
+                                    "tokenCum": 291,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "inspect or arrange for the inspection of the operation of the CrownProsecution Service,",
+                                            "tokenCum": 310,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "report to the Attorney General on any matter connected with the operationof the Service which the Attorney General refers to him, and",
+                                            "tokenCum": 336,
+                                            "wordSum": 22,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "submit an annual report to the Attorney General on the operation of theService.",
+                                            "tokenCum": 352,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 52,
+                                    "tokenSum": 79,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Attorney General shall lay before Parliament a copy of any report whichhe receives under subsection (1)(c).",
+                                    "tokenCum": 376,
+                                    "wordSum": 17,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Chief Inspector may designate an inspector to discharge his functionsduring any period when he is absent or unable to act.",
+                                    "tokenCum": 405,
+                                    "wordSum": 21,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                }
+                            ],
+                            "wordSum": 91,
+                            "tokenSum": 140,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 413,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Crown Prosecution Service Inspectorate Act2000.",
+                                    "tokenCum": 436,
+                                    "wordSum": 12,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Sections 1 and 2 shall come into force on such day as the Attorney Generalmay appoint by order made by statutory instrument.",
+                                    "tokenCum": 466,
+                                    "wordSum": 22,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act shall extend to England and Wales only.",
+                                    "tokenCum": 476,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 476,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 9,
+                                    "tokenSum": 15,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 48,
+                            "tokenSum": 81,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 260,
+                    "tokenSum": 421,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 285,
+            "tokenSum": 521,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2000/10/enacted?view=plain",
+    "title": "Crown Prosecution Service Inspectorate Act 2000",
+    "longtitle": "An Act to make provision for inspection of the Crown Prosecution Service.",
+    "date": "[20th July 2000]",
+    "wordSum": 285,
+    "tokenSum": 522,
+    "tokenCount": 0,
+    "totalTokens": 522
+}

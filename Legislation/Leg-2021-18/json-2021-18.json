@@ -1,0 +1,809 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/18/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Prisons (Substance Testing) Act 2021",
+                    "tokenCum": 59,
+                    "wordSum": 5,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 18",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about substance testing in prisons and similarinstitutions.",
+                            "tokenCum": 86,
+                            "wordSum": 12,
+                            "tokenSum": 19,
+                            "tokenCount": 19
+                        }
+                    ],
+                    "wordSum": 15,
+                    "tokenSum": 29,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[29th April 2021]",
+                    "tokenCum": 97,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 154,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Testing prisoners for psychoactive substances and other substances",
+                            "tokenCum": 168,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 16A of the Prison Act 1952 (testing prisoners for drugs) is amendedin accordance with this section.",
+                                    "tokenCum": 200,
+                                    "wordSum": 17,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In the title, after \u201cdrugs\u201d insert \u201c, psychoactive substances and othersubstances\u201d.",
+                                    "tokenCum": 224,
+                                    "wordSum": 11,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (1), for \u201che has any drug in his body\u201d substitute \u201ctheprisoner has in their body any\u2014",
+                                    "tokenCum": 252,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "controlled drug,",
+                                            "tokenCum": 255,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "pharmacy medicine,",
+                                            "tokenCum": 260,
+                                            "wordSum": 2,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "prescription only medicine,",
+                                            "tokenCum": 265,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "psychoactive substance, or",
+                                            "tokenCum": 273,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "specified substance\u201d.",
+                                            "tokenCum": 277,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 70,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (2) insert\u2014",
+                                    "tokenCum": 285,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(2A)The Secretary of State may use any prisoners\u2019 samples to test, on ananonymised basis, for the prevalence of the following substances in prisons\u2014",
+                                            "tokenCum": 324,
+                                            "wordSum": 23,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "controlled drugs,",
+                                            "tokenCum": 328,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "medicinal products,",
+                                            "tokenCum": 332,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "psychoactive substances, or",
+                                            "tokenCum": 340,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "specified substances.\u201d",
+                                            "tokenCum": 344,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        }
+                                    ],
+                                    "wordSum": 36,
+                                    "tokenSum": 84,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (3)\u2014",
+                                    "tokenCum": 351,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in the definition of \u201cdrug\u201d\u2014",
+                                            "tokenCum": 360,
+                                            "wordSum": 5,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "for \u201c\u201cdrug\u201d means\u201d substitute \u201c\u201ccontrolled drug\u201d means\u201d;",
+                                            "tokenCum": 378,
+                                            "wordSum": 7,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "omit \u201cor specified drug\u201d;",
+                                            "tokenCum": 386,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "after the definition of \u201cintimate sample\u201d insert\u2014",
+                                            "tokenCum": 397,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201c\u201cmedicinal product\u201d has the meaning given in regulation 2 of the Human Medicines Regulations 2012;",
+                                                    "tokenCum": 428,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpharmacy medicine\u201d has the meaning given in regulation 8 of the Human Medicines Regulations 2012;",
+                                                    "tokenCum": 458,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprescription only medicine\u201d has the meaning given in regulation 8 of the Human Medicines Regulations 2012;\u201d;",
+                                                    "tokenCum": 490,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 119,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "after the definition of \u201cprison rules\u201d insert\u2014",
+                                            "tokenCum": 501,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201c\u201cprisoners\u2019 samples\u201d means any sample\u2014",
+                                                    "tokenCum": 515,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 32,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provided under subsection (1) or (2), or",
+                                            "tokenCum": 515,
+                                            "wordSum": 7,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "provided by prisoners voluntarily;",
+                                            "tokenCum": 527,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpsychoactive substance\u201d has the same meaning as in the Psychoactive Substances Act 2016;\u201d;",
+                                                    "tokenCum": 566,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 46,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "in the definition of \u201cspecified drug\u201d, for \u201c\u201cspecified drug\u201d means\u201dsubstitute \u201c\u201cspecified substance\u201d means\u201d.",
+                                            "tokenCum": 595,
+                                            "wordSum": 13,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 126,
+                                    "tokenSum": 297,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 228,
+                            "tokenSum": 526,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Consequential amendments",
+                            "tokenCum": 601,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In section 47 of the Prison Act 1952 (prison rules), in subsection (3A)\u2014",
+                                    "tokenCum": 629,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit \u201c(which is not a controlled drug for the purposes of the Misuse ofDrugs Act 1971)\u201d;",
+                                            "tokenCum": 659,
+                                            "wordSum": 16,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "after \u201cthis Act\u201d insert \u201c; but a substance or product may not be specifiedif it is\u2014",
+                                            "tokenCum": 681,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a controlled drug,",
+                                            "tokenCum": 685,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a pharmacy medicine,",
+                                            "tokenCum": 691,
+                                            "wordSum": 3,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a prescription only medicine, or",
+                                            "tokenCum": 698,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a psychoactive substance",
+                                            "tokenCum": 705,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "within the meaning of section 16A\u201d.",
+                                                    "tokenCum": 715,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 9,
+                                            "tokenSum": 24,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 138,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In the Prison Act 1952\u2014",
+                                    "tokenCum": 726,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in section 16A (testing prisoners for drugs), after subsection (3) insert\u2014",
+                                            "tokenCum": 747,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 16,
+                                    "tokenSum": 37,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(4)",
+                                    "text": "The Secretary of State may, by regulations, make such amendments of thissection or section 47 as the Secretary of State considers appropriate inconsequence of\u2014",
+                                    "tokenCum": 782,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the amendment or revocation of the Human Medicine Regulations 2012, or",
+                                            "tokenCum": 802,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the making, amendment or revocation of any other subordinate legislation(whenever made) which relates to human medicines.",
+                                            "tokenCum": 831,
+                                            "wordSum": 16,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 92,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (4) \u201csubordinate legislation\u201d has the same meaning as in theInterpretation Act 1978.\u201d;",
+                                    "tokenCum": 861,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in section 52 (exercise of power to make regulations etc), after subsection(2B) insert\u2014",
+                                            "tokenCum": 887,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(2C)A statutory instrument containing regulations under section 16A(4) shallnot be made unless a draft of it has been laid before, and approved by aresolution of, each House of Parliament.\u201d",
+                                            "tokenCum": 937,
+                                            "wordSum": 29,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 114,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In the Prison Rules 1999\u2014",
+                                    "tokenCum": 949,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in rule 2 (interpretation), in paragraph (1), omit the definition of\u201cspecified drug\u201d;",
+                                            "tokenCum": 974,
+                                            "wordSum": 12,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in rule 50 (compulsory testing for controlled drugs or specified drugs)\u2014",
+                                            "tokenCum": 994,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "in the title, omit \u201cor specified drugs\u201d;",
+                                            "tokenCum": 1007,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "in paragraph (1), omit \u201cor specified drug\u201d;",
+                                            "tokenCum": 1020,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in rule 51 (offences against discipline), in paragraphs (9) and (24) omit\u201cor specified drug\u201d;",
+                                            "tokenCum": 1050,
+                                            "wordSum": 14,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "in rule 52 (defences to rule 51(9)), in sub-paragraphs (a), (b) and (c),omit \u201cor specified drug\u201d;",
+                                            "tokenCum": 1089,
+                                            "wordSum": 16,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "omit Schedule 2.",
+                                            "tokenCum": 1096,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 75,
+                                    "tokenSum": 182,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In the Young Offender Institution Rules 2000\u2014",
+                                    "tokenCum": 1110,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in rule 2 (interpretation), in paragraph (1), omit the definition of\u201cspecified drug\u201d;",
+                                            "tokenCum": 1135,
+                                            "wordSum": 12,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in rule 53 (compulsory testing for controlled drugs or specified drugs)\u2014",
+                                            "tokenCum": 1155,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "in the title, omit \u201cor specified drugs\u201d;",
+                                            "tokenCum": 1168,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "in paragraph (1), omit \u201cor specified drug\u201d;",
+                                            "tokenCum": 1181,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in rule 55 (offences against discipline), in paragraphs (10) and (27) omit\u201cor specified drug\u201d;",
+                                            "tokenCum": 1212,
+                                            "wordSum": 14,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "in rule 56 (defences to rule 55(10)), in sub-paragraphs (a), (b) and (c),omit \u201cor specified drug\u201d;",
+                                            "tokenCum": 1252,
+                                            "wordSum": 16,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "omit Schedule 2.",
+                                            "tokenCum": 1259,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 77,
+                                    "tokenSum": 186,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The following instruments are revoked\u2014",
+                                    "tokenCum": 1266,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Prison and Young Offender Institution (Amendment) Rules 2016 ([S.I.2016/583](/id/uksi/2016/583?view=plain \"Go to item of legislation\"));",
+                                            "tokenCum": 1325,
+                                            "wordSum": 15,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Prison and Young Offender Institution (Amendment) (No. 2) Rules 2016([S.I. 2016/945](/id/uksi/2016/945?view=plain \"Go to item of legislation\")).",
+                                            "tokenCum": 1392,
+                                            "wordSum": 17,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 141,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In the Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018([S.I. 2018/960](/id/uksi/2018/960?view=plain \"Go to item of legislation\"))\u2014",
+                                    "tokenCum": 1460,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit Rule 2(5) (insertion of Schedule 2 into the Prison Rules 1999);",
+                                            "tokenCum": 1488,
+                                            "wordSum": 12,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "omit Rule 3(5) (insertion of Schedule 2 into the Young Offender InstitutionRules 2000);",
+                                            "tokenCum": 1518,
+                                            "wordSum": 13,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "omit the Schedule (which sets out the new Schedule 2 inserted in accordancewith Rules 2(5) and 3(5)).",
+                                            "tokenCum": 1551,
+                                            "wordSum": 17,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 170,
+                                    "tokenCount": 69
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In the Prison and Young Offender Institution (Coronavirus, etc) (Amendment)(No. 3) Rules 2020 ([S.I. 2020/1077](/id/uksi/2020/1077?view=plain \"Go to itemof legislation\"))\u2014",
+                                    "tokenCum": 1628,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit rule 2(3), and",
+                                            "tokenCum": 1637,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "omit rule 3(3).",
+                                            "tokenCum": 1645,
+                                            "wordSum": 3,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 26,
+                                    "tokenSum": 102,
+                                    "tokenCount": 78
+                                }
+                            ],
+                            "wordSum": 465,
+                            "tokenSum": 1169,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Final provisions",
+                            "tokenCum": 1648,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Prisons (Substance Testing) Act 2021.",
+                                    "tokenCum": 1672,
+                                    "wordSum": 12,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on such day as the Secretary of State may appointby regulations made by statutory instrument.",
+                                    "tokenCum": 1697,
+                                    "wordSum": 20,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 1706,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1706,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 14,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 42,
+                            "tokenSum": 71,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 771,
+                    "tokenSum": 1824,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 795,
+            "tokenSum": 1926,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/18/enacted?view=plain",
+    "title": "Prisons (Substance Testing) Act 2021",
+    "longtitle": "An Act to make provision about substance testing in prisons and similar institutions. ",
+    "date": "[29th April 2021]",
+    "wordSum": 795,
+    "tokenSum": 1927,
+    "tokenCount": 0,
+    "totalTokens": 1927
+}

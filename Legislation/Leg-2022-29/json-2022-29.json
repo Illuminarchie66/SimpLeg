@@ -1,0 +1,1530 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/29/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Taxis and Private Hire Vehicles (Disabled Persons) Act 2022",
+                    "tokenCum": 65,
+                    "wordSum": 9,
+                    "tokenSum": 22,
+                    "tokenCount": 21
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 29",
+                    "tokenCum": 74,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision relating to the carrying of disabled persons by taxisand private hire vehicles.",
+                            "tokenCum": 96,
+                            "wordSum": 17,
+                            "tokenSum": 23,
+                            "tokenCount": 23
+                        }
+                    ],
+                    "wordSum": 20,
+                    "tokenSum": 33,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[28th April 2022]",
+                    "tokenCum": 107,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 164,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Duties of drivers",
+                            "tokenCum": 169,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Equality Act 2010 is amended as follows.",
+                                    "tokenCum": 184,
+                                    "wordSum": 8,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "After section 164 (exemption from taxi accessibility regulations) insert\u2014",
+                                    "tokenCum": 204,
+                                    "wordSum": 9,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c164ADisabled passengers: duties of drivers",
+                                    "tokenCum": 216,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section imposes duties on the driver of a taxi or private hire vehiclewhich has been hired\u2014",
+                                            "tokenCum": 239,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by or for a disabled person, or",
+                                                    "tokenCum": 247,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by another person who wishes to be accompanied by a disabled person.",
+                                                    "tokenCum": 260,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 55,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This section also imposes duties on the driver of a taxi or private hirevehicle if\u2014",
+                                            "tokenCum": 282,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the vehicle is being used to provide a local service (within the meaning ofsection 2 of the Transport Act 1985), and",
+                                                    "tokenCum": 312,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person within subsection (1)(a) or (b) has indicated to the driver thatthe person wishes to travel on the service.",
+                                                    "tokenCum": 341,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 92,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But this section does not impose duties on a driver in a case in which\u2014",
+                                            "tokenCum": 358,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the taxi or private hire vehicle is designated, and",
+                                                    "tokenCum": 370,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the disabled person is in a wheelchair.",
+                                                    "tokenCum": 380,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "For provision that applies in such a case, see section 165.",
+                                                            "tokenCum": 396,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 18,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 71,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 403,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a taxi or private hire vehicle is \u201cdesignated\u201d if it appears on a listmaintained under section 167;",
+                                                    "tokenCum": 432,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cthe passenger\u201d means the disabled person concerned.",
+                                                    "tokenCum": 442,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 57,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The duties are\u2014",
+                                            "tokenCum": 446,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to carry the passenger;",
+                                                    "tokenCum": 451,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the passenger is in or has with them a wheelchair, to carry thewheelchair;",
+                                                    "tokenCum": 473,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "if the passenger has with them any mobility aids, to carry the mobilityaids;",
+                                                    "tokenCum": 493,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "to take such steps as are reasonable to ensure that the passenger iscarried in safety and reasonable comfort;",
+                                                    "tokenCum": 514,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "to give the passenger such mobility assistance as is reasonably required;",
+                                                    "tokenCum": 528,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "not to make, or propose to make, any additional charge for complying with aduty mentioned in paragraphs (a) to (e).",
+                                                    "tokenCum": 558,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 143,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "For the purposes of this section \u201cmobility aids\u201d means any item thepassenger uses to assist with their mobility but does not include\u2014",
+                                            "tokenCum": 589,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a wheelchair, or",
+                                                    "tokenCum": 595,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an assistance dog (sections 168 and 170 make provision about the carryingof assistance dogs).",
+                                                    "tokenCum": 618,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 71,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of this section \u201cmobility assistance\u201d means assistance\u2014",
+                                            "tokenCum": 633,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to enable the passenger to get into or out of the vehicle;",
+                                                    "tokenCum": 646,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to load the passenger\u2019s luggage, wheelchair or mobility aids into or out ofthe vehicle.",
+                                                    "tokenCum": 671,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 64,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "This section does not require the driver\u2014",
+                                            "tokenCum": 679,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "unless the vehicle is of a description prescribed by the Secretary ofState, to carry more than one wheelchair on any one journey;",
+                                                    "tokenCum": 707,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to carry a person in circumstances in which it would otherwise be lawfulfor the driver to refuse to carry the person.",
+                                                    "tokenCum": 731,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 71,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "The driver of a taxi or private hire vehicle commits an offence by failingto comply with a duty imposed on the driver by this section.",
+                                            "tokenCum": 763,
+                                            "wordSum": 25,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "A person guilty of an offence under subsection (9) is liable on summaryconviction to a fine not exceeding level 3 on the standard scale.",
+                                            "tokenCum": 797,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "It is a defence for a person charged with an offence under subsection (9)in relation to the duty mentioned in subsection (5)(a) or (d) to show that atthe time of the alleged offence the person could not reasonably have knownthat the passenger was disabled.",
+                                            "tokenCum": 859,
+                                            "wordSum": 44,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "It is a defence for a person charged with an offence under subsection (9)in relation to the duty mentioned in subsection (5)(b) or (c) to show that atthe time of the alleged offence\u2014",
+                                            "tokenCum": 908,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it would not have been possible for the wheelchair or mobility aids to becarried safely in the vehicle, or",
+                                                    "tokenCum": 934,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it would not otherwise have been reasonable in all the circumstances forthe wheelchair or mobility aids to be carried in the vehicle.",
+                                                    "tokenCum": 962,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 114,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(13)",
+                                            "text": "It is a defence for a person charged with an offence under subsection (9)in relation to the duty mentioned in subsection (5)(e) to show that at thetime of the alleged offence the person could not reasonably have known thatthe passenger required mobility assistance of the type required by thepassenger.\u201d",
+                                            "tokenCum": 1030,
+                                            "wordSum": 49,
+                                            "tokenSum": 71,
+                                            "tokenCount": 71
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 165 (passengers in wheelchairs)\u2014",
+                                            "tokenCum": 1045,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the heading substitute \u201cDisabled passengers in wheelchairs: duties ofdrivers of designated vehicles\u201d;",
+                                                    "tokenCum": 1067,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (1), after \u201ctaxi\u201d insert \u201cor designated private hirevehicle\u201d;",
+                                                    "tokenCum": 1090,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "omit subsection (2);",
+                                                    "tokenCum": 1097,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "before subsection (3) insert\u2014",
+                                                    "tokenCum": 1105,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2A)This section also imposes duties on the driver of a designated taxi ordesignated private hire vehicle if\u2014",
+                                                    "tokenCum": 1133,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the vehicle is being used to provide a local service (within the meaning ofsection 2 of the Transport Act 1985), and",
+                                                    "tokenCum": 1163,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person within subsection (1)(a) or (b) has indicated to the driver thatthe person wishes to travel on the service.\u201d;",
+                                                    "tokenCum": 1193,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "in subsection (4)\u2014",
+                                                    "tokenCum": 1200,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "omit paragraph (b);",
+                                                    "tokenCum": 1206,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "after paragraph (c) insert\u2014",
+                                                    "tokenCum": 1213,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(ca)",
+                                                    "text": "if the passenger has with them any mobility aids, to carry the mobilityaids;\u201d;",
+                                                    "tokenCum": 1235,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "after paragraph (e) insert\u2014",
+                                                    "tokenCum": 1242,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(f)",
+                                                    "text": "not to make, or propose to make, any additional charge for complying witha duty mentioned in paragraphs (a) to (e).\u201d;",
+                                                    "tokenCum": 1273,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "after subsection (4) insert\u2014",
+                                                    "tokenCum": 1281,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(4A)For the purposes of this section \u201cmobility aids\u201d means any item thepassenger uses to assist with their mobility but does not include\u2014",
+                                                    "tokenCum": 1317,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a wheelchair, or",
+                                                    "tokenCum": 1323,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an assistance dog (sections 168 and 170 make provision about the carryingof assistance dogs).\u201d;",
+                                                    "tokenCum": 1348,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "in subsection (5)\u2014",
+                                                    "tokenCum": 1355,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "for \u201cMobility assistance is\u201d substitute \u201cFor the purposes of this section\u201cmobility assistance\u201d means\u201d;",
+                                                    "tokenCum": 1380,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in paragraph (c), after \u201cluggage\u201d insert \u201cor mobility aids\u201d;",
+                                                    "tokenCum": 1400,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "in subsection (9), for \u201cthe offence\u201d substitute \u201can offence undersubsection (7) in relation to the duty mentioned in subsection (4)(a) or (c)\u201d;",
+                                                    "tokenCum": 1443,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "after subsection (9) insert\u2014",
+                                                    "tokenCum": 1451,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(9A)It is a defence for a person charged with an offence under subsection (7)in relation to the duty mentioned in subsection (4)(ca) to show that at thetime of the alleged offence\u2014",
+                                                    "tokenCum": 1501,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it would not have been possible for the mobility aids to be carried safelyin the vehicle, or",
+                                                    "tokenCum": 1522,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it would not otherwise have been reasonable in all the circumstances forthe mobility aids to be carried in the vehicle.\u201d;",
+                                                    "tokenCum": 1547,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(j)",
+                                                    "text": "omit subsection (10).",
+                                                    "tokenCum": 1555,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 306,
+                                            "tokenSum": 632,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "After section 165 insert\u2014",
+                                            "tokenCum": 1563,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 903,
+                                    "tokenSum": 1603,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c165ADisabled passengers: assistance to identify and find vehicle",
+                                    "tokenCum": 1578,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section imposes duties on the driver of a private hire vehicle or pre-booked taxi where the following two conditions are met.",
+                                            "tokenCum": 1607,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The first condition is that the private hire vehicle or pre-booked taxi hasbeen hired\u2014",
+                                            "tokenCum": 1630,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by or for a disabled person, or",
+                                                    "tokenCum": 1638,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by another person who wishes to be accompanied by a disabled person.",
+                                                    "tokenCum": 1651,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 55,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The second condition is that the driver of the private hire vehicle or pre-booked taxi has been made aware before the start of the passenger\u2019s journey inthe vehicle that the passenger requires assistance to identify or find thatvehicle.",
+                                            "tokenCum": 1701,
+                                            "wordSum": 38,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 1708,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a taxi is \u201cpre-booked\u201d if it has been hired otherwise than as a result ofplying or standing for hire;",
+                                                    "tokenCum": 1738,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cthe passenger\u201d means the disabled person concerned.",
+                                                    "tokenCum": 1748,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 58,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The duties are\u2014",
+                                            "tokenCum": 1752,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to take such steps as are reasonable to assist the passenger to identifyand find the vehicle which has been hired;",
+                                                    "tokenCum": 1775,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "not to make, or propose to make, any additional charge for complying withthe duty mentioned in paragraph (a).",
+                                                    "tokenCum": 1799,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 62,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The driver of a private hire vehicle or pre-booked taxi commits an offenceby failing to comply with a duty imposed on the driver by this section.",
+                                            "tokenCum": 1835,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A person guilty of an offence under subsection (6) is liable on summaryconviction to a fine not exceeding level 3 on the standard scale.\u201d",
+                                            "tokenCum": 1869,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 224,
+                                    "tokenSum": 353,
+                                    "tokenCount": 16
+                                }
+                            ],
+                            "wordSum": 1147,
+                            "tokenSum": 2001,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Exemption certificates",
+                            "tokenCum": 1874,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 166 of the Equality Act 2010 (passengers in wheelchairs: exemptioncertificates) is amended as follows.",
+                                    "tokenCum": 1909,
+                                    "wordSum": 15,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In the heading, for \u201cPassengers in wheelchairs\u201d substitute \u201cDisabledpassengers\u201d.",
+                                    "tokenCum": 1929,
+                                    "wordSum": 9,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (1), for \u201cduties imposed by section 165\u201d substitute \u201cmobilityassistance duties\u201d.",
+                                    "tokenCum": 1958,
+                                    "wordSum": 12,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (2) insert\u2014",
+                                    "tokenCum": 1966,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(2A)For the purposes of this section \u201cthe mobility assistance duties\u201d means\u2014",
+                                            "tokenCum": 1986,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the duty mentioned in section 164A(5)(e), and",
+                                            "tokenCum": 2002,
+                                            "wordSum": 7,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the duty mentioned in section 165(4)(e).\u201d",
+                                            "tokenCum": 2017,
+                                            "wordSum": 6,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 70,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (3)\u2014",
+                                    "tokenCum": 2024,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit \u201cdesignated\u201d;",
+                                            "tokenCum": 2031,
+                                            "wordSum": 2,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for \u201cduties imposed by section 165\u201d substitute \u201cmobility assistanceduties\u201d.",
+                                            "tokenCum": 2055,
+                                            "wordSum": 9,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 46,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In subsection (4)\u2014",
+                                    "tokenCum": 2062,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit \u201cdesignated\u201d;",
+                                            "tokenCum": 2069,
+                                            "wordSum": 2,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for \u201cduties imposed by section 165\u201d substitute \u201cmobility assistanceduties\u201d.",
+                                            "tokenCum": 2093,
+                                            "wordSum": 9,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 46,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "Omit subsection (5).",
+                                    "tokenCum": 2100,
+                                    "wordSum": 3,
+                                    "tokenSum": 9,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 97,
+                            "tokenSum": 267,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Lists of wheelchair-accessible vehicles",
+                            "tokenCum": 2110,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 167 of the Equality Act 2010 (lists of wheelchair-accessiblevehicles) is amended as follows.",
+                                    "tokenCum": 2144,
+                                    "wordSum": 14,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (1)\u2014",
+                                    "tokenCum": 2151,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for \u201cmay\u201d substitute \u201cmust\u201d;",
+                                            "tokenCum": 2160,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "after \u201cmaintain\u201d insert \u201cand publish\u201d.",
+                                            "tokenCum": 2171,
+                                            "wordSum": 5,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 35,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Omit subsections (3) and (4).",
+                                    "tokenCum": 2182,
+                                    "wordSum": 5,
+                                    "tokenSum": 13,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (6), after paragraph (a) insert\u2014",
+                                    "tokenCum": 2195,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(aa)",
+                                            "text": "how a list under subsection (1) is to be maintained and published;\u201d.",
+                                            "tokenCum": 2212,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 35,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (7) omit \u201cwhich maintains a list under subsection (1)\u201d.",
+                                    "tokenCum": 2233,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 65,
+                            "tokenSum": 153,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Duties of operators of private hire vehicles",
+                            "tokenCum": 2243,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 167 of the Equality Act 2010 insert\u2014",
+                                    "tokenCum": 2261,
+                                    "wordSum": 9,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c167ADisabled passengers: duties of operators of private hire vehicles",
+                                    "tokenCum": 2278,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The operator of a private hire vehicle commits an offence by failing orrefusing to accept a booking for the vehicle if\u2014",
+                                            "tokenCum": 2305,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the booking is requested by or on behalf of a disabled person or a personwho wishes to be accompanied by a disabled person, and",
+                                                    "tokenCum": 2333,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the reason for the failure or refusal is\u2014",
+                                                    "tokenCum": 2344,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "that the passenger has a disability, or",
+                                                    "tokenCum": 2353,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to prevent the driver of the private hire vehicle being made subject to aduty which would otherwise be imposed on the driver by section 164A, 165 or165A.",
+                                                    "tokenCum": 2397,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 138,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The operator of a private hire vehicle commits an offence by making, orproposing to make, an additional charge for the carrying out of any dutyimposed on the driver of the private hire vehicle under section 164A, 165 or165A.",
+                                            "tokenCum": 2458,
+                                            "wordSum": 38,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person guilty of an offence under subsection (1) or (2) is liable onsummary conviction to a fine not exceeding level 3 on the standard scale.",
+                                            "tokenCum": 2496,
+                                            "wordSum": 26,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "It is a defence for a person charged with an offence under subsection (1)to show that it was reasonable not to have accepted the booking due to a lackof suitable vehicles.",
+                                            "tokenCum": 2535,
+                                            "wordSum": 31,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cthe passenger\u201d means the disabled person concerned.\u201d",
+                                            "tokenCum": 2548,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 201,
+                                    "tokenSum": 320,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 217,
+                            "tokenSum": 351,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Minor and consequential amendments",
+                            "tokenCum": 2555,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Equality Act 2010 is amended as follows.",
+                                    "tokenCum": 2570,
+                                    "wordSum": 8,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 168(2)(b), after \u201cnot make\u201d insert \u201c, or propose to make,\u201d.",
+                                    "tokenCum": 2595,
+                                    "wordSum": 12,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 170 (assistance dogs in private hire vehicles)\u2014",
+                                    "tokenCum": 2612,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in subsection (1), for paragraph (b) substitute\u2014",
+                                            "tokenCum": 2625,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(b)",
+                                            "text": "the reason for the failure or refusal is\u2014",
+                                            "tokenCum": 2636,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "that the disabled person will be accompanied by an assistance dog, or",
+                                            "tokenCum": 2649,
+                                            "wordSum": 12,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "to prevent the driver of the private hire vehicle being made subject to aduty which would otherwise be imposed on the driver by this section.\u201d;",
+                                            "tokenCum": 2680,
+                                            "wordSum": 25,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in subsection (2)\u2014",
+                                            "tokenCum": 2687,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "after \u201coperator\u201d insert \u201cor driver of a private hire vehicle\u201d;",
+                                            "tokenCum": 2703,
+                                            "wordSum": 10,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "after \u201cmaking\u201d insert \u201c, or proposing to make,\u201d;",
+                                            "tokenCum": 2717,
+                                            "wordSum": 8,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in subsection (5)\u2014",
+                                            "tokenCum": 2724,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "in the definition of driver, in paragraph (a), omit \u201c(\u201cthe 1998 Act\u201d)\u201d;",
+                                            "tokenCum": 2751,
+                                            "wordSum": 12,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "in the definition of driver, in paragraph (b), omit \u201c(\u201cthe 1976 Act\u201d)\u201d;",
+                                            "tokenCum": 2778,
+                                            "wordSum": 12,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "omit the definitions of \u201coperator\u201d and \u201cprivate hire vehicle\u201d.",
+                                            "tokenCum": 2793,
+                                            "wordSum": 9,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 118,
+                                    "tokenSum": 233,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In section 171(5), for \u201c, \u201clicensing authority\u201d and \u201cprivate hire vehicle\u201d\u201dsubstitute \u201cand \u201clicensing authority\u201d\u201d.",
+                                    "tokenCum": 2830,
+                                    "wordSum": 14,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In section 173(1)\u2014",
+                                    "tokenCum": 2840,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "after the definition of \u201cassistance dog\u201d insert\u2014",
+                                            "tokenCum": 2851,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201c\u201coperator\u201d, in relation to a private hire vehicle\u2014",
+                                                    "tokenCum": 2866,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 16,
+                                            "tokenSum": 33,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "means a person who holds a licence under\u2014",
+                                            "tokenCum": 2866,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "section 55 of the Local Government (Miscellaneous Provisions) Act 1976,",
+                                            "tokenCum": 2876,
+                                            "wordSum": 10,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "section 3 of the Private Hire Vehicles (London) Act 1998, or",
+                                            "tokenCum": 2900,
+                                            "wordSum": 11,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "a provision of a local enactment equivalent to the provision mentioned in sub-paragraph (i) or (ii); and",
+                                            "tokenCum": 2923,
+                                            "wordSum": 17,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in section 167A, also includes a person who holds a licence under Part I ofthe Civic Government (Scotland) Act 1982 in relation to the use of premisesfor the carrying on of a business which consists to any extent of the takingof bookings, by any means of communication, from members of the public for thehire of a private hire car licenced under section 10 of that Act;",
+                                            "tokenCum": 2948,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprivate hire vehicle\u201d\u2014",
+                                                    "tokenCum": 3052,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 111,
+                                            "tokenCount": 97
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "means a vehicle licensed under\u2014",
+                                            "tokenCum": 3052,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "section 48 of the Local Government (Miscellaneous Provisions) Act 1976,",
+                                            "tokenCum": 3059,
+                                            "wordSum": 10,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "section 7 of the Private Hire Vehicles (London) Act 1998, or",
+                                            "tokenCum": 3083,
+                                            "wordSum": 11,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "a provision of a local enactment equivalent to the provision mentioned in sub-paragraph (i) or (ii); and",
+                                            "tokenCum": 3106,
+                                            "wordSum": 17,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in sections 164A to 167A, also includes a private hire car licensed undersection 10 of the Civic Government (Scotland) Act 1982;\u201d;",
+                                            "tokenCum": 3131,
+                                            "wordSum": 21,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in the definition of \u201ctaxi\u201d, in paragraph (b), for \u201c165\u201d substitute \u201c164A\u201d.",
+                                            "tokenCum": 3205,
+                                            "wordSum": 12,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 211,
+                                    "tokenSum": 421,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 367,
+                            "tokenSum": 745,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 3214,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales and Scotland.",
+                                    "tokenCum": 3224,
+                                    "wordSum": 9,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force at the end of the period of two months beginningwith the day on which it is passed.",
+                                    "tokenCum": 3248,
+                                    "wordSum": 22,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act may be cited as the Taxis and Private Hire Vehicles (DisabledPersons) Act 2022.",
+                                    "tokenCum": 3278,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 3278,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 35,
+                                    "tokenCount": 31
+                                }
+                            ],
+                            "wordSum": 51,
+                            "tokenSum": 83,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 1980,
+                    "tokenSum": 3658,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2013,
+            "tokenSum": 3770,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/29/enacted?view=plain",
+    "title": "Taxis and Private Hire Vehicles (Disabled Persons) Act 2022",
+    "longtitle": "An Act to make provision relating to the carrying of disabled persons by taxis and private hire vehicles.",
+    "date": "[28th April 2022]",
+    "wordSum": 2013,
+    "tokenSum": 3771,
+    "tokenCount": 0,
+    "totalTokens": 3771
+}

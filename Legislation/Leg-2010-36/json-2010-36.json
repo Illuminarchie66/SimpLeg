@@ -1,0 +1,387 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2010/36/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+                    "tokenCum": 62,
+                    "wordSum": 9,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2010 CHAPTER 36",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about eligibility for a child trust fund; to repealthe Saving Gateway Accounts Act 2009; to make provision about entitlement tohealth in pregnancy grant; and for connected purposes.",
+                            "tokenCum": 124,
+                            "wordSum": 32,
+                            "tokenSum": 54,
+                            "tokenCount": 54
+                        }
+                    ],
+                    "wordSum": 35,
+                    "tokenSum": 64,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th December 2010]",
+                    "tokenCum": 135,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 192,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Removal of eligibility for child trust fund",
+                            "tokenCum": 202,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 2 of the Child Trust Funds Act 2004 (which determines whether achild is eligible for a child trust fund) is amended as follows.",
+                                    "tokenCum": 240,
+                                    "wordSum": 24,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (1) (which provides that a child is an eligible child if thechild was born after 31st August 2002 and meets certain other criteria), after\u201c31st August 2002\u201d insert \u201cand before 3rd January 2011\u201d.",
+                                    "tokenCum": 306,
+                                    "wordSum": 34,
+                                    "tokenSum": 68,
+                                    "tokenCount": 68
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (5) insert\u2014",
+                                    "tokenCum": 314,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(5A)A child born before 3rd January 2011 who would otherwise have become aneligible child on or after that date is not an eligible child unlesssubsection (5B) or (5C) applies to the child.",
+                                            "tokenCum": 370,
+                                            "wordSum": 32,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 36,
+                                    "tokenSum": 69,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(5B)This subsection applies to a child (who accordingly is an eligible childby virtue of subsection (1)(a)) if\u2014",
+                                    "tokenCum": 402,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a person is entitled to child benefit in respect of the child,",
+                                            "tokenCum": 415,
+                                            "wordSum": 12,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the first day for which child benefit is paid falls on or before 3rdJanuary 2011, and",
+                                            "tokenCum": 441,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "either subsection (5) does not apply to the child at the beginning of 3rdJanuary 2011, or that subsection applies to the child at that time but ceasesto apply to the child before 3rd April 2011.",
+                                            "tokenCum": 499,
+                                            "wordSum": 35,
+                                            "tokenSum": 61,
+                                            "tokenCount": 61
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(5C)This subsection applies to a child (who accordingly is an eligible childby virtue of subsection (1)(b)) if\u2014",
+                                            "tokenCum": 531,
+                                            "wordSum": 17,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the child is in the United Kingdom at the beginning of 3rd January 2011,",
+                                            "tokenCum": 552,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the provisions specified in subsection (2)(a) or (b) apply in relation tothe child before 3rd April 2011, and",
+                                            "tokenCum": 586,
+                                            "wordSum": 18,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "either subsection (5) does not apply to the child at the beginning of 3rdJanuary 2011, or that subsection applies to the child at that time but ceasesto apply to the child before 3rd April 2011.\u201d",
+                                            "tokenCum": 644,
+                                            "wordSum": 35,
+                                            "tokenSum": 61,
+                                            "tokenCount": 61
+                                        }
+                                    ],
+                                    "wordSum": 164,
+                                    "tokenSum": 297,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (6) (which determines for the purposes of subsection (1)(a)whether a person is entitled to child benefit in respect of a child), after\u201csubsection (1)(a)\u201d insert \u201cor (5B)(a)\u201d.",
+                                    "tokenCum": 699,
+                                    "wordSum": 28,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                }
+                            ],
+                            "wordSum": 293,
+                            "tokenSum": 542,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Repeal of Saving Gateway Accounts Act 2009",
+                            "tokenCum": 715,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Saving Gateway Accounts Act 2009 is repealed.",
+                                    "tokenCum": 732,
+                                    "wordSum": 8,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 121F(2) of the Social Security Administration Act 1992 (supplyof information to Her Majesty\u2019s Revenue and Customs) omit \u201cSaving Gatewayaccounts,\u201d.",
+                                    "tokenCum": 780,
+                                    "wordSum": 21,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 115E(2) of the Social Security Administration (Northern Ireland)Act 1992 (supply of information to Her Majesty\u2019s Revenue and Customs) omit\u201cSaving Gateway accounts,\u201d.",
+                                    "tokenCum": 833,
+                                    "wordSum": 23,
+                                    "tokenSum": 55,
+                                    "tokenCount": 55
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In Schedule 2 to the Northern Ireland Act 1998 (excepted matters) omitparagraph 9B.",
+                                    "tokenCum": 860,
+                                    "wordSum": 13,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In Schedule 1 to the Corporation Tax Act 2010 (minor and consequentialamendments) omit paragraph 705 (which amends section 9(2) of the SavingGateway Accounts Act 2009).",
+                                    "tokenCum": 918,
+                                    "wordSum": 25,
+                                    "tokenSum": 60,
+                                    "tokenCount": 60
+                                }
+                            ],
+                            "wordSum": 97,
+                            "tokenSum": 230,
+                            "tokenCount": 16
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Removal of entitlement to health in pregnancy grant",
+                            "tokenCum": 931,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In section 140A of the Social Security Contributions and Benefits Act 1992(entitlement to health in pregnancy grant: Great Britain), for subsection (2)substitute\u2014",
+                                    "tokenCum": 979,
+                                    "wordSum": 22,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(2)",
+                                    "text": "A woman is not entitled to health in pregnancy grant unless she hasreached the 25th week of her pregnancy before 1st January 2011.\u201d",
+                                    "tokenCum": 1018,
+                                    "wordSum": 23,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 136A of the Social Security Contributions and Benefits (NorthernIreland) Act 1992 (entitlement to health in pregnancy grant: NorthernIreland), for subsection (2) substitute\u2014",
+                                    "tokenCum": 1073,
+                                    "wordSum": 24,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(2)",
+                                    "text": "A woman is not entitled to health in pregnancy grant unless she hasreached the 25th week of her pregnancy before 1st January 2011.\u201d",
+                                    "tokenCum": 1112,
+                                    "wordSum": 23,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                }
+                            ],
+                            "wordSum": 100,
+                            "tokenSum": 203,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1120,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Savings Accounts and Health in Pregnancy GrantAct 2010.",
+                                    "tokenCum": 1147,
+                                    "wordSum": 15,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 2 (repeal of Saving Gateway Accounts Act 2009) comes into force atthe end of the period of two months beginning with the day on which this Actis passed.",
+                                    "tokenCum": 1191,
+                                    "wordSum": 29,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The rest of this Act comes into force on the day on which it is passed.",
+                                    "tokenCum": 1208,
+                                    "wordSum": 16,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Sections 2(2) (amendment of Social Security Administration Act 1992) and3(1) (removal of entitlement to health in pregnancy grant: Great Britain)extend to England and Wales and Scotland only.",
+                                    "tokenCum": 1262,
+                                    "wordSum": 27,
+                                    "tokenSum": 56,
+                                    "tokenCount": 56
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Sections 2(3) (amendment of Social Security Administration (NorthernIreland) Act 1992) and 3(2) (removal of entitlement to health in pregnancygrant: Northern Ireland) extend to Northern Ireland only.",
+                                    "tokenCum": 1322,
+                                    "wordSum": 26,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The rest of this Act extends to England and Wales, Scotland and NorthernIreland.",
+                                    "tokenCum": 1339,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1339,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 13,
+                                    "tokenSum": 22,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 131,
+                            "tokenSum": 243,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 657,
+                    "tokenSum": 1276,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 705,
+            "tokenSum": 1416,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2010/36/enacted?view=plain",
+    "title": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+    "longtitle": "An Act to make provision about eligibility for a child trust fund; to repeal the Saving Gateway Accounts Act 2009; to make provision about entitlement to health in pregnancy grant; and for connected purposes.",
+    "date": "[16th December 2010]",
+    "wordSum": 705,
+    "tokenSum": 1417,
+    "tokenCount": 0,
+    "totalTokens": 1417
+}

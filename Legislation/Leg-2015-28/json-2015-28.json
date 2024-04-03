@@ -1,0 +1,957 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/28/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Health and Social Care (Safety and Quality) Act 2015",
+                    "tokenCum": 62,
+                    "wordSum": 9,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 28",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the safety of health and social care servicesin England; to make provision about the integration of information relating tousers of health and social care services in England; to make provision aboutthe sharing of information relating to an individual for the purposes ofproviding that individual with health or social care services in England; tomake provision about the objectives of the regulatory bodies for health andsocial care professions and the Professional Standards Authority for Healthand Social Care; to make provision about the disposal of cases concerning aperson\u2019s fitness to practise a health or social care profession; and forconnected purposes.",
+                            "tokenCum": 202,
+                            "wordSum": 103,
+                            "tokenSum": 132,
+                            "tokenCount": 132
+                        }
+                    ],
+                    "wordSum": 106,
+                    "tokenSum": 142,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 213,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 270,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Reducing harm in care",
+                            "tokenCum": 276,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Reducing harm in care",
+                                    "tokenCum": 282,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 20 of the Health and Social Care Act 2008 (health and adult socialcare services: regulation of registered activities) is amended as follows.",
+                                            "tokenCum": 319,
+                                            "wordSum": 23,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For subsection (1) and the opening words of subsection (2) substitute\u2014",
+                                            "tokenCum": 337,
+                                            "wordSum": 11,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(1)",
+                                            "text": "The Secretary of State must by regulations impose requirements that theSecretary of State considers necessary to secure that services provided in thecarrying on of regulated activities cause no avoidable harm to the persons forwhom the services are provided.",
+                                            "tokenCum": 388,
+                                            "wordSum": 38,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by regulations impose any other requirements inrelation to regulated activities that the Secretary of State thinks fit forthe purposes of this Chapter, including in particular provision with a viewto\u2014\u201d.",
+                                            "tokenCum": 431,
+                                            "wordSum": 34,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (5A) insert\u2014",
+                                            "tokenCum": 440,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(5B)In subsection (1)\u2014",
+                                                    "tokenCum": 452,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201ccause\u201d means cause or contribute to, whether directly or indirectly; and",
+                                                    "tokenCum": 469,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "harm is avoidable, in relation to a service, unless the person providingthe service cannot reasonably avoid it (whether because it is an inherent partor risk of a regulated activity or for another reason).\u201d",
+                                                    "tokenCum": 514,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 98,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 161,
+                                    "tokenSum": 267,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 165,
+                            "tokenSum": 274,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Continuity of information",
+                            "tokenCum": 519,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Consistent identifiers",
+                                    "tokenCum": 523,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In Part 9 of the Health and Social Care Act 2012 (health and adult social careservices: information), after section 251 insert\u2014",
+                                            "tokenCum": 560,
+                                            "wordSum": 21,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cCHAPTER 1AContinuity of Information",
+                                            "tokenCum": 572,
+                                            "children": [
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 251",
+                                                    "text": "AConsistent identifiers",
+                                                    "tokenCum": 577,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "The Secretary of State must by regulations specify a description ofconsistent identifier for the purposes of this section.",
+                                                            "tokenCum": 599,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "\u201cConsistent identifier\u201d means any identifier (such as, for example, anumber or code used for identification purposes) that\u2014",
+                                                            "tokenCum": 625,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "relates to an individual, and",
+                                                                    "tokenCum": 632,
+                                                                    "wordSum": 5,
+                                                                    "tokenSum": 13,
+                                                                    "tokenCount": 13
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "forms part of a set of similar identifiers that is of general application.",
+                                                                    "tokenCum": 647,
+                                                                    "wordSum": 13,
+                                                                    "tokenSum": 21,
+                                                                    "tokenCount": 21
+                                                                }
+                                                            ],
+                                                            "wordSum": 35,
+                                                            "tokenSum": 65,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(3)",
+                                                            "text": "Subsection (4) applies if\u2014",
+                                                            "tokenCum": 655,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "a relevant health or adult social care commissioner or provider (\u201ctherelevant person\u201d) processes information about an individual, and",
+                                                                    "tokenCum": 680,
+                                                                    "wordSum": 18,
+                                                                    "tokenSum": 31,
+                                                                    "tokenCount": 31
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "the individual is one to whom a consistent identifier of the descriptionspecified under subsection (1) relates.",
+                                                                    "tokenCum": 704,
+                                                                    "wordSum": 16,
+                                                                    "tokenSum": 30,
+                                                                    "tokenCount": 30
+                                                                }
+                                                            ],
+                                                            "wordSum": 38,
+                                                            "tokenSum": 74,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(4)",
+                                                            "text": "If this subsection applies the relevant person must include the consistentidentifier in the information processed (but this is subject to subsections(5) to (8)).",
+                                                            "tokenCum": 736,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(5)",
+                                                            "text": "Subsection (4) applies only so far as the relevant person considers thatthe inclusion is\u2014",
+                                                            "tokenCum": 756,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "likely to facilitate the provision to the individual of health services oradult social care in England, and",
+                                                                    "tokenCum": 777,
+                                                                    "wordSum": 17,
+                                                                    "tokenSum": 27,
+                                                                    "tokenCount": 27
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "in the individual\u2019s best interests.",
+                                                                    "tokenCum": 785,
+                                                                    "wordSum": 5,
+                                                                    "tokenSum": 14,
+                                                                    "tokenCount": 14
+                                                                }
+                                                            ],
+                                                            "wordSum": 36,
+                                                            "tokenSum": 66,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(6)",
+                                                            "text": "The relevant person need not comply with subsection (4) if the relevantperson reasonably considers that one or more of the following criteria apply\u2014",
+                                                            "tokenCum": 816,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "the relevant person does not know the consistent identifier and is notreasonably able to learn it;",
+                                                                    "tokenCum": 835,
+                                                                    "wordSum": 16,
+                                                                    "tokenSum": 25,
+                                                                    "tokenCount": 25
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "the individual objects, or would be likely to object, to the inclusion ofthe consistent identifier in the information;",
+                                                                    "tokenCum": 857,
+                                                                    "wordSum": 18,
+                                                                    "tokenSum": 28,
+                                                                    "tokenCount": 28
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(c)",
+                                                                    "text": "the information concerns, or is connected with, the provision of healthservices or adult social care by an anonymous access provider;",
+                                                                    "tokenCum": 881,
+                                                                    "wordSum": 20,
+                                                                    "tokenSum": 30,
+                                                                    "tokenCount": 30
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(d)",
+                                                                    "text": "for any other reason the relevant person is not reasonably able, or shouldnot be required, to comply with subsection (4).",
+                                                                    "tokenCum": 909,
+                                                                    "wordSum": 20,
+                                                                    "tokenSum": 34,
+                                                                    "tokenCount": 34
+                                                                }
+                                                            ],
+                                                            "wordSum": 97,
+                                                            "tokenSum": 153,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(7)",
+                                                            "text": "This section does not permit the relevant person to do anything which, butfor this section, would be inconsistent with\u2014",
+                                                            "tokenCum": 933,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "any provision made by or under the Data Protection Act 1998, or",
+                                                                    "tokenCum": 951,
+                                                                    "wordSum": 12,
+                                                                    "tokenSum": 24,
+                                                                    "tokenCount": 24
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "a common law duty of care or confidence.",
+                                                                    "tokenCum": 960,
+                                                                    "wordSum": 8,
+                                                                    "tokenSum": 15,
+                                                                    "tokenCount": 15
+                                                                }
+                                                            ],
+                                                            "wordSum": 39,
+                                                            "tokenSum": 68,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(8)",
+                                                            "text": "This section does not require the relevant person to do anything which therelevant person is required to do by or under provision included in a contractby virtue of any provision of the National Health Service Act 2006 (and,accordingly, any such requirement is to be treated as arising under thecontract, and not under this section).\u201d",
+                                                            "tokenCum": 1032,
+                                                            "wordSum": 54,
+                                                            "tokenSum": 77,
+                                                            "tokenCount": 77
+                                                        }
+                                                    ],
+                                                    "wordSum": 342,
+                                                    "tokenSum": 576,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 346,
+                                            "tokenSum": 591,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 369,
+                                    "tokenSum": 637,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Duty to share information",
+                                    "tokenCum": 1038,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In Part 9 of the Health and Social Care Act 2012 (health and adult social careservices: information), after section 251A (as inserted by section 2 of thisAct) insert\u2014",
+                                            "tokenCum": 1087,
+                                            "wordSum": 28,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c251BDuty to share information",
+                                            "tokenCum": 1097,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies in relation to information about an individual that isheld by a relevant health or adult social care commissioner or provider (\u201ctherelevant person\u201d).",
+                                                    "tokenCum": 1130,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The relevant person must ensure that the information is disclosed to\u2014",
+                                                    "tokenCum": 1143,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "persons working for the relevant person, and",
+                                                            "tokenCum": 1151,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "any other relevant health or adult social care commissioner or providerwith whom the relevant person communicates about the individual,",
+                                                            "tokenCum": 1174,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "but this is subject to subsections (3) to (6).",
+                                                                    "tokenCum": 1188,
+                                                                    "wordSum": 9,
+                                                                    "tokenSum": 20,
+                                                                    "tokenCount": 20
+                                                                }
+                                                            ],
+                                                            "wordSum": 28,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 46,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Subsection (2) applies only so far as the relevant person considers thatthe disclosure is\u2014",
+                                                    "tokenCum": 1209,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "likely to facilitate the provision to the individual of health services oradult social care in England, and",
+                                                            "tokenCum": 1230,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in the individual\u2019s best interests.",
+                                                            "tokenCum": 1238,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The relevant person need not comply with subsection (2) if the relevantperson reasonably considers that one or more of the following apply\u2014",
+                                                    "tokenCum": 1268,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the individual objects, or would be likely to object, to the disclosure ofthe information;",
+                                                            "tokenCum": 1287,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the information concerns, or is connected with, the provision of healthservices or adult social care by an anonymous access provider;",
+                                                            "tokenCum": 1311,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "for any other reason the relevant person is not reasonably able, or shouldnot be required, to comply with subsection (2).",
+                                                            "tokenCum": 1339,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        }
+                                                    ],
+                                                    "wordSum": 76,
+                                                    "tokenSum": 120,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "This section does not permit the relevant person to do anything which, butfor this section, would be inconsistent with\u2014",
+                                                    "tokenCum": 1363,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "any provision made by or under the Data Protection Act 1998, or",
+                                                            "tokenCum": 1381,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a common law duty of care or confidence.",
+                                                            "tokenCum": 1390,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 39,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "This section does not require the relevant person to do anything which therelevant person is required to do under a common law duty of care (and,accordingly, any such requirement is to be treated as arising under thatcommon law duty and not under this section).\u201d",
+                                                    "tokenCum": 1445,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 270,
+                                            "tokenSum": 436,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 302,
+                                    "tokenSum": 496,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 1449,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In Part 9 of the Health and Social Care Act 2012 (health and adult social careservices: information), after section 251B (as inserted by section 3 of thisAct) insert\u2014",
+                                            "tokenCum": 1498,
+                                            "wordSum": 28,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c251CContinuity of information: interpretation",
+                                            "tokenCum": 1510,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies for the purposes of sections 251A and 251B and thissection.",
+                                                    "tokenCum": 1533,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "\u201cRelevant health or adult social care commissioner or provider\u201d means\u2014",
+                                                    "tokenCum": 1548,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "any public body so far as it exercises functions in connection with theprovision of health services, or of adult social care in England, and",
+                                                            "tokenCum": 1578,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "any person (other than a public body) so far as the person provides suchservices or care\u2014",
+                                                            "tokenCum": 1598,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "pursuant to arrangements made with a public body exercising functions inconnection with the provision of the services or care, and",
+                                                            "tokenCum": 1625,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "otherwise than as a member or officer of a body or an employee of aperson,",
+                                                            "tokenCum": 1642,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "but this is subject to subsection (3).",
+                                                                    "tokenCum": 1652,
+                                                                    "wordSum": 7,
+                                                                    "tokenSum": 16,
+                                                                    "tokenCount": 16
+                                                                }
+                                                            ],
+                                                            "wordSum": 22,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 92,
+                                                    "tokenSum": 149,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Secretary of State may by regulations provide for a person to beexcluded from the definition of \u201crelevant health or adult social carecommissioner or provider\u201d, whether generally or in particular cases.",
+                                                    "tokenCum": 1693,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Regulations under subsection (3) may, in particular, provide for a personto be excluded in relation to the exercise of particular functions or theexercise of functions in relation to particular descriptions of person,premises or institution.",
+                                                    "tokenCum": 1744,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A reference to an inclusion or a disclosure being likely to facilitate theprovision to an individual of health services or adult social care in Englandis to its being likely to facilitate that provision directly (rather than bymeans of a clinical trial, a study, an audit, or any other indirect means).",
+                                                    "tokenCum": 1810,
+                                                    "wordSum": 50,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "\u201cAnonymous access provider\u201d means a relevant health or adult social carecommissioner or provider (whether \u201cthe relevant person\u201d under section251A(3)(a) or 251B(1) or another person) whose services or care are, or maybe, received by individuals anonymously due to the nature of the services orcare.",
+                                                    "tokenCum": 1886,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "Other terms have the same meaning as in section 250 (and \u201cprocesses\u201d and\u201cprocessed\u201d are to be read in accordance with the meaning of \u201cprocessing\u201d inthat section).\u201d",
+                                                    "tokenCum": 1929,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 293,
+                                            "tokenSum": 488,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 322,
+                                    "tokenSum": 546,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 996,
+                            "tokenSum": 1685,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Objectives",
+                            "tokenCum": 1931,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Objectives in relation to the regulation of health and social careprofessions",
+                                    "tokenCum": 1946,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 25 of the National Health Service Reform and Health CareProfessions Act 2002 (Professional Standards Authority for Health and SocialCare), for subsection (2A) substitute\u2014",
+                                            "tokenCum": 1993,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2A)The over-arching objective of the Authority in exercising its functionsunder subsection (2)(b) to (d) is the protection of the public.",
+                                                    "tokenCum": 2033,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 94,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(2B)The pursuit by the Authority of its over-arching objective involves thepursuit of the following objectives\u2014",
+                                            "tokenCum": 2062,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to protect, promote and maintain the health, safety and well-being of thepublic;",
+                                                    "tokenCum": 2081,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to promote and maintain public confidence in the professions regulated bythe regulatory bodies;",
+                                                    "tokenCum": 2099,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "to promote and maintain proper professional standards and conduct formembers of those professions;",
+                                                    "tokenCum": 2115,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "to promote and maintain proper standards in relation to the carrying on ofretail pharmacy businesses at registered pharmacies (as defined in article3(1) of the Pharmacy Order 2010 ([S.I. 2010/231](/id/uksi/2010/231?view=plain\"Go to item of legislation\"))); and",
+                                                    "tokenCum": 2202,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 91,
+                                                    "tokenCount": 91
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "to promote and maintain proper standards and conduct for businessregistrants (as defined in section 36(1) of the Opticians Act 1989).\u201d",
+                                                    "tokenCum": 2237,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 107,
+                                            "tokenSum": 227,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Schedule makes provision with respect to the objectives of regulatorybodies in relation to which the Professional Standards Authority for Healthand Social Care exercises functions.",
+                                            "tokenCum": 2274,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 188,
+                                    "tokenSum": 378,
+                                    "tokenCount": 16
+                                }
+                            ],
+                            "wordSum": 189,
+                            "tokenSum": 381,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 2275,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 2284,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1 to 4 extend to England and Wales only.",
+                                            "tokenCum": 2298,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Paragraph 7 of the Schedule extends to England, Wales and Scotland only.",
+                                            "tokenCum": 2315,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The rest of this Act extends to the whole of the United Kingdom.",
+                                            "tokenCum": 2329,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The provisions of this Act other than this section come into force on a dayappointed in regulations made by statutory instrument by the Secretary ofState.",
+                                            "tokenCum": 2363,
+                                            "wordSum": 25,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations under subsection (4) may\u2014",
+                                            "tokenCum": 2373,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appoint different days for different areas or purposes;",
+                                                    "tokenCum": 2382,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make transitory, transitional or consequential provision.",
+                                                    "tokenCum": 2393,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 41,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This Act may be cited as the Health and Social Care (Safety and Quality)Act 2015.",
+                                            "tokenCum": 2420,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Section 5",
+                                                    "tokenCum": 2423,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 37,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 101,
+                                    "tokenSum": 180,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 102,
+                            "tokenSum": 182,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1488,
+                    "tokenSum": 2580,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1607,
+            "tokenSum": 2798,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/28/enacted?view=plain",
+    "title": "Health and Social Care (Safety and Quality) Act 2015",
+    "longtitle": "An Act to make provision about the safety of health and social care services in England; to make provision about the integration of information relating to users of health and social care services in England; to make provision about the sharing of information relating to an individual for the purposes of providing that individual with health or social care services in England; to make provision about the objectives of the regulatory bodies for health and social care professions and the Professional Standards Authority for Health and Social Care; to make provision about the disposal of cases concerning a person\u2019s fitness to practise a health or social care profession; and for connected purposes.",
+    "date": "[26th March 2015]",
+    "wordSum": 1607,
+    "tokenSum": 2799,
+    "tokenCount": 0,
+    "totalTokens": 2799
+}

@@ -1,0 +1,1388 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/17/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Local Government (Disqualification) Act 2022",
+                    "tokenCum": 57,
+                    "wordSum": 5,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 17",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the grounds on which a person is disqualifiedfrom being elected to, or holding, certain positions in local government inEngland.",
+                            "tokenCum": 99,
+                            "wordSum": 25,
+                            "tokenSum": 34,
+                            "tokenCount": 34
+                        }
+                    ],
+                    "wordSum": 28,
+                    "tokenSum": 44,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[28th April 2022]",
+                    "tokenCum": 110,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 167,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Grounds of disqualification",
+                            "tokenCum": 173,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Members of local authorities in England etc",
+                                    "tokenCum": 181,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the Local Government Act 1972, after section 81 insert\u2014",
+                                            "tokenCum": 199,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c81ADisqualification relating to sexual offences etc (England)",
+                                            "tokenCum": 217,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A person is disqualified for being elected or being a member of a localauthority in England if the person is subject to\u2014",
+                                                    "tokenCum": 244,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "any relevant notification requirements, or",
+                                                            "tokenCum": 250,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a relevant order.",
+                                                            "tokenCum": 254,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 9,
+                                                            "tokenCount": 9
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In this section \u201crelevant notification requirements\u201d means\u2014",
+                                                    "tokenCum": 265,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the notification requirements of Part 2 of the Sexual Offences Act 2003;",
+                                                            "tokenCum": 285,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the notification requirements of Part 2 of the Sex Offenders (Jersey) Law2010;",
+                                                            "tokenCum": 308,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the notification requirements of Part 2 of the Criminal Justice (SexOffenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013;",
+                                                            "tokenCum": 350,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the notification requirements of Schedule 1 to the Criminal Justice Act2001 (an Act of Tynwald: c. 4).",
+                                                            "tokenCum": 381,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 67,
+                                                    "tokenSum": 151,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this section \u201crelevant order\u201d means\u2014",
+                                                    "tokenCum": 391,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a sexual harm prevention order under section 345 of the Sentencing Code;",
+                                                            "tokenCum": 409,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a sexual harm prevention order under section 103A of the Sexual OffencesAct 2003;",
+                                                            "tokenCum": 435,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "a sexual offences prevention order under section 104 of that Act;",
+                                                            "tokenCum": 452,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "a sexual risk order under section 122A of that Act;",
+                                                            "tokenCum": 467,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "a risk of sexual harm order under section 123 of that Act;",
+                                                            "tokenCum": 483,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "a risk of sexual harm order under section 2 of the Protection of Childrenand Prevention of Sexual Offences (Scotland) Act 2005;",
+                                                            "tokenCum": 519,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(g)",
+                                                            "text": "a sexual risk order under section 27 of the Abusive Behaviour and SexualHarm (Scotland) Act 2016;",
+                                                            "tokenCum": 553,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(h)",
+                                                            "text": "a restraining order under Article 10 of the Sex Offenders (Jersey) Law2010;",
+                                                            "tokenCum": 579,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "a child protection order under Article 11 of that Law;",
+                                                            "tokenCum": 592,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(j)",
+                                                            "text": "a sexual offences prevention order under section 18 of the Criminal Justice(Sex Offenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013;",
+                                                            "tokenCum": 639,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(k)",
+                                                            "text": "a risk of sexual harm order under section 22 of that Law;",
+                                                            "tokenCum": 654,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(l)",
+                                                            "text": "a sexual offences prevention order under section 1 of the Sex Offenders Act2006 (an Act of Tynwald: c. 20);",
+                                                            "tokenCum": 689,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(m)",
+                                                            "text": "a risk of sexual harm order under section 5 of that Act.",
+                                                            "tokenCum": 703,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 187,
+                                                    "tokenSum": 391,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "For the purposes of subsection (1)(a), a person who is subject to anyrelevant notification requirements is not to be regarded as disqualifieduntil\u2014",
+                                                    "tokenCum": 736,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the expiry of the ordinary period allowed for making an appeal orapplication against the conviction, finding, caution, order or certificationin respect of which the person is subject to the relevant notificationrequirements, or",
+                                                            "tokenCum": 780,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 49,
+                                                            "tokenCount": 49
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if such an appeal or application is made, the date on which it is finallydisposed of or abandoned or fails because it is not prosecuted.",
+                                                            "tokenCum": 811,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 79,
+                                                    "tokenSum": 122,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "For the purposes of subsection (1)(b), a person who is subject to arelevant order is not to be regarded as disqualified until\u2014",
+                                                    "tokenCum": 842,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the expiry of the ordinary period allowed for making an appeal against therelevant order, or",
+                                                            "tokenCum": 860,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if such an appeal is made, the date on which it is finally disposed of orabandoned or fails because it is not prosecuted.\u201d",
+                                                            "tokenCum": 891,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 60,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In that Act, in section 80 (disqualifications for election and holdingoffice as member of local authority), after subsection (5) insert\u2014",
+                                                    "tokenCum": 923,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(5A)See also section 81A (disqualification relating to sexual offences etc(England)).\u201d",
+                                                            "tokenCum": 951,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In regulation 7 of the Charter Trustee Regulations 1996 ([S.I.1996/263](/id/uksi/1996/263?view=plain \"Go to item of legislation\"))(appointment of local government electors as trustees), in paragraph (6),after \u201c(2)\u201d insert \u201c, 81A\u201d.",
+                                                    "tokenCum": 1040,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 93,
+                                                    "tokenCount": 93
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In the Local Elections (Parishes and Communities) (England and Wales) Rules2006 ([S.I. 2006/3305](/id/uksi/2006/3305?view=plain \"Go to item oflegislation\"))\u2014",
+                                                    "tokenCum": 1108,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in paragraph 7(b)(i) of Schedule 2 (rules for elections of Councillors of aParish or Community), for \u201cand 81\u201d substitute \u201c, 81 and 81A\u201d;",
+                                                            "tokenCum": 1158,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 55,
+                                                            "tokenCount": 55
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in paragraph 7(b)(i) of Schedule 3 (rules for elections of Councillors of aParish or Community where combined with other election or referendum), for\u201cand 81\u201d substitute \u201c, 81 and 81A\u201d.",
+                                                            "tokenCum": 1215,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        }
+                                                    ],
+                                                    "wordSum": 69,
+                                                    "tokenSum": 189,
+                                                    "tokenCount": 71
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In the Local Authorities (Mayoral Elections) (England and Wales)Regulations 2007 ([S.I. 2007/1024](/id/uksi/2007/1024?view=plain \"Go to itemof legislation\"))\u2014",
+                                                    "tokenCum": 1282,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in paragraph 9(b)(i) of Schedule 1 (the Mayoral Elections Rules), for \u201cand81\u201d substitute \u201c, 81 and 81A\u201d;",
+                                                            "tokenCum": 1324,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in paragraph 9(b)(i) of Schedule 3 (Mayoral Election (Combination of Polls)Rules), for \u201cand 81\u201d substitute \u201c, 81 and 81A\u201d.",
+                                                            "tokenCum": 1373,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 54,
+                                                            "tokenCount": 54
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 172,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In regulation 5 of the Local Authority (Public Health, Health and WellbeingBoards and Health Scrutiny) Regulations 2013 ([S.I.2013/218](/id/uksi/2013/218?view=plain \"Go to item of legislation\"))(appointments to Health and Wellbeing Boards), in paragraph (2)\u2014",
+                                                    "tokenCum": 1465,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "after \u201c(d)\u201d insert \u201cor section 81A\u201d;",
+                                                            "tokenCum": 1481,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "for \u201cor criminal conviction\u201d substitute \u201c, criminal conviction or sexualoffences etc\u201d.",
+                                                            "tokenCum": 1500,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 48,
+                                                    "tokenSum": 141,
+                                                    "tokenCount": 95
+                                                }
+                                            ],
+                                            "wordSum": 657,
+                                            "tokenSum": 1494,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 674,
+                                    "tokenSum": 1525,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Mayors of combined authorities",
+                                    "tokenCum": 1505,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Local Democracy, Economic Development and Construction Act 2009 isamended in accordance with subsections (2) and (3).",
+                                            "tokenCum": 1538,
+                                            "wordSum": 17,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In Schedule 5B (mayors for combined authority areas: further provisionabout elections), after paragraph 9 insert\u2014",
+                                            "tokenCum": 1563,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c9A(1)A person is disqualified for being elected or holding office as themayor for the area of a combined authority if the person is subject to\u2014",
+                                                    "tokenCum": 1599,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any relevant notification requirements, or",
+                                                    "tokenCum": 1605,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a relevant order.",
+                                                    "tokenCum": 1609,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 86,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this paragraph \u201crelevant notification requirements\u201d mean\u2014",
+                                            "tokenCum": 1620,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the notification requirements of Part 2 of the Sexual Offences Act 2003;",
+                                                    "tokenCum": 1640,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the notification requirements of Part 2 of the Sex Offenders (Jersey) Law2010;",
+                                                    "tokenCum": 1663,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the notification requirements of Part 2 of the Criminal Justice (SexOffenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013;",
+                                                    "tokenCum": 1705,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the notification requirements of Schedule 1 to the Criminal Justice Act2001 (an Act of Tynwald: c. 4).",
+                                                    "tokenCum": 1736,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 67,
+                                            "tokenSum": 146,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this paragraph \u201crelevant order\u201d means\u2014",
+                                            "tokenCum": 1746,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a sexual harm prevention order under section 345 of the Sentencing Code;",
+                                                    "tokenCum": 1764,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a sexual harm prevention order under section 103A of the Sexual OffencesAct 2003;",
+                                                    "tokenCum": 1790,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a sexual offences prevention order under section 104 of that Act;",
+                                                    "tokenCum": 1807,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a sexual risk order under section 122A of that Act;",
+                                                    "tokenCum": 1822,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "a risk of sexual harm order under section 123 of that Act;",
+                                                    "tokenCum": 1838,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "a risk of sexual harm order under section 2 of the Protection of Childrenand Prevention of Sexual Offences (Scotland) Act 2005;",
+                                                    "tokenCum": 1874,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "a sexual risk order under section 27 of the Abusive Behaviour and SexualHarm (Scotland) Act 2016;",
+                                                    "tokenCum": 1908,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "a restraining order under Article 10 of the Sex Offenders (Jersey) Law2010;",
+                                                    "tokenCum": 1934,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "a child protection order under Article 11 of that Law;",
+                                                    "tokenCum": 1947,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(j)",
+                                                    "text": "a sexual offences prevention order under section 18 of that Law;",
+                                                    "tokenCum": 1963,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(k)",
+                                                    "text": "a risk of sexual harm order under section 22 of that Law;",
+                                                    "tokenCum": 1978,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(l)",
+                                                    "text": "a sexual offences prevention order under section 1 of the Sex Offenders Act2006 (an Act of Tynwald: c. 20);",
+                                                    "tokenCum": 2013,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(m)",
+                                                    "text": "a risk of sexual harm order under section 5 of that Act.",
+                                                    "tokenCum": 2027,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 177,
+                                            "tokenSum": 346,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of sub-paragraph (1)(a), a person who is subject to anyrelevant notification requirements is not to be regarded as disqualifieduntil\u2014",
+                                            "tokenCum": 2061,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the expiry of the ordinary period allowed for making an appeal orapplication against the conviction, finding, caution, order or certificationin respect of which the person is subject to the relevant notificationrequirements, or",
+                                                    "tokenCum": 2105,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if such an appeal or application is made, the date on which it is finallydisposed of or abandoned or fails because it is not prosecuted.",
+                                                    "tokenCum": 2136,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 79,
+                                            "tokenSum": 120,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of sub-paragraph (1)(b), a person who is subject to arelevant order is not to be regarded as disqualified until\u2014",
+                                            "tokenCum": 2168,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the expiry of the ordinary period allowed for making an appeal against therelevant order, or",
+                                                    "tokenCum": 2186,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if such an appeal is made, the date on which it is finally disposed of orabandoned or fails because it is not prosecuted.\u201d",
+                                                    "tokenCum": 2217,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 92,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In Schedule 5C (mayors for combined authority areas: PCC functions), inparagraph 9, for \u201cand 9\u201d substitute \u201c, 9 and 9A\u201d.",
+                                            "tokenCum": 2256,
+                                            "wordSum": 20,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In the Combined Authorities (Mayoral Elections) Order 2017 ([S.I.2017/67](/id/uksi/2017/67?view=plain \"Go to item of legislation\"))\u2014",
+                                            "tokenCum": 2313,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in paragraph 9(1)(b) of Schedule 1 (the Combined Authority MayoralElections Rules), after \u201c9\u201d insert \u201cand 9A\u201d;",
+                                                    "tokenCum": 2353,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph 9(1)(b) of Schedule 3 (Combined Authority Mayoral Election(Combination of Polls) Rules), after \u201c9\u201d insert \u201cand 9A\u201d.",
+                                                    "tokenCum": 2399,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 154,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 520,
+                                    "tokenSum": 1029,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "The Mayor of London and London Assembly members",
+                                    "tokenCum": 2407,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the Greater London Authority Act 1999, after section 21 insert\u2014",
+                                            "tokenCum": 2428,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c21ADisqualification relating to sexual offences etc",
+                                            "tokenCum": 2442,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A person is disqualified from being elected or being the Mayor or anAssembly member if the person is subject to\u2014",
+                                                    "tokenCum": 2466,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "any relevant notification requirements, or",
+                                                            "tokenCum": 2472,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a relevant order.",
+                                                            "tokenCum": 2476,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 9,
+                                                            "tokenCount": 9
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In this section \u201crelevant notification requirements\u201d means\u2014",
+                                                    "tokenCum": 2487,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the notification requirements of Part 2 of the Sexual Offences Act 2003;",
+                                                            "tokenCum": 2507,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the notification requirements of Part 2 of the Sex Offenders (Jersey) Law2010;",
+                                                            "tokenCum": 2530,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the notification requirements of Part 2 of the Criminal Justice (SexOffenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013;",
+                                                            "tokenCum": 2572,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the notification requirements of Schedule 1 to the Criminal Justice Act2001 (an Act of Tynwald: c. 4).",
+                                                            "tokenCum": 2603,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 67,
+                                                    "tokenSum": 151,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this section \u201crelevant order\u201d means\u2014",
+                                                    "tokenCum": 2613,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a sexual harm prevention order under section 345 of the Sentencing Code;",
+                                                            "tokenCum": 2631,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a sexual harm prevention order under section 103A of the Sexual OffencesAct 2003;",
+                                                            "tokenCum": 2657,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "a sexual offences prevention order under section 104 of that Act;",
+                                                            "tokenCum": 2674,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "a sexual risk order under section 122A of that Act;",
+                                                            "tokenCum": 2689,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "a risk of sexual harm order under section 123 of that Act;",
+                                                            "tokenCum": 2705,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "a risk of sexual harm order under section 2 of the Protection of Childrenand Prevention of Sexual Offences (Scotland) Act 2005;",
+                                                            "tokenCum": 2741,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(g)",
+                                                            "text": "a sexual risk order under section 27 of the Abusive Behaviour and SexualHarm (Scotland) Act 2016;",
+                                                            "tokenCum": 2775,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(h)",
+                                                            "text": "a restraining order under Article 10 of the Sex Offenders (Jersey) Law2010;",
+                                                            "tokenCum": 2801,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "a child protection order under Article 11 of that Law;",
+                                                            "tokenCum": 2814,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(j)",
+                                                            "text": "a sexual offences prevention order under section 18 of the Criminal Justice(Sex Offenders and Miscellaneous Provisions) (Bailiwick of Guernsey) Law 2013;",
+                                                            "tokenCum": 2861,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(k)",
+                                                            "text": "a risk of sexual harm order under section 22 of that Law;",
+                                                            "tokenCum": 2876,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(l)",
+                                                            "text": "a sexual offences prevention order under section 1 of the Sex Offenders Act2006 (an Act of Tynwald: c. 20);",
+                                                            "tokenCum": 2911,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(m)",
+                                                            "text": "a risk of sexual harm order under section 5 of that Act.",
+                                                            "tokenCum": 2925,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 187,
+                                                    "tokenSum": 391,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "For the purposes of subsection (1)(a), a person who is subject to anyrelevant notification requirements is not to be regarded as disqualifieduntil\u2014",
+                                                    "tokenCum": 2958,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the expiry of the ordinary period allowed for making an appeal orapplication against the conviction, finding, caution, order or certificationin respect of which the person is subject to the relevant notificationrequirements, or",
+                                                            "tokenCum": 3002,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 49,
+                                                            "tokenCount": 49
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if such an appeal or application is made, the date on which it is finallydisposed of or abandoned or fails because it is not prosecuted.",
+                                                            "tokenCum": 3033,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 79,
+                                                    "tokenSum": 122,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "For the purposes of subsection (1)(b), a person who is subject to arelevant order is not to be regarded as disqualified until\u2014",
+                                                    "tokenCum": 3064,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the expiry of the ordinary period allowed for making an appeal against therelevant order, or",
+                                                            "tokenCum": 3082,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if such an appeal is made, the date on which it is finally disposed of orabandoned or fails because it is not prosecuted.",
+                                                            "tokenCum": 3113,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 60,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "This section applies in relation to being returned as a London member undersection 11 otherwise than at an election as it applies in relation to beingelected.\u201d",
+                                                    "tokenCum": 3145,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In the Greater London Authority Elections Rules 2007 ([S.I.2007/3541](/id/uksi/2007/3541?view=plain \"Go to item of legislation\"))\u2014",
+                                                    "tokenCum": 3203,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in paragraph 7(2)(b)(i) of Schedule 1 (the Constituency Member ElectionRules), after \u201c21\u201d insert \u201cor 21A\u201d;",
+                                                            "tokenCum": 3244,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in paragraph 9(2)(c)(i) of Schedule 2 (the London Member Election Rules),after \u201c21\u201d insert \u201cor 21A\u201d;",
+                                                            "tokenCum": 3283,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in paragraph 8(2)(b)(i) of Schedule 3 (the Mayoral Election Rules), after\u201c21\u201d insert \u201cor 21A\u201d;",
+                                                            "tokenCum": 3322,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "in paragraph 7(2)(b)(i) of Schedule 5 (the Constituency Members ElectionRules for elections combined with a relevant election or referendum), after\u201c21\u201d insert \u201cor 21A\u201d;",
+                                                            "tokenCum": 3374,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 57,
+                                                            "tokenCount": 57
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "in paragraph 9(2)(c)(i) of Schedule 6 (the London Member Election Rules forelections combined with a relevant election or referendum), after \u201c21\u201d insert\u201cor 21A\u201d;",
+                                                            "tokenCum": 3423,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 54,
+                                                            "tokenCount": 54
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "in paragraph 8(2)(b)(i) of Schedule 7 (the Mayoral Election Rules forelections combined with a relevant election or referendum), after \u201c21\u201d insert\u201cor 21A\u201d.",
+                                                            "tokenCum": 3471,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        }
+                                                    ],
+                                                    "wordSum": 126,
+                                                    "tokenSum": 360,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 579,
+                                            "tokenSum": 1219,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 598,
+                                    "tokenSum": 1253,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 1795,
+                            "tokenSum": 3814,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary and final provisions",
+                            "tokenCum": 3478,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "References to Channel Islands or Isle of Man legislation",
+                                    "tokenCum": 3489,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations make such amendments to anyrelevant provision as the Secretary of State considers appropriate inconsequence of the amendment, repeal or re-enactment of any legislation of anyof the Channel Islands or the Isle of Man which is for the time beingspecified in that provision.",
+                                            "tokenCum": 3560,
+                                            "wordSum": 49,
+                                            "tokenSum": 74,
+                                            "tokenCount": 74
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201crelevant provision\u201d means\u2014",
+                                            "tokenCum": 3573,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 81A of the Local Government Act 1972;",
+                                                    "tokenCum": 3589,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraph 9A of Schedule 5B to the Local Democracy, Economic Developmentand Construction Act 2009;",
+                                                    "tokenCum": 3618,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 21A of the Greater London Authority Act 1999.",
+                                                    "tokenCum": 3637,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 92,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under this section are to be made by statutory instrument.",
+                                            "tokenCum": 3652,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A statutory instrument containing regulations under this section may not bemade unless a draft of the instrument has been laid before and approved by aresolution of each House of Parliament.",
+                                            "tokenCum": 3690,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 136,
+                                    "tokenSum": 238,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Transitional provision",
+                                    "tokenCum": 3693,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The amendments made by this Act do not have the effect of disqualifying aperson by reason of the person becoming subject to\u2014",
+                                            "tokenCum": 3721,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any relevant notification requirements, or",
+                                                    "tokenCum": 3727,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a relevant order,",
+                                                    "tokenCum": 3731,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "before the day on which this Act comes into force.",
+                                                            "tokenCum": 3742,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 65,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201crelevant notification requirements\u201d and \u201crelevant order\u201dhave the same meaning as in section 81A of the Local Government Act 1972,paragraph 9A of Schedule 5B to the Local Democracy, Economic Development andConstruction Act 2009 and section 21A of the Greater London Authority Act 1999as first enacted.",
+                                            "tokenCum": 3835,
+                                            "wordSum": 47,
+                                            "tokenSum": 96,
+                                            "tokenCount": 96
+                                        }
+                                    ],
+                                    "wordSum": 89,
+                                    "tokenSum": 166,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 3844,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 3853,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force at the end of the period of two months beginningwith the day on which it is passed.",
+                                            "tokenCum": 3877,
+                                            "wordSum": 22,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Local Government (Disqualification) Act 2022.",
+                                            "tokenCum": 3899,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 3899,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 12,
+                                            "tokenSum": 29,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 79,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 276,
+                            "tokenSum": 491,
+                            "tokenCount": 7
+                        }
+                    ],
+                    "wordSum": 2107,
+                    "tokenSum": 4363,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2144,
+            "tokenSum": 4478,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/17/enacted?view=plain",
+    "title": "Local Government (Disqualification) Act 2022",
+    "longtitle": "An Act to make provision about the grounds on which a person is disqualified from being elected to, or holding, certain positions in local government in England.",
+    "date": "[28th April 2022]",
+    "wordSum": 2144,
+    "tokenSum": 4479,
+    "tokenCount": 0,
+    "totalTokens": 4479
+}

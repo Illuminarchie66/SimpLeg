@@ -1,0 +1,2272 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2011/12/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "European Union Act 2011",
+                    "tokenCum": 52,
+                    "wordSum": 4,
+                    "tokenSum": 9,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2011 CHAPTER 12",
+                    "tokenCum": 61,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about treaties relating to the European Union anddecisions made under them, including provision implementing the Protocolsigned at Brussels on 23 June 2010 amending the Protocol (No. 36) ontransitional provisions annexed to the Treaty on European Union, to the Treatyon the Functioning of the European Union and to the Treaty establishing theEuropean Atomic Energy Community; and to make provision about the means bywhich directly applicable or directly effective European Union law has effectin the United Kingdom.",
+                            "tokenCum": 183,
+                            "wordSum": 80,
+                            "tokenSum": 123,
+                            "tokenCount": 123
+                        }
+                    ],
+                    "wordSum": 83,
+                    "tokenSum": 133,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[19th July 2011]",
+                    "tokenCum": 194,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 251,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 1Restrictions on treaties and decisions relating to EU",
+                            "tokenCum": 267,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Introductory",
+                                    "tokenCum": 271,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 1",
+                                            "text": "Interpretation of Part 1",
+                                            "tokenCum": 278,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section has effect for the interpretation of this Part.",
+                                                    "tokenCum": 289,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "\u201cTEU\u201d means the Treaty on European Union.",
+                                                    "tokenCum": 301,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "\u201cTFEU\u201d means the Treaty on the Functioning of the European Union.",
+                                                    "tokenCum": 319,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A reference to a treaty which amends TEU or TFEU includes a reference to\u2014",
+                                                    "tokenCum": 339,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a treaty resulting from the application of Article 48(2) to (5) of TEU(ordinary revision procedure);",
+                                                            "tokenCum": 366,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "an agreement under Article 49 of TEU (admission of new members).",
+                                                            "tokenCum": 383,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 40,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "An \u201cArticle 48(6) decision\u201d means a decision under Article 48(6) of TEU(simplified revision procedure).",
+                                                    "tokenCum": 416,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Except in a reference to \u201cthe European Council\u201d, \u201cthe Council\u201d means theCouncil of the European Union.",
+                                                    "tokenCum": 441,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "A reference to a Minister of the Crown voting in favour of or otherwisesupporting a decision is a reference to a Minister of the Crown\u2014",
+                                                    "tokenCum": 472,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "voting in favour of the decision in the European Council or the Council, or",
+                                                            "tokenCum": 487,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "allowing the decision to be adopted by consensus or unanimity by theEuropean Council or the Council.",
+                                                            "tokenCum": 509,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 157,
+                                            "tokenSum": 289,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 158,
+                                    "tokenSum": 295,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Restrictions relating to amendments of TEU or TFEU",
+                                    "tokenCum": 525,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 2",
+                                            "text": "Treaties amending or replacing TEU or TFEU",
+                                            "tokenCum": 537,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A treaty which amends or replaces TEU or TFEU is not to be ratified unless\u2014",
+                                                    "tokenCum": 560,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a statement relating to the treaty was laid before Parliament in accordancewith section 5,",
+                                                            "tokenCum": 580,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the treaty is approved by Act of Parliament, and",
+                                                            "tokenCum": 591,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the referendum condition or the exemption condition is met.",
+                                                            "tokenCum": 603,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 85,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The referendum condition is that\u2014",
+                                                    "tokenCum": 610,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the Act providing for the approval of the treaty provides that theprovision approving the treaty is not to come into force until a referendumabout whether the treaty should be ratified has been held throughout theUnited Kingdom or, where the treaty also affects Gibraltar, throughout theUnited Kingdom and Gibraltar,",
+                                                            "tokenCum": 681,
+                                                            "wordSum": 48,
+                                                            "tokenSum": 76,
+                                                            "tokenCount": 76
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the referendum has been held, and",
+                                                            "tokenCum": 689,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the majority of those voting in the referendum are in favour of theratification of the treaty.",
+                                                            "tokenCum": 710,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 75,
+                                                    "tokenSum": 126,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The exemption condition is that the Act providing for the approval of thetreaty states that the treaty does not fall within section 4.",
+                                                    "tokenCum": 740,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 152,
+                                            "tokenSum": 260,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 3",
+                                            "text": "Amendment of TFEU under simplified revision procedure",
+                                            "tokenCum": 751,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where the European Council has adopted an Article 48(6) decision subject toits approval by the member States, a Minister of the Crown may not confirm theapproval of the decision by the United Kingdom unless\u2014",
+                                                    "tokenCum": 796,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a statement relating to the decision was laid before Parliament inaccordance with section 5,",
+                                                            "tokenCum": 816,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the decision is approved by Act of Parliament, and",
+                                                            "tokenCum": 826,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the referendum condition, the exemption condition or the significancecondition is met.",
+                                                            "tokenCum": 842,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 68,
+                                                    "tokenSum": 110,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The referendum condition is that\u2014",
+                                                    "tokenCum": 849,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the Act providing for the approval of the decision provides that theprovision approving the decision is not to come into force until a referendumabout whether the decision should be approved has been held throughout theUnited Kingdom or, where the decision also affects Gibraltar, throughout theUnited Kingdom and Gibraltar,",
+                                                            "tokenCum": 915,
+                                                            "wordSum": 48,
+                                                            "tokenSum": 71,
+                                                            "tokenCount": 71
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the referendum has been held, and",
+                                                            "tokenCum": 923,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the majority of those voting in the referendum are in favour of theapproval of the decision.",
+                                                            "tokenCum": 943,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 75,
+                                                    "tokenSum": 120,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The exemption condition is that the Act providing for the approval of thedecision states that the decision does not fall within section 4.",
+                                                    "tokenCum": 972,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The significance condition is that the Act providing for the approval ofthe decision states that\u2014",
+                                                    "tokenCum": 990,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the decision falls within section 4 only because of provision of the kindmentioned in subsection (1)(i) or (j) of that section, and",
+                                                            "tokenCum": 1023,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the effect of that provision in relation to the United Kingdom is notsignificant.",
+                                                            "tokenCum": 1040,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 50,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 223,
+                                            "tokenSum": 359,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 4",
+                                            "text": "Cases where treaty or Article 48(6) decision attracts a referendum",
+                                            "tokenCum": 1059,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Subject to subsection (4), a treaty or an Article 48(6) decision fallswithin this section if it involves one or more of the following\u2014",
+                                                    "tokenCum": 1095,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the extension of the objectives of the EU as set out in Article 3 of TEU;",
+                                                            "tokenCum": 1115,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the conferring on the EU of a new exclusive competence;",
+                                                            "tokenCum": 1128,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the extension of an exclusive competence of the EU;",
+                                                            "tokenCum": 1139,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the conferring on the EU of a new competence shared with the member States;",
+                                                            "tokenCum": 1156,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "the extension of any competence of the EU that is shared with the memberStates;",
+                                                            "tokenCum": 1174,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "the extension of the competence of the EU in relation to\u2014",
+                                                            "tokenCum": 1187,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the co-ordination of economic and employment policies, or",
+                                                            "tokenCum": 1200,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "common foreign and security policy;",
+                                                            "tokenCum": 1206,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(g)",
+                                                            "text": "the conferring on the EU of a new competence to carry out actions tosupport, co-ordinate or supplement the actions of member States;",
+                                                            "tokenCum": 1236,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(h)",
+                                                            "text": "the extension of a supporting, co-ordinating or supplementing competence ofthe EU;",
+                                                            "tokenCum": 1256,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the conferring on an EU institution or body of power to impose arequirement or obligation on the United Kingdom, or the removal of anylimitation on any such power of an EU institution or body;",
+                                                            "tokenCum": 1299,
+                                                            "wordSum": 34,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(j)",
+                                                            "text": "the conferring on an EU institution or body of new or extended power toimpose sanctions on the United Kingdom;",
+                                                            "tokenCum": 1323,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(k)",
+                                                            "text": "any amendment of a provision listed in Schedule 1 that removes arequirement that anything should be done unanimously, by consensus or bycommon accord;",
+                                                            "tokenCum": 1358,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(l)",
+                                                            "text": "any amendment of Article 31(2) of TEU (decisions relating to common foreignand security policy to which qualified majority voting applies) that removesor amends the provision enabling a member of the Council to oppose theadoption of a decision to be taken by qualified majority voting;",
+                                                            "tokenCum": 1423,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 70,
+                                                            "tokenCount": 70
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(m)",
+                                                            "text": "any amendment of any of the provisions specified in subsection (3) thatremoves or amends the provision enabling a member of the Council, in relationto a draft legislative act, to ensure the suspension of the ordinarylegislative procedure.",
+                                                            "tokenCum": 1479,
+                                                            "wordSum": 36,
+                                                            "tokenSum": 61,
+                                                            "tokenCount": 61
+                                                        }
+                                                    ],
+                                                    "wordSum": 299,
+                                                    "tokenSum": 499,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Any reference in subsection (1) to the extension of a competence includes areference to the removal of a limitation on a competence.",
+                                                    "tokenCum": 1508,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The provisions referred to in subsection (1)(m) are\u2014",
+                                                    "tokenCum": 1523,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "Article 48 of TFEU (social security),",
+                                                            "tokenCum": 1535,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "Article 82(3) of TFEU (judicial co-operation in criminal matters), and",
+                                                            "tokenCum": 1557,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "Article 83(3) of TFEU (particularly serious crime with a cross-borderdimension).",
+                                                            "tokenCum": 1584,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        }
+                                                    ],
+                                                    "wordSum": 34,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A treaty or Article 48(6) decision does not fall within this section merelybecause it involves one or more of the following\u2014",
+                                                    "tokenCum": 1613,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the codification of practice under TEU or TFEU in relation to the previousexercise of an existing competence;",
+                                                            "tokenCum": 1641,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the making of any provision that applies only to member States other thanthe United Kingdom;",
+                                                            "tokenCum": 1659,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in the case of a treaty, the accession of a new member State.",
+                                                            "tokenCum": 1676,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 111,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 431,
+                                            "tokenSum": 760,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 5",
+                                            "text": "Statement to be laid before Parliament",
+                                            "tokenCum": 1683,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "If a treaty amending TEU or TFEU is agreed in an inter-governmentalconference, a Minister of the Crown must lay the required statement beforeParliament before the end of the 2 months beginning with the date on which thetreaty is agreed.",
+                                                    "tokenCum": 1741,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 62
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "If an Article 48(6) decision is adopted by the European Council subject toits approval by the member States, a Minister of the Crown must lay therequired statement before Parliament before the end of the 2 months beginningwith the date on which the decision is adopted.",
+                                                    "tokenCum": 1798,
+                                                    "wordSum": 45,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The required statement is a statement as to whether, in the Minister\u2019sopinion, the treaty or Article 48(6) decision falls within section 4.",
+                                                    "tokenCum": 1835,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "If the Minister is of the opinion that an Article 48(6) decision fallswithin section 4 only because of provision of the kind mentioned in subsection(1)(i) or (j) of that section, the statement must indicate whether in theMinister\u2019s opinion the effect of that provision in relation to the UnitedKingdom is significant.",
+                                                    "tokenCum": 1910,
+                                                    "wordSum": 50,
+                                                    "tokenSum": 79,
+                                                    "tokenCount": 79
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The statement must give reasons for the Minister\u2019s opinion under subsection(3) and, if relevant, subsection (4).",
+                                                    "tokenCum": 1937,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In relation to an Article 48(6) decision adopted by the European Councilbefore the day on which this section comes into force (\u201cthe commencementdate\u201d), the condition in section 3(1)(a) is to be taken to be complied with ifa statement under this section is laid before Parliament before the end of the2 months beginning with the commencement date.",
+                                                    "tokenCum": 2018,
+                                                    "wordSum": 56,
+                                                    "tokenSum": 85,
+                                                    "tokenCount": 85
+                                                }
+                                            ],
+                                            "wordSum": 234,
+                                            "tokenSum": 369,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 1048,
+                                    "tokenSum": 1766,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Restrictions relating to other decisions under TEU or TFEU",
+                                    "tokenCum": 2034,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 6",
+                                            "text": "Decisions requiring approval by Act and by referendum",
+                                            "tokenCum": 2045,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A Minister of the Crown may not vote in favour of or otherwise support adecision to which this subsection applies unless\u2014",
+                                                    "tokenCum": 2070,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the draft decision is approved by Act of Parliament, and",
+                                                            "tokenCum": 2081,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the referendum condition is met.",
+                                                            "tokenCum": 2088,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Where the European Council has recommended to the member States theadoption of a decision under Article 42(2) of TEU in relation to a common EUdefence, a Minister of the Crown may not notify the European Council that thedecision is adopted by the United Kingdom unless\u2014",
+                                                    "tokenCum": 2147,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the decision is approved by Act of Parliament, and",
+                                                            "tokenCum": 2157,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the referendum condition is met.",
+                                                            "tokenCum": 2164,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        }
+                                                    ],
+                                                    "wordSum": 59,
+                                                    "tokenSum": 90,
+                                                    "tokenCount": 62
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A Minister of the Crown may not give a notification under Article 4 ofProtocol (No. 21) on the position of the United Kingdom and Ireland in respectof the area of freedom, security and justice annexed to TEU and TFEU whichrelates to participation by the United Kingdom in a European PublicProsecutor\u2019s Office or an extension of the powers of that Office unless\u2014",
+                                                    "tokenCum": 2247,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the notification has been approved by Act of Parliament, and",
+                                                            "tokenCum": 2258,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the referendum condition is met.",
+                                                            "tokenCum": 2265,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        }
+                                                    ],
+                                                    "wordSum": 76,
+                                                    "tokenSum": 115,
+                                                    "tokenCount": 86
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The referendum condition is that set out in section 3(2), with referencesto a decision being read for the purposes of subsection (1) as references to adraft decision and for the purposes of subsection (3) as references to anotification.",
+                                                    "tokenCum": 2320,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The decisions to which subsection (1) applies are\u2014",
+                                                    "tokenCum": 2333,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a decision under the provision of Article 31(3) of TEU that permits theadoption of qualified majority voting;",
+                                                            "tokenCum": 2360,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a decision under Article 48(7) of TEU which in relation to any provisionlisted in Schedule 1\u2014",
+                                                            "tokenCum": 2387,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "adopts qualified majority voting, or",
+                                                            "tokenCum": 2394,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "applies the ordinary legislative procedure in place of a speciallegislative procedure requiring the Council to act unanimously;",
+                                                            "tokenCum": 2418,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "a decision under Article 86(1) of TFEU involving participation by theUnited Kingdom in a European Public Prosecutor\u2019s Office;",
+                                                            "tokenCum": 2450,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "where the United Kingdom has become a participant in a European PublicProsecutor\u2019s Office, a decision under Article 86(4) of TFEU to extend thepowers of that Office;",
+                                                            "tokenCum": 2493,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "a decision under Article 140(3) of TFEU which would make the euro thecurrency of the United Kingdom;",
+                                                            "tokenCum": 2520,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "a decision under the provision of Article 153(2) of TFEU (social policy)that permits the application of the ordinary legislative procedure in place ofa special legislative procedure;",
+                                                            "tokenCum": 2562,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(g)",
+                                                            "text": "a decision under the provision of Article 192(2) of TFEU (environment) thatpermits the application of the ordinary legislative procedure in place of aspecial legislative procedure;",
+                                                            "tokenCum": 2604,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(h)",
+                                                            "text": "a decision under the provision of Article 312(2) of TFEU (EU finance) thatpermits the adoption of qualified majority voting;",
+                                                            "tokenCum": 2639,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "a decision under the provision of Article 333(1) of TFEU (enhanced co-operation) that permits the adoption of qualified majority voting, where thedecision relates to a provision listed in Schedule 1 and the United Kingdom isa participant in the enhanced co-operation to which the decision relates;",
+                                                            "tokenCum": 2712,
+                                                            "wordSum": 45,
+                                                            "tokenSum": 78,
+                                                            "tokenCount": 78
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(j)",
+                                                            "text": "a decision under the provision of Article 333(2) of TFEU (enhanced co-operation) that permits the adoption of the ordinary legislative procedure inplace of a special legislative procedure, where\u2014",
+                                                            "tokenCum": 2760,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the decision relates to a provision listed in Schedule 1,",
+                                                            "tokenCum": 2774,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "the special legislative procedure requires the Council to act unanimously,and",
+                                                            "tokenCum": 2789,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "the United Kingdom is a participant in the enhanced co-operation to whichthe decision relates;",
+                                                            "tokenCum": 2811,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(k)",
+                                                            "text": "a decision under Article 4 of the Schengen Protocol that removes any bordercontrol of the United Kingdom.",
+                                                            "tokenCum": 2833,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 318,
+                                                    "tokenSum": 597,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In subsection (5)(k) \u201cthe Schengen Protocol\u201d means the Protocol (No. 19) onthe Schengen _acquis_ integrated into the framework of the European Union,annexed to TEU and TFEU.",
+                                                    "tokenCum": 2887,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 561,
+                                            "tokenSum": 990,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 7",
+                                            "text": "Decisions requiring approval by Act",
+                                            "tokenCum": 2894,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A Minister of the Crown may not confirm the approval by the United Kingdomof a decision to which this subsection applies unless the decision is approvedby Act of Parliament.",
+                                                    "tokenCum": 2928,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The decisions to which subsection (1) applies are\u2014",
+                                                    "tokenCum": 2941,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a decision under the provision of Article 25 of TFEU that permits theadoption of provisions to strengthen or add to the rights listed in Article20(2) of that Treaty (rights of citizens of the European Union);",
+                                                            "tokenCum": 2994,
+                                                            "wordSum": 35,
+                                                            "tokenSum": 58,
+                                                            "tokenCount": 58
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a decision under the provision of Article 223(1) of TFEU that permits thelaying down of the provisions necessary for the election of the members of theEuropean Parliament in accordance with that Article;",
+                                                            "tokenCum": 3042,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "a decision under the provision of Article 262 of TFEU that permits theconferring of jurisdiction on the Court of Justice of the European Union indisputes relating to the application of acts adopted on the basis of the EUTreaties which create European intellectual property rights;",
+                                                            "tokenCum": 3104,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 67,
+                                                            "tokenCount": 67
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "a decision under the third paragraph of Article 311 of TFEU to adopt adecision laying down provisions relating to the system of own resources of theEuropean Union.",
+                                                            "tokenCum": 3144,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        }
+                                                    ],
+                                                    "wordSum": 146,
+                                                    "tokenSum": 240,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A Minister of the Crown may not vote in favour of or otherwise support adecision to which this subsection applies unless the draft decision isapproved by Act of Parliament.",
+                                                    "tokenCum": 3179,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The decisions to which subsection (3) applies are\u2014",
+                                                    "tokenCum": 3192,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a decision under the provision of Article 17(5) of TEU that permits thealteration of the number of members of the European Commission;",
+                                                            "tokenCum": 3224,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a decision under Article 48(7) of TEU which in relation to any provisionnot listed in Schedule 1\u2014",
+                                                            "tokenCum": 3251,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "adopts qualified majority voting, or",
+                                                            "tokenCum": 3258,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "applies the ordinary legislative procedure in place of a speciallegislative procedure requiring the Council to act unanimously;",
+                                                            "tokenCum": 3282,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "a decision under the provision of Article 64(3) of TFEU that permits theadoption of measures which constitute a step backwards in European Union lawas regards the liberalisation of the movement of capital to or from thirdcountries;",
+                                                            "tokenCum": 3334,
+                                                            "wordSum": 36,
+                                                            "tokenSum": 57,
+                                                            "tokenCount": 57
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "a decision under the provision of Article 126(14) of TFEU that permits theadoption of provisions to replace the Protocol (No. 12) on the excessivedeficit procedure annexed to TEU and TFEU;",
+                                                            "tokenCum": 3393,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 64,
+                                                            "tokenCount": 64
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "a decision under the provision of Article 333(1) of TFEU (enhanced co-operation) that permits the adoption of qualified majority voting, where thedecision relates to a provision not listed in Schedule 1 and the UnitedKingdom is a participant in the enhanced co-operation to which the decisionrelates;",
+                                                            "tokenCum": 3469,
+                                                            "wordSum": 45,
+                                                            "tokenSum": 81,
+                                                            "tokenCount": 81
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "a decision under the provision of Article 333(2) of TFEU (enhanced co-operation) that permits the adoption of the ordinary legislative procedure inplace of a special legislative procedure, where\u2014",
+                                                            "tokenCum": 3517,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the decision relates to a provision not listed in Schedule 1,",
+                                                            "tokenCum": 3532,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "the special legislative procedure requires the Council to act unanimously,and",
+                                                            "tokenCum": 3547,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "the United Kingdom is a participant in the enhanced co-operation to whichthe decision relates.",
+                                                            "tokenCum": 3569,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 243,
+                                                    "tokenSum": 449,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 452,
+                                            "tokenSum": 776,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 8",
+                                            "text": "Decisions under Article 352 of TFEU",
+                                            "tokenCum": 3581,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A Minister of the Crown may not vote in favour of or otherwise support anArticle 352 decision unless one of subsections (3) to (5) is complied with inrelation to the draft decision.",
+                                                    "tokenCum": 3626,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An Article 352 decision is a decision under the provision of Article 352 ofTFEU that permits the adoption of measures to attain one of the objectives setout in the EU Treaties (but for which those Treaties have not provided thenecessary powers).",
+                                                    "tokenCum": 3688,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "This subsection is complied with if a draft decision is approved by Act ofParliament.",
+                                                    "tokenCum": 3707,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "This subsection is complied with if\u2014",
+                                                    "tokenCum": 3716,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in each House of Parliament a Minister of the Crown moves a motion that theHouse approves Her Majesty\u2019s Government\u2019s intention to support a specifieddraft decision and is of the opinion that the measure to which it relates isrequired as a matter of urgency, and",
+                                                            "tokenCum": 3773,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "each House agrees to the motion without amendment.",
+                                                            "tokenCum": 3785,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 58,
+                                                    "tokenSum": 92,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "This subsection is complied with if a Minister of the Crown has laid beforeParliament a statement specifying a draft decision and stating that in theopinion of the Minister the decision relates only to one or more exemptpurposes.",
+                                                    "tokenCum": 3834,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The exempt purposes are\u2014",
+                                                    "tokenCum": 3840,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "to make provision equivalent to that made by a measure previously adoptedunder Article 352 of TFEU, other than an excepted measure;",
+                                                            "tokenCum": 3870,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "to prolong or renew a measure previously adopted under that Article, otherthan an excepted measure;",
+                                                            "tokenCum": 3889,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "to extend a measure previously adopted under that Article to another memberState or other country;",
+                                                            "tokenCum": 3906,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "to repeal existing measures adopted under that Article;",
+                                                            "tokenCum": 3916,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "to consolidate existing measures adopted under that Article without anychange of substance.",
+                                                            "tokenCum": 3933,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 75,
+                                                    "tokenSum": 128,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "In subsection (6)(a) and (b), \u201cexcepted measure\u201d means a measure adoptedafter the commencement of this section and resulting from a decision inrelation to which a Minister of the Crown had relied on compliance withsubsection (4).",
+                                                    "tokenCum": 3987,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 298,
+                                            "tokenSum": 484,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 9",
+                                            "text": "Approval required in connection with Title V of Part 3 of TFEU",
+                                            "tokenCum": 4003,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A Minister of the Crown may not give a notification to which thissubsection applies unless Parliamentary approval has been given in accordancewith subsection (3).",
+                                                    "tokenCum": 4035,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Subsection (1) applies in relation to a notification under Article 3 ofProtocol (No. 21) on the position of the United Kingdom and Ireland in respectof the area of freedom, security and justice annexed to TEU and TFEU (the\u201cAFSJ Protocol\u201d) that the United Kingdom wishes to take part in the adoptionand application of a measure proposed under any of the following\u2014",
+                                                    "tokenCum": 4123,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the provision of Article 81(3) of TFEU (family law) that permits theapplication of the ordinary legislative procedure in place of a speciallegislative procedure;",
+                                                            "tokenCum": 4162,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the provision of Article 82(2)(d) of TFEU (criminal procedure) that permitsthe identification of further specific aspects of criminal procedure to whichdirectives adopted under the ordinary legislative procedure may relate;",
+                                                            "tokenCum": 4209,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the provision of Article 83(1) of TFEU (particularly serious crime with across-border dimension) that permits the identification of further areas ofcrime to which directives adopted under the ordinary legislative procedure mayrelate.",
+                                                            "tokenCum": 4261,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 57,
+                                                            "tokenCount": 57
+                                                        }
+                                                    ],
+                                                    "wordSum": 143,
+                                                    "tokenSum": 245,
+                                                    "tokenCount": 91
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Parliamentary approval is given if\u2014",
+                                                    "tokenCum": 4269,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in each House of Parliament a Minister of the Crown moves a motion that theHouse approves Her Majesty\u2019s Government\u2019s intention to give a notification inrespect of a specified measure, and",
+                                                            "tokenCum": 4309,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "each House agrees to the motion without amendment.",
+                                                            "tokenCum": 4321,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 43,
+                                                    "tokenSum": 74,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Despite any Parliamentary approval given for the purposes of subsection(1), a Minister may not vote in favour of or otherwise support a decisionunder a provision falling within any of paragraphs (a) to (c) of subsection(2) unless the draft decision is approved by Act of Parliament.",
+                                                    "tokenCum": 4383,
+                                                    "wordSum": 45,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A Minister of the Crown may not give a notification under Article 4 of theAFSJ Protocol that the United Kingdom wishes to accept a measure to which thissubsection applies unless the notification in respect of the measure has beenapproved by Act of Parliament.",
+                                                    "tokenCum": 4435,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 56
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The measures to which subsection (5) applies are\u2014",
+                                                    "tokenCum": 4447,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a measure adopted under a provision described in any of paragraphs (a) to(c) of subsection (2), or",
+                                                            "tokenCum": 4473,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a measure established under Article 81(3), 82(2)(d) or 83(1) of TFEU byvirtue of a previous decision adopted, without the participation of the UnitedKingdom, under a provision falling within any of those paragraphs.",
+                                                            "tokenCum": 4533,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 65,
+                                                            "tokenCount": 65
+                                                        }
+                                                    ],
+                                                    "wordSum": 57,
+                                                    "tokenSum": 112,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 367,
+                                            "tokenSum": 608,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 10",
+                                            "text": "Parliamentary control of certain decisions not requiring approval byAct",
+                                            "tokenCum": 4546,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A Minister of the Crown may not vote in favour of or otherwise support adecision under any of the following unless Parliamentary approval has beengiven in accordance with this section\u2014",
+                                                    "tokenCum": 4584,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the provision of Article 56 of TFEU that permits the extension of theprovisions of Chapter 3 of Title IV of Part 3 of that Treaty (free movement ofservices) to nationals of a third country;",
+                                                            "tokenCum": 4634,
+                                                            "wordSum": 34,
+                                                            "tokenSum": 55,
+                                                            "tokenCount": 55
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "Article 129(3) of TFEU (amendment of provisions of the Statute of theEuropean System of Central Banks or of the European Central Bank);",
+                                                            "tokenCum": 4673,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the provision of Article 252 of TFEU that permits an increase in the numberof Advocates-General;",
+                                                            "tokenCum": 4700,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the provision of Article 257 of TFEU that permits the establishment ofspecialised courts attached to the General Court;",
+                                                            "tokenCum": 4727,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "the provision of Article 281 of TFEU that permits the amendment of theStatute of the Court of Justice of the European Union;",
+                                                            "tokenCum": 4760,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "the provision of Article 308 of TFEU that permits the amendment of theStatute of the European Investment Bank.",
+                                                            "tokenCum": 4791,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 159,
+                                                    "tokenSum": 279,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A Minister of the Crown may not vote in favour of or otherwise support adecision to which this subsection applies unless Parliamentary approval hasbeen given in accordance with this section.",
+                                                    "tokenCum": 4830,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Subsection (2) applies to a decision under Article 48(7) of TEU which inrelation to a provision of TFEU applies the ordinary legislative procedure inplace of a special legislative procedure not requiring the Council to actunanimously.",
+                                                    "tokenCum": 4884,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A Minister of the Crown may not confirm the approval by the United Kingdomof a decision under Article 218(8) of TFEU for the accession of the EuropeanUnion to the European Convention for the Protection of Human Rights andFundamental Freedoms in accordance with Article 6(2) of TEU unlessParliamentary approval has been given in accordance with this section.",
+                                                    "tokenCum": 4970,
+                                                    "wordSum": 56,
+                                                    "tokenSum": 90,
+                                                    "tokenCount": 90
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Parliamentary approval is given if\u2014",
+                                                    "tokenCum": 4978,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in each House of Parliament a Minister of the Crown moves a motion that theHouse approves Her Majesty\u2019s Government\u2019s intention to support the adoption ofa specified draft decision, and",
+                                                            "tokenCum": 5017,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "each House agrees to the motion without amendment.",
+                                                            "tokenCum": 5029,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 42,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 331,
+                                            "tokenSum": 559,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 2018,
+                                    "tokenSum": 3435,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Further provisions about referendums held in pursuance of section 2, 3 or6",
+                                    "tokenCum": 5050,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 11",
+                                            "text": "Persons entitled to vote in referendum",
+                                            "tokenCum": 5058,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The persons entitled to vote in any referendum held in pursuance of section2, 3 or 6 are to be as follows\u2014",
+                                                    "tokenCum": 5087,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the persons who, on the date of the referendum, would be entitled to voteas an elector at a parliamentary election in a constituency in the UnitedKingdom;",
+                                                            "tokenCum": 5124,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the persons who, on that date, are disqualified by reason of being peersfrom voting as electors in parliamentary elections but\u2014",
+                                                            "tokenCum": 5153,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "would be entitled to vote as electors at a local government election in anyelectoral area in Great Britain,",
+                                                            "tokenCum": 5175,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "would be entitled to vote as electors at a local election in any districtelectoral area in Northern Ireland, or",
+                                                            "tokenCum": 5200,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "would be entitled to vote as electors at a European Parliamentaryelection in any electoral region by virtue of section 3 of the Representationof the People Act 1985 (peers resident outside the United Kingdom);",
+                                                            "tokenCum": 5248,
+                                                            "wordSum": 33,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "if the referendum is also held in Gibraltar, the Commonwealth citizens who,on the date of the referendum, would be entitled to vote in Gibraltar at aEuropean Parliamentary election in the combined electoral region in whichGibraltar is comprised.",
+                                                            "tokenCum": 5305,
+                                                            "wordSum": 37,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        }
+                                                    ],
+                                                    "wordSum": 174,
+                                                    "tokenSum": 281,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In subsection (1)(b)(i) \u201clocal government election\u201d includes a municipalelection in the City of London (that is, an election to the office of mayor,alderman, common councilman or sheriff and also the election of any officerelected by the mayor, aldermen and liverymen in common hall).",
+                                                    "tokenCum": 5378,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                }
+                                            ],
+                                            "wordSum": 223,
+                                            "tokenSum": 369,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 12",
+                                            "text": "Separate questions",
+                                            "tokenCum": 5382,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "If a referendum is to be held in pursuance of any of sections 2, 3 and 6 inrelation to two or more treaties or decisions, or in relation to one or moretreaties and one or more decisions, a separate question must be included onthe ballot paper in relation to each treaty or decision.",
+                                                    "tokenCum": 5455,
+                                                    "wordSum": 53,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 84,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 13",
+                                            "text": "Role of Electoral Commission",
+                                            "tokenCum": 5461,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Where an Act provides for a referendum to be held in pursuance of section 2, 3or 6, the Electoral Commission\u2014",
+                                                    "tokenCum": 5492,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "must take whatever steps they think appropriate to promote public awarenessof the referendum and how to vote in it, and",
+                                                            "tokenCum": 5517,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "may take whatever steps they think appropriate to promote public awarenessof the subject-matter of the referendum.",
+                                                            "tokenCum": 5541,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 56,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 103,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 350,
+                                    "tokenSum": 579,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Supplementary",
+                                    "tokenCum": 5544,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 14",
+                                            "text": "Consequential amendments and repeals relating to Part 1",
+                                            "tokenCum": 5559,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "In section 5 of the European Union (Amendment) Act 2008 (amendment offounding treaties)\u2014",
+                                                    "tokenCum": 5588,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in subsection (2), for the words from \u201camends\u201d onwards substitute \u201camendsthe Treaty establishing the European Atomic Energy Community (signed at Romeon 25th March 1957).\u201d, and",
+                                                            "tokenCum": 5638,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 55,
+                                                            "tokenCount": 55
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "accordingly, in the heading, for \u201cfounding treaties\u201d substitute \u201cEuratomTreaty\u201d.",
+                                                            "tokenCum": 5660,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 115,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In section 23 of the Constitutional Reform and Governance Act 2010 (section20 of that Act not to apply to certain descriptions of treaties), insubsection (1)\u2014",
+                                                    "tokenCum": 5703,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "omit paragraph (a),",
+                                                            "tokenCum": 5709,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in paragraph (b), for \u201cfounding Treaties\u201d substitute \u201cTreaty establishingEuropean Atomic Energy Community\u201d, and",
+                                                            "tokenCum": 5736,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "at the end insert\u2014",
+                                                            "tokenCum": 5741,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 10,
+                                                            "tokenCount": 10
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "\u201c(c)",
+                                                            "text": "a treaty that is subject to a requirement imposed by Part 1 of theEuropean Union Act 2011 (restrictions on treaties and decisions relating toEU).\u201d",
+                                                            "tokenCum": 5784,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        }
+                                                    ],
+                                                    "wordSum": 69,
+                                                    "tokenSum": 148,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The following enactments (which are superseded by the provisions of thisPart) are repealed\u2014",
+                                                    "tokenCum": 5807,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "section 2 of the European Communities (Amendment) Act 1993,",
+                                                            "tokenCum": 5827,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "section 1(2) and (3) of the European Communities (Amendment) Act 2002,",
+                                                            "tokenCum": 5854,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "section 12 of the European Parliamentary Elections Act 2002, and",
+                                                            "tokenCum": 5873,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "section 6 of the European Union (Amendment) Act 2008.",
+                                                            "tokenCum": 5892,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 132,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 176,
+                                            "tokenSum": 413,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 177,
+                                    "tokenSum": 418,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 3760,
+                            "tokenSum": 6510,
+                            "tokenCount": 16
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 2Implementation of transitional Protocol on MEPs",
+                            "tokenCum": 5906,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Protocol on MEPs: approval, and addition to list of treaties",
+                                    "tokenCum": 5923,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Protocol amending the Protocol (No. 36) on transitional provisionsannexed to the Treaty on European Union, to the Treaty on the Functioning ofthe European Union and to the Treaty establishing the European Atomic EnergyCommunity, signed at Brussels on 23 June 2010, is approved for the purposes ofsection 5 of the European Union (Amendment) Act 2008 (amendment of foundingTreaties: approval by Act of Parliament).",
+                                            "tokenCum": 6039,
+                                            "wordSum": 63,
+                                            "tokenSum": 119,
+                                            "tokenCount": 119
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 1(2) of the European Communities Act 1972, in the definition of\u201cthe Treaties\u201d, after paragraph (s) insert\u2014 \u201cand",
+                                            "tokenCum": 6076,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(t)",
+                                                    "text": "the Protocol amending the Protocol (No. 36) on transitional provisionsannexed to the Treaty on European Union, to the Treaty on the Functioning ofthe European Union and to the Treaty establishing the European Atomic EnergyCommunity, signed at Brussels on 23 June 2010;\u201d.",
+                                                    "tokenCum": 6151,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 79,
+                                                    "tokenCount": 79
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 119,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 133,
+                                    "tokenSum": 257,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Number of MEPs and electoral regions",
+                                    "tokenCum": 6160,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 1 of the European Parliamentary Elections Act 2002 is amended asfollows.",
+                                            "tokenCum": 6183,
+                                            "wordSum": 12,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) (number of members of the European Parliament) for \u201c72\u201dsubstitute \u201c73\u201d.",
+                                            "tokenCum": 6209,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (3) (electoral regions) for the entry relating to the WestMidlands substitute\u2014",
+                                            "tokenCum": 6233,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201cWest Midlands| 7\u201d  ---|---    ### 17Election of additional MEP",
+                                                    "tokenCum": 6256,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 22,
+                                            "tokenSum": 54,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The additional seat allocated to the West Midlands electoral region byvirtue of section 16 is to be filled by applying subsections (5) to (9) ofsection 2 of the 2002 Act (voting system in Great Britain and Gibraltar) tothe results of the poll at the general election of members of the EuropeanParliament held on 4 June 2009, as if the seat had been allocated to theregion at that date.",
+                                            "tokenCum": 6358,
+                                            "wordSum": 68,
+                                            "tokenSum": 105,
+                                            "tokenCount": 105
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) is subject to Schedule 2 which makes further provision aboutthe filling of the additional seat.",
+                                            "tokenCum": 6382,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This section and Schedule 2\u2014",
+                                            "tokenCum": 6390,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "cease to have effect on the date appointed under section 4 of the 2002 Actas the date of the poll at the next general election of members of theEuropean Parliament after the passing of this Act, and",
+                                                    "tokenCum": 6437,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "do not affect the procedure to be followed in accordance with regulationsmade under section 5 of the 2002 Act if, after being filled in accordance withthis section and Schedule 2, the additional seat subsequently becomes vacantbefore that date.",
+                                                    "tokenCum": 6492,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 121,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section and in Schedule 2 \u201cthe 2002 Act\u201d means the EuropeanParliamentary Elections Act 2002.",
+                                            "tokenCum": 6525,
+                                            "wordSum": 16,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 234,
+                                    "tokenSum": 409,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 374,
+                            "tokenSum": 681,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 3General",
+                            "tokenCum": 6529,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Status of EU law",
+                                    "tokenCum": 6533,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 18",
+                                            "text": "Status of EU law dependent on continuing statutory basis",
+                                            "tokenCum": 6545,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Directly applicable or directly effective EU law (that is, the rights, powers,liabilities, obligations, restrictions, remedies and procedures referred to insection 2(1) of the European Communities Act 1972) falls to be recognised andavailable in law in the United Kingdom only by virtue of that Act or where itis required to be recognised and available in law by virtue of any other Act.",
+                                                    "tokenCum": 6635,
+                                                    "wordSum": 61,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 109,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 115,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Final provisions",
+                                    "tokenCum": 6638,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 19",
+                                            "text": "Financial provisions",
+                                            "tokenCum": 6643,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "There is to be paid out of money provided by Parliament any increaseattributable to this Act in the sums payable under any other Act out of moneyso provided.",
+                                                    "tokenCum": 6677,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "There is to be charged on and paid out of the Consolidated Fund anyincrease attributable to this Act in the sums charged on and paid out of thatFund under any other Act.",
+                                                    "tokenCum": 6719,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 92,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 20",
+                                            "text": "Extent ",
+                                            "tokenCum": 6722,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This Act extends to the whole of the United Kingdom.",
+                                                    "tokenCum": 6733,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Part 2 (and this section and sections 21 and 22 so far as relating to thatPart) extend also to Gibraltar.",
+                                                    "tokenCum": 6765,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 57,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 21",
+                                            "text": "Commencement ",
+                                            "tokenCum": 6769,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The following provisions come into force on the day on which this Act ispassed\u2014",
+                                                    "tokenCum": 6787,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "section 15;",
+                                                            "tokenCum": 6792,
+                                                            "wordSum": 2,
+                                                            "tokenSum": 10,
+                                                            "tokenCount": 10
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "this Part.",
+                                                            "tokenCum": 6795,
+                                                            "wordSum": 2,
+                                                            "tokenSum": 8,
+                                                            "tokenCount": 8
+                                                        }
+                                                    ],
+                                                    "wordSum": 18,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The other provisions of this Act come into force on such day as theSecretary of State may by order made by statutory instrument appoint.",
+                                                    "tokenCum": 6825,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Different days may be appointed for different purposes.",
+                                                    "tokenCum": 6835,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 95,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 22",
+                                            "text": "Short title",
+                                            "tokenCum": 6837,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "This Act may be cited as the European Union Act 2011.",
+                                                    "tokenCum": 6854,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 26,
+                                            "tokenCount": 4
+                                        }
+                                    ],
+                                    "wordSum": 159,
+                                    "tokenSum": 275,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 235,
+                            "tokenSum": 395,
+                            "tokenCount": 4
+                        }
+                    ],
+                    "wordSum": 4405,
+                    "tokenSum": 7644,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 4496,
+            "tokenSum": 7843,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2011/12/enacted?view=plain",
+    "title": "European Union Act 2011",
+    "longtitle": "An Act to make provision about treaties relating to the European Union and decisions made under them, including provision implementing the Protocol signed at Brussels on 23 June 2010 amending the Protocol (No. 36) on transitional provisions annexed to the Treaty on European Union, to the Treaty on the Functioning of the European Union and to the Treaty establishing the European Atomic Energy Community; and to make provision about the means by which directly applicable or directly effective European Union law has effect in the United Kingdom.",
+    "date": "[19th July 2011]",
+    "wordSum": 4496,
+    "tokenSum": 7844,
+    "tokenCount": 0,
+    "totalTokens": 7844
+}

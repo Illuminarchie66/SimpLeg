@@ -1,0 +1,447 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2019/7/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Organ Donation (Deemed Consent) Act 2019",
+                    "tokenCum": 58,
+                    "wordSum": 6,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2019 CHAPTER 7",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make amendments of the Human Tissue Act 2004 concerning consent toactivities done for the purpose of transplantation; and for connectedpurposes.",
+                            "tokenCum": 104,
+                            "wordSum": 23,
+                            "tokenSum": 39,
+                            "tokenCount": 39
+                        }
+                    ],
+                    "wordSum": 26,
+                    "tokenSum": 48,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[15th March 2019]",
+                    "tokenCum": 115,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 172,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "\u201cAppropriate consent\u201d to adult transplantation activities: England",
+                            "tokenCum": 186,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 3 of the Human Tissue Act 2004 (\u201cappropriate consent\u201d: adults) isamended as follows.",
+                                    "tokenCum": 217,
+                                    "wordSum": 14,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (6), after paragraph (b) insert\u2014",
+                                    "tokenCum": 230,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(ba)",
+                                            "text": "if neither paragraph (a) nor paragraph (b) applies and the activity isone to which subsection (6A) applies, the deemed consent of the personconcerned;\u201d.",
+                                            "tokenCum": 270,
+                                            "wordSum": 23,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 58,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (6), in paragraph (c) after \u201capplies\u201d insert \u201cand theactivity is not one to which subsection (6A) applies\u201d.",
+                                    "tokenCum": 304,
+                                    "wordSum": 19,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (6) insert\u2014",
+                                    "tokenCum": 312,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(6A)This subsection applies to the following activities done in Englandunless the body is the body of an excepted adult\u2014",
+                                            "tokenCum": 340,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the storage of the body of a deceased person for use for the purpose oftransplantation;",
+                                            "tokenCum": 360,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the removal from the body of a deceased person, for use for the purpose oftransplantation, of any permitted material of which the body consists or whichit contains;",
+                                            "tokenCum": 395,
+                                            "wordSum": 27,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the storage for use for the purpose of transplantation of any permittedmaterial which has come from a human body;",
+                                            "tokenCum": 418,
+                                            "wordSum": 19,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the use for the purpose of transplantation of any permitted material whichhas come from a human body.",
+                                            "tokenCum": 439,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6B)The person concerned is to be deemed, for the purposes of subsection(6)(ba), to have consented to the activity unless a person who stood in aqualifying relationship to the person concerned immediately before deathprovides information that would lead a reasonable person to conclude that theperson concerned would not have consented.\u201d",
+                                            "tokenCum": 508,
+                                            "wordSum": 49,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        }
+                                    ],
+                                    "wordSum": 150,
+                                    "tokenSum": 224,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "After subsection (8) insert\u2014",
+                                    "tokenCum": 516,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(9)",
+                                    "text": "In subsection (6A)\u2014",
+                                    "tokenCum": 524,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cexcepted adult\u201d means\u2014",
+                                            "tokenCum": 533,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an adult who has died and who had not been ordinarily resident in England fora period of at least 12 months immediately before dying, or",
+                                            "tokenCum": 533,
+                                            "wordSum": 25,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an adult who has died and who for a significant period before dying lackedcapacity to understand the effect of subsection (6)(ba);",
+                                            "tokenCum": 563,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpermitted material\u201d means relevant material other than relevant material of a type specified in regulations made by the Secretary of State.",
+                                                    "tokenCum": 620,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 64,
+                                            "tokenCount": 31
+                                        }
+                                    ],
+                                    "wordSum": 75,
+                                    "tokenSum": 119,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "For the purposes of the definition of \u201cexcepted adult\u201d in subsection (9) asignificant period means a sufficiently long period as to lead a reasonableperson to conclude that it would be inappropriate for consent to be deemed tobe given under subsection (6)(ba).\u201d",
+                                    "tokenCum": 682,
+                                    "wordSum": 41,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                }
+                            ],
+                            "wordSum": 340,
+                            "tokenSum": 559,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Consequential amendments",
+                            "tokenCum": 688,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Human Tissue Act 2004 is further amended as follows.",
+                                    "tokenCum": 705,
+                                    "wordSum": 10,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 1 (authorisation of activities for scheduled purposes), aftersubsection (9B) insert\u2014",
+                                    "tokenCum": 726,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(9C)Subsection (1) does not apply in relation to the following activitiesdone in Northern Ireland in relation to relevant material that was removedfrom a human body in England\u2014",
+                                            "tokenCum": 764,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the storage for use for the purpose of transplantation of the relevantmaterial;",
+                                            "tokenCum": 780,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the use for the purpose of transplantation of the relevant material.\u201d",
+                                            "tokenCum": 794,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 62,
+                                    "tokenSum": 100,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 1, in subsection (10)(c), for \u201cor (9B)(b)\u201d substitute \u201c, (9B)(b)or (9C)\u201d.",
+                                    "tokenCum": 833,
+                                    "wordSum": 13,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In section 27 (provision with respect to consent), after subsection (8)insert\u2014",
+                                    "tokenCum": 854,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(8ZA)The duty under section 26(3) shall also have effect, in particular, torequire the Authority to give practical guidance on the circumstances in whichthe person concerned is to be deemed to have consented under section 3(6)(ba).",
+                                    "tokenCum": 915,
+                                    "wordSum": 35,
+                                    "tokenSum": 63,
+                                    "tokenCount": 63
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(8ZB)In giving practical guidance by virtue of subsection (8ZA), the Authoritymust, in particular, give guidance about the provision of information of thetype described in section 3(6B) by a person who stood in a qualifyingrelationship to the person concerned immediately before death.\u201d",
+                                    "tokenCum": 981,
+                                    "wordSum": 41,
+                                    "tokenSum": 68,
+                                    "tokenCount": 68
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In section 52 (orders and regulations), in subsection (3) (statutoryinstruments to which negative procedure does not apply), after \u201c1(11),\u201d insert\u201c3(9),\u201d.",
+                                    "tokenCum": 1028,
+                                    "wordSum": 20,
+                                    "tokenSum": 49,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In section 52, in subsection (4) (statutory instruments to whichaffirmative procedure applies), after \u201cno regulations under section\u201d insert\u201c3(9),\u201d.",
+                                    "tokenCum": 1068,
+                                    "wordSum": 18,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In section 52, in the list in subsection (10) (requirement to consult),after \u201csection 1(11)\u201d insert\u2014",
+                                    "tokenCum": 1102,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201csection 3(9);\u201d.",
+                                            "tokenCum": 1112,
+                                            "wordSum": 3,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 49,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 230,
+                            "tokenSum": 461,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 1121,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales and Northern Ireland only.",
+                                    "tokenCum": 1133,
+                                    "wordSum": 11,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This section comes into force on the day on which this Act is passed.",
+                                    "tokenCum": 1148,
+                                    "wordSum": 14,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The remaining provisions of this Act come into force on such day or days asthe Secretary of State may by regulations made by statutory instrumentappoint.",
+                                    "tokenCum": 1181,
+                                    "wordSum": 25,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act may be cited as the Organ Donation (Deemed Consent) Act 2019.",
+                                    "tokenCum": 1205,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1205,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 13,
+                                    "tokenSum": 29,
+                                    "tokenCount": 25
+                                }
+                            ],
+                            "wordSum": 68,
+                            "tokenSum": 105,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 674,
+                    "tokenSum": 1183,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 710,
+            "tokenSum": 1303,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2019/7/enacted?view=plain",
+    "title": "Organ Donation (Deemed Consent) Act 2019",
+    "longtitle": "An Act to make amendments of the Human Tissue Act 2004 concerning consent to activities done for the purpose of transplantation; and for connected purposes.",
+    "date": "[15th March 2019]",
+    "wordSum": 710,
+    "tokenSum": 1304,
+    "tokenCount": 0,
+    "totalTokens": 1304
+}

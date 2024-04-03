@@ -1,0 +1,1793 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2004/22/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Sustainable and Secure Buildings Act 2004",
+                    "tokenCum": 59,
+                    "wordSum": 6,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2004 CHAPTER 22",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision in relation to matters connected with buildings.",
+                            "tokenCum": 81,
+                            "wordSum": 12,
+                            "tokenSum": 14,
+                            "tokenCount": 14
+                        }
+                    ],
+                    "wordSum": 15,
+                    "tokenSum": 24,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th September 2004]",
+                    "tokenCum": 92,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 149,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Purposes of building regulations",
+                            "tokenCum": 155,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In subsection (1) of section 1 of the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") (which sets outthe purposes for which building regulations may be made), for paragraphs (b)and (c) substitute\u2014",
+                                    "tokenCum": 233,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(b)",
+                                            "text": "furthering the conservation of fuel and power,",
+                                            "tokenCum": 242,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "preventing waste, undue consumption, misuse or contamination of water,",
+                                            "tokenCum": 259,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "furthering the protection or enhancement of the environment,",
+                                            "tokenCum": 270,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "facilitating sustainable development, or",
+                                            "tokenCum": 279,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "furthering the prevention or detection of crime,\u201d.",
+                                            "tokenCum": 290,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 68,
+                                    "tokenSum": 152,
+                                    "tokenCount": 79
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In the words in that subsection after those paragraphs (which set outmatters about which building regulations may be made), for the words from\u201cdesign and construction\u201d onwards substitute \u201cmatters mentioned in subsection(1A) below\u201d.",
+                                    "tokenCum": 341,
+                                    "wordSum": 32,
+                                    "tokenSum": 53,
+                                    "tokenCount": 53
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After that subsection insert\u2014",
+                                    "tokenCum": 347,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(1A)Those matters are\u2014",
+                                            "tokenCum": 357,
+                                            "wordSum": 3,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the design and construction of buildings;",
+                                            "tokenCum": 364,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the demolition of buildings;",
+                                            "tokenCum": 370,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "services, fittings and equipment provided in or in connection withbuildings.\u201d",
+                                            "tokenCum": 386,
+                                            "wordSum": 10,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 27,
+                                    "tokenSum": 59,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In section 126 of that Act (general interpretation), in the definition of\u201csubstantive requirements\u201d for the words from \u201cdesign and construction\u201d to\u201cwith buildings\u201d substitute \u201cmatters mentioned in section 1(1A) above\u201d.",
+                                    "tokenCum": 438,
+                                    "wordSum": 29,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                }
+                            ],
+                            "wordSum": 160,
+                            "tokenSum": 325,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Buildings of special historical or architectural interest",
+                            "tokenCum": 447,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 1 of the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") insert\u2014",
+                                    "tokenCum": 494,
+                                    "wordSum": 15,
+                                    "tokenSum": 49,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c1ABuildings of special historical or architectural interest",
+                                    "tokenCum": 507,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In making building regulations the Secretary of State shall have regard, inparticular, to the desirability of preserving the character of protectedbuildings that are of special historical or architectural interest.",
+                                            "tokenCum": 549,
+                                            "wordSum": 29,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this section \u201cprotected buildings\u201d means\u2014",
+                                            "tokenCum": 558,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "listed buildings within the meaning of the Planning (Listed Buildings andConservation Areas) Act 1990 (see section 1(5) of that Act); and",
+                                                    "tokenCum": 598,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "buildings situated in areas designated as conservation areas under section69 of that Act.\u201d",
+                                                    "tokenCum": 614,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 76,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 76,
+                                    "tokenSum": 136,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 98,
+                            "tokenSum": 195,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Contents of building regulations",
+                            "tokenCum": 620,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Schedule 1 to the Building Act 1984 (provision that may be included inbuilding regulations) is amended in accordance with subsections (2) to (7).",
+                                    "tokenCum": 661,
+                                    "wordSum": 23,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In sub-paragraph (a)(ii) of paragraph 7, for \u201cand use\u201d substitute \u201c, useand re-use\u201d.",
+                                    "tokenCum": 689,
+                                    "wordSum": 13,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In sub-paragraph (a)(ix) of that paragraph, after \u201cgases,\u201d insert\u201cvapours,\u201d.",
+                                    "tokenCum": 714,
+                                    "wordSum": 9,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In sub-paragraph (a)(xiv) of that paragraph, at the end insert \u201c(includingequipment for monitoring and measuring supplies of water)\u201d.",
+                                    "tokenCum": 747,
+                                    "wordSum": 18,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "After sub-paragraph (a)(xxii) of that paragraph insert\u2014",
+                                    "tokenCum": 762,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(xxiia)",
+                                            "text": "measures relating to the security of buildings,",
+                                            "tokenCum": 771,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(xxiib)",
+                                            "text": "measures affecting the use of fuel or power,",
+                                            "tokenCum": 781,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(xxiic)",
+                                            "text": "equipment for monitoring and measuring supplies of fuel, power or heat,",
+                                            "tokenCum": 795,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(xxiid)",
+                                            "text": "recycling facilities (including facilities for composting),\u201d.",
+                                            "tokenCum": 808,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 75,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In sub-paragraph (1) of paragraph 8, after paragraph (e) insert\u2014",
+                                    "tokenCum": 827,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(f)",
+                                            "text": "buildings or parts of buildings, together with any services, fittings orequipment provided in or in connection with them, in cases where the personsin occupation of a building or part of a building change in prescribedcircumstances.\u201d",
+                                            "tokenCum": 877,
+                                            "wordSum": 35,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 74,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "For sub-paragraph (2) of paragraph 8 substitute\u2014",
+                                    "tokenCum": 890,
+                                    "wordSum": 7,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(2)",
+                                    "text": "Subject to sub-paragraphs (3) to (6) below and to sections 2(2) and 2A ofthis Act, building regulations shall not apply to or in connection withbuildings erected before the date on which the regulations come into force.",
+                                    "tokenCum": 948,
+                                    "wordSum": 36,
+                                    "tokenSum": 60,
+                                    "tokenCount": 60
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The following building regulations may be made to apply to or in connectionwith buildings erected before the date on which the regulations come intoforce\u2014",
+                                    "tokenCum": 978,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "regulations falling within sub-paragraph (1)(a) to (e) above;",
+                                            "tokenCum": 996,
+                                            "wordSum": 8,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "regulations made with respect to the demolition of buildings;",
+                                            "tokenCum": 1008,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "regulations made with respect to the use of materials or components(including surface finishes) that (in whole or in part) have been producedfrom, or incorporate, recycled items;",
+                                            "tokenCum": 1048,
+                                            "wordSum": 26,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "regulations made with respect to the re-use of materials or components(including surface finishes);",
+                                            "tokenCum": 1068,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "regulations falling within sub-paragraph (4) below.",
+                                            "tokenCum": 1080,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 86,
+                                    "tokenSum": 149,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Building regulations fall within this sub-paragraph if\u2014",
+                                    "tokenCum": 1091,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in accordance with sub-paragraph (1)(f) above, they are framed by referenceto a change in the occupants of a building (or part); and",
+                                            "tokenCum": 1127,
+                                            "wordSum": 22,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "they are\u2014",
+                                            "tokenCum": 1130,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "made for the purpose mentioned in section 1(1)(b) of this Act; or",
+                                            "tokenCum": 1149,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "made (otherwise than for that purpose) with respect to measures calculatedto secure, or to contribute to, the prevention or reduction of emissions(whether or not from the building in question) of smoke, gases, vapours orfumes.",
+                                            "tokenCum": 1203,
+                                            "wordSum": 34,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        }
+                                    ],
+                                    "wordSum": 77,
+                                    "tokenSum": 137,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The provision that may be made by building regulations includes provisionimposing on a person carrying out work of any type in relation to a building(whenever erected), or in relation to any service, fitting or equipmentprovided in or in connection with a building (whenever erected)\u2014",
+                                    "tokenCum": 1264,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a requirement to do things for the purpose mentioned in section 1(1)(b) ofthis Act; or",
+                                            "tokenCum": 1287,
+                                            "wordSum": 15,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a requirement to do things (otherwise than for that purpose) with respectto measures calculated to secure, or to contribute to, the prevention orreduction of emissions (whether or not from the building in question) ofsmoke, gases, vapours or fumes.",
+                                            "tokenCum": 1347,
+                                            "wordSum": 38,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 97,
+                                    "tokenSum": 152,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The things whose doing may be required by virtue of sub-paragraph (5) aboveare\u2014",
+                                    "tokenCum": 1366,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "things to be done in relation to the work in question;",
+                                            "tokenCum": 1378,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other things but only if they are to be done in relation to\u2014",
+                                            "tokenCum": 1393,
+                                            "wordSum": 14,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the building in question; or",
+                                            "tokenCum": 1399,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "any service, fitting or equipment provided in or in connection with thatbuilding.\u201d",
+                                            "tokenCum": 1414,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 55,
+                                    "tokenSum": 81,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "In section 44 of that Act (Crown application), after subsection (10)insert\u2014",
+                                    "tokenCum": 1436,
+                                    "wordSum": 11,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(11)",
+                                    "text": "For the purposes of building regulations which, in accordance withparagraph 8(1)(f) of Schedule 1 to this Act, are framed by reference to achange in the occupants of a building (or part), this section applies, withany necessary modifications, in relation to the making of a change ofoccupants as it applies in relation to the carrying out of work.\u201d",
+                                    "tokenCum": 1517,
+                                    "wordSum": 57,
+                                    "tokenSum": 83,
+                                    "tokenCount": 83
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "In section 45(1) of that Act (application to United Kingdom Atomic EnergyAuthority), for \u201c(10)\u201d substitute \u201c(11)\u201d.",
+                                    "tokenCum": 1553,
+                                    "wordSum": 16,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                }
+                            ],
+                            "wordSum": 593,
+                            "tokenSum": 1030,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Continuing requirements of building regulations",
+                            "tokenCum": 1561,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "After section 2 of the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") insert\u2014",
+                                    "tokenCum": 1608,
+                                    "wordSum": 15,
+                                    "tokenSum": 49,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c2AContinuing requirements in relation to fuel, power and emissions",
+                                    "tokenCum": 1624,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Building regulations may impose, on owners and occupiers of buildings,continuing requirements that fall within subsection (2) below.",
+                                            "tokenCum": 1653,
+                                            "wordSum": 17,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A continuing requirement falls within this subsection if\u2014",
+                                            "tokenCum": 1664,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it requires the inspection and testing of a building\u2014",
+                                                    "tokenCum": 1675,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "as respects the use of fuel and power in or in connection with thebuilding; or",
+                                                    "tokenCum": 1693,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "as respects its contribution to or effect on emissions (whether or notfrom the building) of smoke, gases, vapours or fumes;",
+                                                    "tokenCum": 1726,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it requires the inspection and testing of any service, fitting or equipmentprovided in or in connection with a building\u2014",
+                                                    "tokenCum": 1750,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "as respects the use of fuel and power in or in connection with the service,fitting or equipment; or",
+                                                    "tokenCum": 1773,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "as respects its contribution to or effect on emissions (whether or notfrom it or the building) of smoke, gases, vapours or fumes;",
+                                                    "tokenCum": 1808,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "it requires the implementation, in relation to a building, or any service,fitting or equipment provided in or in connection with a building, of\u2014",
+                                                    "tokenCum": 1838,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "measures for the purpose mentioned in section 1(1)(b) above; or",
+                                                    "tokenCum": 1855,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "measures (otherwise than for that purpose) that are calculated to secure,or to contribute to, the prevention or reduction of emissions (whether or notfrom the building in question or a thing provided in or in connection with it)of smoke, gases, vapours or fumes;",
+                                                    "tokenCum": 1917,
+                                                    "wordSum": 42,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "it requires the keeping of records in relation to matters within paragraph(a), (b) or (c); or",
+                                                    "tokenCum": 1940,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "it requires the making of reports in relation to any of those matters to aprescribed authority.",
+                                                    "tokenCum": 1959,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 218,
+                                            "tokenSum": 353,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Those requirements may be imposed in the case of buildings, or in the caseof services, fittings and equipment provided in or in connection withbuildings, irrespective of both\u2014",
+                                            "tokenCum": 1998,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "when the buildings were erected; and",
+                                                    "tokenCum": 2006,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "whether building regulations were applicable to them at the time of theirerection.",
+                                                    "tokenCum": 2022,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 74,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsections (3) to (6) of section 2 above apply in relation to continuingrequirements imposed by virtue of this section as they apply in relation tocontinuing requirements imposed by virtue of that section.",
+                                            "tokenCum": 2068,
+                                            "wordSum": 32,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Paragraph 8(2) of Schedule 1 to this Act does not impose any restriction onthe building regulations that may be made by virtue of this section.\u201d",
+                                            "tokenCum": 2104,
+                                            "wordSum": 25,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 33(4) of that Act (powers of local authorities in relation tocontraventions of continuing requirements), after \u201csection 2(1) or (2)\u201d insert\u201cor 2A\u201d.",
+                                            "tokenCum": 2152,
+                                            "wordSum": 23,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 38(2) of that Act (provision relating to civil liability), after\u201csection 2(2)\u201d insert \u201cor 2A\u201d.",
+                                            "tokenCum": 2189,
+                                            "wordSum": 16,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 44 of that Act (Crown application)\u2014",
+                                            "tokenCum": 2203,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (3)(a) after \u201csection 2\u201d insert \u201cor 2A\u201d; and",
+                                                    "tokenCum": 2226,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (8) for the definition of \u201ccontinuing requirement\u201dsubstitute\u2014",
+                                                    "tokenCum": 2244,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c\u201ccontinuing requirement\u201d means a continuing requirement of buildingregulations\u2014",
+                                                            "tokenCum": 2260,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 17,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "imposed by virtue of section 2(1) or (2)(a) or (b) above; or",
+                                                    "tokenCum": 2284,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "of a kind mentioned in subsection (2)(a), (b) or (c) of section 2A aboveand imposed by virtue of subsection (1) of that section;\u201d.",
+                                                    "tokenCum": 2325,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 160,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 126 of that Act (general interpretation), in the definition of\u201csubstantive requirements\u201d after \u201c(b) above\u201d insert \u201cand requirements that areof a kind mentioned in subsection (2)(a), (b) or (c) of section 2A above andare imposed by virtue of subsection (1) of that section\u201d.",
+                                            "tokenCum": 2402,
+                                            "wordSum": 44,
+                                            "tokenSum": 80,
+                                            "tokenCount": 80
+                                        }
+                                    ],
+                                    "wordSum": 499,
+                                    "tokenSum": 896,
+                                    "tokenCount": 17
+                                }
+                            ],
+                            "wordSum": 519,
+                            "tokenSum": 954,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Removal of exemptions",
+                            "tokenCum": 2407,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The following provisions of the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") (which providecertain exemptions from the requirements of the Act for educational buildingsand buildings of statutory undertakers and other authorities and licensees)shall cease to have effect\u2014",
+                                    "tokenCum": 2490,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 4;",
+                                            "tokenCum": 2494,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 59(4) and (5).",
+                                            "tokenCum": 2505,
+                                            "wordSum": 4,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 106,
+                                    "tokenCount": 84
+                                }
+                            ],
+                            "wordSum": 48,
+                            "tokenSum": 112,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Secretary of State to report on building stock",
+                            "tokenCum": 2513,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must\u2014",
+                                    "tokenCum": 2519,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for the period of two years beginning with the commencement of thissection, and",
+                                            "tokenCum": 2536,
+                                            "wordSum": 13,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for each succeeding period of two years,",
+                                            "tokenCum": 2545,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "prepare a report on progress during the period in connection with the purposesmentioned in section 1(1)(b) to (e) of the Building Act 1984 in the context ofthe building stock in England and Wales.",
+                                                    "tokenCum": 2594,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 65,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 93,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A report under this section must (in particular) deal with\u2014",
+                                    "tokenCum": 2607,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "building regulations made during the period for any of those purposes;",
+                                            "tokenCum": 2620,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "proposals current at the end of the period to make building regulations forany of those purposes;",
+                                            "tokenCum": 2640,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "effects or likely effects of regulations or proposals dealt with in thereport under paragraphs (a) and (b);",
+                                            "tokenCum": 2666,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "proposals considered by the Secretary of State during the period for thesetting of targets for any of those purposes in relation to\u2014",
+                                            "tokenCum": 2693,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "buildings in England and Wales; or",
+                                            "tokenCum": 2700,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "services, fittings or equipment provided in or in connection with suchbuildings;",
+                                            "tokenCum": 2717,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "overall changes during the period in\u2014",
+                                            "tokenCum": 2724,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the efficiency with which energy is used in buildings in England and Wales;",
+                                            "tokenCum": 2738,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "levels of emissions from such buildings that are emissions considered bythe Secretary of State to contribute to climate change;",
+                                            "tokenCum": 2761,
+                                            "wordSum": 19,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "the extent to which such buildings have their own facilities forgenerating energy;",
+                                            "tokenCum": 2776,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iv)",
+                                            "text": "the extent to which materials used in constructing, or carrying out worksin relation to, such buildings are recycled or re-used materials.",
+                                            "tokenCum": 2806,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 164,
+                                    "tokenSum": 247,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A report under this section must contain an estimate, as at the end of theperiod, of the number of dwellings in England and Wales.",
+                                    "tokenCum": 2835,
+                                    "wordSum": 24,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Secretary of State must lay before Parliament each report he preparesunder this section.",
+                                    "tokenCum": 2852,
+                                    "wordSum": 14,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                }
+                            ],
+                            "wordSum": 268,
+                            "tokenSum": 399,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Registers of information and documents to be kept by local authorities",
+                            "tokenCum": 2864,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 91 of the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") insert\u2014",
+                                    "tokenCum": 2912,
+                                    "wordSum": 15,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c91ARegisters to be kept by local authorities",
+                                    "tokenCum": 2925,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A local authority shall keep in a register such information and documentsas may be prescribed in connection with their functions, powers and dutiesconferred or imposed by or under this Act.",
+                                            "tokenCum": 2962,
+                                            "wordSum": 30,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The information and documents that may be prescribed for the purposes ofsubsection (1) above include, in particular\u2014",
+                                            "tokenCum": 2985,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "documents that are given or issued to, or deposited with, a local authorityin accordance with provision made by or under this Act, or copies of suchdocuments;",
+                                                    "tokenCum": 3020,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "copies of documents that are given, made or issued by a local authority inaccordance with provision so made;",
+                                                    "tokenCum": 3043,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "information with respect to documents of the kind mentioned in paragraph(a) or (b);",
+                                                    "tokenCum": 3061,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "information with respect to matters to which such documents relate.",
+                                                    "tokenCum": 3072,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 84,
+                                            "tokenSum": 129,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Information and documents that are required to be kept in a register undersubsection (1) above shall be so kept for the prescribed period.",
+                                            "tokenCum": 3101,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A local authority\u2014",
+                                            "tokenCum": 3105,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "shall maintain the register required under subsection (1) above in theprescribed manner;",
+                                                    "tokenCum": 3123,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "shall ensure that the register is available for inspection by members ofthe public during prescribed periods;",
+                                                    "tokenCum": 3143,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "shall, in prescribed circumstances, provide to members of the public, onrequest, copies of information and documents kept in the register;",
+                                                    "tokenCum": 3170,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "may, in prescribed circumstances, charge a member of the public to whomthey provide such copies a fee calculated in the prescribed manner.",
+                                                    "tokenCum": 3198,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 73,
+                                            "tokenSum": 116,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 3202,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdocuments\u201d includes notices, certificates, orders, consents, demands and plans;",
+                                                    "tokenCum": 3225,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprescribed\u201d means prescribed by regulations made by the Secretary of State under this section.",
+                                                    "tokenCum": 3247,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 60,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Regulations under this section may\u2014",
+                                            "tokenCum": 3254,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "provide for a provision thereof to apply generally, or in a particulararea;",
+                                                    "tokenCum": 3270,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make different provision for different areas and generally differentprovision for different circumstances or cases;",
+                                                    "tokenCum": 3287,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "include such supplemental, transitional and incidental provisions as appearto the Secretary of State to be expedient.",
+                                                    "tokenCum": 3312,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 80,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The transitional provision that may be included in regulations under thissection includes transitional provision in relation to information that,immediately before the coming into force of the regulations, was contained inregisters kept by local authorities under section 56.",
+                                            "tokenCum": 3364,
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The power to make regulations under this section is exercisable bystatutory instrument, which is subject to annulment in pursuance of aresolution of either House of Parliament.\u201d",
+                                            "tokenCum": 3405,
+                                            "wordSum": 26,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 355,
+                                    "tokenSum": 571,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 381,
+                            "tokenSum": 634,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Certification of work",
+                            "tokenCum": 3409,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In Schedule 1 to the Building Act [1984 (c.55)](/id/ukpga/1984/55?view=plain \"Go to item of legislation\") (provision thatmay be included in building regulations), after paragraph 4 insert\u2014",
+                                    "tokenCum": 3473,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c4A(1)Building regulations may\u2014",
+                                            "tokenCum": 3485,
+                                            "wordSum": 3,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provide for requiring that, in prescribed circumstances, a person of aprescribed class or description is to give to a local authority or an approvedinspector a certificate to the effect that the requirements of buildingregulations as to matters of a prescribed description are satisfied;",
+                                            "tokenCum": 3540,
+                                            "wordSum": 43,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "provide for requiring that such certificates be given within such periodsor at such times and in such forms as may be prescribed;",
+                                            "tokenCum": 3566,
+                                            "wordSum": 22,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "provide that a local authority or an approved inspector is not to exerciseor perform a prescribed power or duty unless\u2014",
+                                            "tokenCum": 3590,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "such a certificate has been given to them or him; or",
+                                            "tokenCum": 3602,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "such a certificate has been given to them or him and the certificate hasbeen accepted by them or him;",
+                                            "tokenCum": 3624,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "make provision as to\u2014",
+                                            "tokenCum": 3629,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the acceptance of such certificates by local authorities and approvedinspectors; and",
+                                            "tokenCum": 3646,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "other steps to be taken by local authorities or approved inspectors inconnection with such certificates.",
+                                            "tokenCum": 3665,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 173,
+                                    "tokenSum": 285,
+                                    "tokenCount": 65
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Building regulations may provide for such certificates to be treated asevidence (but not conclusive evidence) of the matters certified.\u201d",
+                                    "tokenCum": 3694,
+                                    "wordSum": 19,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 47(1) of that Act (giving of initial notices) after \u201cgiving\u201dinsert \u201cand receiving\u201d.",
+                                    "tokenCum": 3723,
+                                    "wordSum": 14,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 52(2) of that Act (cancellation of initial notice forcontravention of building regulations)\u2014",
+                                    "tokenCum": 3749,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in paragraph (a) after \u201cwork\u201d insert \u201cor intending to carry out the work\u201d;",
+                                            "tokenCum": 3770,
+                                            "wordSum": 13,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in paragraph (b) for the words from \u201cthat person\u201d onwards substitute \u201ctheprescribed steps are not taken by the person who, in accordance with buildingregulations, is required to take them\u201d.",
+                                            "tokenCum": 3813,
+                                            "wordSum": 29,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 98,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (1)(a) of section 57 of that Act (offences relating to falseor misleading certificates), for sub-paragraph (i) substitute\u2014",
+                                    "tokenCum": 3851,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(i)",
+                                            "text": "purports to comply with the requirements of this Part of this Act, section16(9) above or building regulations falling within paragraph 4A(1)(a) or (b)of Schedule 1 to this Act, and\u201d.",
+                                            "tokenCum": 3903,
+                                            "wordSum": 29,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 95,
+                                    "tokenCount": 39
+                                }
+                            ],
+                            "wordSum": 313,
+                            "tokenSum": 545,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 9",
+                            "text": "Appointed person and management of works",
+                            "tokenCum": 3911,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In Schedule 1 to the Building Act [1984 (c. 55)](/id/ukpga/1984/55?view=plain\"Go to item of legislation\") (provision that may be included in buildingregulations) before paragraph 5 insert\u2014",
+                                    "tokenCum": 3976,
+                                    "wordSum": 25,
+                                    "tokenSum": 67,
+                                    "tokenCount": 67
+                                }
+                            ],
+                            "wordSum": 31,
+                            "tokenSum": 76,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "\u201c4B(1)Building regulations may provide that in relation to any work of anytype that is being, or that is proposed to be, carried out in prescribedcircumstances, there shall be a person appointed for the purposes of thisparagraph (the \u201cappointed person\u201d).",
+                            "tokenCum": 4039,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The appointed person in relation to any work shall be a person of aprescribed class or description who is appointed by a person determined inaccordance with building regulations; and such regulations may make provisionfor a person to appoint himself.",
+                                    "tokenCum": 4088,
+                                    "wordSum": 39,
+                                    "tokenSum": 51,
+                                    "tokenCount": 51
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Building regulations may\u2014",
+                                    "tokenCum": 4093,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "require appointments for the purposes of this paragraph to be made withinsuch periods or at such times as may be prescribed;",
+                                            "tokenCum": 4119,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make provision in relation to\u2014",
+                                            "tokenCum": 4125,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the termination of a person\u2019s appointment;",
+                                            "tokenCum": 4135,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "the replacement of an appointed person.",
+                                            "tokenCum": 4142,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 68,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Building regulations may\u2014",
+                                    "tokenCum": 4147,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provide that the appointed person in relation to any work shall have suchduties in relation to the planning and management of the carrying out of thatwork as may be prescribed for purposes connected with facilitating compliancewith the requirements of building regulations in relation to that work;",
+                                            "tokenCum": 4204,
+                                            "wordSum": 46,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for those purposes impose duties in relation to\u2014",
+                                            "tokenCum": 4214,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the appointed person, or",
+                                            "tokenCum": 4219,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "anything that he does, or proposes to do, in connection with his duties,",
+                                            "tokenCum": 4236,
+                                            "wordSum": 13,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "on persons who are participating, or who are to participate, in the carryingout of that work.",
+                                            "tokenCum": 4258,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 90,
+                                    "tokenSum": 133,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The duties that building regulations may impose on persons who areparticipating, or who are to participate, in the carrying out of any workinclude\u2014",
+                                    "tokenCum": 4291,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "duties to comply with directions given to them by the appointed person;",
+                                            "tokenCum": 4305,
+                                            "wordSum": 12,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "duties that are framed by reference to determinations made by that person.\u201d",
+                                            "tokenCum": 4320,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 70,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 256,
+                            "tokenSum": 386,
+                            "tokenCount": 63
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 10",
+                            "text": "Financial provision",
+                            "tokenCum": 4324,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "There shall be payable out of money provided by Parliament\u2014",
+                                    "tokenCum": 4336,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any expenditure incurred by the Secretary of State in consequence or byvirtue of this Act; and",
+                                            "tokenCum": 4359,
+                                            "wordSum": 16,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any increase attributable to this Act in the sums payable out of money soprovided under any other Act.",
+                                            "tokenCum": 4383,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 67,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 46,
+                            "tokenSum": 72,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 11",
+                            "text": "Short title, repeals, commencement and extent",
+                            "tokenCum": 4394,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Sustainable and Secure Buildings Act 2004.",
+                                    "tokenCum": 4418,
+                                    "wordSum": 13,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The enactments and instruments specified in the Schedule to this Act arerepealed or revoked to the extent shown in the second column of that Schedule.",
+                                    "tokenCum": 4452,
+                                    "wordSum": 25,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act, apart from the provisions coming into force in accordance withsubsection (4), shall come into force on such day as the Secretary of Statemay by order made by statutory instrument appoint; and different days may beappointed for different purposes.",
+                                    "tokenCum": 4507,
+                                    "wordSum": 40,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This section (apart from subsection (2)) and sections 1, 3(1) to (7), 4(1)to (3) and (5), 6 and 10 shall come into force at the end of the period of twomonths beginning with the day on which this Act is passed.",
+                                    "tokenCum": 4577,
+                                    "wordSum": 41,
+                                    "tokenSum": 72,
+                                    "tokenCount": 72
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 4586,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 11",
+                                            "tokenCum": 4590,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 18,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 135,
+                            "tokenSum": 221,
+                            "tokenCount": 11
+                        }
+                    ],
+                    "wordSum": 2884,
+                    "tokenSum": 5007,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2909,
+            "tokenSum": 5104,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2004/22/enacted?view=plain",
+    "title": "Sustainable and Secure Buildings Act 2004",
+    "longtitle": "An Act to make provision in relation to matters connected with buildings.",
+    "date": "[16th September 2004]",
+    "wordSum": 2909,
+    "tokenSum": 5105,
+    "tokenCount": 0,
+    "totalTokens": 5105
+}

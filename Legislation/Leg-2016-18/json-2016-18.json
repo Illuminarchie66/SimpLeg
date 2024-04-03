@@ -1,0 +1,904 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2016/18/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "House of Commons Members' Fund Act 2016",
+                    "tokenCum": 57,
+                    "wordSum": 7,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2016 CHAPTER 18",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to consolidate and amend provisions about the House of Commons Members\u2019Fund.",
+                            "tokenCum": 88,
+                            "wordSum": 13,
+                            "tokenSum": 23,
+                            "tokenCount": 23
+                        }
+                    ],
+                    "wordSum": 16,
+                    "tokenSum": 33,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th May 2016]",
+                    "tokenCum": 99,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 156,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 1House of Commons Members' Fund",
+                            "tokenCum": 168,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "The Fund",
+                                    "tokenCum": 170,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There shall continue to be a House of Commons Members\u2019 Fund.",
+                                            "tokenCum": 184,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The purpose of the Fund is to make grants to\u2014",
+                                            "tokenCum": 196,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "former Members of the House of Commons, and",
+                                                    "tokenCum": 206,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "people who appear to the Fund\u2019s trustees to be or to have been dependentsof former Members.",
+                                                    "tokenCum": 229,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 56,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Fund shall be held\u2014",
+                                            "tokenCum": 235,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by the trustees, or",
+                                                    "tokenCum": 241,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if they appoint one of their number as a custodian trustee, by thatcustodian trustee.",
+                                                    "tokenCum": 265,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 23,
+                                            "tokenSum": 47,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 70,
+                                    "tokenSum": 124,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Trustees ",
+                                    "tokenCum": 268,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The trustees of the Fund shall be appointed by resolution of the House ofCommons.",
+                                            "tokenCum": 286,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "There are to be not more than 7 trustees at any time.",
+                                            "tokenCum": 301,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The trustees must be Members of the House of Commons (subject tosubsections (4) and (6)).",
+                                            "tokenCum": 325,
+                                            "wordSum": 15,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "At any time one trustee may be a former Member of the House of Commons; anda resolution appointing a trustee under this subsection must be made\u2014",
+                                            "tokenCum": 358,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on a motion moved by a trustee, and",
+                                                    "tokenCum": 368,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "following consultation by the trustees with persons appearing to them to berepresentative of former Members.",
+                                                    "tokenCum": 389,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 49,
+                                            "tokenSum": 75,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A person ceases to be a trustee upon\u2014",
+                                            "tokenCum": 400,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "ceasing to be a Member of the House of Commons (unless appointed undersubsection (4), and subject to subsection (6)), or",
+                                                    "tokenCum": 429,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "removal by resolution of the House of Commons.",
+                                                    "tokenCum": 438,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 60,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "But where one or more persons cease to be Members of the House of Commonsby reason of the dissolution of Parliament, they do not cease to be trusteesby virtue of subsection (5) until a resolution of the House of Commons takeseffect appointing new trustees in their place.",
+                                            "tokenCum": 501,
+                                            "wordSum": 47,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "While a former Member is a trustee by virtue of subsection (4) or (6),grants under section 3 may not be made to the former Member or to a dependantof the former Member.",
+                                            "tokenCum": 545,
+                                            "wordSum": 32,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The Schedule to this Act makes provision about the powers and proceedingsof the trustees.",
+                                            "tokenCum": 565,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 220,
+                                    "tokenSum": 342,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Grants ",
+                                    "tokenCum": 568,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The trustees may make payments out of the Fund to people listed in section1(2).",
+                                            "tokenCum": 588,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In determining whether to make payments to a person the trustees shall haveregard to\u2014",
+                                            "tokenCum": 609,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "his or her financial circumstances, and",
+                                                    "tokenCum": 616,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the state of the Fund.",
+                                                    "tokenCum": 622,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 25,
+                                            "tokenSum": 45,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Payments may be single or periodical.",
+                                            "tokenCum": 631,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 46,
+                                    "tokenSum": 85,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Levy on Members\u2019 salaries: basic amount",
+                                    "tokenCum": 642,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Amounts shall be deducted from the salaries of Members of the House ofCommons in accordance with this section.",
+                                            "tokenCum": 669,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The amounts to be deducted in respect of each financial year shall be setby resolution of the House of Commons.",
+                                            "tokenCum": 692,
+                                            "wordSum": 20,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A resolution may express a deduction as\u2014",
+                                            "tokenCum": 701,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a specified sum, or",
+                                                    "tokenCum": 706,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a specified percentage of salary.",
+                                                    "tokenCum": 713,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 16,
+                                            "tokenSum": 32,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A resolution may not have the effect of requiring any Member to pay morethan 0.2% of his or her salary for any financial year.",
+                                            "tokenCum": 745,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Amounts to be deducted in respect of a financial year\u2014",
+                                            "tokenCum": 759,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "are to be deducted from Members\u2019 salaries (before payment) in equalinstalments, and",
+                                                    "tokenCum": 781,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "are to be paid into the Fund.",
+                                                    "tokenCum": 789,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 55,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 113,
+                                    "tokenSum": 191,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Levy on Members\u2019 salaries: variation and suspension",
+                                    "tokenCum": 802,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The trustees may by direction increase the amounts set by resolution undersection 4 in respect of a specified financial year by the percentage appliedfor the purposes of Part I of the Pensions (Increase) Act 1971 in respect ofthat financial year.",
+                                            "tokenCum": 857,
+                                            "wordSum": 40,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The trustees may by direction suspend deductions under section 4 while theybelieve that the Fund has sufficient assets to meet demands on it.",
+                                            "tokenCum": 888,
+                                            "wordSum": 23,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "When a suspension is lifted, deductions resume (but without adjustment torecover amounts not collected during the suspension).",
+                                            "tokenCum": 915,
+                                            "wordSum": 17,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 87,
+                                    "tokenSum": 137,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Resolutions and directions",
+                                    "tokenCum": 919,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A resolution under section 4 may be varied, replaced or revoked by a laterresolution.",
+                                            "tokenCum": 939,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A resolution under section 4 must be made on a motion moved by a person whois both a Member of the House of Commons and a trustee of the Fund.",
+                                            "tokenCum": 973,
+                                            "wordSum": 30,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A resolution under section 4 may relate to\u2014",
+                                            "tokenCum": 983,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the financial year in which it is passed,",
+                                                    "tokenCum": 992,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "one or more specified future financial years,",
+                                                    "tokenCum": 1000,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "future financial years in general, or",
+                                                    "tokenCum": 1007,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a combination.",
+                                                    "tokenCum": 1010,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 56,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Where a resolution under section 4 or a direction under section 5(1) takeseffect in respect of the financial year during which it is passed, paymentsfor the remainder of the year shall be adjusted so as to\u2014",
+                                            "tokenCum": 1058,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "give effect to the resolution or direction, and",
+                                                    "tokenCum": 1067,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "produce equal instalments for the remainder of the year.",
+                                                    "tokenCum": 1078,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 79,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Section 2 of the Statutory Instruments Act 1946 (numbering and printing)shall apply to resolutions under section 4.",
+                                            "tokenCum": 1112,
+                                            "wordSum": 17,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A direction under section 5\u2014",
+                                            "tokenCum": 1119,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may be replaced or revoked by a later resolution,",
+                                                    "tokenCum": 1130,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "remains in force despite changes in the trustees, and",
+                                                    "tokenCum": 1141,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "must be published by the trustees as soon as reasonably practicable.",
+                                                    "tokenCum": 1157,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 60,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 182,
+                                    "tokenSum": 298,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Public money",
+                                    "tokenCum": 1159,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The trustees may surrender to the Treasury amounts which in the trustees\u2019opinion\u2014",
+                                            "tokenCum": 1180,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "are attributable to sums paid to the Fund by the Treasury (under anenactment repealed by this Act), and",
+                                                    "tokenCum": 1208,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "are not required in order to allow the Fund to meet present or expectedfuture demands.",
+                                                    "tokenCum": 1227,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 79,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Payments under this section shall be paid into the Consolidated Fund.",
+                                            "tokenCum": 1242,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 101,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Tax ",
+                                    "tokenCum": 1244,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 620 of the Income Tax (Earnings and Pensions) Act 2003 (meaningof \u201cHouse of Commons Members\u2019 Fund\u201d for \u201cestablished by section 1 of the Houseof Commons Members\u2019 Fund Act [1939 (c.49)](/id/ukpga/1939/49?view=plain \"Go toitem of legislation\")\u201d substitute \u201cspecified in section 1 of the House ofCommons Members\u2019 Fund Act 2016\u201d.",
+                                            "tokenCum": 1365,
+                                            "wordSum": 49,
+                                            "tokenSum": 124,
+                                            "tokenCount": 124
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 613 of the Income and Corporation Taxes Act 1988 (parliamentarypension funds)\u2014",
+                                            "tokenCum": 1394,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (1) for \u201camounts deducted in pursuance of section 1 of theHouse of Commons Members\u2019 Fund Act 1939\u201d substitute \u201camounts deducted inpursuance of section 4 of the House of Commons Members\u2019 Fund Act 2016\u201d;",
+                                                    "tokenCum": 1463,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 73
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "omit subsection (2); and",
+                                                    "tokenCum": 1471,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in subsection (4)(a) for \u201cestablished under section 1 of the House of thatAct of 1939\u201d substitute \u201cspecified in section 1 of the 2016 Act\u201d.",
+                                                    "tokenCum": 1518,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 168,
+                                            "tokenCount": 31
+                                        }
+                                    ],
+                                    "wordSum": 126,
+                                    "tokenSum": 296,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Repeals and transitional provision",
+                                    "tokenCum": 1525,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The following enactments are repealed\u2014",
+                                            "tokenCum": 1534,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the House of Commons Members\u2019 Fund Act 1939;",
+                                                    "tokenCum": 1549,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the House of Commons Members\u2019 Fund Act 1948;",
+                                                    "tokenCum": 1564,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the House of Commons Members\u2019 Fund Act 1957;",
+                                                    "tokenCum": 1579,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the House of Commons Members\u2019 Fund Act 1962;",
+                                                    "tokenCum": 1594,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "the House of Commons Members\u2019 Fund and Parliamentary Pensions Act 1981;",
+                                                    "tokenCum": 1614,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "section 12 of the Parliamentary Pensions etc. Act 1984; and",
+                                                    "tokenCum": 1634,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "section 7 of the Ministerial and other Pensions and Salaries Act 1991.",
+                                                    "tokenCum": 1655,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 161,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 170,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 982,
+                            "tokenSum": 1757,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 2Technical Provision",
+                            "tokenCum": 1664,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Commencement ",
+                                    "tokenCum": 1668,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act comes into force at the end of the period of three months beginningwith the day this Act receives Royal Assent.",
+                                            "tokenCum": 1693,
+                                            "wordSum": 22,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 23,
+                                    "tokenSum": 34,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Extent ",
+                                    "tokenCum": 1696,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act extends to the United Kingdom.",
+                                            "tokenCum": 1704,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 16,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Short title",
+                                    "tokenCum": 1706,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the House of Commons Members\u2019 Fund Act 2016.",
+                                            "tokenCum": 1728,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 16,
+                                    "tokenSum": 29,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 2",
+                                    "tokenCum": 1731,
+                                    "wordSum": 2,
+                                    "tokenSum": 5,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 52,
+                            "tokenSum": 94,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 1070,
+                    "tokenSum": 1909,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1097,
+            "tokenSum": 2013,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2016/18/enacted?view=plain",
+    "title": "House of Commons Members' Fund Act 2016",
+    "longtitle": "An Act to consolidate and amend provisions about the House of Commons Members\u2019 Fund.",
+    "date": "[12th May 2016]",
+    "wordSum": 1097,
+    "tokenSum": 2014,
+    "tokenCount": 0,
+    "totalTokens": 2014
+}

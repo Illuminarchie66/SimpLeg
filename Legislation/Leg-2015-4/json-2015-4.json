@@ -1,0 +1,2476 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/4/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Insurance Act 2015",
+                    "tokenCum": 52,
+                    "wordSum": 3,
+                    "tokenSum": 10,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 4",
+                    "tokenCum": 60,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make new provision about insurance contracts; to amend the ThirdParties (Rights against Insurers) Act 2010 in relation to the insured personsto whom that Act applies; and for connected purposes.",
+                            "tokenCum": 111,
+                            "wordSum": 32,
+                            "tokenSum": 52,
+                            "tokenCount": 52
+                        }
+                    ],
+                    "wordSum": 35,
+                    "tokenSum": 61,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th February 2015]",
+                    "tokenCum": 122,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 179,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 1Insurance contracts: main definitions",
+                            "tokenCum": 191,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Insurance contracts: main definitions",
+                                    "tokenCum": 199,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act (apart from Part 6)\u2014",
+                                            "tokenCum": 211,
+                                            "wordSum": 7,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cconsumer insurance contract\u201d has the same meaning as in the Consumer Insurance (Disclosure and Representations) Act 2012; ",
+                                            "tokenCum": 247,
+                                            "wordSum": 18,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cnon-consumer insurance contract\u201d means a contract of insurance that is not a consumer insurance contract; ",
+                                            "tokenCum": 274,
+                                            "wordSum": 16,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cinsured\u201d means the party to a contract of insurance who is the insured under the contract, or would be if the contract were entered into; ",
+                                            "tokenCum": 309,
+                                            "wordSum": 26,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cinsurer\u201d means the party to a contract of insurance who is the insurer under the contract, or would be if the contract were entered into; ",
+                                            "tokenCum": 344,
+                                            "wordSum": 26,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe duty of fair presentation\u201d means the duty imposed by section 3(1). ",
+                                            "tokenCum": 366,
+                                            "wordSum": 13,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 110,
+                                    "tokenSum": 195,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 115,
+                            "tokenSum": 208,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 2The duty of fair presentation",
+                            "tokenCum": 375,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Application and interpretation",
+                                    "tokenCum": 378,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Part applies to non-consumer insurance contracts only.",
+                                            "tokenCum": 392,
+                                            "wordSum": 8,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Part applies in relation to variations of non-consumer insurancecontracts as it applies to contracts, but\u2014",
+                                            "tokenCum": 418,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references to the risk are to be read as references to changes in the riskrelevant to the proposed variation, and",
+                                                    "tokenCum": 441,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "references to the contract of insurance are to the variation.",
+                                                    "tokenCum": 453,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 72,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 94,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "The duty of fair presentation",
+                                    "tokenCum": 458,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Before a contract of insurance is entered into, the insured must make tothe insurer a fair presentation of the risk.",
+                                            "tokenCum": 484,
+                                            "wordSum": 20,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The duty imposed by subsection (1) is referred to in this Act as \u201cthe dutyof fair presentation\u201d.",
+                                            "tokenCum": 508,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A fair presentation of the risk is one\u2014",
+                                            "tokenCum": 517,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "which makes the disclosure required by subsection (4),",
+                                                    "tokenCum": 529,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "which makes that disclosure in a manner which would be reasonably clear andaccessible to a prudent insurer, and",
+                                                    "tokenCum": 554,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in which every material representation as to a matter of fact issubstantially correct, and every material representation as to a matter ofexpectation or belief is made in good faith.",
+                                                    "tokenCum": 591,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 98,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The disclosure required is as follows, except as provided in subsection(5)\u2014",
+                                            "tokenCum": 609,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "disclosure of every material circumstance which the insured knows or oughtto know, or",
+                                                    "tokenCum": 627,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "failing that, disclosure which gives the insurer sufficient information toput a prudent insurer on notice that it needs to make further enquiries forthe purpose of revealing those material circumstances.",
+                                                    "tokenCum": 667,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 87,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In the absence of enquiry, subsection (4) does not require the insured todisclose a circumstance if\u2014",
+                                            "tokenCum": 693,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it diminishes the risk,",
+                                                    "tokenCum": 699,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the insurer knows it,",
+                                                    "tokenCum": 705,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the insurer ought to know it,",
+                                                    "tokenCum": 713,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the insurer is presumed to know it, or",
+                                                    "tokenCum": 724,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "it is something as to which the insurer waives information.",
+                                                    "tokenCum": 737,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 93,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Sections 4 to 6 make further provision about the knowledge of the insuredand of the insurer, and section 7 contains supplementary provision.",
+                                            "tokenCum": 770,
+                                            "wordSum": 22,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 228,
+                                    "tokenSum": 377,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Knowledge of insured",
+                                    "tokenCum": 775,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section provides for what an insured knows or ought to know for thepurposes of section 3(4)(a).",
+                                            "tokenCum": 801,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An insured who is an individual knows only\u2014",
+                                            "tokenCum": 811,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "what is known to the individual, and",
+                                                    "tokenCum": 819,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "what is known to one or more of the individuals who are responsible for theinsured\u2019s insurance.",
+                                                    "tokenCum": 841,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 51,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An insured who is not an individual knows only what is known to one or moreof the individuals who are\u2014",
+                                            "tokenCum": 864,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "part of the insured\u2019s senior management, or",
+                                                    "tokenCum": 875,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "responsible for the insured\u2019s insurance.",
+                                                    "tokenCum": 885,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 55,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An insured is not by virtue of subsection (2)(b) or (3)(b) taken to knowconfidential information known to an individual if\u2014",
+                                            "tokenCum": 919,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the individual is, or is an employee of, the insured\u2019s agent; and",
+                                                    "tokenCum": 937,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the information was acquired by the insured\u2019s agent (or by an employee ofthat agent) through a business relationship with a person who is not connectedwith the contract of insurance.",
+                                                    "tokenCum": 975,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 101,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of subsection (4) the persons connected with a contract ofinsurance are\u2014",
+                                            "tokenCum": 995,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the insured and any other persons for whom cover is provided by thecontract, and",
+                                                    "tokenCum": 1013,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the contract re-insures risks covered by another contract, the personswho are (by virtue of this subsection) connected with that other contract.",
+                                                    "tokenCum": 1045,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 81,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Whether an individual or not, an insured ought to know what shouldreasonably have been revealed by a reasonable search of information availableto the insured (whether the search is conducted by making enquiries or by anyother means).",
+                                            "tokenCum": 1093,
+                                            "wordSum": 36,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In subsection (6) \u201cinformation\u201d includes information held within theinsured\u2019s organisation or by any other person (such as the insured\u2019s agent ora person for whom cover is provided by the contract of insurance).",
+                                            "tokenCum": 1140,
+                                            "wordSum": 32,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 1147,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cemployee\u201d, in relation to the insured\u2019s agent, includes any individualworking for the agent, whatever the capacity in which the individual acts,",
+                                                    "tokenCum": 1177,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an individual is responsible for the insured\u2019s insurance if the individualparticipates on behalf of the insured in the process of procuring theinsured\u2019s insurance (whether the individual does so as the insured\u2019s employeeor agent, as an employee of the insured\u2019s agent or in any other capacity), and",
+                                                    "tokenCum": 1250,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "\u201csenior management\u201d means those individuals who play significant roles inthe making of decisions about how the insured\u2019s activities are to be managedor organised.",
+                                                    "tokenCum": 1284,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 159,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 358,
+                                    "tokenSum": 584,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Knowledge of insurer",
+                                    "tokenCum": 1289,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of section 3(5)(b), an insurer knows something only if itis known to one or more of the individuals who participate on behalf of theinsurer in the decision whether to take the risk, and if so on what terms(whether the individual does so as the insurer\u2019s employee or agent, as anemployee of the insurer\u2019s agent or in any other capacity).",
+                                            "tokenCum": 1376,
+                                            "wordSum": 62,
+                                            "tokenSum": 90,
+                                            "tokenCount": 90
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of section 3(5)(c), an insurer ought to know somethingonly if\u2014",
+                                            "tokenCum": 1398,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an employee or agent of the insurer knows it, and ought reasonably to havepassed on the relevant information to an individual mentioned in subsection(1), or",
+                                                    "tokenCum": 1432,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the relevant information is held by the insurer and is readily available toan individual mentioned in subsection (1).",
+                                                    "tokenCum": 1455,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 90,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of section 3(5)(d), an insurer is presumed to know\u2014",
+                                            "tokenCum": 1476,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "things which are common knowledge, and",
+                                                    "tokenCum": 1483,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "things which an insurer offering insurance of the class in question toinsureds in the field of activity in question would reasonably be expected toknow in the ordinary course of business.",
+                                                    "tokenCum": 1521,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 77,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 169,
+                                    "tokenSum": 264,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Knowledge: general",
+                                    "tokenCum": 1525,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of sections 3 to 5, references to an individual\u2019sknowledge include not only actual knowledge, but also matters which theindividual suspected, and of which the individual would have had knowledge butfor deliberately refraining from confirming them or enquiring about them.",
+                                            "tokenCum": 1586,
+                                            "wordSum": 42,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Nothing in this Part affects the operation of any rule of law according towhich knowledge of a fraud perpetrated by an individual (\u201cF\u201d) either on theinsured or on the insurer is not to be attributed to the insured or to theinsurer (respectively), where\u2014",
+                                            "tokenCum": 1649,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if the fraud is on the insured, F is any of the individuals mentioned insection 4(2)(b) or (3), or",
+                                                    "tokenCum": 1680,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the fraud is on the insurer, F is any of the individuals mentioned insection 5(1).",
+                                                    "tokenCum": 1704,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 129,
+                                            "tokenCount": 65
+                                        }
+                                    ],
+                                    "wordSum": 122,
+                                    "tokenSum": 199,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Supplementary ",
+                                    "tokenCum": 1708,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A fair presentation need not be contained in only one document or oralpresentation.",
+                                            "tokenCum": 1724,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The term \u201ccircumstance\u201d includes any communication made to, or informationreceived by, the insured.",
+                                            "tokenCum": 1748,
+                                            "wordSum": 13,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A circumstance or representation is material if it would influence thejudgement of a prudent insurer in determining whether to take the risk and, ifso, on what terms.",
+                                            "tokenCum": 1786,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Examples of things which may be material circumstances are\u2014",
+                                            "tokenCum": 1797,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "special or unusual facts relating to the risk,",
+                                                    "tokenCum": 1807,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any particular concerns which led the insured to seek insurance cover forthe risk,",
+                                                    "tokenCum": 1824,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "anything which those concerned with the class of insurance and field ofactivity in question would generally understand as being something that shouldbe dealt with in a fair presentation of risks of the type in question.",
+                                                    "tokenCum": 1865,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 94,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A material representation is substantially correct if a prudent insurerwould not consider the difference between what is represented and what isactually correct to be material.",
+                                            "tokenCum": 1898,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A representation may be withdrawn or corrected before the contract ofinsurance is entered into.",
+                                            "tokenCum": 1917,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 158,
+                                    "tokenSum": 245,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Remedies for breach",
+                                    "tokenCum": 1923,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The insurer has a remedy against the insured for a breach of the duty offair presentation only if the insurer shows that, but for the breach, theinsurer\u2014",
+                                            "tokenCum": 1962,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "would not have entered into the contract of insurance at all, or",
+                                                    "tokenCum": 1976,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "would have done so only on different terms.",
+                                                    "tokenCum": 1985,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 73,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The remedies are set out in Schedule 1.",
+                                            "tokenCum": 1998,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A breach for which the insurer has a remedy against the insured is referredto in this Act as a \u201cqualifying breach\u201d.",
+                                            "tokenCum": 2028,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A qualifying breach is either\u2014",
+                                            "tokenCum": 2036,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "deliberate or reckless, or",
+                                                    "tokenCum": 2043,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "neither deliberate nor reckless.",
+                                                    "tokenCum": 2050,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 33,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A qualifying breach is deliberate or reckless if the insured \u2014",
+                                            "tokenCum": 2066,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "knew that it was in breach of the duty of fair presentation, or",
+                                                    "tokenCum": 2081,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "did not care whether or not it was in breach of that duty.",
+                                                    "tokenCum": 2096,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 57,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "It is for the insurer to show that a qualifying breach was deliberate orreckless.",
+                                            "tokenCum": 2117,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 143,
+                                    "tokenSum": 244,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 1241,
+                            "tokenSum": 2017,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 3Warranties and other terms",
+                            "tokenCum": 2128,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Warranties and representations",
+                                    "tokenCum": 2134,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to representations made by the insured in connectionwith\u2014",
+                                            "tokenCum": 2148,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a proposed non-consumer insurance contract, or",
+                                                    "tokenCum": 2159,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a proposed variation to a non-consumer insurance contract.",
+                                                    "tokenCum": 2172,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 25,
+                                            "tokenSum": 49,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Such a representation is not capable of being converted into a warranty bymeans of any provision of the non-consumer insurance contract (or of the termsof the variation), or of any other contract (and whether by declaring therepresentation to form the basis of the contract or otherwise).",
+                                            "tokenCum": 2233,
+                                            "wordSum": 46,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 121,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Breach of warranty",
+                                    "tokenCum": 2239,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Any rule of law that breach of a warranty (express or implied) in acontract of insurance results in the discharge of the insurer\u2019s liabilityunder the contract is abolished.",
+                                            "tokenCum": 2284,
+                                            "wordSum": 28,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An insurer has no liability under a contract of insurance in respect of anyloss occurring, or attributable to something happening, after a warranty(express or implied) in the contract has been breached but before the breachhas been remedied.",
+                                            "tokenCum": 2342,
+                                            "wordSum": 37,
+                                            "tokenSum": 61,
+                                            "tokenCount": 61
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But subsection (2) does not apply if\u2014",
+                                            "tokenCum": 2353,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "because of a change of circumstances, the warranty ceases to be applicableto the circumstances of the contract,",
+                                                    "tokenCum": 2376,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "compliance with the warranty is rendered unlawful by any subsequent law, or",
+                                                    "tokenCum": 2394,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the insurer waives the breach of warranty.",
+                                                    "tokenCum": 2407,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 80,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (2) does not affect the liability of the insurer in respect oflosses occurring, or attributable to something happening\u2014",
+                                            "tokenCum": 2438,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "before the breach of warranty, or",
+                                                    "tokenCum": 2448,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the breach can be remedied, after it has been remedied.",
+                                                    "tokenCum": 2466,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 70,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this section, a breach of warranty is to be taken asremedied\u2014",
+                                            "tokenCum": 2489,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in a case falling within subsection (6), if the risk to which the warrantyrelates later becomes essentially the same as that originally contemplated bythe parties,",
+                                                    "tokenCum": 2525,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other case, if the insured ceases to be in breach of the warranty.",
+                                                    "tokenCum": 2547,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 92,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A case falls within this subsection if\u2014",
+                                            "tokenCum": 2556,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the warranty in question requires that by an ascertainable time somethingis to be done (or not done), or a condition is to be fulfilled, or somethingis (or is not) to be the case, and",
+                                                    "tokenCum": 2603,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "that requirement is not complied with.",
+                                                    "tokenCum": 2611,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 75,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In the Marine Insurance Act 1906\u2014",
+                                            "tokenCum": 2624,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in section 33 (nature of warranty), in subsection (3), the second sentenceis omitted,",
+                                                    "tokenCum": 2649,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 34 (when breach of warranty excused) is omitted.",
+                                                    "tokenCum": 2667,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 67,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 277,
+                                    "tokenSum": 501,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Terms not relevant to the actual loss",
+                                    "tokenCum": 2675,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to a term (express or implied) of a contract ofinsurance, other than a term defining the risk as a whole, if compliance withit would tend to reduce the risk of one or more of the following\u2014",
+                                            "tokenCum": 2724,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "loss of a particular kind,",
+                                                    "tokenCum": 2730,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "loss at a particular location,",
+                                                    "tokenCum": 2736,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "loss at a particular time.",
+                                                    "tokenCum": 2742,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 82,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If a loss occurs, and the term has not been complied with, the insurer maynot rely on the non-compliance to exclude, limit or discharge its liabilityunder the contract for the loss if the insured satisfies subsection (3).",
+                                            "tokenCum": 2795,
+                                            "wordSum": 37,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The insured satisfies this subsection if it shows that the non-compliancewith the term could not have increased the risk of the loss which actuallyoccurred in the circumstances in which it occurred.",
+                                            "tokenCum": 2836,
+                                            "wordSum": 31,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section may apply in addition to section 10.",
+                                            "tokenCum": 2848,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 138,
+                                    "tokenSum": 207,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 494,
+                            "tokenSum": 841,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 4Fraudulent claims",
+                            "tokenCum": 2858,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Remedies for fraudulent claims",
+                                    "tokenCum": 2867,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If the insured makes a fraudulent claim under a contract of insurance\u2014",
+                                            "tokenCum": 2885,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the insurer is not liable to pay the claim,",
+                                                    "tokenCum": 2897,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the insurer may recover from the insured any sums paid by the insurer tothe insured in respect of the claim, and",
+                                                    "tokenCum": 2924,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in addition, the insurer may by notice to the insured treat the contract ashaving been terminated with effect from the time of the fraudulent act.",
+                                                    "tokenCum": 2957,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 67,
+                                            "tokenSum": 105,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the insurer does treat the contract as having been terminated\u2014",
+                                            "tokenCum": 2970,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it may refuse all liability to the insured under the contract in respect ofa relevant event occurring after the time of the fraudulent act, and",
+                                                    "tokenCum": 3003,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it need not return any of the premiums paid under the contract.",
+                                                    "tokenCum": 3017,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 71,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Treating a contract as having been terminated under this section does notaffect the rights and obligations of the parties to the contract with respectto a relevant event occurring before the time of the fraudulent act.",
+                                            "tokenCum": 3062,
+                                            "wordSum": 35,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsections (2)(a) and (3), \u201crelevant event\u201d refers to whatever givesrise to the insurer\u2019s liability under the contract (and includes, for example,the occurrence of a loss, the making of a claim, or the notification of apotential claim, depending on how the contract is written).",
+                                            "tokenCum": 3132,
+                                            "wordSum": 44,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        }
+                                    ],
+                                    "wordSum": 198,
+                                    "tokenSum": 308,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Remedies for fraudulent claims: group insurance",
+                                    "tokenCum": 3145,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 3150,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a contract of insurance is entered into with an insurer by a person (\u201cA\u201d),",
+                                                    "tokenCum": 3170,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the contract provides cover for one or more other persons who are notparties to the contract (\u201cthe Cs\u201d), whether or not it also provides cover ofany kind for A or another insured party, and",
+                                                    "tokenCum": 3213,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a fraudulent claim is made under the contract by or on behalf of one of theCs (\u201cCF\u201d).",
+                                                    "tokenCum": 3240,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 110,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Section 12 applies in relation to the claim as if the cover provided for CFwere provided under an individual insurance contract between the insurer andCF as the insured; and, accordingly\u2014",
+                                            "tokenCum": 3281,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the insurer\u2019s rights under section 12 are exercisable only in relation tothe cover provided for CF, and",
+                                                    "tokenCum": 3307,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the exercise of any of those rights does not affect the cover providedunder the contract for anyone else.",
+                                                    "tokenCum": 3327,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 98,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In its application by virtue of subsection (2), section 12 is subject tothe following particular modifications\u2014",
+                                            "tokenCum": 3350,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the first reference to \u201cthe insured\u201d in subsection (1)(b) of that section,in respect of any particular sum paid by the insurer, is to whichever of A andCF the insurer paid the sum to; but if a sum was paid to A and passed on by Ato CF, the reference is to CF,",
+                                                    "tokenCum": 3422,
+                                                    "wordSum": 52,
+                                                    "tokenSum": 76,
+                                                    "tokenCount": 76
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the second reference to \u201cthe insured\u201d in subsection (1)(b) is to A or CF,",
+                                                    "tokenCum": 3445,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the reference to \u201cthe insured\u201d in subsection (1)(c) is to both CF and A,",
+                                                    "tokenCum": 3468,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the reference in subsection (2)(b) to the premiums paid under the contractis to premiums paid in respect of the cover for CF.",
+                                                    "tokenCum": 3499,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 118,
+                                            "tokenSum": 191,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 258,
+                                    "tokenSum": 414,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 459,
+                            "tokenSum": 733,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 5Good faith and contracting out",
+                            "tokenCum": 3509,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Good faith",
+                                    "tokenCum": 3511,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 14",
+                                            "text": "Good faith",
+                                            "tokenCum": 3513,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Any rule of law permitting a party to a contract of insurance to avoid thecontract on the ground that the utmost good faith has not been observed by theother party is abolished.",
+                                                    "tokenCum": 3553,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Any rule of law to the effect that a contract of insurance is a contractbased on the utmost good faith is modified to the extent required by theprovisions of this Act and the Consumer Insurance (Disclosure andRepresentations) Act 2012.",
+                                                    "tokenCum": 3612,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 63
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Accordingly\u2014 ",
+                                                    "tokenCum": 3616,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in section 17 of the Marine Insurance Act 1906 (marine insurance contractsare contracts of the utmost good faith), the words from \u201c, and\u201d to the end areomitted, and",
+                                                            "tokenCum": 3664,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the application of that section (as so amended) is subject to theprovisions of this Act and the Consumer Insurance (Disclosure andRepresentations) Act 2012.",
+                                                            "tokenCum": 3707,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 109,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 2 of the Consumer Insurance (Disclosure and Representations) Act2012 (disclosure and representations before contract or variation), subsection(5) is omitted.",
+                                                    "tokenCum": 3748,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 146,
+                                            "tokenSum": 266,
+                                            "tokenCount": 4
+                                        }
+                                    ],
+                                    "wordSum": 148,
+                                    "tokenSum": 270,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "Contracting out",
+                                    "tokenCum": 3752,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 15",
+                                            "text": "Contracting out: consumer insurance contracts",
+                                            "tokenCum": 3762,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A term of a consumer insurance contract, or of any other contract, whichwould put the consumer in a worse position as respects any of the mattersprovided for in Part 3 or 4 of this Act than the consumer would be in byvirtue of the provisions of those Parts (so far as relating to consumerinsurance contracts) is to that extent of no effect.",
+                                                    "tokenCum": 3845,
+                                                    "wordSum": 62,
+                                                    "tokenSum": 87,
+                                                    "tokenCount": 87
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In subsection (1) references to a contract include a variation.",
+                                                    "tokenCum": 3859,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "This section does not apply in relation to a contract for the settlement ofa claim arising under a consumer insurance contract.",
+                                                    "tokenCum": 3884,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 98,
+                                            "tokenSum": 147,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 16",
+                                            "text": "Contracting out: non-consumer insurance contracts",
+                                            "tokenCum": 3897,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A term of a non-consumer insurance contract, or of any other contract,which would put the insured in a worse position as respects representations towhich section 9 applies than the insured would be in by virtue of that sectionis to that extent of no effect.",
+                                                    "tokenCum": 3955,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 62
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A term of a non-consumer insurance contract, or of any other contract,which would put the insured in a worse position as respects any of the othermatters provided for in Part 2, 3 or 4 of this Act than the insured would bein by virtue of the provisions of those Parts (so far as relating to non-consumer insurance contracts) is to that extent of no effect, unless therequirements of section 17 have been satisfied in relation to the term.",
+                                                    "tokenCum": 4066,
+                                                    "wordSum": 78,
+                                                    "tokenSum": 115,
+                                                    "tokenCount": 115
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this section references to a contract include a variation.",
+                                                    "tokenCum": 4077,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "This section does not apply in relation to a contract for the settlement ofa claim arising under a non-consumer insurance contract.",
+                                                    "tokenCum": 4105,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 158,
+                                            "tokenSum": 240,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 17",
+                                            "text": "The transparency requirements",
+                                            "tokenCum": 4110,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "In this section, \u201cthe disadvantageous term\u201d means such a term as ismentioned in section 16(2).",
+                                                    "tokenCum": 4138,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The insurer must take sufficient steps to draw the disadvantageous term tothe insured\u2019s attention before the contract is entered into or the variationagreed.",
+                                                    "tokenCum": 4173,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The disadvantageous term must be clear and unambiguous as to its effect.",
+                                                    "tokenCum": 4191,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In determining whether the requirements of subsections (2) and (3) havebeen met, the characteristics of insured persons of the kind in question, andthe circumstances of the transaction, are to be taken into account.",
+                                                    "tokenCum": 4238,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The insured may not rely on any failure on the part of the insurer to meetthe requirements of subsection (2) if the insured (or its agent) had actualknowledge of the disadvantageous term when the contract was entered into orthe variation agreed.",
+                                                    "tokenCum": 4295,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 127,
+                                            "tokenSum": 213,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 18",
+                                            "text": "Contracting out: group insurance contracts",
+                                            "tokenCum": 4305,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies to a contract of insurance referred to in section13(1)(a); and in this section\u2014",
+                                                    "tokenCum": 4330,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cA\u201d and \u201cthe Cs\u201d have the same meaning as in section 13, ",
+                                                            "tokenCum": 4352,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cconsumer C\u201d means an individual who is one of the Cs, where the cover provided by the contract for that individual would have been a consumer insurance contract if entered into by that person rather than by A, and ",
+                                                            "tokenCum": 4400,
+                                                            "wordSum": 40,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cnon-consumer C\u201d means any of the Cs who is not a consumer C. ",
+                                                            "tokenCum": 4422,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 83,
+                                                    "tokenSum": 136,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A term of the contract of insurance, or any other contract, which puts aconsumer C in a worse position as respects any matter dealt with in section 13than that individual would be in by virtue of that section is to that extentof no effect.",
+                                                    "tokenCum": 4478,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A term of the contract of insurance, or any other contract, which puts anon-consumer C in a worse position as respects any matter dealt with insection 13 than that person would be in by virtue of that section is to thatextent of no effect, unless the requirements of section 17 have been met inrelation to the term.",
+                                                    "tokenCum": 4554,
+                                                    "wordSum": 57,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Section 17 applies in relation to such a term as it applies to a termmentioned in section 16(2), with references to the insured being read asreferences to A rather than the non-consumer C.",
+                                                    "tokenCum": 4603,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In this section references to a contract include a variation.",
+                                                    "tokenCum": 4614,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "This section does not apply in relation to a contract for the settlement ofa claim arising under a contract of insurance to which this section applies.",
+                                                    "tokenCum": 4644,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 258,
+                                            "tokenSum": 391,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 643,
+                                    "tokenSum": 997,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 797,
+                            "tokenSum": 1278,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 6Amendment of the Third Parties (Rights against Insurers) Act 2010",
+                            "tokenCum": 4670,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Power to change meaning of \u201crelevant person\u201d for purposes of 2010 Act",
+                                    "tokenCum": 4689,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "For section 19 of the Third Parties (Rights against Insurers) Act 2010 (powerto amend sections 4 to 6 of the Act) substitute\u2014",
+                                            "tokenCum": 4730,
+                                            "wordSum": 22,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c19Power to change the meaning of \u201crelevant person\u201d",
+                                            "tokenCum": 4744,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Secretary of State may by regulations make provision adding or removingcircumstances in which a person is a \u201crelevant person\u201d for the purposes ofthis Act, subject to subsection (2).",
+                                                    "tokenCum": 4786,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Regulations under this section may add circumstances only if, in theSecretary of State\u2019s opinion, the additional circumstances\u2014",
+                                                    "tokenCum": 4811,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "involve actual or anticipated dissolution of a body corporate or anunincorporated body,",
+                                                            "tokenCum": 4832,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "involve actual or anticipated insolvency or other financial difficultiesfor an individual, a body corporate or an unincorporated body, or",
+                                                            "tokenCum": 4863,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "are similar to circumstances for the time being described in sections 4 to7.",
+                                                            "tokenCum": 4879,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 61,
+                                                    "tokenSum": 112,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Regulations under this section may make provision about\u2014",
+                                                    "tokenCum": 4889,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the persons to whom, and the extent to which, rights are transferred undersection 1 in the circumstances added or removed by the regulations (the\u201caffected circumstances\u201d),",
+                                                            "tokenCum": 4925,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the re-transfer of rights transferred under section 1 where the affectedcircumstances change, and",
+                                                            "tokenCum": 4947,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the effect of a transfer of rights under section 1 on the liability of theinsured in the affected circumstances.",
+                                                            "tokenCum": 4971,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 65,
+                                                    "tokenSum": 111,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Regulations under this section which add or remove circumstances involvingactual or anticipated dissolution of a body corporate or unincorporated bodymay change the cases in which the following provisions apply so that theyinclude or exclude cases involving that type of dissolution or any other typeof dissolution of a body\u2014",
+                                                    "tokenCum": 5035,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "section 9(3) (cases in which transferred rights are not subject to acondition requiring the insured to provide information or assistance to theinsurer), and",
+                                                            "tokenCum": 5068,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "paragraph 3 of Schedule 1 (notices requiring disclosure).",
+                                                            "tokenCum": 5083,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 79,
+                                                    "tokenSum": 126,
+                                                    "tokenCount": 67
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Regulations under this section which add circumstances may provide thatsection 1 of this Act applies in cases involving those circumstances in whicheither or both of the following occurred in relation to a person before theday on which the regulations come into force\u2014",
+                                                    "tokenCum": 5133,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the circumstances arose in relation to the person;",
+                                                            "tokenCum": 5142,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a liability against which the person was insured under an insurancecontract was incurred.",
+                                                            "tokenCum": 5163,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 63,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Regulations under this section which\u2014",
+                                                    "tokenCum": 5170,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "add circumstances, and",
+                                                            "tokenCum": 5174,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 9,
+                                                            "tokenCount": 9
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "provide that section 1 of this Act applies in a case involving thosecircumstances in which both of the events mentioned in subsection (5)(a) and(b) occurred in relation to a person before the day on which the regulationscome into force,",
+                                                            "tokenCum": 5229,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "must provide that, in such a case, the person is to be treated for thepurposes of this Act as not having become a relevant person until that day ora later day specified in the regulations.",
+                                                                    "tokenCum": 5270,
+                                                                    "wordSum": 35,
+                                                                    "tokenSum": 47,
+                                                                    "tokenCount": 47
+                                                                }
+                                                            ],
+                                                            "wordSum": 74,
+                                                            "tokenSum": 107,
+                                                            "tokenCount": 59
+                                                        }
+                                                    ],
+                                                    "wordSum": 82,
+                                                    "tokenSum": 127,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "Regulations under this section which remove circumstances may provide thatsection 1 of this Act does not apply in cases involving those circumstances inwhich one of the events mentioned in subsection (5)(a) and (b) (but not both)occurred in relation to a person before the day on which the regulations comeinto force.",
+                                                    "tokenCum": 5339,
+                                                    "wordSum": 50,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 73
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "Regulations under this section may\u2014",
+                                                    "tokenCum": 5346,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "include consequential, incidental, supplementary, transitional, transitoryor saving provision,",
+                                                            "tokenCum": 5366,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "make different provision for different purposes, and",
+                                                            "tokenCum": 5374,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "make provision by reference to an enactment as amended, extended or appliedfrom time to time,",
+                                                            "tokenCum": 5395,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "(and subsections (3) to (7) are without prejudice to the generality of thissubsection).",
+                                                            "tokenCum": 5419,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 48,
+                                                    "tokenSum": 104,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "Regulations under this section may amend an enactment, whenever passed ormade, including this Act.",
+                                                    "tokenCum": 5441,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "Regulations under this section are to be made by statutory instrument.",
+                                                    "tokenCum": 5456,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(11)",
+                                                    "text": "Regulations under this section may not be made unless a draft of thestatutory instrument containing the regulations has been laid before, andapproved by a resolution of, each House of Parliament.\u201d",
+                                                    "tokenCum": 5497,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 540,
+                                            "tokenSum": 900,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 574,
+                                    "tokenSum": 965,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 20",
+                                    "text": "Other amendments",
+                                    "tokenCum": 5501,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 2 amends the Third Parties (Rights against Insurers) Act 2010 inrelation to the insured persons to whom the Act applies.",
+                                            "tokenCum": 5538,
+                                            "wordSum": 21,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 23,
+                                    "tokenSum": 46,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 608,
+                            "tokenSum": 1038,
+                            "tokenCount": 26
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "PART 7General",
+                            "tokenCum": 5543,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 21",
+                                    "text": "Provision consequential on Part 2",
+                                    "tokenCum": 5551,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The provision made by this section is consequential on Part 2 of this Act.",
+                                            "tokenCum": 5568,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In the Marine Insurance Act 1906, sections 18 (disclosure by assured), 19(disclosure by agent effecting insurance) and 20 (representations pendingnegotiation of contract) are omitted.",
+                                            "tokenCum": 5622,
+                                            "wordSum": 24,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any rule of law to the same effect as any of those provisions is abolished.",
+                                            "tokenCum": 5640,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 152 of the Road Traffic Act 1988 (exceptions to duty of insurersto satisfy judgment against persons insured against third-party risks)\u2014",
+                                            "tokenCum": 5680,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (2)\u2014",
+                                                    "tokenCum": 5687,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "in paragraph (a), for \u201cit either under the Consumer Insurance (Disclosureand Representations) Act 2012 or, if that Act does not apply,\u201d substitute \u201cthepolicy under either of the relevant insurance enactments, or the security\u201d,",
+                                                    "tokenCum": 5744,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in paragraph (b), for \u201cor security under that Act or\u201d substitute \u201cundereither of the relevant insurance enactments, or the security\u201d;",
+                                                    "tokenCum": 5777,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (3), after \u201cspecifying\u201d insert \u201cthe relevant insuranceenactment or, in the case of a security,\u201d;",
+                                                    "tokenCum": 5807,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "after subsection (4) add\u2014",
+                                                    "tokenCum": 5815,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 98,
+                                            "tokenSum": 198,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(5)",
+                                            "text": "In this section, \u201crelevant insurance enactment\u201d means the ConsumerInsurance (Disclosure and Representations) Act 2012 or Part 2 of the InsuranceAct 2015.\u201d",
+                                            "tokenCum": 5864,
+                                            "wordSum": 21,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In Article 98A of the Road Traffic (Northern Ireland) Order 1981 ([S.I.1981/154 (N.I.)](/id/nisi/1981/154?view=plain \"Go to item of legislation\"))(exceptions to duty of insurers to satisfy judgement against persons insuredagainst third party risks)\u2014",
+                                            "tokenCum": 5958,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in paragraph (2)\u2014",
+                                                    "tokenCum": 5964,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "in paragraph (a), for \u201cit either under the Consumer Insurance Act(Disclosure and Representations) Act 2012 or, if that Act does not apply,\u201dsubstitute \u201cthe policy under either of the relevant insurance enactments, orthe security\u201d;",
+                                                    "tokenCum": 6024,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 64
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in paragraph (b), for \u201cor security under that Act or\u201d substitute \u201cundereither of the relevant insurance enactments, or the security\u201d;",
+                                                    "tokenCum": 6057,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph (3), after \u201cspecifying\u201d insert \u201cthe relevant insuranceenactment or, in the case of a security,\u201d;",
+                                                    "tokenCum": 6086,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "after paragraph (4) add\u2014",
+                                                    "tokenCum": 6093,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 107,
+                                            "tokenSum": 252,
+                                            "tokenCount": 96
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(5)",
+                                            "text": "In this Article, \u201crelevant insurance enactment\u201d means the ConsumerInsurance (Disclosure and Representations) Act 2012 or Part 2 of the InsuranceAct 2015.\u201d",
+                                            "tokenCum": 6142,
+                                            "wordSum": 21,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In section 11 of the Consumer Insurance (Disclosure and Representations)Act 2012 (consequential provision), subsections (1) and (2) are omitted.",
+                                            "tokenCum": 6185,
+                                            "wordSum": 19,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 324,
+                                    "tokenSum": 708,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 22",
+                                    "text": "Application etc of Parts 2 to 5",
+                                    "tokenCum": 6195,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Part 2 (and section 21) and section 14 apply only in relation to\u2014",
+                                            "tokenCum": 6216,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "contracts of insurance entered into after the end of the relevant period,and",
+                                                    "tokenCum": 6232,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "variations, agreed after the end of the relevant period, to contracts ofinsurance entered into at any time.",
+                                                    "tokenCum": 6255,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 71,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Parts 3 and 4 of this Act apply only in relation to contracts of insuranceentered into after the end of the relevant period, and variations to suchcontracts.",
+                                            "tokenCum": 6294,
+                                            "wordSum": 27,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsections (1) and (2) \u201cthe relevant period\u201d means the period of 18months beginning with the day on which this Act is passed.",
+                                            "tokenCum": 6329,
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Unless the contrary intention appears, references in Parts 2 to 5 tosomething being done by or in relation to the insurer or the insured includeits being done by or in relation to that person\u2019s agent.",
+                                            "tokenCum": 6375,
+                                            "wordSum": 35,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 134,
+                                    "tokenSum": 212,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 23",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 6384,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales, Scotland and Northern Ireland,except for\u2014",
+                                            "tokenCum": 6400,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 21(4), which does not extend to Northern Ireland; and",
+                                                    "tokenCum": 6416,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 21(5), which extends to Northern Ireland only.",
+                                                    "tokenCum": 6430,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 57,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act (apart from Part 6 and this section) comes into force at the endof the period of 18 months beginning with the day on which it is passed.",
+                                            "tokenCum": 6467,
+                                            "wordSum": 29,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In Part 6\u2014",
+                                            "tokenCum": 6472,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 19 comes into force at the end of the period of two monthsbeginning with the day on which this Act is passed; and",
+                                                    "tokenCum": 6501,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 20 and Schedule 2 come into force on the day appointed undersection 21(2) of the Third Parties (Rights against Insurers) Act 2010 for thecoming into force of that Act.",
+                                                    "tokenCum": 6553,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 56
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 97,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section comes into force on the day on which this Act is passed.",
+                                            "tokenCum": 6568,
+                                            "wordSum": 14,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act may be cited as the Insurance Act 2015.",
+                                            "tokenCum": 6586,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 145,
+                                    "tokenSum": 244,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 605,
+                            "tokenSum": 1170,
+                            "tokenCount": 5
+                        }
+                    ],
+                    "wordSum": 4355,
+                    "tokenSum": 7343,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 4397,
+            "tokenSum": 7470,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/4/enacted?view=plain",
+    "title": "Insurance Act 2015",
+    "longtitle": "An Act to make new provision about insurance contracts; to amend the Third Parties (Rights against Insurers) Act 2010 in relation to the insured persons to whom that Act applies; and for connected purposes.",
+    "date": "[12th February 2015]",
+    "wordSum": 4397,
+    "tokenSum": 7471,
+    "tokenCount": 0,
+    "totalTokens": 7471
+}

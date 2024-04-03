@@ -1,0 +1,558 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2016/9/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Access to Medical Treatments (Innovation) Act 2016",
+                    "tokenCum": 60,
+                    "wordSum": 7,
+                    "tokenSum": 18,
+                    "tokenCount": 17
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2016 CHAPTER 9",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for access to innovative medical treatments; and forconnected purposes.",
+                            "tokenCum": 87,
+                            "wordSum": 14,
+                            "tokenSum": 20,
+                            "tokenCount": 20
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 29,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[23rd March 2016]",
+                    "tokenCum": 98,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 155,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Introductory",
+                            "tokenCum": 159,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Access to innovative medical treatments",
+                                    "tokenCum": 166,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The purpose of this Act is to promote access to innovative medical treatments(including treatments consisting in the off-label use of medicines or the useof unlicensed medicines) by providing for\u2014",
+                                            "tokenCum": 209,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the establishment of a database of innovative medical treatments, and",
+                                                    "tokenCum": 222,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "access to information contained in the database.",
+                                                    "tokenCum": 230,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 75,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 84,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 52,
+                            "tokenSum": 89,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Database of innovative medical treatments",
+                            "tokenCum": 237,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Database of innovative treatments",
+                                    "tokenCum": 243,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations make provision conferringfunctions on the Health and Social Care Information Centre (\u201cthe HSCIC\u201d) inconnection with the establishment, maintenance and operation of a databasecontaining information about\u2014",
+                                            "tokenCum": 289,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "innovative medical treatments carried out by doctors in England, and",
+                                                    "tokenCum": 303,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the results of such treatments.",
+                                                    "tokenCum": 310,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 78,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this section, \u201cinnovative medical treatment\u201d means medical treatment fora condition that involves a departure from the existing range of acceptedmedical treatments for the condition.",
+                                            "tokenCum": 345,
+                                            "wordSum": 25,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under subsection (1) may in particular\u2014",
+                                            "tokenCum": 357,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "confer power on the HSCIC to make provision about\u2014",
+                                                    "tokenCum": 369,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the information to be recorded in the database, and",
+                                                    "tokenCum": 379,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "procedures relating to the recording of information in the database;",
+                                                    "tokenCum": 391,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make provision for and in connection with access to information recorded inthe database.",
+                                                    "tokenCum": 406,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 80,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The provision that may be made by virtue of subsection (3)(b) includes, inparticular\u2014",
+                                            "tokenCum": 428,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "provision requiring or authorising the HSCIC to disclose information\u2014",
+                                                    "tokenCum": 442,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to specified persons or descriptions of person, or",
+                                                    "tokenCum": 452,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "for use for specified purposes;",
+                                                    "tokenCum": 458,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision requiring or authorising the HSCIC to impose conditions to becomplied with by persons to whom information is disclosed by virtue ofparagraph (a) (which may include conditions restricting the use or furtherdisclosure of information).",
+                                                    "tokenCum": 507,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 120,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations under subsection (1) may be made in relation to innovativemedical treatments generally or innovative medical treatments falling within aspecified description.",
+                                            "tokenCum": 541,
+                                            "wordSum": 21,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Before making regulations under subsection (1) the Secretary of State mustconsult the HSCIC.",
+                                            "tokenCum": 563,
+                                            "wordSum": 13,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this section, \u201cspecified\u201d means specified in regulations undersubsection (1).",
+                                            "tokenCum": 582,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The power to make regulations under subsection (1) is exercisable bystatutory instrument; and an instrument containing such regulations is subjectto annulment in pursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 630,
+                                            "wordSum": 31,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        }
+                                    ],
+                                    "wordSum": 268,
+                                    "tokenSum": 459,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Section 2: supplementary",
+                                    "tokenCum": 637,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 2, \u201cdoctor\u201d means a registered medical practitioner.",
+                                            "tokenCum": 654,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of section 2(2), the kinds of medical treatment that maybe innovative medical treatments include (amongst other things)\u2014",
+                                            "tokenCum": 685,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the off-label use of an authorised medicinal product, and",
+                                                    "tokenCum": 699,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the use of a medicinal product in respect of which no marketingauthorisation is in force.",
+                                                    "tokenCum": 719,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 76,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2)(a), the reference to the off-label use of an authorisedmedicinal product is a reference to the use of the product\u2014",
+                                            "tokenCum": 753,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for a purpose other than one for which its use is specified,",
+                                                    "tokenCum": 766,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to a person who is not within a description of persons for whomits use is specified, or",
+                                                    "tokenCum": 787,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in any other way in which its use is not specified.",
+                                                    "tokenCum": 799,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 95,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 803,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cauthorised medicinal product\u201d means a medicinal product in respect ofwhich a marketing authorisation is in force;",
+                                                    "tokenCum": 828,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cmarketing authorisation\u201d and \u201cmedicinal product\u201d have the same meanings asin the Human Medicines Regulations 2012 ([S.I.2012/1916](/id/uksi/2012/1916?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 900,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 76,
+                                                    "tokenCount": 76
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "\u201cspecified\u201d, in relation to a medicinal product, means specified in itsmarketing authorisation.",
+                                                    "tokenCum": 921,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 137,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "References in section 2 to medical treatment include references totreatment carried out for the purposes of medical research (but nothing insection 2 is to be read as affecting the regulation of medical research).",
+                                            "tokenCum": 964,
+                                            "wordSum": 33,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Nothing in section 2 applies in relation to treatment which is carried outsolely for cosmetic purposes.",
+                                            "tokenCum": 986,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 221,
+                                    "tokenSum": 408,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 494,
+                            "tokenSum": 875,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final",
+                            "tokenCum": 987,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 996,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 1005,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 1, 2 and 3 come into force on such day or days as the Secretary ofState may by regulations made by statutory instrument appoint.",
+                                            "tokenCum": 1040,
+                                            "wordSum": 25,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under subsection (2) may\u2014",
+                                            "tokenCum": 1050,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appoint different days for different purposes;",
+                                                    "tokenCum": 1057,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make transitional or saving provision.",
+                                                    "tokenCum": 1064,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 16,
+                                            "tokenSum": 35,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section comes into force on the day on which this Act is passed.",
+                                            "tokenCum": 1079,
+                                            "wordSum": 14,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act may be cited as the Access to Medical Treatments (Innovation) Act2016.",
+                                            "tokenCum": 1104,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 1104,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 32,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 81,
+                                    "tokenSum": 146,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 82,
+                            "tokenSum": 148,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 664,
+                    "tokenSum": 1170,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 692,
+            "tokenSum": 1273,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2016/9/enacted?view=plain",
+    "title": "Access to Medical Treatments (Innovation) Act 2016",
+    "longtitle": "An Act to make provision for access to innovative medical treatments; and for connected purposes.",
+    "date": "[23rd March 2016]",
+    "wordSum": 692,
+    "tokenSum": 1274,
+    "tokenCount": 0,
+    "totalTokens": 1274
+}

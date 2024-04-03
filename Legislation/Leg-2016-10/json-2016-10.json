@@ -1,0 +1,896 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2016/10/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "NHS (Charitable Trusts Etc) Act 2016",
+                    "tokenCum": 60,
+                    "wordSum": 6,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2016 CHAPTER 10",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for, and in connection with, the removal of theSecretary of State\u2019s powers under the National Health Service Act 2006 toappoint trustees; to make provision transferring to Great Ormond StreetHospital Children\u2019s Charity the right to a royalty conferred by Schedule 6 tothe Copyright, Designs and Patents Act 1988; and for connected purposes.",
+                            "tokenCum": 161,
+                            "wordSum": 56,
+                            "tokenSum": 93,
+                            "tokenCount": 93
+                        }
+                    ],
+                    "wordSum": 59,
+                    "tokenSum": 103,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[23rd March 2016]",
+                    "tokenCum": 172,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 229,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Removal of powers to appoint trustees",
+                            "tokenCum": 237,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Removal of Secretary of State\u2019s powers to appoint trustees",
+                                    "tokenCum": 250,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the National Health Service Act 2006 (\u201cthe 2006 Act\u201d) omit the followingprovisions\u2014",
+                                            "tokenCum": 280,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 51 (foundation trusts: trust funds and trustees),",
+                                                    "tokenCum": 296,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 212 (special trustees for a university hospital or teachinghospital),",
+                                                    "tokenCum": 314,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "paragraph 11 of Schedule A1 (the National Health Service CommissioningBoard: trust funds and trustees) and the italic heading before that paragraph,",
+                                                    "tokenCum": 347,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "paragraph 15 of Schedule 1A (clinical commissioning groups: trust funds andtrustees) and the italic heading before that paragraph, and",
+                                                    "tokenCum": 382,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "paragraph 9 of Schedule 6 (Special Health Authorities: trust funds andtrustees).",
+                                                    "tokenCum": 403,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 82,
+                                            "tokenSum": 176,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by regulations made by statutory instrument makesuch provision as the Secretary of State considers appropriate in consequenceof subsection (1).",
+                                            "tokenCum": 436,
+                                            "wordSum": 24,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The provision that may be made by regulations under subsection (2)includes\u2014",
+                                            "tokenCum": 453,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "different provision for different purposes,",
+                                                    "tokenCum": 459,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "transitional, transitory or saving provision,",
+                                                    "tokenCum": 468,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "incidental or supplementary provision, and",
+                                                    "tokenCum": 477,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "provision amending, repealing or revoking any primary or subordinatelegislation.",
+                                                    "tokenCum": 495,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 78,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subject to subsection (5), a statutory instrument containing regulationsunder subsection (2) is subject to annulment in pursuance of a resolution ofeither House of Parliament.",
+                                            "tokenCum": 537,
+                                            "wordSum": 24,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (4) does not apply to a statutory instrument falling withinsubsection (6).",
+                                            "tokenCum": 559,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A statutory instrument containing regulations under subsection (2) whichamend or repeal primary legislation (whether alone or with other provision)may not be made unless a draft of the instrument has been laid before, andapproved by a resolution of, each House of Parliament.",
+                                            "tokenCum": 619,
+                                            "wordSum": 41,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In subsection (3)(d) the reference to subordinate legislation includessubordinate legislation made after the passing of this Act.",
+                                            "tokenCum": 648,
+                                            "wordSum": 17,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 652,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprimary legislation\u201d means\u2014 ",
+                                                    "tokenCum": 662,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an Act of Parliament, or",
+                                                    "tokenCum": 662,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a Measure or Act of the National Assembly for Wales, and",
+                                                    "tokenCum": 668,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csubordinate legislation\u201d means\u2014 ",
+                                                            "tokenCum": 692,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 15,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "subordinate legislation within the meaning of the Interpretation Act 1978, and",
+                                                    "tokenCum": 692,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "subordinate legislation made under a Measure or Act of the National Assemblyfor Wales.",
+                                                    "tokenCum": 712,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 110,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Schedule 1 makes consequential amendments.",
+                                            "tokenCum": 741,
+                                            "wordSum": 5,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 300,
+                                    "tokenSum": 594,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Section 1: supplementary provision",
+                                    "tokenCum": 749,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations made by statutory instrumentprovide for\u2014",
+                                            "tokenCum": 767,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the transfer of trust property held by trustees for an NHS foundation trustappointed under section 51 of the National Health Service Act 2006 (\u201cthe 2006Act\u201d) from the trustees to the NHS foundation trust, and",
+                                                    "tokenCum": 824,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the transfer of trust property held by trustees for an NHS trust appointedunder paragraph 10 of Schedule 4 to the 2006 Act from the trustees to the NHStrust.",
+                                                    "tokenCum": 868,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 130,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any discretion given by a trust instrument to the trustees mentioned insubsection (1) is exercisable by the person to whom the trust property istransferred by virtue of that subsection and, subject to subsections (3) and(4), the transfer does not affect the trusts on which the trust property isheld.",
+                                            "tokenCum": 938,
+                                            "wordSum": 48,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (4) applies where the trustees mentioned in subsection (1) heldany part of the trust property transferred by virtue of that subsection ontrust wholly or mainly for hospitals for which they were appointed for all orany purposes relating to\u2014",
+                                            "tokenCum": 994,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "hospital services (including research), or",
+                                                    "tokenCum": 1001,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other part of the health service associated with hospitals.",
+                                                    "tokenCum": 1014,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 87,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The person to whom the trust property is transferred has a discretion toapply the part of the trust property in question or the income arising fromit, to such extent as that person considers appropriate, for any purposesrelating to the health service.",
+                                            "tokenCum": 1066,
+                                            "wordSum": 41,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsections (2) to (7) of section 217 of the 2006 Act (trusts:supplementary provisions) apply as if subsection (1) above were a provision towhich that section applies.",
+                                            "tokenCum": 1118,
+                                            "wordSum": 26,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In their application by virtue of subsection (5), subsections (6) and (7)of section 217 of the 2006 Act are to be read as if references to an orderwere references to regulations.",
+                                            "tokenCum": 1169,
+                                            "wordSum": 31,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Regulations under subsection (1) may make\u2014",
+                                            "tokenCum": 1180,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "different provision for different purposes,",
+                                                    "tokenCum": 1186,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "transitional, transitory or saving provision, and",
+                                                    "tokenCum": 1196,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "incidental, supplementary or consequential provision.",
+                                                    "tokenCum": 1207,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 22,
+                                            "tokenSum": 53,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "A statutory instrument containing regulations under subsection (1) issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 1241,
+                                            "wordSum": 20,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In this section \u201cthe health service\u201d and \u201chospital\u201d have the same meaningas in the 2006 Act.",
+                                            "tokenCum": 1268,
+                                            "wordSum": 16,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 336,
+                                    "tokenSum": 584,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 642,
+                            "tokenSum": 1187,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Great Ormond Street Hospital for Children",
+                            "tokenCum": 1275,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Transfer of right to royalties relating to the play \u201cPeter Pan\u201d",
+                                    "tokenCum": 1291,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Copyright, Designs and Patents Act 1988 is amended as set out insubsections (2) to (11).",
+                                            "tokenCum": 1323,
+                                            "wordSum": 16,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In the following headings for \u201cthe Hospital for Sick Children\u201d substitute\u201cGreat Ormond Street Hospital for Children\u201d\u2014",
+                                            "tokenCum": 1349,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the heading of section 301, and",
+                                                    "tokenCum": 1359,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the italic heading before section 301.",
+                                                    "tokenCum": 1370,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 58,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 301 (which provides for Schedule 6 to have effect) for the wordsfrom \u201ctrustees\u201d to \u201cLondon,\u201d substitute \u201cGOSH Children\u2019s Charity for thebenefit of Great Ormond Street Hospital for Children\u201d.",
+                                            "tokenCum": 1426,
+                                            "wordSum": 30,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 304(2) (extent) omit paragraph (b).",
+                                            "tokenCum": 1445,
+                                            "wordSum": 7,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In the heading of Schedule 6 (provisions for the benefit of Great OrmondStreet Hospital for Children) for \u201cthe Hospital for Sick Children\u201d substitute\u201cGreat Ormond Street Hospital for Children\u201d.",
+                                            "tokenCum": 1490,
+                                            "wordSum": 28,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Schedule 6 is amended as follows.",
+                                            "tokenCum": 1500,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In paragraph 1(1) (interpretation)\u2014",
+                                            "tokenCum": 1513,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the appropriate place insert\u2014",
+                                                    "tokenCum": 1519,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201c\u201cGOSH Children\u2019s Charity\u201d means Great Ormond Street Hospital Children\u2019s Charity (company registration number 9338724);\u201d,",
+                                                            "tokenCum": 1557,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        }
+                                                    ],
+                                                    "wordSum": 20,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in the definition of \u201cthe Hospital\u201d for \u201cThe Hospital for Sick Children,Great Ormond Street, London\u201d substitute \u201cGreat Ormond Street Hospital forChildren\u201d, and",
+                                                    "tokenCum": 1594,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "omit the definition of \u201cthe trustees\u201d.",
+                                                    "tokenCum": 1604,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 124,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In paragraph 2 (entitlement to royalty)\u2014",
+                                            "tokenCum": 1617,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (1) for \u201cThe trustees\u201d are\u201d substitute \u201cGOSH Children\u2019sCharity is\u201d, and",
+                                                    "tokenCum": 1645,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in sub-paragraph (2) for \u201cthe trustees are\u201d substitute \u201cGOSH Children\u2019sCharity is\u201d.",
+                                                    "tokenCum": 1671,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 78,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In paragraph 3(a) (exceptions) for \u201ctrustees as copyright owners\u201dsubstitute \u201ccopyright owner at that time\u201d.",
+                                            "tokenCum": 1703,
+                                            "wordSum": 14,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "For paragraph 6 (requirement as to how sums received are held) and theitalic heading before it substitute\u2014",
+                                            "tokenCum": 1727,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cSums received to be held for the benefit of the Hospital",
+                                            "tokenCum": 1740,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "6The sums received by GOSH Children\u2019s Charity by virtue of this Schedule,after deduction of any relevant expenses, are to be held by it for thepurposes of the Hospital.\u201d",
+                                                    "tokenCum": 1784,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(11)",
+                                                    "text": "In paragraph 7 (restrictions in relation to right to royalty)\u2014",
+                                                    "tokenCum": 1801,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in sub-paragraph (1)\u2014",
+                                                            "tokenCum": 1809,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "for \u201cthe trustees\u201d, in the first place, substitute \u201cGOSH Children\u2019sCharity\u201d, and",
+                                                            "tokenCum": 1832,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "for \u201cthe trustees purport\u201d substitute \u201cGOSH Children\u2019s Charity purports\u201d,",
+                                                            "tokenCum": 1853,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in sub-paragraph (2) omit the words from \u201cmay\u201d to \u201cand\u201d, and",
+                                                            "tokenCum": 1873,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "omit sub-paragraph (3).",
+                                                            "tokenCum": 1881,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 126,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(12)",
+                                                    "text": "Schedule 2 makes supplementary provision.",
+                                                    "tokenCum": 1891,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 204,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 329,
+                                    "tokenSum": 721,
+                                    "tokenCount": 17
+                                }
+                            ],
+                            "wordSum": 335,
+                            "tokenSum": 729,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 1892,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Extent ",
+                                    "tokenCum": 1895,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1 and 2 and Schedule 1 extend to England and Wales only.",
+                                            "tokenCum": 1914,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The remaining provisions of this Act extend to England and Wales, Scotlandand Northern Ireland.",
+                                            "tokenCum": 1932,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 48,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Commencement ",
+                                    "tokenCum": 1936,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1 and 2 and Schedule 1 come into force on a day appointed inregulations made by the Secretary of State by statutory instrument.",
+                                            "tokenCum": 1970,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under subsection (1) may\u2014",
+                                            "tokenCum": 1980,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appoint different days for different purposes,",
+                                                    "tokenCum": 1987,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make transitional, transitory or saving provision, and",
+                                                    "tokenCum": 1998,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "make incidental, supplementary or consequential provision.",
+                                                    "tokenCum": 2010,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 55,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 3 and Schedule 2 come into force at the end of the period of twomonths beginning with the day on which this Act is passed.",
+                                            "tokenCum": 2043,
+                                            "wordSum": 26,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Section 4, this section and section 6 come into force on the day on whichthis Act is passed.",
+                                            "tokenCum": 2066,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 93,
+                                    "tokenSum": 160,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Short title",
+                                    "tokenCum": 2068,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the NHS (Charitable Trusts Etc) Act 2016.",
+                                            "tokenCum": 2093,
+                                            "wordSum": 13,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 32,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 137,
+                            "tokenSum": 242,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1150,
+                    "tokenSum": 2216,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1219,
+            "tokenSum": 2393,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2016/10/enacted?view=plain",
+    "title": "NHS (Charitable Trusts Etc) Act 2016",
+    "longtitle": "An Act to make provision for, and in connection with, the removal of the Secretary of State\u2019s powers under the National Health Service Act 2006 to appoint trustees; to make provision transferring to Great Ormond Street Hospital Children\u2019s Charity the right to a royalty conferred by Schedule 6 to the Copyright, Designs and Patents Act 1988; and for connected purposes.",
+    "date": "[23rd March 2016]",
+    "wordSum": 1219,
+    "tokenSum": 2394,
+    "tokenCount": 0,
+    "totalTokens": 2394
+}

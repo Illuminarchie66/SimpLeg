@@ -1,0 +1,1695 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/14/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Forensic Science Regulator Act 2021",
+                    "tokenCum": 56,
+                    "wordSum": 5,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 14",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for the appointment of the Forensic ScienceRegulator; to make provision about the Regulator and about the regulation offorensic science; and for connected purposes.",
+                            "tokenCum": 105,
+                            "wordSum": 28,
+                            "tokenSum": 41,
+                            "tokenCount": 41
+                        }
+                    ],
+                    "wordSum": 31,
+                    "tokenSum": 51,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[29th April 2021]",
+                    "tokenCum": 116,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 173,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "The Forensic Science Regulator",
+                            "tokenCum": 180,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "There is to be a Forensic Science Regulator.",
+                                    "tokenCum": 192,
+                                    "wordSum": 8,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In this Act \u201cthe Regulator\u201d means the Forensic Science Regulator.",
+                                    "tokenCum": 209,
+                                    "wordSum": 10,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Schedule makes further provision about the Regulator.",
+                                    "tokenCum": 220,
+                                    "wordSum": 8,
+                                    "tokenSum": 13,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 30,
+                            "tokenSum": 54,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Regulator\u2019s duty to publish a code of practice",
+                            "tokenCum": 231,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Regulator must prepare and publish a code of practice about thecarrying on of forensic science activities in England and Wales.",
+                                    "tokenCum": 259,
+                                    "wordSum": 21,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The code\u2014",
+                                    "tokenCum": 262,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must specify the forensic science activities to which it applies;",
+                                            "tokenCum": 275,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "need not make provision about every forensic science activity;",
+                                            "tokenCum": 287,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "may make different provision for different purposes or descriptions ofperson.",
+                                            "tokenCum": 300,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 52,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Regulator must publish the code in a way that the Regulator considersis likely to bring it to the attention of persons likely to be interested init.",
+                                    "tokenCum": 332,
+                                    "wordSum": 27,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Regulator\u2014",
+                                    "tokenCum": 336,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must keep the code under review, and",
+                                            "tokenCum": 344,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "may from time to time prepare and publish alterations to the code or areplacement code.",
+                                            "tokenCum": 363,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 39,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this Act \u201cthe code\u201d means the code of practice published under thissection that is for the time being in force (as altered from time to time).",
+                                    "tokenCum": 396,
+                                    "wordSum": 27,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 138,
+                            "tokenSum": 202,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Code of practice: procedure",
+                            "tokenCum": 401,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Before publishing a code of practice under section 2 or any alterations tothe code, the Regulator must consult such persons as the Regulator considersappropriate.",
+                                    "tokenCum": 436,
+                                    "wordSum": 24,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The persons consulted must include persons appearing to the Regulator to berepresentative of persons who are, or are likely to be, carrying on activitiesto which the proposed code or the code as proposed to be altered will apply.",
+                                    "tokenCum": 484,
+                                    "wordSum": 38,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Regulator must not publish a code of practice under section 2 or anyalterations to the code unless\u2014",
+                                    "tokenCum": 507,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a draft of the code or the alterations has been sent to the Secretary ofState,",
+                                            "tokenCum": 525,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Secretary of State has approved the draft and laid it beforeParliament, and",
+                                            "tokenCum": 541,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the draft has been approved by a resolution of each House of Parliament.",
+                                            "tokenCum": 555,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 59,
+                                    "tokenSum": 82,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A code of practice published under section 2 comes into force on the dayspecified in it for that purpose.",
+                                    "tokenCum": 578,
+                                    "wordSum": 19,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Alterations to the code come into force on the day specified in thealterations for that purpose.",
+                                    "tokenCum": 598,
+                                    "wordSum": 16,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Different days may be specified under subsection (4) or (5) for differentpurposes.",
+                                    "tokenCum": 619,
+                                    "wordSum": 12,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 172,
+                            "tokenSum": 245,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Status of the code",
+                            "tokenCum": 623,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A failure by a person to act in accordance with the code does not of itselfmake that person liable to civil or criminal proceedings.",
+                                    "tokenCum": 652,
+                                    "wordSum": 24,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The code is admissible in evidence in criminal and civil proceedings inEngland and Wales.",
+                                    "tokenCum": 672,
+                                    "wordSum": 14,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A court may in particular take into account a failure by a person to act inaccordance with the code in determining a question in any such proceedings.",
+                                    "tokenCum": 705,
+                                    "wordSum": 27,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 69,
+                            "tokenSum": 93,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Investigations by the Regulator",
+                            "tokenCum": 711,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies if the Regulator has reason to believe that a personmay be carrying on a forensic science activity to which the code applies in away that creates a substantial risk of\u2014",
+                                    "tokenCum": 749,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "adversely affecting any investigation, or",
+                                            "tokenCum": 757,
+                                            "wordSum": 5,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "impeding or prejudicing the course of justice in any proceedings.",
+                                            "tokenCum": 772,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 69,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Regulator may investigate the carrying on by that person of anyforensic science activity to which the code applies.",
+                                    "tokenCum": 796,
+                                    "wordSum": 19,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of any such investigation, the Regulator may require theperson mentioned in subsection (1) to provide to the Regulator\u2014",
+                                    "tokenCum": 825,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "copies of documents in the person\u2019s possession or control;",
+                                            "tokenCum": 837,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "other information in the person\u2019s possession or control.",
+                                            "tokenCum": 848,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 38,
+                                    "tokenSum": 60,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A requirement under subsection (3) may include a requirement forinformation to be provided orally.",
+                                    "tokenCum": 868,
+                                    "wordSum": 14,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A requirement under subsection (3) is imposed by giving a written notice tothe person specifying\u2014",
+                                    "tokenCum": 889,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a description of the information that is required;",
+                                            "tokenCum": 898,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "when, or the time by which, the information is to be provided;",
+                                            "tokenCum": 913,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the form and manner in which the information is to be provided.",
+                                            "tokenCum": 926,
+                                            "wordSum": 12,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 69,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A person may not be required under subsection (3) to do anything that theperson could not be compelled to do in proceedings before the High Court.",
+                                    "tokenCum": 959,
+                                    "wordSum": 26,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "A disclosure of information pursuant to a requirement under subsection (3)does not breach\u2014",
+                                    "tokenCum": 981,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any obligation of confidence owed by the person making the disclosure, or",
+                                            "tokenCum": 997,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other restriction on the disclosure of information (however imposed).",
+                                            "tokenCum": 1012,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 61,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "A person may not be required under subsection (3) to disclose informationif to do so\u2014",
+                                    "tokenCum": 1033,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "would contravene the data protection legislation (but in determiningwhether the disclosure would do so, the duty imposed by virtue of thatsubsection is to be taken into account), or",
+                                            "tokenCum": 1073,
+                                            "wordSum": 28,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of theInvestigatory Powers Act 2016.",
+                                            "tokenCum": 1109,
+                                            "wordSum": 21,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 64,
+                                    "tokenSum": 105,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "In subsection (8)(a) \u201cthe data protection legislation\u201d has the same meaningas in the Data Protection Act 2018 (see section 3(9) of that Act).",
+                                    "tokenCum": 1152,
+                                    "wordSum": 23,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "The Regulator may bring proceedings for an injunction (including aninterim injunction) for the purpose of securing compliance with a requirementimposed under this section.",
+                                    "tokenCum": 1189,
+                                    "wordSum": 23,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "In this Act \u201cproceedings\u201d means proceedings before a judicial authorityexercising its jurisdiction or functions in England and Wales, within themeaning of section 4 of the Rehabilitation of Offenders Act 1974.",
+                                    "tokenCum": 1243,
+                                    "wordSum": 30,
+                                    "tokenSum": 56,
+                                    "tokenCount": 56
+                                }
+                            ],
+                            "wordSum": 371,
+                            "tokenSum": 594,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Compliance notices",
+                            "tokenCum": 1247,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies if the Regulator believes that a person is carrying ona forensic science activity to which the code applies in a way that creates asubstantial risk of\u2014",
+                                    "tokenCum": 1286,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "adversely affecting any investigation, or",
+                                            "tokenCum": 1294,
+                                            "wordSum": 5,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "impeding or prejudicing the course of justice in any proceedings.",
+                                            "tokenCum": 1309,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 70,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Regulator may serve a compliance notice on the person.",
+                                    "tokenCum": 1322,
+                                    "wordSum": 10,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A compliance notice is a notice requiring the person on whom the notice isserved to take one or more steps specified in the notice within the period orby the date specified in the notice.",
+                                    "tokenCum": 1361,
+                                    "wordSum": 34,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A compliance notice may prohibit the person on whom the notice is servedfrom carrying on any forensic science activity in England and Wales specifiedin the notice until the Regulator is satisfied that a step specified in thenotice has been taken or does not need to be taken (see section 7).",
+                                    "tokenCum": 1423,
+                                    "wordSum": 50,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In deciding whether to serve a compliance notice on a person and indetermining the content of a notice the Regulator may take into account anyfailure by a person to act in accordance with the code.",
+                                    "tokenCum": 1468,
+                                    "wordSum": 35,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A compliance notice must be in writing and include information as to\u2014",
+                                    "tokenCum": 1482,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Regulator\u2019s reasons for serving the notice,",
+                                            "tokenCum": 1493,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "rights of appeal (see section 8), and",
+                                            "tokenCum": 1503,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the consequences of not complying with the notice.",
+                                            "tokenCum": 1513,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 56,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Regulator may bring proceedings for an injunction (including an interiminjunction) for the purpose of securing compliance with any step orprohibition specified in the notice.",
+                                    "tokenCum": 1553,
+                                    "wordSum": 25,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The Regulator may at any time vary or cancel a compliance notice after ithas been served by giving notice in writing to the person on whom it wasserved.",
+                                    "tokenCum": 1587,
+                                    "wordSum": 28,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                }
+                            ],
+                            "wordSum": 262,
+                            "tokenSum": 376,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Completion certificates",
+                            "tokenCum": 1591,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies if the Regulator has served a compliance notice on aperson under section 6.",
+                                    "tokenCum": 1612,
+                                    "wordSum": 16,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "If the Regulator is satisfied that any step specified in the notice hasbeen taken or does not need to be taken the Regulator must issue a certificateto that effect (a \u201ccompletion certificate\u201d).",
+                                    "tokenCum": 1655,
+                                    "wordSum": 32,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A person on whom a compliance notice is served may at any time apply for acompletion certificate.",
+                                    "tokenCum": 1676,
+                                    "wordSum": 17,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Within the period of 14 days beginning with the day after the day on whichthe Regulator receives such an application the Regulator must send to theperson\u2014",
+                                    "tokenCum": 1710,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a completion certificate relating to the compliance notice, or",
+                                            "tokenCum": 1722,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "written notice of the Regulator\u2019s decision not to issue such a certificatetogether with the Regulator\u2019s reasons for that decision.",
+                                            "tokenCum": 1751,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 83,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A compliance notice ceases to have effect to the extent specified in acompletion certificate relating to that notice on the date the certificate isissued.",
+                                    "tokenCum": 1783,
+                                    "wordSum": 24,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 145,
+                            "tokenSum": 213,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Appeals ",
+                            "tokenCum": 1787,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A person served with a compliance notice under section 6 may appeal to theFirst-tier Tribunal against the decision to serve the notice.",
+                                    "tokenCum": 1817,
+                                    "wordSum": 22,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The grounds for an appeal under subsection (1) are that\u2014",
+                                    "tokenCum": 1831,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the decision was based on an error of fact;",
+                                            "tokenCum": 1841,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the decision was wrong in law;",
+                                            "tokenCum": 1848,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the decision was unreasonable;",
+                                            "tokenCum": 1855,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "any step or prohibition specified in the notice is unreasonable.",
+                                            "tokenCum": 1869,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 66,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "On an appeal under subsection (1) the First-tier Tribunal may\u2014",
+                                    "tokenCum": 1887,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "confirm the notice;",
+                                            "tokenCum": 1891,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "cancel the notice;",
+                                            "tokenCum": 1895,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "vary the notice;",
+                                            "tokenCum": 1899,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "remit to the Regulator the decision whether to confirm, cancel or vary thenotice.",
+                                            "tokenCum": 1918,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 32,
+                                    "tokenSum": 63,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A person given notice under section 6(8) of the variation of a compliancenotice may appeal to the First-tier Tribunal against the decision to vary thecompliance notice.",
+                                    "tokenCum": 1960,
+                                    "wordSum": 26,
+                                    "tokenSum": 44,
+                                    "tokenCount": 44
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The grounds for an appeal under subsection (4) are that\u2014",
+                                    "tokenCum": 1974,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the decision was based on an error of fact;",
+                                            "tokenCum": 1984,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the decision was wrong in law;",
+                                            "tokenCum": 1991,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the decision was unreasonable;",
+                                            "tokenCum": 1998,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "any step or prohibition specified in the compliance notice as a result ofthe variation is unreasonable.",
+                                            "tokenCum": 2020,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 74,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "On an appeal under subsection (4) the First-tier Tribunal may\u2014",
+                                    "tokenCum": 2038,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "confirm the decision to vary the compliance notice, in whole or in part;",
+                                            "tokenCum": 2054,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "quash that decision, in whole or in part;",
+                                            "tokenCum": 2065,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "vary the compliance notice in a different way;",
+                                            "tokenCum": 2075,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "remit to the Regulator the decision whether to vary the compliance notice.",
+                                            "tokenCum": 2091,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 85,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "A person served with a compliance notice under section 6 may appeal to theFirst-tier Tribunal against a decision not to issue a completion certificateunder section 7 relating to that notice.",
+                                    "tokenCum": 2132,
+                                    "wordSum": 30,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The grounds for an appeal under subsection (7) are the grounds mentioned insubsection (2)(a) to (c).",
+                                    "tokenCum": 2158,
+                                    "wordSum": 16,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "On an appeal under subsection (7) the First-tier Tribunal may\u2014",
+                                    "tokenCum": 2176,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "confirm the decision not to issue a completion certificate;",
+                                            "tokenCum": 2186,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "require the Regulator to issue a certificate;",
+                                            "tokenCum": 2195,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "remit to the Regulator the decision whether to issue a certificate.",
+                                            "tokenCum": 2209,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 62,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "Where a person has brought an appeal under subsection (1), (4) or (7), theFirst-tier Tribunal may suspend any requirement or prohibition specified inthe compliance notice until the appeal is determined, withdrawn or abandoned.",
+                                    "tokenCum": 2262,
+                                    "wordSum": 33,
+                                    "tokenSum": 55,
+                                    "tokenCount": 55
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "Where an appeal is or may be made to the Upper Tribunal in relation to adecision of the First-tier Tribunal under this section, the Upper Tribunal maysuspend any requirement or prohibition specified in the compliance noticeuntil the appeal is determined, withdrawn or abandoned.",
+                                    "tokenCum": 2324,
+                                    "wordSum": 43,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                }
+                            ],
+                            "wordSum": 375,
+                            "tokenSum": 621,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 9",
+                            "text": "Other functions of the Regulator",
+                            "tokenCum": 2330,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Regulator may prepare and publish guidance or reports on any matterrelating to forensic science activities carried on in England and Wales.",
+                                    "tokenCum": 2358,
+                                    "wordSum": 22,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Regulator may provide advice or assistance relating to forensic scienceactivities carried on in England and Wales to any person.",
+                                    "tokenCum": 2385,
+                                    "wordSum": 20,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The reference to any person in subsection (2) includes any person in acountry or territory outside the United Kingdom.",
+                                    "tokenCum": 2409,
+                                    "wordSum": 19,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "As soon as reasonably practicable after the end of each reporting periodthe Regulator must\u2014",
+                                    "tokenCum": 2429,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "prepare a report about the exercise of the Regulator\u2019s functions duringthat period,",
+                                            "tokenCum": 2446,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "publish the report in such manner as the Regulator considers appropriate,and",
+                                            "tokenCum": 2461,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "provide the report to the Secretary of State.",
+                                            "tokenCum": 2470,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 72,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State must lay the report before Parliament.",
+                                    "tokenCum": 2481,
+                                    "wordSum": 10,
+                                    "tokenSum": 13,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In subsection (4) \u201creporting period\u201d means\u2014",
+                                    "tokenCum": 2494,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the period of 12 months beginning with the date on which section 1 comesinto force, and",
+                                            "tokenCum": 2515,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "each successive period of 12 months.",
+                                            "tokenCum": 2525,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 52,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Regulator may do anything (except borrow money) the Regulator thinksnecessary or appropriate for the purposes of, or in connection with, theRegulator\u2019s functions.",
+                                    "tokenCum": 2561,
+                                    "wordSum": 23,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                }
+                            ],
+                            "wordSum": 172,
+                            "tokenSum": 267,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 10",
+                            "text": "Disclosure by the Regulator",
+                            "tokenCum": 2567,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Regulator may disclose to any other public authority any informationreceived by the Regulator in connection with any of the Regulator\u2019s functionsif the disclosure is made for the purpose of enabling or assisting the otherpublic authority to discharge any of its functions.",
+                                    "tokenCum": 2624,
+                                    "wordSum": 42,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A disclosure of information under subsection (1) does not breach\u2014",
+                                    "tokenCum": 2640,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any obligation of confidence owed by the Regulator, or",
+                                            "tokenCum": 2653,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other restriction on the disclosure of information (however imposed).",
+                                            "tokenCum": 2668,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 29,
+                                    "tokenSum": 52,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "But subsection (1) does not authorise a disclosure of information that\u2014",
+                                    "tokenCum": 2685,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "would contravene the data protection legislation (but in determiningwhether a disclosure would do so, the power in that subsection is to be takeninto account), or",
+                                            "tokenCum": 2722,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of theInvestigatory Powers Act 2016.",
+                                            "tokenCum": 2758,
+                                            "wordSum": 21,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 98,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (3)(a) \u201cthe data protection legislation\u201d has the same meaningas in the Data Protection Act 2018 (see section 3 of that Act).",
+                                    "tokenCum": 2798,
+                                    "wordSum": 23,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section \u201cpublic authority\u201d means\u2014",
+                                    "tokenCum": 2807,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any court or tribunal,",
+                                            "tokenCum": 2813,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any constable,",
+                                            "tokenCum": 2817,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "any government department,",
+                                            "tokenCum": 2821,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "any local authority,",
+                                            "tokenCum": 2825,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "any person discharging regulatory functions in relation to any descriptionof activities, and",
+                                            "tokenCum": 2842,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "any other person discharging functions of a public nature.",
+                                            "tokenCum": 2854,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 76,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 194,
+                            "tokenSum": 334,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 11",
+                            "text": "Meaning of \u201cforensic science activity\u201d",
+                            "tokenCum": 2864,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act \u201cforensic science activity\u201d means an activity relating to theapplication of scientific methods for a purpose mentioned in subsection (2).",
+                                    "tokenCum": 2895,
+                                    "wordSum": 22,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Those purposes are\u2014",
+                                    "tokenCum": 2899,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "purposes relating to the detection or investigation of crime in England andWales;",
+                                            "tokenCum": 2915,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "purposes relating to the preparation, analysis or presentation of evidencein criminal proceedings in England and Wales;",
+                                            "tokenCum": 2937,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "such other purposes as the Secretary of State may specify in regulationsmade by statutory instrument.",
+                                            "tokenCum": 2957,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 46,
+                                    "tokenSum": 73,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations under subsection (2)(c)\u2014",
+                                    "tokenCum": 2968,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must not specify a purpose that could be specified by provision fallingwithin the legislative competence of Senedd Cymru (including any provisionthat could only be made with the consent of a Minister of the Crown within themeaning of the Ministers of the Crown Act 1975);",
+                                            "tokenCum": 3030,
+                                            "wordSum": 44,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "may make transitional, transitory and saving provision;",
+                                            "tokenCum": 3041,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "may not be made unless a draft of the statutory instrument containing themhas been laid before and approved by a resolution of each House of Parliament.",
+                                            "tokenCum": 3071,
+                                            "wordSum": 26,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 81,
+                                    "tokenSum": 125,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Nothing in this Act affects the exercise by any person other than theRegulator of functions in relation to the regulation of forensic scienceactivities.",
+                                    "tokenCum": 3103,
+                                    "wordSum": 23,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 177,
+                            "tokenSum": 276,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 12",
+                            "text": "Crown application",
+                            "tokenCum": 3105,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act binds the Crown, subject to subsection (2).",
+                                    "tokenCum": 3119,
+                                    "wordSum": 9,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Sections 5 to 8 do not bind the Crown.",
+                                    "tokenCum": 3132,
+                                    "wordSum": 9,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A person serving or employed for policing purposes is not to be treated asa servant or agent of the Crown for the purposes of subsection (2).",
+                                    "tokenCum": 3163,
+                                    "wordSum": 26,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The reference in subsection (3) to a person serving or employed forpolicing purposes is to\u2014",
+                                    "tokenCum": 3184,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a member of a police force,",
+                                            "tokenCum": 3191,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a special constable appointed under section 27 of the Police Act 1996 orsection 25 of the Railways and Transport Safety Act 2003,",
+                                            "tokenCum": 3230,
+                                            "wordSum": 22,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a person employed for the purposes of a police force, or",
+                                            "tokenCum": 3242,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a community support volunteer or a policing support volunteer designatedunder section 38 of the Police Reform Act 2002.",
+                                            "tokenCum": 3271,
+                                            "wordSum": 18,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 72,
+                                    "tokenSum": 122,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (4) \u201cpolice force\u201d includes\u2014",
+                                    "tokenCum": 3284,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the British Transport Police Force,",
+                                            "tokenCum": 3290,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Civil Nuclear Constabulary, and",
+                                            "tokenCum": 3301,
+                                            "wordSum": 5,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the Ministry of Defence police.",
+                                            "tokenCum": 3308,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 21,
+                                    "tokenSum": 48,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The reference in subsection (4)(d) to section 38 of the Police Reform Act2002 includes that section as applied by section 28 of the Railways andTransport Safety Act 2003 (application to British Transport Police).",
+                                    "tokenCum": 3363,
+                                    "wordSum": 33,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                }
+                            ],
+                            "wordSum": 172,
+                            "tokenSum": 294,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 13",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 3372,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales only, subject to subsections (2) and(3).",
+                                    "tokenCum": 3392,
+                                    "wordSum": 13,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Each of the amendments in paragraphs 8 to 11 of the Schedule has the sameextent as the enactment amended.",
+                                    "tokenCum": 3424,
+                                    "wordSum": 19,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This section extends to England and Wales, Scotland and Northern Ireland.",
+                                    "tokenCum": 3437,
+                                    "wordSum": 11,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act comes into force on such day as the Secretary of State appoints byregulations made by statutory instrument, subject to subsection (6).",
+                                    "tokenCum": 3469,
+                                    "wordSum": 23,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Different days may be appointed for different purposes.",
+                                    "tokenCum": 3479,
+                                    "wordSum": 8,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The following provisions of this Act come into force on the day on whichthis Act is passed\u2014",
+                                    "tokenCum": 3499,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 11;",
+                                            "tokenCum": 3504,
+                                            "wordSum": 2,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "this section.",
+                                            "tokenCum": 3507,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 21,
+                                    "tokenSum": 36,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Secretary of State may by regulations made by statutory instrument maketransitional, transitory or saving provision in connection with the cominginto force of any provision of this Act.",
+                                    "tokenCum": 3545,
+                                    "wordSum": 28,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "This Act may be cited as the Forensic Science Regulator Act 2021.",
+                                    "tokenCum": 3566,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 3569,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 29,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 142,
+                            "tokenSum": 232,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 2455,
+                    "tokenSum": 3859,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2495,
+            "tokenSum": 3980,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/14/enacted?view=plain",
+    "title": "Forensic Science Regulator Act 2021",
+    "longtitle": "An Act to make provision for the appointment of the Forensic Science Regulator; to make provision about the Regulator and about the regulation of forensic science; and for connected purposes.",
+    "date": "[29th April 2021]",
+    "wordSum": 2495,
+    "tokenSum": 3981,
+    "tokenCount": 0,
+    "totalTokens": 3981
+}

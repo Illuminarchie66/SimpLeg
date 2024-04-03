@@ -1,0 +1,985 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2003/4/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Health (Wales) Act 2003",
+                    "tokenCum": 54,
+                    "wordSum": 4,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2003 CHAPTER 4",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about Community Health Councils in Wales; toestablish and make provision about the Wales Centre for Health; and to makeprovision for the establishment of, and otherwise about, Health ProfessionsWales.",
+                            "tokenCum": 110,
+                            "wordSum": 33,
+                            "tokenSum": 49,
+                            "tokenCount": 49
+                        }
+                    ],
+                    "wordSum": 36,
+                    "tokenSum": 58,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th April 2003]",
+                    "tokenCum": 120,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 177,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Community Health Councils",
+                            "tokenCum": 182,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Community Health Councils in Wales",
+                                    "tokenCum": 189,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "After section 20 of the National Health Service Act [1977 (c.49)](/id/ukpga/1977/49?view=plain \"Go to item of legislation\") insert\u2014",
+                                            "tokenCum": 239,
+                                            "wordSum": 17,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c20ACommunity Health Councils in Wales",
+                                            "tokenCum": 251,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Community Health Councils established for areas or parts of areas ofHealth Authorities in Wales are to continue in existence.",
+                                                    "tokenCum": 277,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "But the National Assembly for Wales may by order\u2014",
+                                                    "tokenCum": 287,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "provide for the Councils to be known by a different name;",
+                                                            "tokenCum": 301,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "abolish a Council, alter the district in Wales for which a Council isestablished, or provide for the establishment of a new Council for a districtin Wales.",
+                                                            "tokenCum": 335,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 46,
+                                                    "tokenSum": 72,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In making an order the Assembly must ensure\u2014",
+                                                    "tokenCum": 344,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that every part of Wales is included in the district of a Council;",
+                                                            "tokenCum": 358,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that no part of a district is separated from the rest of it by a territorynot included in the district.",
+                                                            "tokenCum": 380,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 41,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Schedule 7A to this Act makes further provision about Councils continued inexistence or established under this section.\u201d.",
+                                                    "tokenCum": 406,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In section 126 of that Act, after subsection (4) insert\u2014",
+                                                    "tokenCum": 424,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(4A)Supplementary, incidental, consequential, transitory, transitional orsaving provision made by virtue of subsection (4) above in connection with anorder under section 20A above, or regulations under Schedule 7A to this Act,may include provision amending or repealing any provision made by or under anenactment.\u201d.",
+                                                            "tokenCum": 504,
+                                                            "wordSum": 42,
+                                                            "tokenSum": 85,
+                                                            "tokenCount": 85
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 107,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "After Schedule 7 to that Act insert, as Schedule 7A, the Schedule set outin Schedule 1 to this Act.",
+                                                    "tokenCum": 535,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Section 20 of, and Schedule 7 to, that Act are omitted.",
+                                                    "tokenCum": 553,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 211,
+                                            "tokenSum": 370,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 233,
+                                    "tokenSum": 432,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 236,
+                            "tokenSum": 438,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Wales Centre for Health",
+                            "tokenCum": 557,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Wales Centre for Health",
+                                    "tokenCum": 561,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There is to be a body corporate to be known as the Wales Centre for Healthor Canolfan Iechyd Cymru.",
+                                            "tokenCum": 589,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Centre is to consist of such number of members appointed by theNational Assembly for Wales as the Assembly may determine.",
+                                            "tokenCum": 612,
+                                            "wordSum": 21,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly is to appoint one of the members of the Centre as itschairman.",
+                                            "tokenCum": 630,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may make payments to the Centre of such amounts, at such timesand on such conditions (if any), as it considers appropriate.",
+                                            "tokenCum": 660,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Further provision about the Centre is in Schedule 2.",
+                                            "tokenCum": 672,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 90,
+                                    "tokenSum": 132,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Functions of the Centre",
+                                    "tokenCum": 677,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Wales Centre for Health must\u2014",
+                                            "tokenCum": 684,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "develop and maintain arrangements for making information about mattersrelated to the protection and improvement of health in Wales available to thepublic in Wales;",
+                                                    "tokenCum": 711,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "undertake and commission research into such matters;",
+                                                    "tokenCum": 720,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "contribute to the provision and development of training in such matters.",
+                                                    "tokenCum": 732,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 70,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The function under subsection (1)(a) must be carried out with a view toensuring that members of the public in Wales are kept informed about matterswhich the Centre considers might significantly affect their health.",
+                                            "tokenCum": 775,
+                                            "wordSum": 33,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The National Assembly for Wales may by regulations make provision about\u2014",
+                                            "tokenCum": 788,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "functions relating to the protection and improvement of health in Waleswhich the Centre is to exercise in addition to those conferred by subsection(1);",
+                                                    "tokenCum": 818,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "persons, or groups of persons, to whom information and advice are to begiven by the Centre;",
+                                                    "tokenCum": 838,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "reports which are to be published by the Centre.",
+                                                    "tokenCum": 848,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 88,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may by order make provision for the transfer to it of any orall of the Centre\u2019s functions.",
+                                            "tokenCum": 871,
+                                            "wordSum": 19,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where an order under subsection (4) makes provision for the transfer of allof the Centre\u2019s functions, the order may include provision for the abolitionof the Centre.",
+                                            "tokenCum": 907,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An order under subsection (4) may include provision for the transfer ofstaff of the Centre and of any property, rights and liabilities to which theCentre is entitled or subject and may in particular\u2014",
+                                            "tokenCum": 950,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "provide for the transfer of any property, rights or liabilities to haveeffect subject to exceptions or reservations specified in or determined underthe order;",
+                                                    "tokenCum": 980,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provide for the creation of interests in, or rights over, propertytransferred or retained or for the creation of new rights and liabilitiesbetween the Centre and the Assembly;",
+                                                    "tokenCum": 1014,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "provide for the order to have effect in spite of any provisions (ofwhatever nature) which would prevent or restrict the transfer of the property,rights or liabilities otherwise than by the order.",
+                                                    "tokenCum": 1055,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 114,
+                                            "tokenSum": 163,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 302,
+                                    "tokenSum": 439,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 396,
+                            "tokenSum": 576,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Health Professions Wales",
+                            "tokenCum": 1059,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Health Professions Wales",
+                                    "tokenCum": 1063,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The National Assembly for Wales may by order establish a body corporate, tobe known as Health Professions Wales or Proffesiynau Iechyd Cymru (butreferred to in this Act as HPW).",
+                                            "tokenCum": 1110,
+                                            "wordSum": 29,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "HPW is to have such functions in relation to health care professions andhealth care support workers as may be conferred on it under this section.",
+                                            "tokenCum": 1142,
+                                            "wordSum": 25,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly may by order provide for HPW to carry out functions on behalfof the Assembly.",
+                                            "tokenCum": 1163,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may by order make provision enabling HPW to\u2014",
+                                            "tokenCum": 1177,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "enter into arrangements with the Health Professions Council for carryingout functions on behalf of that Council in relation to Wales;",
+                                                    "tokenCum": 1202,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "enter into arrangements with the Nursing and Midwifery Council for carryingout functions on behalf of that Council in relation to Wales;",
+                                                    "tokenCum": 1232,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "enter into arrangements with any other body for carrying out functions onbehalf of that body in relation to Wales;",
+                                                    "tokenCum": 1255,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "carry out any such arrangements.",
+                                                    "tokenCum": 1262,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 118,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The reference in subsection (3) to functions of the Assembly does notinclude a reference to the function of making, confirming or approvingsubordinate legislation (within the meaning of the [Interpretation Act 1978(c. 30)](/id/ukpga/1978/30?view=plain \"Go to item of legislation\")).",
+                                            "tokenCum": 1347,
+                                            "wordSum": 37,
+                                            "tokenSum": 88,
+                                            "tokenCount": 88
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The carrying out of functions by HPW on behalf of the Assembly or any otherbody does not affect the responsibility of the Assembly or the body concerned.",
+                                            "tokenCum": 1379,
+                                            "wordSum": 27,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The Assembly may by order make provision about the constitution of HPW (andmay in particular make provision similar to that made by Schedule 2).",
+                                            "tokenCum": 1410,
+                                            "wordSum": 24,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "\u201cHealth care profession\u201d means a profession (whether or not regulated byvirtue of any enactment) which is concerned (wholly or partly) with thephysical or mental health of individuals.",
+                                            "tokenCum": 1454,
+                                            "wordSum": 27,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "\u201cHealth care support worker\u201d means a person employed to provide support forone or more members of a health care profession.",
+                                            "tokenCum": 1479,
+                                            "wordSum": 20,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 283,
+                                    "tokenSum": 465,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Further provision about HPW",
+                                    "tokenCum": 1485,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Assembly may by order provide for HPW to charge for any services whichit provides in discharging any function.",
+                                            "tokenCum": 1510,
+                                            "wordSum": 19,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Assembly may by order provide for the transfer to HPW, for the purposeof enabling or assisting it to carry out functions on behalf of the Assembly,of\u2014",
+                                            "tokenCum": 1547,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "property, rights and liabilities;",
+                                                    "tokenCum": 1554,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "persons employed in connection with any of those functions.",
+                                                    "tokenCum": 1564,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 65,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Assembly may make payments to HPW of such amounts, at such times and onsuch conditions (if any), as it considers appropriate.",
+                                            "tokenCum": 1595,
+                                            "wordSum": 22,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Assembly may give HPW directions\u2014",
+                                            "tokenCum": 1604,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "as to the appointment of staff (including any conditions to be fulfilledfor appointment);",
+                                                    "tokenCum": 1621,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "as to the terms and conditions of employment of staff (including provisionabout the payment of pensions, allowances or gratuities and the payment ofcompensation for loss of employment);",
+                                                    "tokenCum": 1661,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "as to the application of any sums received by HPW under subsection (3).",
+                                                    "tokenCum": 1679,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 99,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A direction under subsection (4) must be given in writing.",
+                                            "tokenCum": 1693,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "HPW must comply with any direction given by the Assembly under subsection(4).",
+                                            "tokenCum": 1712,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The Assembly may by order make provision about the accounts or audit of HPW(and may in particular make provision similar to that made by Schedule 2).",
+                                            "tokenCum": 1746,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The Assembly may by order abolish HPW.",
+                                            "tokenCum": 1757,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "The Assembly may by order provide for the transfer of staff of HPW and ofany property, rights and liabilities to which HPW is entitled or subject.",
+                                            "tokenCum": 1791,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "An order under subsection (2) or (9) may in particular\u2014",
+                                            "tokenCum": 1807,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "provide for the transfer of any property, rights or liabilities to haveeffect subject to exceptions or reservations specified in or determined underthe order;",
+                                                    "tokenCum": 1837,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provide for the creation of interests in, or rights over, propertytransferred or retained or for the creation of new rights and liabilitiesbetween the transferor and the transferee;",
+                                                    "tokenCum": 1874,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "provide for the order to have effect in spite of any provisions (ofwhatever nature) which would prevent or restrict the transfer of the property,rights or liabilities otherwise than by the order.",
+                                                    "tokenCum": 1915,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 139,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 316,
+                                    "tokenSum": 500,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 602,
+                            "tokenSum": 970,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary and general provisions",
+                            "tokenCum": 1922,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Powers of National Assembly for Wales under amended Acts",
+                                    "tokenCum": 1934,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In Schedule 1 to the National Assembly for Wales (Transfer of Functions)Order 1999 ([S.I. 1999/672](/id/uksi/1999/672?view=plain \"Go to item oflegislation\")), any reference to an Act which is amended by this Act is (asfrom the time when the Act is so amended) to be treated as a reference to theAct as amended by this Act.",
+                                            "tokenCum": 2042,
+                                            "wordSum": 53,
+                                            "tokenSum": 111,
+                                            "tokenCount": 111
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) does not affect the power to make further Orders varying oromitting any such reference in that Schedule.",
+                                            "tokenCum": 2069,
+                                            "wordSum": 19,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 81,
+                                    "tokenSum": 155,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Minor and consequential amendments and repeals",
+                                    "tokenCum": 2079,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Schedule 3 contains minor and consequential amendments.",
+                                            "tokenCum": 2092,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The enactments specified in Schedule 4 are repealed to the extentspecified.",
+                                            "tokenCum": 2112,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 51,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Orders and regulations",
+                                    "tokenCum": 2117,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A power to make regulations or an order under this Act is exercisable bystatutory instrument.",
+                                            "tokenCum": 2139,
+                                            "wordSum": 15,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations or an order under this Act may make different provision fordifferent purposes or for different cases.",
+                                            "tokenCum": 2159,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations or an order under this Act may make\u2014",
+                                            "tokenCum": 2170,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any appropriate consequential, incidental or supplementary provision; or",
+                                                    "tokenCum": 2184,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any appropriate transitory, transitional or saving provision,",
+                                                    "tokenCum": 2195,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "including provision amending or repealing any provision made by or under anenactment.",
+                                                            "tokenCum": 2213,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        }
+                                                    ],
+                                                    "wordSum": 19,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 70,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 71,
+                                    "tokenSum": 125,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Financial provision",
+                                    "tokenCum": 2217,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "There shall be paid out of money provided by Parliament any increaseattributable to this Act in the sums payable by virtue of any other Act out ofmoney so provided.",
+                                            "tokenCum": 2253,
+                                            "wordSum": 29,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 45,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Short title, commencement and extent",
+                                    "tokenCum": 2261,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the Health (Wales) Act 2003.",
+                                            "tokenCum": 2281,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act (apart from this section, section 8 and section 9) comes intoforce on such day as the National Assembly for Wales may by order appoint.",
+                                            "tokenCum": 2315,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Different days may be appointed for different purposes.",
+                                            "tokenCum": 2325,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Sections 1 to 5 (including Schedules 1 and 2) extend to England and Walesonly.",
+                                            "tokenCum": 2350,
+                                            "wordSum": 14,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The extent of any amendment or repeal made by this Act is the same as thatof the enactment amended or repealed.",
+                                            "tokenCum": 2380,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 85,
+                                    "tokenSum": 144,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 296,
+                            "tokenSum": 528,
+                            "tokenCount": 7
+                        }
+                    ],
+                    "wordSum": 1566,
+                    "tokenSum": 2570,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1610,
+            "tokenSum": 2695,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2003/4/enacted?view=plain",
+    "title": "Health (Wales) Act 2003",
+    "longtitle": "An Act to make provision about Community Health Councils in Wales; to establish and make provision about the Wales Centre for Health; and to make provision for the establishment of, and otherwise about, Health Professions Wales.",
+    "date": "[8th April 2003]",
+    "wordSum": 1610,
+    "tokenSum": 2696,
+    "tokenCount": 0,
+    "totalTokens": 2696
+}

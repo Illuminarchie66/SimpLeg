@@ -1,0 +1,1704 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2002/24/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "European Parliamentary Elections Act 2002",
+                    "tokenCum": 55,
+                    "wordSum": 5,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2002 CHAPTER 24",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to consolidate the European Parliamentary Elections Acts 1978, 1993 and1999.",
+                            "tokenCum": 95,
+                            "wordSum": 12,
+                            "tokenSum": 32,
+                            "tokenCount": 32
+                        }
+                    ],
+                    "wordSum": 15,
+                    "tokenSum": 42,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[24th July 2002]",
+                    "tokenCum": 106,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 163,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Introductory",
+                            "tokenCum": 167,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Electoral regions and number of MEPs",
+                                    "tokenCum": 176,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purpose of the election in the United Kingdom of members of theEuropean Parliament (\u201cMEPs\u201d)\u2014",
+                                            "tokenCum": 201,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "England is to be divided into nine electoral regions, and",
+                                                    "tokenCum": 213,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Scotland, Wales and Northern Ireland are each to constitute a singleelectoral region.",
+                                                    "tokenCum": 230,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 65,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "There are to be 87 MEPs elected in the United Kingdom, of whom\u2014",
+                                            "tokenCum": 249,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "71 are to be elected for the electoral regions in England,",
+                                                    "tokenCum": 264,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "8 are to be elected for Scotland,",
+                                                    "tokenCum": 273,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "5 are to be elected for Wales, and",
+                                                    "tokenCum": 283,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "3 are to be elected for Northern Ireland.",
+                                                    "tokenCum": 293,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 82,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Schedule 1 (which makes provision for the electoral regions in England andfor the number of MEPs to be elected for each region) has effect.",
+                                            "tokenCum": 326,
+                                            "wordSum": 24,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 115,
+                                    "tokenSum": 194,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 116,
+                            "tokenSum": 199,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General elections",
+                            "tokenCum": 328,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Voting system in Great Britain",
+                                    "tokenCum": 334,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The system of election of MEPs in an electoral region in Great Britain isto be a regional list system.",
+                                            "tokenCum": 358,
+                                            "wordSum": 19,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State must by regulations\u2014",
+                                            "tokenCum": 367,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision for the nomination of registered parties in relation to anelection in such a region, and",
+                                                    "tokenCum": 388,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "require a nomination under paragraph (a) to be accompanied by a list ofcandidates numbering no more than the MEPs to be elected for the region.",
+                                                    "tokenCum": 423,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 49,
+                                            "tokenSum": 76,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The system of election must comply with the following conditions.",
+                                            "tokenCum": 435,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A vote may be cast for a registered party or an individual candidate namedon the ballot paper.",
+                                            "tokenCum": 455,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The first seat is to be allocated to the party or individual candidate withthe greatest number of votes.",
+                                            "tokenCum": 475,
+                                            "wordSum": 18,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The second and subsequent seats are to be allocated in the same way, exceptthat the number of votes given to a party to which one or more seats havealready been allocated are to be divided by the number of seats allocated plusone.",
+                                            "tokenCum": 523,
+                                            "wordSum": 42,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In allocating the second or any subsequent seat there are to be disregardedany votes given to\u2014",
+                                            "tokenCum": 544,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a party to which there has already been allocated a number of seats equalto the number of names on the party\u2019s list of candidates, and",
+                                                    "tokenCum": 573,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an individual candidate to whom a seat has already been allocated.",
+                                                    "tokenCum": 585,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 73,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Seats allocated to a party are to be filled by the persons named on theparty\u2019s list of candidates in the order in which they appear on that list.",
+                                            "tokenCum": 618,
+                                            "wordSum": 28,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "For the purposes of subsection (6) fractions are to be taken into account.",
+                                            "tokenCum": 636,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this section \u201cregistered party\u201d means a party registered under Part 2of the Political Parties, Elections and Referendums Act [2000 (c.41)](/id/ukpga/2000/41?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 702,
+                                            "wordSum": 26,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        }
+                                    ],
+                                    "wordSum": 279,
+                                    "tokenSum": 422,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Voting system in Northern Ireland",
+                                    "tokenCum": 708,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The system of election of MEPs in Northern Ireland is to be a singletransferable vote system under which\u2014",
+                                            "tokenCum": 732,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a vote is capable of being given so as to indicate the voter\u2019s order ofpreference for the candidates, and",
+                                                    "tokenCum": 757,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a vote is capable of being transferred to the next choice\u2014",
+                                                    "tokenCum": 769,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "when the vote is not required to give a prior choice the necessary quota ofvotes, or",
+                                                    "tokenCum": 789,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "when, owing to the deficiency in the number of votes given for a priorchoice, that choice is eliminated from the list of candidates.",
+                                                    "tokenCum": 820,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 131,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 92,
+                                    "tokenSum": 139,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Date of elections",
+                                    "tokenCum": 823,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The poll at each general election of MEPs is to be held on a day appointed byorder of the Secretary of State.",
+                                            "tokenCum": 849,
+                                            "wordSum": 22,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 34,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 398,
+                            "tokenSum": 598,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Vacant seats",
+                            "tokenCum": 853,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Filling vacant seats",
+                                    "tokenCum": 858,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State must by regulations make provision prescribing theprocedure to be followed when a seat is or becomes vacant.",
+                                            "tokenCum": 886,
+                                            "wordSum": 21,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The regulations may\u2014",
+                                            "tokenCum": 891,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "include provision requiring a by-election to be held in specifiedcircumstances (and provision modifying section 2 in its application to by-elections);",
+                                                    "tokenCum": 924,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "require a seat last filled from a party\u2019s list of candidates to be filled,in specified circumstances, from such a list (without a by-election).",
+                                                    "tokenCum": 957,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 82,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where regulations provide for a by-election to be held\u2014",
+                                            "tokenCum": 971,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the poll must take place on a day, appointed by order of the Secretary ofState, within such period as may be specified in the regulations, but",
+                                                    "tokenCum": 1002,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the regulations may enable the Secretary of State to decline to appoint aday in certain circumstances.",
+                                                    "tokenCum": 1022,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 76,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 121,
+                                    "tokenSum": 196,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 123,
+                            "tokenSum": 201,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Conduct of elections",
+                            "tokenCum": 1026,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Returning officers",
+                                    "tokenCum": 1029,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There is to be a returning officer for each electoral region.",
+                                            "tokenCum": 1042,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For a region in England and for Wales, the returning officer is to be aperson who\u2014",
+                                            "tokenCum": 1061,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is an acting returning officer by virtue of section 28(1) of theRepresentation of the People Act [1983 (c. 2)](/id/ukpga/1983/2?view=plain \"Goto item of legislation\"), and",
+                                                    "tokenCum": 1121,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 64
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is designated for the purposes of this subsection by order of the Secretaryof State.",
+                                                    "tokenCum": 1138,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 107,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For Scotland the returning officer is to be a person who\u2014",
+                                            "tokenCum": 1150,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is a returning officer by virtue of section 25 of that Act, and",
+                                                    "tokenCum": 1166,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is designated for the purposes of this subsection by order of the Secretaryof State.",
+                                                    "tokenCum": 1183,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 56,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For Northern Ireland the returning officer is to be the Chief ElectoralOfficer.",
+                                            "tokenCum": 1200,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State may by regulations confer functions on the returningofficers for the electoral regions and on persons who are, in relation toparliamentary elections\u2014",
+                                            "tokenCum": 1235,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the case of England and Wales, acting returning officers, or",
+                                                    "tokenCum": 1248,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in the case of Scotland, returning officers.",
+                                                    "tokenCum": 1257,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 68,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "There are to be charged on, and paid out of, the Consolidated Fund\u2014",
+                                            "tokenCum": 1275,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "charges to which persons on whom functions are conferred under subsection(5) are entitled under regulations under this Act, and",
+                                                    "tokenCum": 1301,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any sums required by the Secretary of State for expenditure on theprovision of training relating to functions conferred under subsection (5).",
+                                                    "tokenCum": 1331,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 85,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Where functions are conferred on a person under subsection (5) in relationto an electoral region, the council of a relevant area which falls wholly orpartly within that region must place the services of their officers at hisdisposal for the purpose of assisting him in the discharge of those functions.",
+                                            "tokenCum": 1396,
+                                            "wordSum": 49,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In subsection (7), \u201crelevant area\u201d means\u2014",
+                                            "tokenCum": 1409,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a district or London borough in England,",
+                                                    "tokenCum": 1418,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a county or county borough in Wales, and",
+                                                    "tokenCum": 1428,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a local government area in Scotland.",
+                                                    "tokenCum": 1435,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 54,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 289,
+                                    "tokenSum": 479,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Regulation-making powers: general",
+                                    "tokenCum": 1442,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may, subject to the provisions of this Act, byregulations make provision as to\u2014",
+                                            "tokenCum": 1465,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the conduct of elections to the European Parliament, and",
+                                                    "tokenCum": 1475,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the questioning of such an election and the consequences of irregularities.",
+                                                    "tokenCum": 1489,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 58,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this Act may make provision (including the creation ofcriminal offences)\u2014",
+                                            "tokenCum": 1508,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "about the limitation of election expenses of candidates;",
+                                                    "tokenCum": 1518,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for the allocation of seats in the case of an equality of votes;",
+                                                    "tokenCum": 1532,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "for securing that no person stands for election more than once at a generalelection (whether by being nominated as a candidate or by being included in aparty\u2019s list of candidates).",
+                                                    "tokenCum": 1571,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 97,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under this Act may apply, with such modifications or exceptionsas may be specified in the regulations\u2014",
+                                            "tokenCum": 1593,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any provision of the Representation of the People Acts or of any otherenactment relating to parliamentary elections or local government elections,and",
+                                                    "tokenCum": 1623,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any provision made under any enactment.",
+                                                    "tokenCum": 1632,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 72,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Regulations under this Act may amend any form contained in regulations madeunder the Representation of the People Acts so far as may be necessary toenable it to be used both for the purpose indicated in regulations so made andfor the corresponding purpose in relation to elections to the EuropeanParliament.",
+                                            "tokenCum": 1693,
+                                            "wordSum": 49,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Section 26 of the Welsh Language Act [1993 (c.38)](/id/ukpga/1993/38?view=plain \"Go to item of legislation\") (power toprescribe Welsh version) applies in relation to regulations under this Act asit applies in relation to Acts of Parliament.",
+                                            "tokenCum": 1769,
+                                            "wordSum": 34,
+                                            "tokenSum": 79,
+                                            "tokenCount": 79
+                                        }
+                                    ],
+                                    "wordSum": 230,
+                                    "tokenSum": 379,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 522,
+                            "tokenSum": 863,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Entitlement to vote",
+                            "tokenCum": 1774,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Persons entitled to vote",
+                                    "tokenCum": 1779,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person is entitled to vote as an elector at an election to the EuropeanParliament in an electoral region if he is within any of subsections (2) to(5).",
+                                            "tokenCum": 1817,
+                                            "wordSum": 28,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person is within this subsection if on the day of the poll he would beentitled to vote as an elector at a parliamentary election in a parliamentaryconstituency wholly or partly comprised in the electoral region, and\u2014",
+                                            "tokenCum": 1868,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the address in respect of which he is registered in the relevant registerof parliamentary electors is within the electoral region, or",
+                                                    "tokenCum": 1894,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "his registration in the relevant register of parliamentary electors resultsfrom an overseas elector\u2019s declaration which specifies an address within theelectoral region.",
+                                                    "tokenCum": 1927,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 79,
+                                            "tokenSum": 121,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person is within this subsection if\u2014",
+                                            "tokenCum": 1936,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is a peer who on the day of the poll would be entitled to vote at alocal government election in an electoral area wholly or partly comprised inthe electoral region, and",
+                                                    "tokenCum": 1975,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the address in respect of which he is registered in the relevant registerof local government electors is within the electoral region.",
+                                                    "tokenCum": 2000,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 84,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person is within this subsection if he is entitled to vote in theelectoral region by virtue of section 3 of the Representation of the PeopleAct [1985 (c. 50)](/id/ukpga/1985/50?view=plain \"Go to item of legislation\")(peers resident outside the United Kingdom).",
+                                            "tokenCum": 2079,
+                                            "wordSum": 39,
+                                            "tokenSum": 82,
+                                            "tokenCount": 82
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A person is within this subsection if he is entitled to vote in theelectoral region by virtue of the European Parliamentary Elections (Franchiseof Relevant Citizens of the Union) Regulations 2001 ([S.I.2001/1184](/id/uksi/2001/1184?view=plain \"Go to item of legislation\"))(citizens of the European Union other than Commonwealth and Republic ofIreland citizens).",
+                                            "tokenCum": 2186,
+                                            "wordSum": 47,
+                                            "tokenSum": 110,
+                                            "tokenCount": 110
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Subsection (1) has effect subject to any provision of regulations madeunder this Act which provides for alterations made after a specified date in aregister of electors to be disregarded.",
+                                            "tokenCum": 2227,
+                                            "wordSum": 29,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In subsection (3) \u201clocal government election\u201d includes a municipal electionin the City of London (that is, an election to the office of mayor, alderman,common councilman or sheriff and also the election of any officer elected bythe mayor, aldermen and liverymen in common hall).",
+                                            "tokenCum": 2293,
+                                            "wordSum": 43,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        }
+                                    ],
+                                    "wordSum": 329,
+                                    "tokenSum": 558,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Double voting",
+                                    "tokenCum": 2295,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person is guilty of an offence if, on any occasion when elections to theEuropean Parliament are held in all the member states under Article 9 of theAct annexed to Council Decision 76/787, he votes as an elector more than oncein those elections, whether in the United Kingdom or elsewhere.",
+                                            "tokenCum": 2365,
+                                            "wordSum": 50,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) is without prejudice to any enactment relating to votingoffences, as applied by regulations under this Act to elections of MEPs heldin the United Kingdom.",
+                                            "tokenCum": 2407,
+                                            "wordSum": 26,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The provisions of the Representation of the People Act [1983 (c.2)](/id/ukpga/1983/2?view=plain \"Go to item of legislation\"), as applied byregulations under this Act, have effect in relation to an offence under thissection as they have effect in relation to an offence under section 61(2) ofthat Act (double voting).",
+                                            "tokenCum": 2498,
+                                            "wordSum": 47,
+                                            "tokenSum": 94,
+                                            "tokenCount": 94
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In particular, the following provisions of that Act apply\u2014",
+                                            "tokenCum": 2510,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 61(7) (which makes an offence under section 61(2) an illegalpractice but allows any incapacity resulting from conviction to be mitigatedby the convicting court), and",
+                                                    "tokenCum": 2559,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 178 (prosecutions for offences committed outside the UnitedKingdom).",
+                                                    "tokenCum": 2579,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 92,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 168,
+                                    "tokenSum": 308,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 500,
+                            "tokenSum": 872,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Entitlement to be MEP",
+                            "tokenCum": 2586,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Disqualification ",
+                                    "tokenCum": 2590,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person is disqualified for the office of MEP if\u2014",
+                                            "tokenCum": 2604,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is disqualified for membership of the House of Commons, or",
+                                                    "tokenCum": 2618,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is a Lord of Appeal in Ordinary.",
+                                                    "tokenCum": 2630,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 51,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But a person is not disqualified for the office of MEP under subsection(1)(a) merely because\u2014",
+                                            "tokenCum": 2655,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is a peer,",
+                                                    "tokenCum": 2660,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is a Lord Spiritual,",
+                                                    "tokenCum": 2667,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "he holds an office mentioned in section 4 of the House of CommonsDisqualification Act [1975 (c. 24)](/id/ukpga/1975/24?view=plain \"Go to itemof legislation\") (stewardship of Chiltern Hundreds etc.), or",
+                                                    "tokenCum": 2738,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "he holds any of the offices described in Part 2 or 3 of Schedule 1 to thatAct which are designated by order by the Secretary of State for the purposesof this section.",
+                                                    "tokenCum": 2777,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 166,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A citizen of the European Union who is resident in the United Kingdom isnot disqualified for the office of MEP under subsection (1)(a) merely becausehe is disqualified for membership of the House of Commons under section 3 ofthe [Act of Settlement (12&13 Will 3 c.2.)](/id/ukpga/1700/2?view=plain \"Go toitem of legislation\") (disqualification of persons, other than Commonwealthand Republic of Ireland citizens, who are born outside Great Britain andIreland and the dominions).",
+                                            "tokenCum": 2904,
+                                            "wordSum": 69,
+                                            "tokenSum": 130,
+                                            "tokenCount": 130
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person is disqualified for the office of MEP for a particular electoralregion if, under section 1(2) of the House of Commons Disqualification Act[1975 (c. 24)](/id/ukpga/1975/24?view=plain \"Go to item of legislation\"), heis disqualified for membership of the House of Commons for any parliamentaryconstituency wholly or partly comprised in that region.",
+                                            "tokenCum": 3007,
+                                            "wordSum": 50,
+                                            "tokenSum": 106,
+                                            "tokenCount": 106
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A person who\u2014",
+                                            "tokenCum": 3011,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is a citizen of the European Union, and",
+                                                    "tokenCum": 3021,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not a Commonwealth citizen or a citizen of the Republic of Ireland,",
+                                                    "tokenCum": 3037,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "is disqualified for the office of MEP if he is disqualified for that officethrough a criminal law or civil law decision under the law of the member stateof which he is a national (and in this subsection \u201ccriminal law or civil lawdecision\u201d has the same meaning as in Council Directive[93/109/EC](/european/directive/1993/0109?view=plain \"Go to item oflegislation\")).",
+                                                            "tokenCum": 3143,
+                                                            "wordSum": 54,
+                                                            "tokenSum": 111,
+                                                            "tokenCount": 111
+                                                        }
+                                                    ],
+                                                    "wordSum": 67,
+                                                    "tokenSum": 131,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 152,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If a person who is returned as an MEP for an electoral region under section2, 3 or 5\u2014",
+                                            "tokenCum": 3168,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is disqualified under this section for the office of MEP, or",
+                                                    "tokenCum": 3183,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is disqualified under this section for the office of MEP for that region,",
+                                                    "tokenCum": 3200,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "his return is void and his seat vacant.",
+                                                    "tokenCum": 3210,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 82,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "If an MEP becomes disqualified under this section for the office of MEP orfor the office of MEP for the electoral region for which he was returned, hisseat is to be vacated.",
+                                            "tokenCum": 3254,
+                                            "wordSum": 32,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Subsection (1) is without prejudice to Article 6(1) of the Act annexed toCouncil Decision 76/787 (incompatibility of office of MEP with certain officesin or connected with Community institutions).",
+                                            "tokenCum": 3309,
+                                            "wordSum": 28,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        }
+                                    ],
+                                    "wordSum": 420,
+                                    "tokenSum": 798,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Judicial determination of disqualification",
+                                    "tokenCum": 3317,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Any person may apply to the appropriate court for a declaration or (inScotland) declarator that a person who purports to be an MEP for a particularelectoral region\u2014",
+                                            "tokenCum": 3356,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is disqualified under section 10 (whether generally or for that region), or",
+                                                    "tokenCum": 3375,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "was so disqualified at the time when, or at some time since, he wasreturned as an MEP under section 2, 3 or 5.",
+                                                    "tokenCum": 3410,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 104,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of subsection (1), the appropriate court is\u2014",
+                                            "tokenCum": 3424,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the High Court, if the electoral region concerned is in England, or isWales,",
+                                                    "tokenCum": 3443,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Court of Session, if the electoral region concerned is Scotland, or",
+                                                    "tokenCum": 3458,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the High Court of Justice in Northern Ireland, if the electoral regionconcerned is Northern Ireland.",
+                                                    "tokenCum": 3480,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 85,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The decision of the court on an application under this section is final.",
+                                            "tokenCum": 3494,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "On an application under this section\u2014",
+                                            "tokenCum": 3501,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the person in respect of whom the application is made is to be therespondent or (in Scotland) the defender, and",
+                                                    "tokenCum": 3528,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the applicant must give such security for the costs or expenses of theproceedings, not exceeding \u00a35000, as the court may direct.",
+                                                    "tokenCum": 3562,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 79,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State may by order substitute another figure for thefigure in subsection (4)(b).",
+                                            "tokenCum": 3583,
+                                            "wordSum": 15,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "No declaration or declarator is to be made under this section in respect ofany person on grounds which subsisted at the time of his election if there ispending, or has been tried, an election petition in which his disqualificationon those grounds is, or was, in issue.",
+                                            "tokenCum": 3643,
+                                            "wordSum": 46,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Any declaration or declarator made by the court on an application underthis section must be certified in writing to the Secretary of Stateimmediately by the court.",
+                                            "tokenCum": 3676,
+                                            "wordSum": 26,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 263,
+                                    "tokenSum": 418,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 687,
+                            "tokenSum": 1224,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "European Parliament",
+                            "tokenCum": 3678,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Ratification of treaties",
+                                    "tokenCum": 3683,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "No treaty which provides for any increase in the powers of the EuropeanParliament is to be ratified by the United Kingdom unless it has been approvedby an Act of Parliament.",
+                                            "tokenCum": 3719,
+                                            "wordSum": 30,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this section \u201ctreaty\u201d includes\u2014",
+                                            "tokenCum": 3728,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any international agreement, and",
+                                                    "tokenCum": 3733,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any protocol or annex to a treaty or international agreement.",
+                                                    "tokenCum": 3746,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 38,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 52,
+                                    "tokenSum": 84,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 54,
+                            "tokenSum": 87,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary",
+                            "tokenCum": 3749,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Regulations and orders",
+                                    "tokenCum": 3753,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Regulations and orders made under this Act must be made by statutoryinstrument.",
+                                            "tokenCum": 3771,
+                                            "wordSum": 12,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "No regulations may be made under this Act unless a draft of the regulationshas been laid before Parliament and approved by a resolution of each House ofParliament.",
+                                            "tokenCum": 3804,
+                                            "wordSum": 27,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A statutory instrument containing an order under\u2014",
+                                            "tokenCum": 3814,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 10(2)(d) or 11(5), or",
+                                                    "tokenCum": 3831,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraph 4(2) of Schedule 1,",
+                                                    "tokenCum": 3843,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "is subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                                            "tokenCum": 3863,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 18,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 75,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A statutory instrument containing an order under section 4 or 5(3) is to belaid before Parliament after being made.",
+                                            "tokenCum": 3892,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 91,
+                                    "tokenSum": 170,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Transitional provisions",
+                                    "tokenCum": 3896,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 2 (transitional provisions) has effect.",
+                                            "tokenCum": 3909,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 22,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Consequential amendments",
+                                    "tokenCum": 3915,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 3 (consequential amendments) has effect.",
+                                            "tokenCum": 3930,
+                                            "wordSum": 6,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 26,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Repeals and revocation",
+                                    "tokenCum": 3936,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The enactments and instrument specified in Schedule 4 are repealed or revokedto the extent specified.",
+                                            "tokenCum": 3959,
+                                            "wordSum": 15,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 34,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 126,
+                            "tokenSum": 256,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 3960,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3964,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3968,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cenactment\u201d includes an enactment contained in\u2014 ",
+                                            "tokenCum": 3984,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an Act of the Parliament of Northern Ireland,",
+                                                    "tokenCum": 3984,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an Order in Council made under the Northern Ireland (Temporary Provisions) Act[1972 (c. 22)](/id/ukpga/1972/22?view=plain \"Go to item of legislation\"), or",
+                                                    "tokenCum": 3993,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a Measure of the Northern Ireland Assembly;",
+                                                    "tokenCum": 4050,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe Act annexed to Council Decision 76/787\u201d is the Act concerning the election of MEPs annexed to Council Decision [76/787/EC](/european/decision/1976/0787?view=plain \"Go to item of legislation\")SC, EEC, Euratom of 20th September 1976; ",
+                                                            "tokenCum": 4154,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 100,
+                                                            "tokenCount": 100
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201ccitizen of the European Union\u201d is to be determined in accordance with Article 17.1 of the Treaty establishing the European Community. ",
+                                                            "tokenCum": 4189,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        }
+                                                    ],
+                                                    "wordSum": 61,
+                                                    "tokenSum": 153,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 246,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 100,
+                                    "tokenSum": 259,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Short title and commencement",
+                                    "tokenCum": 4195,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the European Parliamentary Elections Act 2002.",
+                                            "tokenCum": 4215,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force at the end of the period of 3 months beginningwith the day on which it is passed.",
+                                            "tokenCum": 4240,
+                                            "wordSum": 22,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 38,
+                                    "tokenSum": 59,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 139,
+                            "tokenSum": 320,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 2701,
+                    "tokenSum": 4678,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2725,
+            "tokenSum": 4789,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2002/24/enacted?view=plain",
+    "title": "European Parliamentary Elections Act 2002",
+    "longtitle": "An Act to consolidate the European Parliamentary Elections Acts 1978, 1993 and 1999.",
+    "date": "[24th July 2002]",
+    "wordSum": 2725,
+    "tokenSum": 4790,
+    "tokenCount": 0,
+    "totalTokens": 4790
+}

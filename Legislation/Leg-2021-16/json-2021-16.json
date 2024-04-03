@@ -1,0 +1,444 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/16/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Education and Training (Welfare of Children) Act 2021",
+                    "tokenCum": 60,
+                    "wordSum": 8,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 16",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "an Act to impose duties on certain education and training providers inrelation to safeguarding and promoting the welfare of children.",
+                            "tokenCum": 98,
+                            "wordSum": 20,
+                            "tokenSum": 30,
+                            "tokenCount": 30
+                        }
+                    ],
+                    "wordSum": 23,
+                    "tokenSum": 40,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[29th April 2021]",
+                    "tokenCum": 109,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 166,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Welfare of children: 16 to 19 Academies and further education",
+                            "tokenCum": 184,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Education Act 2002 is amended as follows.",
+                                    "tokenCum": 198,
+                                    "wordSum": 8,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 16 (terms on which financial assistance under section 14 isgiven), in subsection (1), for \u201csubsection (2B)\u201d substitute \u201c\u2014",
+                                    "tokenCum": 236,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "subsection (2B) (which relates to institutions within the higher educationsector), and",
+                                            "tokenCum": 256,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 175(3B) (which relates to institutions in England that providefurther education).\u201d",
+                                            "tokenCum": 280,
+                                            "wordSum": 11,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 90,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In section 175 (duties of local authorities and governing bodies inrelation to welfare of children) after subsection (3) insert\u2014",
+                                    "tokenCum": 314,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(3A)The proprietor of a 16 to 19 Academy must make arrangements to ensurethat the proprietor\u2019s functions relating to the conduct of the Academy areexercised with a view to safeguarding and promoting the welfare of childrenreceiving education or training at the Academy.",
+                                            "tokenCum": 382,
+                                            "wordSum": 41,
+                                            "tokenSum": 71,
+                                            "tokenCount": 71
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 107,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(3B)The Secretary of State may not\u2014",
+                                    "tokenCum": 393,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "enter into an agreement with the proprietor of an institution in Englandfor the provision of further education, unless the agreement requires theproprietor to comply with the safeguarding duties, or",
+                                            "tokenCum": 433,
+                                            "wordSum": 29,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "give financial assistance under section 14 to the proprietor of aninstitution in England for the provision of further education unless theassistance is given on terms requiring the proprietor to comply with thesafeguarding duties,",
+                                            "tokenCum": 480,
+                                            "wordSum": 33,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "but this subsection does not restrict the Secretary of State\u2019s powers to enterinto an agreement with, or give financial assistance to, an institution towhich subsection (3) or (3A) applies.",
+                                            "tokenCum": 523,
+                                            "wordSum": 29,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(3C)\u201cThe safeguarding duties\u201d are\u2014",
+                                            "tokenCum": 536,
+                                            "wordSum": 4,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a duty to make arrangements to ensure that the proprietor\u2019s functionsrelating to the conduct of the institution are exercised with a view tosafeguarding and promoting the welfare of children receiving education ortraining at the institution, and",
+                                            "tokenCum": 589,
+                                            "wordSum": 36,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a duty to have regard to any guidance given from time to time by theSecretary of State in considering what arrangements are required.\u201d",
+                                            "tokenCum": 616,
+                                            "wordSum": 23,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 160,
+                                    "tokenSum": 254,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In subsection (4) of that section\u2014",
+                                    "tokenCum": 626,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for \u201cAn authority or body\u201d substitute \u201cA person\u201d;",
+                                            "tokenCum": 639,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for \u201c(3)\u201d substitute \u201c(3A)\u201d.",
+                                            "tokenCum": 652,
+                                            "wordSum": 4,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 44,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (5) of that section, at the appropriate place insert\u2014",
+                                    "tokenCum": 668,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201c\u201cproprietor\u201d, in relation to an institution that is not a school, means the person or body of persons responsible for the management of the institution.\u201d",
+                                            "tokenCum": 703,
+                                            "wordSum": 26,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 56,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In the heading of section 175 omit \u201cof local authorities and governingbodies\u201d.",
+                                    "tokenCum": 725,
+                                    "wordSum": 12,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                }
+                            ],
+                            "wordSum": 347,
+                            "tokenSum": 610,
+                            "tokenCount": 18
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Welfare of children: apprenticeships and technical education",
+                            "tokenCum": 738,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Apprenticeships, Skills, Children and Learning Act 2009 is amended asfollows.",
+                                    "tokenCum": 763,
+                                    "wordSum": 11,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In section 101 (financial resources: conditions), in subsection (1), after\u201cconditions\u201d insert \u201c, subject to section 101A\u201d.",
+                                    "tokenCum": 800,
+                                    "wordSum": 16,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After section 101 insert\u2014",
+                                    "tokenCum": 808,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c101AFinancial resources: welfare",
+                                    "tokenCum": 821,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may not provide financial resources to a personunder\u2014",
+                                            "tokenCum": 835,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 100(1A) for the provision of training as part of a relevant Englishstatutory apprenticeship, or",
+                                                    "tokenCum": 864,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 100(1B) for the provision of education or training as part of anapproved technical education qualification or approved step towardsoccupational competence,",
+                                                    "tokenCum": 899,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "unless the resources are provided subject to conditions requiring the personto comply with the safeguarding duties.",
+                                                            "tokenCum": 920,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 37,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 115,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cThe safeguarding duties\u201d are\u2014",
+                                            "tokenCum": 929,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a duty to make arrangements to safeguard and promote the welfare ofchildren receiving the education or training mentioned in subsection (1)(a) or(b) (as the case may be), and",
+                                                    "tokenCum": 973,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a duty to have regard to any guidance given from time to time by theSecretary of State in considering what arrangements are required.",
+                                                    "tokenCum": 1000,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 91,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section, a \u201crelevant English statutory apprenticeship\u201d means anapprenticeship falling within section 40A(3)(a) to (c).\u201d",
+                                            "tokenCum": 1040,
+                                            "wordSum": 16,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 138,
+                                    "tokenSum": 264,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 176,
+                            "tokenSum": 354,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 1049,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 1058,
+                                    "wordSum": 8,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force at the end of the period of two months beginningwith the day on which this Act is passed.",
+                                    "tokenCum": 1083,
+                                    "wordSum": 23,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act may be cited as the Education and Training (Welfare of Children)Act 2021.",
+                                    "tokenCum": 1108,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1108,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 30,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 50,
+                            "tokenSum": 78,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 609,
+                    "tokenSum": 1100,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 644,
+            "tokenSum": 1214,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/16/enacted?view=plain",
+    "title": "Education and Training (Welfare of Children) Act 2021",
+    "longtitle": "an Act to impose duties on certain education and training providers in relation to safeguarding and promoting the welfare of children.",
+    "date": "[29th April 2021]",
+    "wordSum": 644,
+    "tokenSum": 1215,
+    "tokenCount": 0,
+    "totalTokens": 1215
+}

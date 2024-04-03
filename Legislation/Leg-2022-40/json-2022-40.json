@@ -1,0 +1,2638 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/40/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Energy (Oil and Gas) Profits Levy Act 2022",
+                    "tokenCum": 61,
+                    "wordSum": 8,
+                    "tokenSum": 18,
+                    "tokenCount": 17
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 40",
+                    "tokenCum": 70,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for, and in connection with, imposing a charge onring fence profits of companies.",
+                            "tokenCum": 95,
+                            "wordSum": 18,
+                            "tokenSum": 26,
+                            "tokenCount": 26
+                        }
+                    ],
+                    "wordSum": 21,
+                    "tokenSum": 36,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[14th July 2022]",
+                    "tokenCum": 106,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Most Gracious Sovereign",
+                    "tokenCum": 112,
+                    "wordSum": 3,
+                    "tokenSum": 7,
+                    "tokenCount": 6
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "We, Your Majesty\u2019s most dutiful and loyal subjects, the Commons of the UnitedKingdom in Parliament assembled, towards raising the necessary supplies todefray Your Majesty\u2019s public expenses, and making an addition to the publicrevenue, have freely and voluntarily resolved to give and to grant unto YourMajesty the tax hereinafter mentioned; and do therefore most humbly beseechYour Majesty that it may be enacted, and be it enacted by the Queen\u2019s mostExcellent Majesty, by and with the advice and consent of the Lords Spiritualand Temporal, and Commons, in this present Parliament assembled, and by theauthority of the same, as follows:\u2014",
+                    "tokenCum": 265,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Charge to tax",
+                            "tokenCum": 269,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Charge to tax",
+                                    "tokenCum": 273,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If a company carries on a ring fence trade in a qualifying accountingperiod, a sum equal to 25% of its levy profits for that period is to becharged on the company as if it were an amount of corporation tax chargeableon it.",
+                                            "tokenCum": 332,
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The charge is referred to in this Act as \u201cenergy (oil and gas) profitslevy\u201d (or as \u201cthe levy\u201d).",
+                                            "tokenCum": 363,
+                                            "wordSum": 18,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A qualifying accounting period is an accounting period of a company which\u2014",
+                                            "tokenCum": 379,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "begins on or after 26 May 2022, and",
+                                                    "tokenCum": 394,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ends on or before 31 December 2025,",
+                                                    "tokenCum": 408,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "(but see also sections 15 and 16 for provision about a case where a company\u2019saccounting period straddles either of those dates).",
+                                                            "tokenCum": 441,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 94,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A company\u2019s levy profits or loss for a qualifying accounting period are theamount which, on the following assumptions, would be determined forcorporation tax purposes to be the company\u2019s ring fence profits or loss forthat period.",
+                                            "tokenCum": 494,
+                                            "wordSum": 35,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The assumptions are that\u2014",
+                                            "tokenCum": 499,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the company has incurred such additional expenditure (if any) in thatperiod as is provided for by section 2(3),",
+                                                    "tokenCum": 528,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "that additional expenditure is allowable as a deduction in calculating theamount of the profits or loss of any ring fence trade of the company for theperiod,",
+                                                    "tokenCum": 563,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "financing costs and decommissioning costs are left out of account incalculating the amount of the profits or loss of any ring fence trade of thecompany for the period (see also sections 8 and 9),",
+                                                    "tokenCum": 610,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any amount that would otherwise be brought into account under section 301of CTA 2010 (effect of repayment of petroleum revenue tax) in calculating theamount of the profits or loss of any ring fence trade of the company for theperiod is left out of account so far as the amount is referable to thedecommissioning part of an allowable loss, and",
+                                                    "tokenCum": 696,
+                                                    "wordSum": 59,
+                                                    "tokenSum": 90,
+                                                    "tokenCount": 90
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "no account is to be taken of any provision of Part 4, 5 or 5A of CTA 2010(loss relief, group relief and group relief for carried forward losses) or ofsections 303A to 303D of that Act (use of non-decommissioning losses of ringfence trades).",
+                                                    "tokenCum": 772,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                }
+                                            ],
+                                            "wordSum": 184,
+                                            "tokenSum": 301,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "For the purposes of subsection (5)(d) an amount of petroleum revenue taxwhich is repaid as mentioned in section 301(1) of CTA 2010 is referable to thedecommissioning part of an allowable loss so far the allowable loss givingrise to the repayment is attributable, on a just and reasonable basis, toexpenditure allowable under section 3(1)(i) or (j) of OTA 1975.",
+                                            "tokenCum": 885,
+                                            "wordSum": 58,
+                                            "tokenSum": 116,
+                                            "tokenCount": 116
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this Act any reference to the qualifying levy profits or loss of acompany for an accounting period are to the levy profits or loss for theperiod as determined in accordance with subsections (4) and (5).",
+                                            "tokenCum": 935,
+                                            "wordSum": 36,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "If a company makes a qualifying levy loss for an accounting period, reliefmay be available for some or all of the loss in accordance with\u2014",
+                                            "tokenCum": 967,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "Part 1 of Schedule 1 (carry back or forward of qualifying levy losses), or",
+                                                    "tokenCum": 989,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Part 2 of that Schedule (group relief for qualifying levy losses).",
+                                                    "tokenCum": 1006,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 82,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In accordance with section 11, the charging of the levy as if it were anamount of corporation tax is to be taken as applying all enactments applyinggenerally to corporation tax.",
+                                            "tokenCum": 1050,
+                                            "wordSum": 30,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        }
+                                    ],
+                                    "wordSum": 504,
+                                    "tokenSum": 851,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 507,
+                            "tokenSum": 856,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Relief for investment expenditure",
+                            "tokenCum": 1058,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Additional expenditure treated as incurred for purposes of section 1",
+                                    "tokenCum": 1074,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies for the purposes of section 1 if, in a qualifyingaccounting period, a company has incurred investment expenditure.",
+                                            "tokenCum": 1106,
+                                            "wordSum": 20,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Expenditure is \u201cinvestment expenditure\u201d so far as\u2014",
+                                            "tokenCum": 1122,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it is capital expenditure, operating expenditure or leasing expenditure,",
+                                                    "tokenCum": 1140,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it is incurred for the purposes of oil-related activities,",
+                                                    "tokenCum": 1154,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "it is not incurred for disqualifying purposes, and",
+                                                    "tokenCum": 1167,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "it does not consist of financing costs or decommissioning costs.",
+                                                    "tokenCum": 1182,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 95,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of section 1 the company is to be treated as if, inaddition to the investment expenditure incurred by it in the accountingperiod, it had incurred in that period expenditure of an amount equal to 80%of the amount of that investment expenditure.",
+                                            "tokenCum": 1250,
+                                            "wordSum": 44,
+                                            "tokenSum": 71,
+                                            "tokenCount": 71
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section, if investment expenditure is incurredpartly for the purposes of oil-related activities and partly for otherpurposes, the expenditure is to be attributed to the oil-related activities ona just and reasonable basis.",
+                                            "tokenCum": 1305,
+                                            "wordSum": 36,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This section needs to be read with section 6 (which prevents recycling etcof assets to generate relief).",
+                                            "tokenCum": 1328,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 170,
+                                    "tokenSum": 303,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Section 2: meaning of \u201coperating expenditure\u201d",
+                                    "tokenCum": 1341,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Expenditure incurred by a company is \u201coperating expenditure\u201d for thepurposes of section 2 if\u2014",
+                                            "tokenCum": 1368,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it is incurred for the purpose of increasing\u2014",
+                                                    "tokenCum": 1379,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the rate at which oil is extracted or the reserves of oil,",
+                                                    "tokenCum": 1393,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the number of years for which it is economically viable to carry out oilextraction activities or for which a facility can be used for the purposes ofthose activities, or",
+                                                    "tokenCum": 1430,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "the amount of tariff receipts earned by the company in respect ofupstream petroleum infrastructure,",
+                                                    "tokenCum": 1453,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it is not routine repair or maintenance expenditure, and",
+                                                    "tokenCum": 1465,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "it is incurred in relation to a facility or an oil well on qualifyingmatters.",
+                                                    "tokenCum": 1485,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 100,
+                                            "tokenSum": 171,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Expenditure is incurred in relation to a facility on qualifying matters ifit is incurred on\u2014",
+                                            "tokenCum": 1509,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the replacement of a valve, pump, pipeline, power generation plant orcompressor that is no longer capable of being used for the purposes of oilextraction activities,",
+                                                    "tokenCum": 1546,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "modifications to increase capacity, or availability, to carry out oilextraction activities, or",
+                                                    "tokenCum": 1565,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "modifications to enable handling of reduced volumes resulting from reducedoperating pressures or handling of different fluid compositions.",
+                                                    "tokenCum": 1587,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 117,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Expenditure is incurred in relation to an oil well on qualifying matters ifit is incurred on\u2014",
+                                            "tokenCum": 1612,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "water shut off or gas shut off,",
+                                                    "tokenCum": 1620,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "fracturing, or",
+                                                    "tokenCum": 1625,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the removal of sand, salt, scale or hydrates.",
+                                                    "tokenCum": 1638,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 66,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section, where a company incurs expenditure partof which is operating expenditure and part of which is not, the expenditure isto be apportioned on a just and reasonable basis.",
+                                            "tokenCum": 1685,
+                                            "wordSum": 33,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 1689,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cfacility\u201d means a platform, a subsea oil well, a platform well, an oil well head or upstream petroleum infrastructure, ",
+                                                    "tokenCum": 1724,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctariff receipts\u201d has the meaning given by section 291A of CTA 2010, and ",
+                                                    "tokenCum": 1755,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cupstream petroleum infrastructure\u201d has the meaning given by section 9H of the Petroleum Act 1998. ",
+                                                    "tokenCum": 1788,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 118,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 294,
+                                    "tokenSum": 537,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Section 2: meaning of \u201cleasing expenditure\u201d",
+                                    "tokenCum": 1801,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Expenditure incurred by a company is \u201cleasing expenditure\u201d for the purposesof section 2 so far as\u2014",
+                                            "tokenCum": 1829,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it represents payment in return for a mobile production or storage assetbeing made available under a lease whose term is at least 5 years, and",
+                                                    "tokenCum": 1859,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on the date on which the expenditure is incurred, no company has obtainedrelevant tax relief in respect of the acquisition of the asset.",
+                                                    "tokenCum": 1891,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 101,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But expenditure counts as leasing expenditure only so far as it exceeds thetotal amount received by the company and its associated companies in respectof any qualifying lease other than\u2014",
+                                            "tokenCum": 1931,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "amounts received from the lessee where the parties to the lease areassociated companies, or",
+                                                    "tokenCum": 1950,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "amounts previously set against expenditure under this subsection whichwould otherwise have counted as leasing expenditure.",
+                                                    "tokenCum": 1974,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 94,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For this purpose a \u201cqualifying lease\u201d means a lease\u2014",
+                                            "tokenCum": 1989,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to which the company or associated company is party as lessee, and",
+                                                    "tokenCum": 2003,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in respect of which expenditure is incurred which is, or but for subsection(2) would have counted as, leasing expenditure.",
+                                                    "tokenCum": 2036,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 73,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In addition, if a sublease of an asset is entered into or modified on orafter 26 May 2022, expenditure is not leasing expenditure so far as it exceedsthe total amount of leasing expenditure incurred in relation to the head leaseduring the term of the sublease.",
+                                            "tokenCum": 2107,
+                                            "wordSum": 45,
+                                            "tokenSum": 74,
+                                            "tokenCount": 74
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this section expenditure which does not representpayment in return for an asset being made available includes (among otherthings)\u2014",
+                                            "tokenCum": 2138,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any charge for the provision of any staff or for any services,",
+                                                    "tokenCum": 2151,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any amount payable which is, or represents, a profit or premium on the costof the asset being made available which is paid by the company to anassociated company,",
+                                                    "tokenCum": 2187,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any amount which, in accordance with generally accepted accountingpractice, falls (or would fall) to be shown in the company\u2019s accounts as afinance charge in respect of a lease, or",
+                                                    "tokenCum": 2230,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any amount that can be attributed to finance costs by reference to theinterest rate implicit in the lease (which is to be taken to be the interestrate that would apply to the lease in accordance with normal commercialcriteria, including, in particular, generally accepted accounting practice (ifapplicable)).",
+                                                    "tokenCum": 2295,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 69
+                                                }
+                                            ],
+                                            "wordSum": 137,
+                                            "tokenSum": 207,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2299,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201clease\u201d includes sublease and \u201clessee\u201d includes sublessee, ",
+                                                    "tokenCum": 2318,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ca mobile production or storage asset\u201d means a mobile asset whose main function is the production or storage of oil, and ",
+                                                    "tokenCum": 2345,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201crelevant tax relief\u201d means\u2014 ",
+                                                    "tokenCum": 2356,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "relief as a result of section 2,",
+                                                    "tokenCum": 2356,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "relief as a result of Chapter 6A of Part 8 of CTA 2010 (supplementary charge:investment allowance), or",
+                                                    "tokenCum": 2365,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "relief as a result of Chapter 9 of Part 8 of CTA 2010 (supplementary charge:cluster area allowance).",
+                                                    "tokenCum": 2399,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 79,
+                                            "tokenSum": 162,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of this section, where a company incurs expenditure partof which represents payment in return for a mobile production or storage assetand part of which does not, the expenditure is to be apportioned on a just andreasonable basis.",
+                                            "tokenCum": 2484,
+                                            "wordSum": 40,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        }
+                                    ],
+                                    "wordSum": 469,
+                                    "tokenSum": 783,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Section 2: meaning of \u201cdisqualifying purposes\u201d",
+                                    "tokenCum": 2496,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Expenditure is incurred for disqualifying purposes for the purposes ofsection 2 so far as it arises directly or indirectly in connection with, orotherwise in consequence of, any avoidance arrangements.",
+                                            "tokenCum": 2542,
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For this purpose arrangements are \u201cavoidance arrangements\u201d if\u2014",
+                                            "tokenCum": 2557,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the main purpose, or one of the main purposes, of the arrangements is tosecure a relevant levy advantage, and",
+                                                    "tokenCum": 2582,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it is reasonable, taking account of all the relevant circumstances\u2014",
+                                                    "tokenCum": 2594,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to conclude that the arrangements are, or include steps that are,contrived, abnormal or lacking a genuine commercial purpose, or",
+                                                    "tokenCum": 2624,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to regard the arrangements as circumventing the intended limits relatingto the relief under section 2(3) or as otherwise exploiting shortcomings inthis Act.",
+                                                    "tokenCum": 2660,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 137,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For this purpose \u201ca relevant levy advantage\u201d includes\u2014",
+                                            "tokenCum": 2672,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "relief or increased relief from the levy,",
+                                                    "tokenCum": 2681,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "repayment or increased repayment of the levy,",
+                                                    "tokenCum": 2694,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "avoidance or reduction of a charge to the levy or an assessment to thelevy,",
+                                                    "tokenCum": 2714,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "avoidance of a possible assessment to the levy,",
+                                                    "tokenCum": 2726,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "deferral of a payment of the levy or advancement of a repayment of thelevy, and",
+                                                    "tokenCum": 2750,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "avoidance of an obligation to deduct or account for the levy.",
+                                                    "tokenCum": 2766,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 133,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201carrangements\u201d includes any transaction, series oftransactions, scheme or arrangement, whether or not legally enforceable.",
+                                            "tokenCum": 2796,
+                                            "wordSum": 17,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 200,
+                                    "tokenSum": 366,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Recycling etc of assets to generate relief",
+                                    "tokenCum": 2805,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Expenditure incurred at any time by a company on the acquisition of anasset is not to count as investment expenditure for the purposes of section 2if\u2014",
+                                            "tokenCum": 2843,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "expenditure was incurred previously by the company or another company inacquiring, leasing, bringing into existence or enhancing the value of theasset, and",
+                                                    "tokenCum": 2879,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any of that expenditure has been taken into account, or would on theapplicable assumption have been taken into account, for the purposes of thelevy.",
+                                                    "tokenCum": 2913,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 72,
+                                            "tokenSum": 119,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The cases to which this section applies include (for example)\u2014",
+                                            "tokenCum": 2926,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any case where the asset acquired is an interest in an oil field, and",
+                                                    "tokenCum": 2941,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any case where the asset is acquired in connection with a transfer to thecompany of an interest in an oil field (whether or not the asset is acquiredat the time of the transfer).",
+                                                    "tokenCum": 2980,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 78,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2984,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any reference to expenditure incurred by a company in leasing an asset isto expenditure incurred by it under an agreement under which the asset wasleased to the company,",
+                                                    "tokenCum": 3024,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any reference to the applicable assumption in the case of any expenditureincurred at any time is to the assumption that this Act were fully in forceand applied to expenditure incurred at that time, and",
+                                                    "tokenCum": 3069,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any reference to an interest in an oil field is to the whole or part of theequity in an oil field.",
+                                                    "tokenCum": 3093,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 86,
+                                            "tokenSum": 128,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 222,
+                                    "tokenSum": 336,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "When investment expenditure is incurred",
+                                    "tokenCum": 3103,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In determining for the purposes of this Act when a company has incurredinvestment expenditure\u2014",
+                                            "tokenCum": 3126,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the case of capital expenditure, section 5 of CAA 2001 (when capitalexpenditure is incurred) applies as it applies for the purposes of that Act,and",
+                                                    "tokenCum": 3169,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in the case of operating expenditure or leasing expenditure, theexpenditure is treated as incurred on the date on which it is paid.",
+                                                    "tokenCum": 3203,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 111,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any investment expenditure which is (or is treated as) incurred before 26May 2022 or after 31 December 2025 is to be left out of account in determininga company\u2019s levy profits or loss for any qualifying accounting period.",
+                                            "tokenCum": 3269,
+                                            "wordSum": 37,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        }
+                                    ],
+                                    "wordSum": 103,
+                                    "tokenSum": 192,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 1462,
+                            "tokenSum": 2526,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Financing and decommissioning costs",
+                            "tokenCum": 3277,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Meaning of \u201cfinancing costs\u201d etc",
+                                    "tokenCum": 3286,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies for the purposes of this Act.",
+                                            "tokenCum": 3296,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cFinancing costs\u201d means the costs of debt finance.",
+                                            "tokenCum": 3310,
+                                            "wordSum": 8,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In calculating the costs of debt finance for an accounting period of acompany the matters to be taken into account include\u2014",
+                                            "tokenCum": 3336,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any costs giving rise to debits in respect of debtor relationships of thecompany under Part 5 of CTA 2009 (loan relationships), other than debits inrespect of exchange losses from such relationships,",
+                                                    "tokenCum": 3383,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any exchange gain or loss from a debtor relationship of the company inrelation to debt finance,",
+                                                    "tokenCum": 3404,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any credit or debit falling to be brought into account in accordance withPart 7 of CTA 2009 (derivative contracts) in relation to debt finance,",
+                                                    "tokenCum": 3445,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the financing cost implicit in a payment under a finance lease,",
+                                                    "tokenCum": 3460,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "if the company is the lessee under a right-of-use lease which is a longfunding finance lease, any costs falling, in accordance with generallyaccepted accounting practice, to be treated in the accounts of the company asinterest expenses,",
+                                                    "tokenCum": 3517,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "if the company is the lessee under a long funding operating lease, theamount deductible in respect of payments under the lease in calculating theprofits of the lessee for corporation tax purposes (after first making againstany such amount any reductions falling to be made as a result of section 379of CTA 2010 (lessee under long funding operating lease)), and",
+                                                    "tokenCum": 3605,
+                                                    "wordSum": 58,
+                                                    "tokenSum": 92,
+                                                    "tokenCount": 92
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "any other costs arising from what would be considered in accordance withgenerally accepted accounting practice to be a financing transaction.",
+                                                    "tokenCum": 3632,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 217,
+                                            "tokenSum": 353,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If an amount representing the whole or part of a payment falling to be madeby a company\u2014",
+                                            "tokenCum": 3651,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "falls (or would fall) to be treated as a finance charge, or an interestexpense, under a finance lease for the purposes of accounts which relate tothat company and one or more other companies and are prepared in accordancewith generally accepted accounting practice, but",
+                                                    "tokenCum": 3708,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not so treated in the accounts of the company,",
+                                                    "tokenCum": 3719,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the amount is to be treated as a financing cost within subsection (3)(d).",
+                                                            "tokenCum": 3738,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 23,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 122,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If\u2014 ",
+                                            "tokenCum": 3741,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in calculating the qualifying levy profits or loss of a company for anaccounting period, an amount falls to be left out of account as a result ofsubsection (3)(d), but",
+                                                    "tokenCum": 3781,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the whole or any part of that amount is repaid,",
+                                                    "tokenCum": 3794,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the repayment is also to be left out of account in calculating the qualifyinglevy profits or loss of the company for any qualifying accounting period.",
+                                                    "tokenCum": 3828,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 105,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201cfinance lease\u201d means a lease which\u2014",
+                                            "tokenCum": 3843,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "under generally accepted accounting practice\u2014",
+                                                    "tokenCum": 3850,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "falls (or would fall) to be treated, in the accounts of the lessee or aperson connected with the lessee, as a finance lease or loan, or",
+                                                    "tokenCum": 3886,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "is comprised in arrangements which fall (or would fall) to be so treated,or",
+                                                    "tokenCum": 3905,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the lease is a right-of-use lease\u2014",
+                                                    "tokenCum": 3919,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "would fall to be treated in those accounts as a finance lease, or",
+                                                    "tokenCum": 3935,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "is comprised in arrangements which would fall to be so treated,",
+                                                    "tokenCum": 3949,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "were the lessee or person connected with the lessee required under generallyaccepted accounting practice to determine whether the lease falls, orarrangements fall, to be so treated.",
+                                                    "tokenCum": 3987,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 110,
+                                            "tokenSum": 190,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of applying subsection (6)(b), the lessee and any personconnected with the lessee are to be treated as being companies which areincorporated in a part of the United Kingdom.",
+                                            "tokenCum": 4031,
+                                            "wordSum": 31,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 4035,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201caccounts\u201d, in relation to a company, includes accounts which\u2014 ",
+                                                    "tokenCum": 4052,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "relate to two or more companies of which that company is one, and",
+                                                    "tokenCum": 4052,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "are drawn up in accordance with generally accepted accounting practice,",
+                                                    "tokenCum": 4066,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cdebtor relationship\u201d has the meaning given by section 302(6) of CTA 2009, ",
+                                                            "tokenCum": 4110,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cexchange gains\u201d and \u201cexchange losses\u201d are to be read in accordance with section 475 of CTA 2009, ",
+                                                            "tokenCum": 4145,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201clease\u201d means any arrangements which provide for an asset to be leased or otherwise made available by a person to another person (\u201cthe lessee\u201d), and ",
+                                                            "tokenCum": 4182,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201clong funding finance lease\u201d, \u201clong funding operating lease\u201d and \u201cright-of-use lease\u201d have the meanings given in Part 2 of CAA 2001 (see section 70YI(1) of that Act). ",
+                                                            "tokenCum": 4244,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 67,
+                                                            "tokenCount": 67
+                                                        }
+                                                    ],
+                                                    "wordSum": 95,
+                                                    "tokenSum": 202,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 121,
+                                            "tokenSum": 248,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 649,
+                                    "tokenSum": 1106,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Meaning of \u201cdecommissioning costs\u201d",
+                                    "tokenCum": 4254,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies for the purposes of this Act.",
+                                            "tokenCum": 4264,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cDecommissioning costs\u201d means any expenditure which\u2014",
+                                            "tokenCum": 4278,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is decommissioning expenditure or site restoration expenditure, and",
+                                                    "tokenCum": 4295,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "qualifies for a capital allowance.",
+                                                    "tokenCum": 4303,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 50,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section \u201cdecommissioning expenditure\u201d means expenditure incurred inconnection with\u2014",
+                                            "tokenCum": 4326,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "demolishing plant or machinery,",
+                                                    "tokenCum": 4334,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "preserving plant or machinery pending its reuse or demolition,",
+                                                    "tokenCum": 4348,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "preparing plant or machinery for reuse, or",
+                                                    "tokenCum": 4359,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "arranging for the reuse of plant or machinery,",
+                                                    "tokenCum": 4371,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and the expression \u201cplant or machinery\u201d has the same meaning here as it has inPart 2 of CAA 2001.",
+                                                            "tokenCum": 4402,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 27,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 123,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In determining whether expenditure is incurred on preserving plant ormachinery pending its reuse or demolition, it does not matter whether theplant or machinery is reused, is demolished or is partly reused and partlydemolished.",
+                                            "tokenCum": 4458,
+                                            "wordSum": 33,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In determining whether expenditure is incurred on preparing plant ormachinery for reuse, or on arranging for the reuse of plant or machinery, itdoes not matter whether the plant or machinery is in fact reused.",
+                                            "tokenCum": 4512,
+                                            "wordSum": 34,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201csite restoration expenditure\u201d means expenditure which isincurred on the restoration of\u2014",
+                                            "tokenCum": 4538,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the site of a source to the working of which the ring fence trade concernedrelates (or related), or",
+                                                    "tokenCum": 4561,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "land used in connection with working such a source.",
+                                                    "tokenCum": 4571,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 70,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For this purpose \u201crestoration\u201d includes the matters set out in section416ZA(7) of CAA 2001.",
+                                            "tokenCum": 4602,
+                                            "wordSum": 14,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 211,
+                                    "tokenSum": 418,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 864,
+                            "tokenSum": 1533,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Qualifying levy losses",
+                            "tokenCum": 4607,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Relief for qualifying levy losses",
+                                    "tokenCum": 4615,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 1 makes provision about relief for qualifying levy losses.",
+                                            "tokenCum": 4630,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 28,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 18,
+                            "tokenSum": 34,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Management and administration etc",
+                            "tokenCum": 4634,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Application of corporation tax provisions",
+                                    "tokenCum": 4641,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The provisions of section 1(1) relating to the charging of a sum as if itwere an amount of corporation tax are to be taken as applying all enactmentsapplying generally to corporation tax.",
+                                            "tokenCum": 4689,
+                                            "wordSum": 32,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But this is subject to\u2014",
+                                            "tokenCum": 4695,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the provisions of the Corporation Tax Acts,",
+                                                    "tokenCum": 4705,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any necessary modifications, and",
+                                                    "tokenCum": 4710,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "subsection (5).",
+                                                    "tokenCum": 4715,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 41,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The enactments mentioned in subsection (1) include\u2014",
+                                            "tokenCum": 4728,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "those relating to returns of information and the supply of accounts,statements and reports,",
+                                                    "tokenCum": 4746,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "those relating to the assessing, collecting and receiving of corporationtax,",
+                                                    "tokenCum": 4763,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "those conferring or regulating a right of appeal, and",
+                                                    "tokenCum": 4775,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "those concerning administration, penalties, interest on unpaid tax andpriority of tax in cases of insolvency under the law of any part of the UnitedKingdom.",
+                                                    "tokenCum": 4814,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 118,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Accordingly\u2014 ",
+                                            "tokenCum": 4818,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "TMA 1970 is to have effect as if any reference to corporation tax includeda sum chargeable on a company under section 1(1) as if it were an amount ofcorporation tax, and",
+                                                    "tokenCum": 4865,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the enactments referred to in subsection (3)(a) to (d) apply for thepurposes of the levy subject to any modifications necessary to take account ofthe provision made by Schedule 1 or by any other provision of this Act,",
+                                                    "tokenCum": 4918,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "but nothing in this subsection is to be taken to limit subsections (1) to (3).",
+                                                            "tokenCum": 4939,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 83,
+                                                    "tokenCount": 56
+                                                }
+                                            ],
+                                            "wordSum": 84,
+                                            "tokenSum": 141,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In the Corporation Tax (Treatment of Unrelieved Surplus Advance CorporationTax) Regulations 1999 ([SI 1999/358](/id/uksi/1999/358?view=plain \"Go to itemof legislation\")) or any further regulations made under section 32 of FA 1998(unrelieved surplus advance corporation tax)\u2014",
+                                            "tokenCum": 5034,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references to corporation tax do not include a sum chargeable on a companyunder section 1(1) as if it were corporation tax, and",
+                                                    "tokenCum": 5065,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "references to profits charged to corporation tax do not include qualifyinglevy profits.",
+                                                    "tokenCum": 5084,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 67,
+                                            "tokenSum": 156,
+                                            "tokenCount": 97
+                                        }
+                                    ],
+                                    "wordSum": 269,
+                                    "tokenSum": 516,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Requirement to provide information about payments",
+                                    "tokenCum": 5093,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if\u2014",
+                                            "tokenCum": 5098,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the levy is chargeable on a company (\u201cthe chargeable company\u201d) for aqualifying accounting period, and",
+                                                    "tokenCum": 5124,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a payment is made (whether or not by the company) that is wholly or partlyin respect of the levy.",
+                                                    "tokenCum": 5150,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 68,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The responsible company must give notice to an officer of Revenue andCustoms, on or before the date the payment is made, of the amount of thepayment that is in respect of the levy.",
+                                            "tokenCum": 5191,
+                                            "wordSum": 33,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The \u201cresponsible company\u201d is\u2014",
+                                            "tokenCum": 5199,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in a case where the chargeable company is party to relevant group paymentarrangements, the company that is, under those arrangements, to discharge theliability of the chargeable company to pay the levy for the accounting period,and",
+                                                    "tokenCum": 5250,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other case, the chargeable company.",
+                                                    "tokenCum": 5260,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 80,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "\u201cRelevant group payment arrangements\u201d means arrangements under section59F(1) of TMA 1970 (arrangements for paying corporation tax on behalf of groupmembers) that relate to the accounting period.",
+                                            "tokenCum": 5312,
+                                            "wordSum": 26,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The requirement in subsection (2) is to be treated, for the purposes ofPart 7 of Schedule 36 to FA 2008 (information and inspection powers:penalties), as a requirement in an information notice.",
+                                            "tokenCum": 5364,
+                                            "wordSum": 31,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This section is subject to any provision to the contrary in regulationsunder section 59E of TMA 1970 (further provision as to when corporation tax isdue and payable).",
+                                            "tokenCum": 5407,
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 207,
+                                    "tokenSum": 359,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Adjustments ",
+                                    "tokenCum": 5411,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if there is any alteration in a company\u2019s ring fenceprofits or loss for an accounting period after this Act has effect in relationto the profits or loss.",
+                                            "tokenCum": 5451,
+                                            "wordSum": 30,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any necessary adjustments to the operation of this Act (whether in relationto the profits or loss or otherwise) are to be made.",
+                                            "tokenCum": 5480,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 81,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 533,
+                            "tokenSum": 961,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provisions",
+                            "tokenCum": 5483,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Consequential provision",
+                                    "tokenCum": 5487,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 2 contains amendments of enactments that are consequential on theprovision made by this Act.",
+                                            "tokenCum": 5512,
+                                            "wordSum": 15,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 17,
+                                    "tokenSum": 34,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Transitional provision for accounting periods straddling 26 May 2022",
+                                    "tokenCum": 5531,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the case of an accounting period (a \u201cstraddling period\u201d) beginningbefore 26 May 2022 and ending on or after that date\u2014",
+                                            "tokenCum": 5567,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "this Act is to apply as if so much of the straddling period as falls beforethat date, and so much of the straddling period as falls on or after thatdate, were separate accounting periods, and",
+                                                    "tokenCum": 5614,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the company\u2019s levy profits or loss determined for the straddling period (onthe assumption that the whole of that period were a qualifying accountingperiod) are apportioned to the two separate accounting periods in accordancewith section 17.",
+                                                    "tokenCum": 5669,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 149,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In the case of a straddling period, the Instalment Payments Regulations1998 are to apply separately\u2014",
+                                            "tokenCum": 5696,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to the levy, and",
+                                                    "tokenCum": 5704,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to any other tax chargeable on the company.",
+                                                    "tokenCum": 5716,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 58,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In their application as a result of subsection (2)(a), the InstalmentPayments Regulations 1998 are to have effect in relation to the levy as if\u2014",
+                                            "tokenCum": 5756,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the deemed accounting period treated under subsection (1)(a) as beginningon 26 May 2022 were an accounting period for the purposes of thoseRegulations, and",
+                                                    "tokenCum": 5797,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the levy were chargeable for that period.",
+                                                    "tokenCum": 5807,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 102,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Any reference in the Instalment Payments Regulations 1998 to the totalliability of a company is accordingly to be read\u2014",
+                                            "tokenCum": 5837,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in their application as a result of subsection (2)(a), as a reference tothe levy, and",
+                                                    "tokenCum": 5860,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in their application as a result of subsection (2)(b), as a reference tothe amount that would be the company\u2019s total liability for the straddlingperiod if the levy were left out of account.",
+                                                    "tokenCum": 5906,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 110,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of the Instalment Payments Regulations 1998\u2014",
+                                            "tokenCum": 5924,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a company is to be regarded as a large company as respects the deemedaccounting period under subsection (1)(a) only if it is a large company forthose purposes as respects the straddling period, and",
+                                                    "tokenCum": 5971,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any question whether a company is a large company as respects thestraddling period is to be determined as it would have been determined apartfrom section 1.",
+                                                    "tokenCum": 6004,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 109,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 319,
+                                    "tokenSum": 549,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Transitional provision for accounting periods straddling 31 December2025",
+                                    "tokenCum": 6022,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the case of an accounting period (a \u201cstraddling period\u201d) beginning on orbefore 31 December 2025 and ending after that date\u2014",
+                                            "tokenCum": 6058,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "this Act is to apply as if so much of the straddling period as falls on orbefore that date, and so much of the straddling period as falls after thatdate, were separate accounting periods, and",
+                                                    "tokenCum": 6103,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the company\u2019s levy profits or loss determined for the straddling period (onthe assumption that the whole of that period were a qualifying accountingperiod) are apportioned to the two separate accounting periods in accordancewith section 17.",
+                                                    "tokenCum": 6158,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 147,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In the case of a straddling period, the Instalment Payments Regulations1998 are to apply separately\u2014",
+                                            "tokenCum": 6185,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to the levy, and",
+                                                    "tokenCum": 6193,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to any other tax chargeable on the company.",
+                                                    "tokenCum": 6205,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 58,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In their application as a result of subsection (2)(a), the InstalmentPayments Regulations 1998 are to have effect in relation to the levy as if\u2014",
+                                            "tokenCum": 6245,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the deemed accounting period treated under subsection (1)(a) as ending on31 December 2025 were an accounting period for the purposes of thoseRegulations, and",
+                                                    "tokenCum": 6285,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the levy were chargeable for that period.",
+                                                    "tokenCum": 6295,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 101,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Any reference in the Instalment Payments Regulations 1998 to the totalliability of a company is accordingly to be read\u2014",
+                                            "tokenCum": 6325,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in their application as a result of subsection (2)(a), as a reference tothe levy, and",
+                                                    "tokenCum": 6348,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in their application as a result of subsection (2)(b), as a reference tothe amount that would be the company\u2019s total liability for the straddlingperiod if the levy were left out of account.",
+                                                    "tokenCum": 6394,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 110,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of the Instalment Payments Regulations 1998\u2014",
+                                            "tokenCum": 6412,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a company is to be regarded as a large company as respects the deemedaccounting period under subsection (1)(a) only if it is a large company forthose purposes as respects the straddling period, and",
+                                                    "tokenCum": 6459,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any question whether a company is a large company as respects thestraddling period is to be determined as it would have been determined apartfrom section 1.",
+                                                    "tokenCum": 6492,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 109,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 318,
+                                    "tokenSum": 545,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Rules for apportioning profits or loss to separate accounting periods",
+                                    "tokenCum": 6508,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section determines for the purposes of sections 15 and 16 how acompany\u2019s levy profits or loss for the straddling period are to be apportionedto the two separate accounting periods mentioned in section 15 or 16 (as thecase may be).",
+                                            "tokenCum": 6571,
+                                            "wordSum": 40,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The profits or loss are to be apportioned as if any claim to a capitalallowance were made for whichever of the separate accounting periods is theperiod in which the capital expenditure was incurred (applying section 5 ofCAA 2001 for this purpose).",
+                                            "tokenCum": 6634,
+                                            "wordSum": 41,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subject to that, the receipts, expenses, assets and liabilities of the ringfence trade are to be apportioned between the two separate accounting periodson a just and reasonable basis.",
+                                            "tokenCum": 6677,
+                                            "wordSum": 28,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 119,
+                                    "tokenSum": 196,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 6681,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 6685,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cassociated company\u201d has the same meaning as in Part 8 of CTA 2010 (see section 271), ",
+                                                    "tokenCum": 6718,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdecommissioning costs\u201d has the meaning given by section 9, ",
+                                                    "tokenCum": 6737,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cenergy (oil and gas) profits levy\u201d has the meaning given by section 1, ",
+                                                    "tokenCum": 6762,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cfinancing costs\u201d has the meaning given by section 8, ",
+                                                    "tokenCum": 6779,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cinvestment expenditure\u201d has the meaning given by section 2, ",
+                                                    "tokenCum": 6799,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cleasing expenditure\u201d has the meaning given by section 4, ",
+                                                    "tokenCum": 6818,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe levy\u201d means the energy (oil and gas) profits levy, ",
+                                                    "tokenCum": 6840,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201clevy profits\u201d or \u201clevy loss\u201d has the meaning given by section 1, ",
+                                                    "tokenCum": 6864,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201coil\u201d has the same meaning as in Part 8 of CTA 2010 (see section 278), ",
+                                                    "tokenCum": 6896,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201coil extraction activities\u201d has the same meaning as in Part 8 of CTA 2010 (see section 272), ",
+                                                    "tokenCum": 6931,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201coil field\u201d has the same meaning as in Part 8 of CTA 2010 (see section 278), ",
+                                                    "tokenCum": 6964,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201coil-related activities\u201d has the same meaning as in Part 8 of CTA 2010 (see section 274), ",
+                                                    "tokenCum": 6999,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201coperating expenditure\u201d has the meaning given by section 3, ",
+                                                    "tokenCum": 7018,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cqualifying accounting period\u201d has the meaning given by section 1, ",
+                                                    "tokenCum": 7037,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cqualifying levy loss\u201d has the meaning given by section 1, ",
+                                                    "tokenCum": 7056,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cqualifying levy profits\u201d has the meaning given by section 1, ",
+                                                    "tokenCum": 7076,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cring fence profits\u201d has the same meaning as in Part 8 of CTA 2010 (see section 276), and ",
+                                                    "tokenCum": 7112,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cring fence trade\u201d has the same meaning as in Part 8 of CTA 2010 (see section 277). ",
+                                                    "tokenCum": 7146,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 246,
+                                            "tokenSum": 540,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 7150,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cCAA 2001\u201d means the Capital Allowances Act 2001, ",
+                                                    "tokenCum": 7173,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cCTA 2009\u201d means the Corporation Tax Act 2009, ",
+                                                    "tokenCum": 7196,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cCTA 2010\u201d means the Corporation Tax Act 2010, ",
+                                                    "tokenCum": 7219,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cFA\u201d, followed by a year, means the Finance Act of that year, ",
+                                                    "tokenCum": 7239,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Instalment Payments Regulations 1998\u201d means the Corporation Tax (Instalment Payments) Regulations 1998 ([SI 1998/3175](/id/uksi/1998/3175?view=plain \"Go to item of legislation\")), ",
+                                                    "tokenCum": 7315,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cOTA 1975\u201d means the Oil Taxation Act 1975, and ",
+                                                    "tokenCum": 7341,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cTMA 1970\u201d means the Taxes Management Act 1970. ",
+                                                    "tokenCum": 7365,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 250,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 330,
+                                    "tokenSum": 796,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Short title",
+                                    "tokenCum": 7367,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Energy (Oil and Gas) Profits Levy Act 2022.",
+                                            "tokenCum": 7393,
+                                            "wordSum": 15,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 17,
+                                    "tokenSum": 33,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 1122,
+                            "tokenSum": 2157,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 4603,
+                    "tokenSum": 8221,
+                    "tokenCount": 153
+                }
+            ],
+            "wordSum": 4639,
+            "tokenSum": 8339,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/40/enacted?view=plain",
+    "title": "Energy (Oil and Gas) Profits Levy Act 2022",
+    "longtitle": "An Act to make provision for, and in connection with, imposing a charge on ring fence profits of companies.",
+    "date": "[14th July 2022]",
+    "wordSum": 4639,
+    "tokenSum": 8340,
+    "tokenCount": 0,
+    "totalTokens": 8340
+}

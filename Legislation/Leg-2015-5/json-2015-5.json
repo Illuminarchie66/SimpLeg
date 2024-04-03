@@ -1,0 +1,1842 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/5/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "National Insurance Contributions Act 2015",
+                    "tokenCum": 56,
+                    "wordSum": 5,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 5",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision in relation to national insurance contributions; andfor connected purposes.",
+                            "tokenCum": 82,
+                            "wordSum": 14,
+                            "tokenSum": 19,
+                            "tokenCount": 19
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 28,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th February 2015]",
+                    "tokenCum": 93,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 150,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Secondary Class 1 contributions: apprentices under 25",
+                            "tokenCum": 164,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Zero-rate secondary Class 1 contributions for apprentices under 25",
+                                    "tokenCum": 180,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "SSCBA 1992 is amended as follows.",
+                                            "tokenCum": 194,
+                                            "wordSum": 6,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 9 (calculation of secondary Class 1 contributions), insubsection (1A), after paragraph (a) insert\u2014",
+                                            "tokenCum": 221,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(aa)",
+                                                    "text": "if section 9B below (zero-rate secondary Class 1 contributions forcertain apprentices) applies to the earnings, 0%;\u201d.",
+                                                    "tokenCum": 252,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 65,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 9A (the age-related secondary percentage), after subsection (1)insert\u2014",
+                                            "tokenCum": 273,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)But this section does not apply to those earnings so far as section 9Bbelow (zero-rate secondary Class 1 contributions for certain apprentices)applies to them.\u201d",
+                                                    "tokenCum": 316,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 71,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "After section 9A insert\u2014",
+                                            "tokenCum": 323,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c9BZero-rate secondary Class 1 contributions for certain apprentices",
+                                            "tokenCum": 339,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where a secondary Class 1 contribution is payable as mentioned in section6(1)(b) above, this section applies to the earnings paid in the tax week, inrespect of the employment in question, if the earner is a relevant apprenticein relation to that employment.",
+                                                    "tokenCum": 401,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An earner is a \u201crelevant apprentice\u201d, in relation to an employment, if theearner\u2014",
+                                                    "tokenCum": 425,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is aged under 25, and",
+                                                            "tokenCum": 433,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "is employed, in the employment, as an apprentice.",
+                                                            "tokenCum": 447,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 26,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "For the purposes of this Act a person is still to be regarded as beingliable to pay a secondary Class 1 contribution even if the amount of thecontribution is \u00a30 because this section applies to the earnings in question.",
+                                                    "tokenCum": 494,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Treasury may by regulations provide that, in relation to relevantapprentices, there is to be for every tax year an upper secondary thresholdfor secondary Class 1 contributions.",
+                                                    "tokenCum": 532,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "That threshold is to be the amount specified for that year by regulations madeby the Treasury.",
+                                                            "tokenCum": 553,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 43,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Subsections (4) and (5) of section 5 above (which confer power to prescribean equivalent of a secondary threshold in relation to earners paid otherwisethan weekly), and subsection (6) of that section as it applies for thepurposes of those subsections, apply for the purposes of an upper secondarythreshold in relation to relevant apprentices as they apply for the purposesof a secondary threshold.",
+                                                    "tokenCum": 643,
+                                                    "wordSum": 61,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Subsection (7) applies if\u2014",
+                                                    "tokenCum": 651,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a secondary Class 1 contribution is payable as mentioned in section 6(1)(b)above,",
+                                                            "tokenCum": 673,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the earnings paid in the tax week, in respect of the employment inquestion, exceed the current upper secondary threshold (or the prescribedequivalent) in relation to relevant apprentices, and",
+                                                            "tokenCum": 714,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the earner is a relevant apprentice in relation to the employment.",
+                                                            "tokenCum": 730,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 106,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "This section does not apply to those earnings so far as they exceed thatthreshold (or the prescribed equivalent) (\u201cthe excess earnings\u201d) and,accordingly, for the purposes of section 9(1) above the relevant percentage inrespect of the excess earnings is the secondary percentage.",
+                                                    "tokenCum": 795,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 69
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "But the Treasury may by regulations modify the effect of subsection (7) ina case in which the earner falls within an age group specified in column 1 ofthe table in section 9A(3) above.",
+                                                    "tokenCum": 844,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "In subsection (2)(b) \u201capprentice\u201d has such meaning as the Treasury mayprescribe.",
+                                                    "tokenCum": 869,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "The Treasury may by regulations amend subsection (2)(a) so as to alter theage that an earner must be in order to be a relevant apprentice (andregulations under this subsection may have the effect of allowing anyone whois of an age at which secondary Class 1 contributions are payable to be arelevant apprentice).\u201d",
+                                                    "tokenCum": 946,
+                                                    "wordSum": 52,
+                                                    "tokenSum": 81,
+                                                    "tokenCount": 81
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In section 176(1)(a) (regulations subject to affirmative procedure), after\u201csection 9A(7);\u201d insert\u2014",
+                                                    "tokenCum": 979,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csection 9B(4), (8) or (10);\u201d.",
+                                                            "tokenCum": 998,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 17,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "SSCB(NI)A 1992 is amended as follows.",
+                                                    "tokenCum": 1015,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "In section 9 (calculation of secondary Class 1 contributions), insubsection (1A), after paragraph (a) insert\u2014",
+                                                    "tokenCum": 1042,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "\u201c(aa)",
+                                                            "text": "if section 9B below (zero-rate secondary Class 1 contributions forcertain apprentices) applies to the earnings, 0%;\u201d.",
+                                                            "tokenCum": 1073,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "In section 9A (the age-related secondary percentage), after subsection (1)insert\u2014",
+                                                    "tokenCum": 1094,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)But this section does not apply to those earnings so far as section 9Bbelow (zero-rate secondary Class 1 contributions for certain apprentices)applies to them.\u201d",
+                                                    "tokenCum": 1137,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "After section 9A insert\u2014",
+                                                    "tokenCum": 1144,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 502,
+                                            "tokenSum": 928,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c9BZero-rate secondary Class 1 contributions for certain apprentices",
+                                            "tokenCum": 1160,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where a secondary Class 1 contribution is payable as mentioned in section6(1)(b) above, this section applies to the earnings paid in the tax week, inrespect of the employment in question, if the earner is a relevant apprenticein relation to that employment.",
+                                                    "tokenCum": 1222,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An earner is a \u201crelevant apprentice\u201d, in relation to an employment, if theearner\u2014",
+                                                    "tokenCum": 1246,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is aged under 25, and",
+                                                            "tokenCum": 1254,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "is employed, in the employment, as an apprentice.",
+                                                            "tokenCum": 1268,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 26,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "For the purposes of this Act a person is still to be regarded as beingliable to pay a secondary Class 1 contribution even if the amount of thecontribution is \u00a30 because this section applies to the earnings in question.",
+                                                    "tokenCum": 1315,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Treasury may by regulations provide that, in relation to relevantapprentices, there is to be for every tax year an upper secondary thresholdfor secondary Class 1 contributions.",
+                                                    "tokenCum": 1353,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "That threshold is to be the amount specified for that year by regulations madeby the Treasury.",
+                                                            "tokenCum": 1374,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 43,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Subsections (4) and (5) of section 5 above (which confer power to prescribean equivalent of a secondary threshold in relation to earners paid otherwisethan weekly), and subsection (6) of that section as it applies for thepurposes of those subsections, apply for the purposes of an upper secondarythreshold in relation to relevant apprentices as they apply for the purposesof a secondary threshold.",
+                                                    "tokenCum": 1464,
+                                                    "wordSum": 61,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Subsection (7) applies if\u2014",
+                                                    "tokenCum": 1472,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a secondary Class 1 contribution is payable as mentioned in section 6(1)(b)above,",
+                                                            "tokenCum": 1494,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the earnings paid in the tax week, in respect of the employment inquestion, exceed the current upper secondary threshold (or the prescribedequivalent) in relation to relevant apprentices, and",
+                                                            "tokenCum": 1535,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the earner is a relevant apprentice in relation to the employment.",
+                                                            "tokenCum": 1551,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 106,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "This section does not apply to those earnings so far as they exceed thatthreshold (or the prescribed equivalent) (\u201cthe excess earnings\u201d) and,accordingly, for the purposes of section 9(1) above the relevant percentage inrespect of the excess earnings is the secondary percentage.",
+                                                    "tokenCum": 1616,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 69
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "But the Treasury may by regulations modify the effect of subsection (7) ina case in which the earner falls within an age group specified in column 1 ofthe table in section 9A(3) above.",
+                                                    "tokenCum": 1665,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "In subsection (2)(b) \u201capprentice\u201d has such meaning as the Treasury mayprescribe.",
+                                                    "tokenCum": 1690,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "The Treasury may by regulations amend subsection (2)(a) so as to alter theage that an earner must be in order to be a relevant apprentice (andregulations under this subsection may have the effect of allowing anyone whois of an age at which secondary Class 1 contributions are payable to be arelevant apprentice).\u201d",
+                                                    "tokenCum": 1767,
+                                                    "wordSum": 52,
+                                                    "tokenSum": 81,
+                                                    "tokenCount": 81
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "In section 172(11A) (regulations subject to affirmative procedure), after\u201c9A(7),\u201d insert \u201csection 9B (4), (8) or (10),\u201d.",
+                                                    "tokenCum": 1814,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(11)",
+                                                    "text": "The amendments made by this section come into force\u2014",
+                                                    "tokenCum": 1826,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "for the purposes of making regulations under section 9B of SSCBA 1992 orsection 9B of SSCB(NI)A 1992, at the end of the period of 2 months beginningwith the day on which this Act is passed, and",
+                                                            "tokenCum": 1887,
+                                                            "wordSum": 36,
+                                                            "tokenSum": 66,
+                                                            "tokenCount": 66
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "for remaining purposes, on 6 April 2016.",
+                                                            "tokenCum": 1901,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 101,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 478,
+                                            "tokenSum": 848,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 1064,
+                                    "tokenSum": 1957,
+                                    "tokenCount": 17
+                                }
+                            ],
+                            "wordSum": 1071,
+                            "tokenSum": 1972,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Class 2 contributions",
+                            "tokenCum": 1905,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Reform of Class 2 contributions",
+                                    "tokenCum": 1911,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Schedule 1 contains provision relating to Class 2 national insurancecontributions.",
+                                            "tokenCum": 1930,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 30,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Consequential etc power",
+                                    "tokenCum": 1935,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Treasury may by regulations make consequential, incidental orsupplementary provision in connection with the provision made in Schedule 1.",
+                                            "tokenCum": 1966,
+                                            "wordSum": 19,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this section may modify any provision of an Act or aninstrument made under an Act.",
+                                            "tokenCum": 1987,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2) \u201cmodify\u201d includes amend, repeal or revoke.",
+                                            "tokenCum": 2007,
+                                            "wordSum": 9,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Section 175(3) to (5) of SSCBA 1992 (various supplementary powers) appliesto the power to make regulations conferred by this section.",
+                                            "tokenCum": 2051,
+                                            "wordSum": 20,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations under this section must be made by statutory instrument.",
+                                            "tokenCum": 2065,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A statutory instrument containing (with or without other provision)regulations under this section that amend or repeal a provision of an Act maynot be made unless a draft of the instrument has been laid before, andapproved by a resolution of, each House of Parliament.",
+                                            "tokenCum": 2122,
+                                            "wordSum": 43,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A statutory instrument containing regulations under this section that doesnot have to be approved in draft under subsection (6) is subject to annulmentin pursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 2167,
+                                            "wordSum": 32,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        }
+                                    ],
+                                    "wordSum": 153,
+                                    "tokenSum": 260,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 171,
+                            "tokenSum": 295,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Follower notices, accelerated payments and promoters of avoidance",
+                            "tokenCum": 2183,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Application of Parts 4 and 5 of FA 2014 to national insurancecontributions",
+                                    "tokenCum": 2206,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Part 1 of Schedule 2 applies Part 4 of FA 2014 (follower notices andaccelerated payments) to Class 1, 1A, 1B and certain Class 2 contributions.",
+                                            "tokenCum": 2257,
+                                            "wordSum": 25,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Part 2 of that Schedule applies Part 5 of that Act (promoters of taxavoidance schemes) to Class 1, 1A, 1B and certain Class 2 contributions.",
+                                            "tokenCum": 2301,
+                                            "wordSum": 25,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Part 3 of that Schedule applies Parts 4 and 5 of that Act to Class 4contributions.",
+                                            "tokenCum": 2327,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Part 4 of that Schedule contains commencement and transitory provision.",
+                                            "tokenCum": 2343,
+                                            "wordSum": 10,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 174,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Provision in consequence etc of tax-only changes to Part 4 or 5 of FA2014",
+                                    "tokenCum": 2366,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where a modification is made to Part 4 of FA 2014 (follower notices andaccelerated payments) or Part 5 of that Act (promoters of tax avoidanceschemes) that does not apply in relation to national insurance contributions(\u201cthe tax-only modification\u201d), the Treasury may by regulations\u2014",
+                                            "tokenCum": 2442,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision for the purpose of applying the tax-only modification inrelation to national insurance contributions (with or without modifications),",
+                                                    "tokenCum": 2467,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make provision in relation to national insurance contributionscorresponding to the tax-only modification, or",
+                                                    "tokenCum": 2488,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "otherwise modify the Part concerned, as it has effect in relation tonational insurance contributions, in consequence of, or for the purpose ofmaking provision supplementary or incidental to, the tax-only modification.",
+                                                    "tokenCum": 2531,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 104,
+                                            "tokenSum": 180,
+                                            "tokenCount": 78
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 2537,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may amend, repeal or revoke any provision of an Act or instrument madeunder an Act (whenever passed or made),",
+                                                    "tokenCum": 2564,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may make consequential, incidental, supplementary, transitional, transitoryor saving provision, and",
+                                                    "tokenCum": 2586,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may make different provision for different cases, classes of nationalinsurance contributions or purposes.",
+                                                    "tokenCum": 2603,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 87,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under this section must be made by statutory instrument.",
+                                            "tokenCum": 2617,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A statutory instrument containing (with or without other provision)regulations under this section that amend or repeal a provision of an Act maynot be made unless a draft of the instrument has been laid before, andapproved by a resolution of, each House of Parliament.",
+                                            "tokenCum": 2674,
+                                            "wordSum": 43,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A statutory instrument containing regulations under this section that doesnot have to be approved in draft under subsection (4) is subject to annulmentin pursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 2719,
+                                            "wordSum": 32,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201cnational insurance contributions\u201d means contributionsunder Part 1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992.",
+                                            "tokenCum": 2761,
+                                            "wordSum": 19,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "This section comes into force at the end of the period of 2 monthsbeginning with the day on which this Act is passed.",
+                                            "tokenCum": 2788,
+                                            "wordSum": 23,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 291,
+                                    "tokenSum": 492,
+                                    "tokenCount": 24
+                                }
+                            ],
+                            "wordSum": 387,
+                            "tokenSum": 683,
+                            "tokenCount": 16
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Anti-avoidance",
+                            "tokenCum": 2793,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Categorisation of earners etc: anti-avoidance",
+                                    "tokenCum": 2806,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the Social Security (Categorisation of Earners) Regulations 1978 ([S.I.1978/1689](/id/uksi/1978/1689?view=plain \"Go to item of legislation\")) (\u201cthe1978 GB regulations\u201d), after regulation 5 insert\u2014",
+                                            "tokenCum": 2886,
+                                            "wordSum": 22,
+                                            "tokenSum": 83,
+                                            "tokenCount": 83
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5AAnti-avoidance",
+                                            "tokenCum": 2895,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Paragraph (2) applies if\u2014",
+                                                    "tokenCum": 2903,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "an earner has an employment in which the earner personally providesservices to a person who is resident or present or has a place of business inGreat Britain,",
+                                                            "tokenCum": 2940,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a third person enters into relevant avoidance arrangements, and",
+                                                            "tokenCum": 2952,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "but for paragraph (2), the earner would not be, and would not be treated asfalling within the category of, an employed earner in relation to theemployment.",
+                                                            "tokenCum": 2989,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 113,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The earner is to be treated as falling within the category of an employedearner in relation to the employment.",
+                                                    "tokenCum": 3013,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In paragraph (1)(b) \u201crelevant avoidance arrangements\u201d means arrangementsthe main purpose, or one of the main purposes, of which is to secure\u2014",
+                                                    "tokenCum": 3048,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that the earner is not treated under paragraph 2 of Schedule 1 as fallingwithin the category of employed earner in relation to the employment, or",
+                                                            "tokenCum": 3082,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that a person is not treated under paragraph 2 or 9(b) or (d) of Schedule 3as the secondary Class 1 contributor in respect of payments of earnings to orfor the benefit of the earner in respect of the employment.",
+                                                            "tokenCum": 3139,
+                                                            "wordSum": 39,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        }
+                                                    ],
+                                                    "wordSum": 85,
+                                                    "tokenSum": 140,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Paragraph (5) applies if\u2014",
+                                                    "tokenCum": 3147,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a person (\u201cP\u201d) enters into arrangements the main purpose, or one of themain purposes, of which is to secure that P is not treated under a relevantprovision as the secondary Class 1 contributor in respect of payments ofearnings to or for the benefit of an employed earner in respect of anemployment, and",
+                                                            "tokenCum": 3218,
+                                                            "wordSum": 52,
+                                                            "tokenSum": 76,
+                                                            "tokenCount": 76
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "but for paragraph (5), no person who is resident or present or has a placeof business in Great Britain would\u2014",
+                                                            "tokenCum": 3242,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "be the secondary Class 1 contributor in respect of such payments, or",
+                                                            "tokenCum": 3258,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "be treated, under a provision other than paragraph 2(a) or (b) or 9(g) or(h) in column (B) of Schedule 3, as the secondary Class 1 contributor inrespect of such payments.",
+                                                            "tokenCum": 3313,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 60,
+                                                            "tokenCount": 60
+                                                        }
+                                                    ],
+                                                    "wordSum": 118,
+                                                    "tokenSum": 198,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "If P is resident or present or has a place of business in Great Britain, Pis to be treated as the secondary Class 1 contributor in respect of suchpayments.",
+                                                    "tokenCum": 3349,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In paragraph (4)(a) a \u201crelevant provision\u201d means any provision of\u2014",
+                                                    "tokenCum": 3367,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "paragraph 2 of Schedule 3, other than sub-paragraphs (a) and (b) of thatparagraph in column (B), or",
+                                                            "tokenCum": 3398,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "paragraph 9(a) to (d) of that Schedule.",
+                                                            "tokenCum": 3413,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 34,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "In this regulation \u201carrangements\u201d include any scheme, transaction or seriesof transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                    "tokenCum": 3450,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In the Social Security (Categorisation of Earners) Regulations (NorthernIreland) 1978 ([S.R. (NI) 1978 No. 401](/id/nisr/1978/401?view=plain \"Go toitem of legislation\")) (\u201cthe 1978 NI regulations\u201d), after regulation 5 insert\u2014",
+                                                    "tokenCum": 3543,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 97,
+                                                    "tokenCount": 97
+                                                }
+                                            ],
+                                            "wordSum": 401,
+                                            "tokenSum": 747,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5AAnti-avoidance",
+                                            "tokenCum": 3552,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Paragraph (2) applies if\u2014",
+                                                    "tokenCum": 3560,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "an earner has an employment in which the earner personally providesservices to a person who is resident or present or has a place of business inNorthern Ireland,",
+                                                            "tokenCum": 3598,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a third person enters into relevant avoidance arrangements, and",
+                                                            "tokenCum": 3610,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "but for paragraph (2), the earner would not be, and would not be treated asfalling within the category of, an employed earner in relation to theemployment.",
+                                                            "tokenCum": 3647,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 114,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The earner is to be treated as falling within the category of an employedearner in relation to the employment.",
+                                                    "tokenCum": 3671,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In paragraph (1)(b) \u201crelevant avoidance arrangements\u201d means arrangementsthe main purpose, or one of the main purposes, of which is to secure\u2014",
+                                                    "tokenCum": 3706,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that the earner is not treated under paragraph 2 of Schedule 1 as fallingwithin the category of employed earner in relation to the employment, or",
+                                                            "tokenCum": 3740,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that a person is not treated under paragraph 2 or 7(b) or (d) of Schedule 3as the secondary Class 1 contributor in respect of payments of earnings to orfor the benefit of the earner in respect of the employment.",
+                                                            "tokenCum": 3797,
+                                                            "wordSum": 39,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        }
+                                                    ],
+                                                    "wordSum": 85,
+                                                    "tokenSum": 140,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Paragraph (5) applies if\u2014",
+                                                    "tokenCum": 3805,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a person (\u201cP\u201d) enters into arrangements the main purpose, or one of themain purposes, of which is to secure that P is not treated under a relevantprovision as the secondary Class 1 contributor in respect of payments ofearnings to or for the benefit of an employed earner in respect of anemployment, and",
+                                                            "tokenCum": 3876,
+                                                            "wordSum": 52,
+                                                            "tokenSum": 76,
+                                                            "tokenCount": 76
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "but for paragraph (5), no person who is resident or present or has a placeof business in Northern Ireland would\u2014",
+                                                            "tokenCum": 3900,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "be the secondary Class 1 contributor in respect of such payments, or",
+                                                            "tokenCum": 3916,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "be treated, under a provision other than paragraph 2(a) or (b) or 7(g) or(h) in column (B) of Schedule 3, as the secondary Class 1 contributor inrespect of such payments.",
+                                                            "tokenCum": 3971,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 60,
+                                                            "tokenCount": 60
+                                                        }
+                                                    ],
+                                                    "wordSum": 118,
+                                                    "tokenSum": 198,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "If P is resident or present or has a place of business in Northern Ireland,P is to be treated as the secondary Class 1 contributor in respect of suchpayments.",
+                                                    "tokenCum": 4007,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In paragraph (4)(a) a \u201crelevant provision\u201d means any provision of\u2014",
+                                                    "tokenCum": 4025,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "paragraph 2 of Schedule 3, other than sub-paragraphs (a) and (b) of thatparagraph in column (B), or",
+                                                            "tokenCum": 4056,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "paragraph 7(a) to (d) of that Schedule.",
+                                                            "tokenCum": 4071,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 34,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "In this regulation \u201carrangements\u201d include any scheme, transaction or seriesof transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                    "tokenCum": 4108,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In section 2 of SSCBA 1992 (categories of earner), after subsection (2)insert\u2014",
+                                                    "tokenCum": 4135,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(2ZA)Regulations under subsection (2)(b) may make provision treating a person(\u201cP\u201d) as falling within one or other of the categories of earner in relationto an employment where arrangements have been entered into the main purpose,or one of the main purposes, of which is to secure\u2014",
+                                                            "tokenCum": 4205,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 75,
+                                                            "tokenCount": 75
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that P is not treated by other provision in regulations under subsection(2)(b) as falling within that category of earner in relation to theemployment, or",
+                                                            "tokenCum": 4240,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that a person is not treated as the secondary contributor in respect ofearnings paid to or for the benefit of P in respect of the employment.",
+                                                            "tokenCum": 4271,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "(2ZB)In subsection (2ZA) \u201carrangements\u201d include any scheme, transaction orseries of transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                            "tokenCum": 4317,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        }
+                                                    ],
+                                                    "wordSum": 128,
+                                                    "tokenSum": 233,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 7 of SSCBA 1992 (\u201csecondary contributor\u201d), after subsection (2)insert\u2014",
+                                                    "tokenCum": 4346,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2A)Regulations under subsection (2) may make provision treating a person asthe secondary contributor in respect of earnings paid to or for the benefit ofan earner if arrangements have been entered into the main purpose, or one ofthe main purposes, of which is to secure that the person is not so treated byother provision in regulations under subsection (2).",
+                                                    "tokenCum": 4428,
+                                                    "wordSum": 58,
+                                                    "tokenSum": 86,
+                                                    "tokenCount": 86
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(2B)In subsection (2A) \u201carrangements\u201d include any scheme, transaction orseries of transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                    "tokenCum": 4472,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In section 2 of SSCB(NI)A 1992 (categories of earner), after subsection (2)insert\u2014",
+                                                    "tokenCum": 4502,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2ZA)Regulations under subsection (2)(b) may make provision treating a person(\u201cP\u201d) as falling within one or other of the categories of earner in relationto an employment where arrangements have been entered into the main purpose,or one of the main purposes, of which is to secure\u2014",
+                                                    "tokenCum": 4572,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that P is not treated by other provision in regulations under subsection(2)(b) as falling within that category of earner in relation to theemployment, or",
+                                                            "tokenCum": 4607,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that a person is not treated as the secondary contributor in respect ofearnings paid to or for the benefit of P in respect of the employment.",
+                                                            "tokenCum": 4638,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "(2ZB)In subsection (2ZA) \u201carrangements\u201d include any scheme, transaction orseries of transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                            "tokenCum": 4684,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        }
+                                                    ],
+                                                    "wordSum": 116,
+                                                    "tokenSum": 201,
+                                                    "tokenCount": 73
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In section 7 of SSCB(NI)A 1992 (\u201csecondary contributor\u201d), after subsection(2) insert\u2014",
+                                                    "tokenCum": 4716,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2A)Regulations under subsection (2) may make provision treating a person asthe secondary contributor in respect of earnings paid to or for the benefit ofan earner if arrangements have been entered into the main purpose, or one ofthe main purposes, of which is to secure that the person is not so treated byother provision in regulations under subsection (2).",
+                                                    "tokenCum": 4798,
+                                                    "wordSum": 58,
+                                                    "tokenSum": 86,
+                                                    "tokenCount": 86
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(2B)In subsection (2A) \u201carrangements\u201d include any scheme, transaction orseries of transactions, agreement or understanding, whether or not legallyenforceable, and any associated operations.\u201d",
+                                                    "tokenCum": 4842,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "Subsections (1) and (2)\u2014",
+                                                    "tokenCum": 4852,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "are to be treated as having come into force on 6 April 2014 for thepurposes of inserting regulation 5A(1) to (5), (6)(a) and (7), and",
+                                                            "tokenCum": 4898,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "come into force for the purposes of inserting regulation 5A(6)(b) on theday on which this Act is passed.",
+                                                            "tokenCum": 4926,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "Paragraphs (4) and (5) of regulation 5A have effect in relation toarrangements entered into on or after 6 April 2014 the main purpose, or one ofthe main purposes of which, is to secure that a person is not treated, under aprovision mentioned in paragraph (6)(b) of that regulation, as the secondaryClass 1 contributor in respect of payments of earnings to or for the benefitof an employed earner in respect of an employment.",
+                                                    "tokenCum": 5035,
+                                                    "wordSum": 72,
+                                                    "tokenSum": 113,
+                                                    "tokenCount": 113
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "But regulation 5A(5) only applies as a result of arrangements mentioned insubsection (8) in relation to payments of earnings that are made on or afterthe day on which this Act is passed.",
+                                                    "tokenCum": 5081,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "In subsections (7) to (9) references to regulation 5A are to regulation5A\u2014",
+                                                    "tokenCum": 5105,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "inserted by subsection (1) into the 1978 GB regulations;",
+                                                            "tokenCum": 5123,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "inserted by subsection (2) into the 1978 NI regulations.",
+                                                            "tokenCum": 5142,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(11)",
+                                                    "text": "The amendments made by subsections (1) and (2) are without prejudice toany power to make regulations amending or revoking the provision inserted.",
+                                                    "tokenCum": 5178,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 1015,
+                                            "tokenSum": 1832,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 1443,
+                                    "tokenSum": 2677,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 1444,
+                            "tokenSum": 2683,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 5179,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "HMRC administrative expenses: financial provision",
+                                    "tokenCum": 5188,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 165 of SSAA 1992 (adjustments between the National InsuranceFund and Consolidated Fund)\u2014",
+                                            "tokenCum": 5221,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (5)(a), for the words from \u201cother\u201d to \u201cAct 2014\u201d substitute\u201crelevant legislation\u201d;",
+                                                    "tokenCum": 5253,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after subsection (5A) insert\u2014",
+                                                    "tokenCum": 5262,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(5B)In subsection (5)(a) \u201crelevant legislation\u201d means\u2014",
+                                                            "tokenCum": 5283,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 10,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "legislation relating to ordinary statutory paternity pay, additionalstatutory paternity pay or statutory adoption pay,",
+                                                    "tokenCum": 5313,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the National Insurance Contributions Act 2014, or",
+                                                    "tokenCum": 5329,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the National Insurance Contributions Act 2015.\u201d",
+                                                    "tokenCum": 5344,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 184,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 145 of SSA(NI)A 1992 (adjustments between the National InsuranceFund and Consolidated Fund)\u2014",
+                                            "tokenCum": 5381,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (5)(a), for the words from \u201cother\u201d to \u201cAct 2014\u201d substitute\u201crelevant legislation\u201d;",
+                                                    "tokenCum": 5413,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after subsection (5A) insert\u2014",
+                                                    "tokenCum": 5422,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(5B)In subsection (5)(a) \u201crelevant legislation\u201d means\u2014",
+                                                    "tokenCum": 5443,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "legislation relating to ordinary statutory paternity pay, additionalstatutory paternity pay or statutory adoption pay,",
+                                                    "tokenCum": 5473,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the National Insurance Contributions Act 2014, or",
+                                                    "tokenCum": 5489,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the National Insurance Contributions Act 2015.\u201d",
+                                                    "tokenCum": 5504,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 187,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 133,
+                                    "tokenSum": 382,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Abbreviations of Acts",
+                                    "tokenCum": 5511,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 5515,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cCRCA 2005\u201d means the Commissioners for Revenue and Customs Act 2005; ",
+                                            "tokenCum": 5544,
+                                            "wordSum": 12,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cFA\u201d, followed by a year, means the Finance Act of that year; ",
+                                            "tokenCum": 5564,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cJA 1995\" means the Jobseekers Act 1995; ",
+                                            "tokenCum": 5589,
+                                            "wordSum": 8,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cPA 2014\u201d means the Pensions Act 2014; ",
+                                            "tokenCum": 5611,
+                                            "wordSum": 8,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSAA 1992\" means the Social Security Administration Act 1992; ",
+                                            "tokenCum": 5635,
+                                            "wordSum": 10,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSA(NI)A 1992\u201d means the Social Security Administration (Northern Ireland) Act 1992; ",
+                                            "tokenCum": 5669,
+                                            "wordSum": 12,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCBA 1992\u201d means the Social Security Contributions and Benefits Act 1992; ",
+                                            "tokenCum": 5700,
+                                            "wordSum": 12,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCB(NI)A 1992\u201d means the Social Security Contributions and Benefits (Northern Ireland) Act 1992; ",
+                                            "tokenCum": 5740,
+                                            "wordSum": 14,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSC(TF)A 1999 means the Social Security Contributions (Transfer of Functions, etc) Act 1999; ",
+                                            "tokenCum": 5778,
+                                            "wordSum": 14,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cTMA 1970\u201d means the Taxes Management Act 1970; ",
+                                            "tokenCum": 5802,
+                                            "wordSum": 9,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cWRA 2007\u201d means the Welfare Reform Act 2007; ",
+                                            "tokenCum": 5827,
+                                            "wordSum": 9,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cWRA 2012\" means the Welfare Reform Act 2012. ",
+                                            "tokenCum": 5852,
+                                            "wordSum": 9,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 136,
+                                    "tokenSum": 389,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Short title and extent",
+                                    "tokenCum": 5856,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the National Insurance Contributions Act 2015.",
+                                            "tokenCum": 5878,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to subsection (3), this Act extends to England and Wales, Scotlandand Northern Ireland.",
+                                            "tokenCum": 5899,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An amendment, repeal or revocation made by this Act has the same extent asthe provision amended, repealed or revoked.",
+                                            "tokenCum": 5929,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 49,
+                                    "tokenSum": 88,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 319,
+                            "tokenSum": 861,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 3428,
+                    "tokenSum": 6552,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3454,
+            "tokenSum": 6650,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/5/enacted?view=plain",
+    "title": "National Insurance Contributions Act 2015",
+    "longtitle": "An Act to make provision in relation to national insurance contributions; and for connected purposes.",
+    "date": "[12th February 2015]",
+    "wordSum": 3454,
+    "tokenSum": 6651,
+    "tokenCount": 0,
+    "totalTokens": 6651
+}

@@ -1,0 +1,530 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2001/14/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Rating (Former Agricultural Premises and Rural Shops) Act 2001",
+                    "tokenCum": 65,
+                    "wordSum": 9,
+                    "tokenSum": 22,
+                    "tokenCount": 21
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2001 CHAPTER 14",
+                    "tokenCum": 74,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about non-domestic rating in respect of hereditamentsincluding land or buildings which were formerly agricultural and in respect offood stores in rural settlements.",
+                            "tokenCum": 113,
+                            "wordSum": 27,
+                            "tokenSum": 40,
+                            "tokenCount": 40
+                        }
+                    ],
+                    "wordSum": 30,
+                    "tokenSum": 50,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[11th May 2001]",
+                    "tokenCum": 124,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 181,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Mandatory rate relief on former agricultural premises",
+                            "tokenCum": 191,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 43 of the Local Government Finance Act [1988 (c.41)](/id/ukpga/1988/41?view=plain \"Go to item of legislation\") (occupiedhereditaments: liability) is amended as follows.",
+                                    "tokenCum": 255,
+                                    "wordSum": 21,
+                                    "tokenSum": 66,
+                                    "tokenCount": 66
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (6A), after \u201capplies,\u201d insert \u201cor, subject to subsection (6I)below, subsection (6F) below applies,\u201d.",
+                                    "tokenCum": 291,
+                                    "wordSum": 15,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (6E) insert\u2014",
+                                    "tokenCum": 300,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(6F)This subsection applies where\u2014",
+                                            "tokenCum": 311,
+                                            "wordSum": 4,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "on the day concerned the condition mentioned in subsection (6G) below isfulfilled in respect of the hereditament; and",
+                                            "tokenCum": 338,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the rateable value of the hereditament shown in the local non-domesticrating list at the beginning of the chargeable financial year is not more thanany amount prescribed by the Secretary of State by order.",
+                                            "tokenCum": 382,
+                                            "wordSum": 33,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6G)The condition is that the hereditament\u2014",
+                                            "tokenCum": 395,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "consists wholly or mainly of land or buildings which were, on at least 183days during the period of one year ending immediately before this subsectioncomes into effect, agricultural land or agricultural buildings for thepurposes of the exemption under paragraph 1 of Schedule 5 to this Act; and",
+                                            "tokenCum": 460,
+                                            "wordSum": 47,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "includes land or a building which is not agricultural for the purposes ofthat exemption but was agricultural for those purposes on at least 183 daysduring the period mentioned in paragraph (a) above.",
+                                            "tokenCum": 504,
+                                            "wordSum": 32,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6H)For the purposes of subsection (6G) above\u2014",
+                                            "tokenCum": 520,
+                                            "wordSum": 7,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to any hereditament which includes property which is domesticwithin the meaning of section 66 below, paragraph (a) has effect as if thatpart of the hereditament which does not consist of such property were theentire hereditament; and",
+                                            "tokenCum": 575,
+                                            "wordSum": 38,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a building which has replaced a building which was an agricultural buildingfor the purposes of the exemption mentioned in that subsection (\u201cthe originalbuilding\u201d) is to be treated as if it were the original building.",
+                                            "tokenCum": 619,
+                                            "wordSum": 34,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6I)Subsection (6A) above shall not have effect, in relation to a hereditamentto which subsection (6F) above applies, on a chargeable day on which paragraph2A of Schedule 6 to this Act applies in relation to the hereditament.",
+                                            "tokenCum": 680,
+                                            "wordSum": 36,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6J)Subject to subsection (6K) below, subsections (6F) to (6I) above shallcease to have effect at the end of the period of five years beginning with theday on which those subsections come into effect.",
+                                            "tokenCum": 734,
+                                            "wordSum": 33,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6K)The Secretary of State may by order extend or further extend the periodmentioned in subsection (6J).",
+                                            "tokenCum": 760,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(6L)If the period is so extended or further extended\u2014",
+                                            "tokenCum": 774,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "subsection (6F) above cannot apply to a hereditament after the end of theperiod of five years beginning with the day on which it first applies; and",
+                                            "tokenCum": 808,
+                                            "wordSum": 26,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "where a hereditament to which subsection (6F) above applies (\u201cthe originalhereditament\u201d) includes land or a building which is subsequently included in adifferent hereditament, that subsection cannot apply to the differenthereditament after the end of the period of five years beginning with the dayon which it first applies to the original hereditament.\u201d",
+                                            "tokenCum": 884,
+                                            "wordSum": 51,
+                                            "tokenSum": 79,
+                                            "tokenCount": 79
+                                        }
+                                    ],
+                                    "wordSum": 394,
+                                    "tokenSum": 640,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (8) insert\u2014",
+                                    "tokenCum": 892,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(8A)In relation to any hereditament in respect of which both subsection (5)above and subsection (6A) above have effect on the day concerned, thechargeable amount shall be calculated in accordance with subsection (5)above.\u201d.",
+                                    "tokenCum": 949,
+                                    "wordSum": 32,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                }
+                            ],
+                            "wordSum": 473,
+                            "tokenSum": 824,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Discretionary rate relief on former agricultural premises",
+                            "tokenCum": 961,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 47 of the Local Government Finance Act [1988 (c.41)](/id/ukpga/1988/41?view=plain \"Go to item of legislation\") (discretionaryrelief) is amended as follows.",
+                                    "tokenCum": 1023,
+                                    "wordSum": 20,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (1), after \u201csubsection (3) below\u201d insert \u201c, or the conditionrelating to relief for former agricultural premises mentioned in subsection(3C) below and the second condition mentioned in subsection (3) below,\u201d.",
+                                    "tokenCum": 1076,
+                                    "wordSum": 31,
+                                    "tokenSum": 55,
+                                    "tokenCount": 55
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (3B) insert\u2014",
+                                    "tokenCum": 1085,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(3C)The condition relating to relief for former agricultural premises is thaton the chargeable day section 43(6F) above applies to the hereditament.\u201d.",
+                                            "tokenCum": 1126,
+                                            "wordSum": 21,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 55,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 83,
+                            "tokenSum": 187,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Rate relief for rural food shops",
+                            "tokenCum": 1134,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 43 of the Local Government Finance Act [1988 (c.41)](/id/ukpga/1988/41?view=plain \"Go to item of legislation\") (occupiedhereditaments: liability) is amended as follows.",
+                                    "tokenCum": 1198,
+                                    "wordSum": 21,
+                                    "tokenSum": 66,
+                                    "tokenCount": 66
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (6B)(c)(i), after \u201cstore\u201d insert \u201c, a qualifying food store\u201d.",
+                                    "tokenCum": 1222,
+                                    "wordSum": 11,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (6C) insert\u2014",
+                                    "tokenCum": 1231,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(6CA)A hereditament, or part of a hereditament, is used as a qualifying foodstore on any day in a chargeable financial year if a trade or businessconsisting wholly or mainly of the sale by retail of food for humanconsumption (excluding confectionery and excluding the supply of food in thecourse of catering) is carried on there.",
+                                            "tokenCum": 1315,
+                                            "wordSum": 54,
+                                            "tokenSum": 87,
+                                            "tokenCount": 87
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 98,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(6CB)In subsection (6CA) above the supply of food in the course of cateringincludes\u2014",
+                                    "tokenCum": 1340,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any supply of food for consumption on the premises on which it is supplied;and",
+                                            "tokenCum": 1357,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any supply of hot food for consumption off those premises;",
+                                            "tokenCum": 1369,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "and for the purposes of paragraph (b) above \u201chot food\u201d means food which, orany part of which\u2014",
+                                            "tokenCum": 1393,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "has been heated for the purposes of enabling it to be consumed at atemperature above the ambient air temperature; and",
+                                            "tokenCum": 1420,
+                                            "wordSum": 20,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "is at the time of supply above that temperature.\u201d",
+                                            "tokenCum": 1430,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 83,
+                                    "tokenSum": 132,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 179,
+                            "tokenSum": 331,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Functions of the National Assembly for Wales",
+                            "tokenCum": 1438,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The reference in Schedule 1 to the National Assembly for Wales (Transfer ofFunctions) Order 1999 ([S.I. 1999/672](/id/uksi/1999/672?view=plain \"Go toitem of legislation\")) to the Local Government Finance Act [1988 (c.41)](/id/ukpga/1988/41?view=plain \"Go to item of legislation\") is to betreated as referring to that Act as amended by this Act.",
+                                    "tokenCum": 1564,
+                                    "wordSum": 47,
+                                    "tokenSum": 128,
+                                    "tokenCount": 128
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsection (1) does not affect the power to make further Orders varying oromitting the reference mentioned in subsection (1).",
+                                    "tokenCum": 1592,
+                                    "wordSum": 19,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                }
+                            ],
+                            "wordSum": 73,
+                            "tokenSum": 167,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Financial provisions",
+                            "tokenCum": 1597,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "There shall be paid out of money provided by Parliament any increaseattributable to this Act in the sums payable out of money so provided underany other Act.",
+                                    "tokenCum": 1630,
+                                    "wordSum": 27,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 29,
+                            "tokenSum": 41,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1638,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Rating (Former Agricultural Premises and RuralShops) Act 2001.",
+                                    "tokenCum": 1668,
+                                    "wordSum": 15,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act (apart from this section) shall come into force on such day as theSecretary of State or, in relation to Wales, the National Assembly for Wales,may by order made by statutory instrument appoint, and different days may beappointed for different purposes.",
+                                    "tokenCum": 1726,
+                                    "wordSum": 42,
+                                    "tokenSum": 60,
+                                    "tokenCount": 60
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "An order under subsection (2) may contain transitional provisions andsavings relating to the provisions being brought into force by the order.",
+                                    "tokenCum": 1758,
+                                    "wordSum": 21,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act extends to England and Wales.",
+                                    "tokenCum": 1766,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1766,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 7,
+                                    "tokenSum": 13,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 90,
+                            "tokenSum": 148,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 963,
+                    "tokenSum": 1756,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1006,
+            "tokenSum": 1885,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2001/14/enacted?view=plain",
+    "title": "Rating (Former Agricultural Premises and Rural Shops) Act 2001",
+    "longtitle": "An Act to make provision about non-domestic rating in respect of hereditaments including land or buildings which were formerly agricultural and in respect of food stores in rural settlements.",
+    "date": "[11th May 2001]",
+    "wordSum": 1006,
+    "tokenSum": 1886,
+    "tokenCount": 0,
+    "totalTokens": 1886
+}

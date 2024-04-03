@@ -1,0 +1,970 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2019/13/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Northern Ireland (Regional Rates and Energy) Act 2019",
+                    "tokenCum": 60,
+                    "wordSum": 8,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2019 CHAPTER 13",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the regional rate in Northern Ireland for theyear ending 31 March 2020; and amend the Renewable Heat Incentive SchemeRegulations (Northern Ireland) 2012.",
+                            "tokenCum": 123,
+                            "wordSum": 28,
+                            "tokenSum": 55,
+                            "tokenCount": 55
+                        }
+                    ],
+                    "wordSum": 31,
+                    "tokenSum": 65,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2019]",
+                    "tokenCum": 134,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 191,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Regional rates",
+                            "tokenCum": 193,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Regional rates",
+                                    "tokenCum": 195,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies in respect of the year ending 31 March 2020.",
+                                            "tokenCum": 214,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The regional rate to be levied on the rateable net annual values ofhereditaments is to be 34.01 pence in the pound.",
+                                            "tokenCum": 248,
+                                            "wordSum": 21,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The regional rate to be levied on the rateable capital values ofhereditaments is to be 0.4574 pence in the pound.",
+                                            "tokenCum": 282,
+                                            "wordSum": 20,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A rate specified in subsection (2) or (3) may be varied by an order made bythe Department under Article 7(1) of the Rates Order.",
+                                            "tokenCum": 318,
+                                            "wordSum": 24,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An order made by virtue of subsection (4)\u2014",
+                                            "tokenCum": 330,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may be made only after the first occasion on which all the Ministerialoffices are filled after the passing of this Act, but",
+                                                    "tokenCum": 356,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may set the rate in respect of the whole of the year for which it is made.",
+                                                    "tokenCum": 374,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 67,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 378,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Ministerial offices\u201d means\u2014 ",
+                                                    "tokenCum": 389,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the offices of First Minister and deputy First Minister, and",
+                                                    "tokenCum": 389,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Ministerial offices to be held by Northern Ireland Ministers (within themeaning of the Northern Ireland Act 1998);",
+                                                    "tokenCum": 401,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe Rates Order\u201d means the Rates (Northern Ireland) Order 1977 ([S.I. 1977/2157 (N.I. 28))](/id/nisi/1977/2157?view=plain \"Go to item of legislation\"); ",
+                                                            "tokenCum": 506,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 81,
+                                                            "tokenCount": 81
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and any expression used in this section and in the Rates Order has the meaninggiven by that Order.",
+                                                            "tokenCum": 528,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 56,
+                                                    "tokenSum": 141,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 179,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 200,
+                                    "tokenSum": 385,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 202,
+                            "tokenSum": 388,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Renewable heat incentive scheme",
+                            "tokenCum": 536,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Introductory ",
+                                    "tokenCum": 541,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012([S.R. (NI) 2012 No. 396](/id/nisr/2012/396?view=plain \"Go to item oflegislation\")) (\u201cthe 2012 Regulations\u201d) are amended in accordance withsections 3 and 4.",
+                                            "tokenCum": 637,
+                                            "wordSum": 28,
+                                            "tokenSum": 99,
+                                            "tokenCount": 99
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Nothing in those sections affects the power to make regulations undersection 113 of the Energy Act 2011 amending or revoking any provision amendedor inserted by those sections.",
+                                            "tokenCum": 679,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 151,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Tariffs for periodic support payments",
+                                    "tokenCum": 686,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In regulation 36(3) for \u201c(7B)\u201d substitute \u201c(7C)\u201d.",
+                                            "tokenCum": 709,
+                                            "wordSum": 7,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In regulation 36(5)\u2014",
+                                            "tokenCum": 719,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for \u201c(7B)\u201d substitute \u201c(7C)\u201d;",
+                                                    "tokenCum": 734,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for \u201cor 4\u201d substitute \u201c, 4 or 5\u201d.",
+                                                    "tokenCum": 749,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 15,
+                                            "tokenSum": 51,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In regulation 36(6) for \u201c(7B)\u201d substitute \u201c(7C)\u201d.",
+                                            "tokenCum": 772,
+                                            "wordSum": 7,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In regulation 36(7) after \u201c(7B)\u201d insert \u201cor (7C)\u201d.",
+                                            "tokenCum": 796,
+                                            "wordSum": 8,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In regulation 36(7A) after \u201caccredited on or after 18th November 2015\u201dinsert \u201c, other than installations to which paragraph (7C) applies\u201d.",
+                                            "tokenCum": 841,
+                                            "wordSum": 20,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In regulation 36 after paragraph (7B) insert\u2014",
+                                            "tokenCum": 855,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(7C)The tariffs for installations (whether accredited before or after thecoming into operation of section 3 of the Northern Ireland (Regional Rates andEnergy) Act 2019) falling within the small or medium biomass tariffs set outin Schedule 5\u2014",
+                                                    "tokenCum": 923,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 72,
+                                                    "tokenCount": 72
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the period beginning with 1st April 2019 and ending with 31st March2020, are the tariffs set out in Schedule 5;",
+                                                    "tokenCum": 962,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for each subsequent year commencing with 1st April and ending with the next31st March, are the tariffs applicable on the immediately preceding 31st Marchadjusted by the percentage increase or decrease in the consumer prices indexfor the previous calendar year (the resulting figure being rounded to thetenth of a penny, with any twentieth of a penny being rounded upwards).",
+                                                    "tokenCum": 1045,
+                                                    "wordSum": 58,
+                                                    "tokenSum": 87,
+                                                    "tokenCount": 87
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(7D)For the purposes of paragraph (7C) \u201cthe consumer prices index\u201d means\u2014",
+                                                    "tokenCum": 1066,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the consumer prices index calculated and published by the Office forNational Statistics; or",
+                                                    "tokenCum": 1081,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where the index is not published for a year, any substituted index orfigures published by that Office.\u201d",
+                                                    "tokenCum": 1104,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 163,
+                                            "tokenSum": 290,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In regulation 36(8) for \u201c(7B)\u201d substitute \u201c(7C)\u201d.",
+                                            "tokenCum": 1127,
+                                            "wordSum": 7,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In regulation 36(9A) after \u201cset out in Schedule 3A\u201d insert \u201cand the tarifffor the installation falls to be determined for the period mentioned inparagraph (7B)\u201d.",
+                                            "tokenCum": 1173,
+                                            "wordSum": 25,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In regulation 36 after paragraph (9A) insert\u2014",
+                                            "tokenCum": 1187,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(9B)Where an accredited RHI installation falls within the small biomasstariff set out in Schedule 5\u2014",
+                                            "tokenCum": 1216,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the tariff for the initial heat generated by the installation in any 12month period commencing with, or with the anniversary of, the date ofaccreditation (regardless of whether that date falls before or after thecoming into operation of section 3 of the Northern Ireland (Regional Rates andEnergy) Act 2019) is the Tier 1 tariff specified in Schedule 5;",
+                                                    "tokenCum": 1306,
+                                                    "wordSum": 57,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the tariff for further heat generated in that same 12 month period is therelevant Tier 2 tariff specified in Schedule 5.",
+                                                    "tokenCum": 1336,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(9C)Where an accredited RHI installation falls within either of the mediumbiomass tariffs set out in Schedule 5\u2014",
+                                                    "tokenCum": 1367,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the tariff for the initial heat generated by the installation in any 12month period commencing with, or with the anniversary of, the date ofaccreditation (regardless of whether that date falls before or after thecoming into operation of section 3 of the Northern Ireland (Regional Rates andEnergy) Act 2019) is the relevant tariff specified in Schedule 5; and",
+                                                    "tokenCum": 1456,
+                                                    "wordSum": 57,
+                                                    "tokenSum": 93,
+                                                    "tokenCount": 93
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any further heat generated in that same 12 month period shall not beeligible for periodic payments.\u201d",
+                                                    "tokenCum": 1479,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 183,
+                                            "tokenSum": 315,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In regulation 36(10) for \u201cand (9A)\u201d substitute \u201cto (9C)\u201d.",
+                                            "tokenCum": 1505,
+                                            "wordSum": 9,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "In Schedules 3 and 4 omit the entries relating to small and medium biomassinstallations.",
+                                            "tokenCum": 1530,
+                                            "wordSum": 14,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "After Schedule 4 insert the Schedule set out in the Schedule to this Act.",
+                                            "tokenCum": 1549,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(13)",
+                                            "text": "Nothing in this section has effect in relation to periodic supportpayments (within the meaning of the 2012 Regulations) for heat generatedbefore this section comes into force.",
+                                            "tokenCum": 1587,
+                                            "wordSum": 26,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 510,
+                                    "tokenSum": 1004,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Voluntary buy-out arrangements",
+                                    "tokenCum": 1595,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After regulation 23A insert\u2014",
+                                            "tokenCum": 1604,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c23BVoluntary buy-out arrangements",
+                                            "tokenCum": 1616,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The powers conferred by paragraph (2) may only be exercised in the periodwhile there is no Executive.",
+                                                    "tokenCum": 1639,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Department may, in respect of the financial year beginning with 1stApril 2019 and each of the two financial years immediately following, prepareand publish in such manner as it thinks appropriate arrangements (\u201cbuy-outarrangements\u201d) which\u2014",
+                                                    "tokenCum": 1696,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "enable a participant to apply in writing to the Department to receive apayment (\u201ca buy-out payment\u201d) in respect of an accredited RHI installation;",
+                                                            "tokenCum": 1732,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "set out the method by which the Department is to determine\u2014",
+                                                            "tokenCum": 1744,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "whether a participant qualifies for a buy-out payment in respect of anaccredited RHI installation; and",
+                                                            "tokenCum": 1768,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "if the participant does qualify, the amount of that payment;",
+                                                            "tokenCum": 1782,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "where the Department determines that a participant does not qualify for abuy-out payment, require the Department to serve a notice on the participantstating that fact and setting out how the Department made that determination;",
+                                                            "tokenCum": 1828,
+                                                            "wordSum": 34,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "where the Department determines that a participant qualifies for a buy-outpayment, require the Department to serve on the participant a notice (\u201ca buy-out offer\u201d) setting out\u2014",
+                                                            "tokenCum": 1869,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "the proposed amount of that payment,",
+                                                            "tokenCum": 1876,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "how that payment is calculated, and",
+                                                            "tokenCum": 1883,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "the effect of paragraph (5);",
+                                                            "tokenCum": 1890,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "enable the participant to serve a notice on the Department accepting orrejecting the buy-out offer; and",
+                                                            "tokenCum": 1913,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(f)",
+                                                            "text": "require the Department, subject to paragraph (4)(b), to make to aparticipant the buy-out payment proposed in a buy-out offer which has beenaccepted by the participant.",
+                                                            "tokenCum": 1953,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        }
+                                                    ],
+                                                    "wordSum": 211,
+                                                    "tokenSum": 373,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The method referred to in paragraph (2)(b)\u2014",
+                                                    "tokenCum": 1965,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "must be such as to take into account the amount of periodic supportpayments previously received by the participant in respect of the accreditedRHI installation; and",
+                                                            "tokenCum": 1998,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "may accordingly be such that the participant does not qualify for a buy-outpayment.",
+                                                            "tokenCum": 2017,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 45,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The buy-out arrangements may contain such other provisions as appear to theDepartment to be necessary or expedient for the proper administration of thearrangements, including provisions\u2014",
+                                                    "tokenCum": 2056,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "setting out the times at which, or the periods within which, the stepsmentioned in paragraph (2) must be taken by a participant or, as the case maybe, the Department;",
+                                                            "tokenCum": 2095,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "preventing a buy-out payment being made to a participant at any time whenperiodic support payments to the participant are being withheld or reducedunder Part 7 or are suspended under that Part;",
+                                                            "tokenCum": 2140,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 50,
+                                                            "tokenCount": 50
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "for the Department to suspend periodic support payments in respect of anaccredited RHI installation while an application in respect of thatinstallation is being dealt with under the arrangements;",
+                                                            "tokenCum": 2179,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "applying provisions of these regulations relating to the scheme to thearrangements (with or without modifications).",
+                                                            "tokenCum": 2202,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        }
+                                                    ],
+                                                    "wordSum": 128,
+                                                    "tokenSum": 209,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Where in accordance with the buy-out arrangements, the Department makes abuy-out payment to a participant in respect of an accredited RHI installation,the installation ceases from the date of the payment to be an accredited RHIinstallation.",
+                                                    "tokenCum": 2258,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In paragraph (1) \u201cthe period while there is no Executive\u201d means the period\u2014",
+                                                    "tokenCum": 2276,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "beginning with the coming into operation of section 4 of the NorthernIreland (Regional Rates and Energy) Act 2019; and",
+                                                            "tokenCum": 2307,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "ending on the next occasion when the offices of all of the Northern IrelandMinisters (including those of the First Minister and the deputy FirstMinister) are filled.\u201d",
+                                                            "tokenCum": 2342,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        }
+                                                    ],
+                                                    "wordSum": 58,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 497,
+                                            "tokenSum": 860,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 504,
+                                    "tokenSum": 882,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Duty to report on operation of buy-out arrangements",
+                                    "tokenCum": 2355,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Department must, after the end of each financial year for which buy-outarrangements are published by it, prepare a report on the operation of thearrangements in that year.",
+                                            "tokenCum": 2394,
+                                            "wordSum": 28,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A report under this section in respect of a financial year must, inparticular, set out\u2014",
+                                            "tokenCum": 2414,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the number of participants who have received a buy-out payment in thatyear, and",
+                                                    "tokenCum": 2431,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the total amount of the buy-out payments made by the Department in thatyear.",
+                                                    "tokenCum": 2449,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 66,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In the period while there is no Executive\u2014",
+                                            "tokenCum": 2458,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Department must send a report under this section to the Secretary ofState, and",
+                                                    "tokenCum": 2474,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Secretary of State must lay the report before Parliament.",
+                                                    "tokenCum": 2485,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 47,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "At any other time, the Department must lay a report under this sectionbefore the Northern Ireland Assembly.",
+                                            "tokenCum": 2505,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cthe Department\u201d, \u201cbuy-out arrangements\u201d, \u201cbuy-out payment\u201dand \u201cthe period while there is no Executive\u201d have the same meaning as inregulation 23B of the 2012 Regulations (inserted by section 4).",
+                                            "tokenCum": 2566,
+                                            "wordSum": 31,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 157,
+                                    "tokenSum": 257,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 1231,
+                            "tokenSum": 2303,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provisions",
+                            "tokenCum": 2569,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Commencement ",
+                                    "tokenCum": 2573,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section and sections 1 and 7 come into force on the day on which thisAct is passed.",
+                                            "tokenCum": 2595,
+                                            "wordSum": 18,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 2 and 3 and the Schedule come into force on 1 April 2019.",
+                                            "tokenCum": 2619,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Sections 4 and 5 come into force at the end of the period of 2 monthsbeginning with the day on which this Act is passed.",
+                                            "tokenCum": 2651,
+                                            "wordSum": 25,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 93,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Extent and short title",
+                                    "tokenCum": 2656,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to Northern Ireland only.",
+                                            "tokenCum": 2664,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act may be cited as the Northern Ireland (Regional Rates and Energy)Act 2019.",
+                                            "tokenCum": 2689,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "Section 3",
+                                                    "tokenCum": 2692,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 16,
+                                            "tokenSum": 35,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 27,
+                                    "tokenSum": 53,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 87,
+                            "tokenSum": 150,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 1556,
+                    "tokenSum": 2899,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1599,
+            "tokenSum": 3038,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2019/13/enacted?view=plain",
+    "title": "Northern Ireland (Regional Rates and Energy) Act 2019",
+    "longtitle": "An Act to make provision about the regional rate in Northern Ireland for the year ending 31 March 2020; and amend the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012.",
+    "date": "[26th March 2019]",
+    "wordSum": 1599,
+    "tokenSum": 3039,
+    "tokenCount": 0,
+    "totalTokens": 3039
+}

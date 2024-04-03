@@ -1,0 +1,1374 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2010/22/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Debt Relief (Developing Countries) Act 2010",
+                    "tokenCum": 60,
+                    "wordSum": 6,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2010 CHAPTER 22",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "Make provision for or in connection with the relief of debts of certaindeveloping countries.",
+                            "tokenCum": 87,
+                            "wordSum": 14,
+                            "tokenSum": 19,
+                            "tokenCount": 19
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 29,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th April 2010]",
+                    "tokenCum": 97,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 154,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Introduction",
+                            "tokenCum": 155,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Meaning of \u201cqualifying debt\u201d etc",
+                                    "tokenCum": 165,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies for the purposes of this Act.",
+                                            "tokenCum": 175,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cThe Initiative\u201d means the enhanced Heavily Indebted Poor CountriesInitiative of the International Monetary Fund and the World Bank.",
+                                            "tokenCum": 210,
+                                            "wordSum": 18,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cQualifying debt\u201d means a debt incurred before commencement that\u2014",
+                                            "tokenCum": 229,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is public or publicly guaranteed,",
+                                                    "tokenCum": 236,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is external,",
+                                                    "tokenCum": 239,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "is a debt of a country to which the Initiative applies or a potentiallyeligible Initiative country, and",
+                                                    "tokenCum": 265,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "in the case of a debt of a country to which the Initiative applies, isincurred before decision point is reached in respect of the country.",
+                                                    "tokenCum": 298,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 107,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (3) treat a debt incurred after commencementas incurred before commencement if (and so far as) it replaces one incurredbefore commencement.",
+                                            "tokenCum": 345,
+                                            "wordSum": 25,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of subsection (3)(d) treat a debt incurred after decisionpoint as incurred before decision point if (and so far as) it replaces oneincurred before decision point.",
+                                            "tokenCum": 391,
+                                            "wordSum": 28,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "\u201cPotentially eligible Initiative country\u201d means a country\u2014",
+                                            "tokenCum": 407,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "that the International Monetary Fund and World Bank identify as potentiallyeligible for debt relief under the Initiative, and",
+                                                    "tokenCum": 434,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in respect of which decision point has not been reached.",
+                                                    "tokenCum": 445,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 65,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Decision point is regarded as reached in respect of a country if it is soregarded for the purposes of the Initiative.",
+                                            "tokenCum": 472,
+                                            "wordSum": 21,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "For the meaning of other expressions used in subsection (3), see section 2.",
+                                            "tokenCum": 490,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "\u201cCountry\u201d includes a territory.",
+                                            "tokenCum": 497,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "\u201cCommencement\u201d means the commencement of this Act.",
+                                            "tokenCum": 511,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "If the terms of the Initiative are amended after commencement in such away as to change a relevant eligibility condition, this Act has effect as ifthey had not been so amended.",
+                                            "tokenCum": 553,
+                                            "wordSum": 31,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "In subsection (11) \u201crelevant eligibility condition\u201d means a condition asto the level of a country\u2019s income or debt or the size of its economy thatmust be met in order for the country to be eligible for debt relief under theInitiative.",
+                                            "tokenCum": 614,
+                                            "wordSum": 40,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 294,
+                                    "tokenSum": 521,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Qualifying debts: further definitions",
+                                    "tokenCum": 621,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The expressions used in section 1(3) have the meaning given below.",
+                                            "tokenCum": 637,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cDebt\u201d includes\u2014",
+                                            "tokenCum": 643,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a liability that falls to be discharged otherwise than by the making of apayment,",
+                                                    "tokenCum": 663,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an obligation to repurchase property that arises under an agreement for thesale and repurchase of property (whether or not the same property), and",
+                                                    "tokenCum": 695,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a liability of the lessee under a finance lease (except a liability so faras relating to the operation or maintenance of property subject to the lease).",
+                                                    "tokenCum": 731,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 109,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cDebt\u201d does not include\u2014",
+                                            "tokenCum": 739,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a liability to pay for goods or services that arose on the delivery of thegoods or the provision of services,",
+                                                    "tokenCum": 763,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a liability that falls to be discharged in less than a year from the timeit was incurred (\u201ca short-term debt\u201d) unless the short-term debt is withinsubsection (4), or",
+                                                    "tokenCum": 812,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a liability incurred after commencement that replaces anything that was (atthe time of the replacement) within paragraph (a) or (b).",
+                                                    "tokenCum": 845,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 72,
+                                            "tokenSum": 129,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A short-term debt is within this subsection if it ought to have beendischarged\u2014",
+                                            "tokenCum": 867,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "more than a year before commencement, and",
+                                                    "tokenCum": 877,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "(where decision point has been reached in respect of the country concerned)more than a year before decision point.",
+                                                    "tokenCum": 899,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 65,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A debt is a \u201cpublic\u201d debt of a country if it was incurred by\u2014",
+                                            "tokenCum": 920,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the country or any part of it (or the government of the country or any partof the country or any department of any such government),",
+                                                    "tokenCum": 948,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the central bank or other monetary authority of the country, or",
+                                                    "tokenCum": 962,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a body corporate controlled (directly or indirectly) by anything withinparagraph (a) or (b).",
+                                                    "tokenCum": 985,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 101,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In subsection (5)(a) references to part of a country include anymunicipality or other local government area in the country.",
+                                            "tokenCum": 1013,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A debt is a \u201cpublicly guaranteed\u201d debt of a country if\u2014",
+                                            "tokenCum": 1030,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it is guaranteed,",
+                                                    "tokenCum": 1034,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the guarantee was entered into\u2014",
+                                                    "tokenCum": 1040,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "before commencement, and",
+                                                    "tokenCum": 1046,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "where decision point has been reached in respect of the country, beforethat point was reached, and",
+                                                    "tokenCum": 1067,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the debt would be a public debt of the country if it had been incurred bythe guarantor.",
+                                                    "tokenCum": 1093,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 103,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "If the conditions in subsection (7)(a) to (c) are met as regards part of adebt, that part is regarded as a publicly guaranteed debt of the countryconcerned.",
+                                            "tokenCum": 1136,
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "A public or publicly guaranteed debt of a country is \u201cexternal\u201d unless thecreditor was resident in the country\u2014",
+                                            "tokenCum": 1161,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if decision point was reached in respect of the country beforecommencement, at the time that point was reached, or",
+                                                    "tokenCum": 1185,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "otherwise, at commencement.",
+                                                    "tokenCum": 1192,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 67,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "If in any proceedings there is an issue as to whether a debt is aqualifying debt, treat the debt as external unless it is proved in thoseproceedings that it is not external.",
+                                            "tokenCum": 1235,
+                                            "wordSum": 32,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 426,
+                                    "tokenSum": 725,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 721,
+                            "tokenSum": 1248,
+                            "tokenCount": 1
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Relief of debts etc",
+                            "tokenCum": 1241,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Amount recoverable in respect of claim for qualifying debt etc",
+                                    "tokenCum": 1255,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The amount recoverable in respect of\u2014",
+                                            "tokenCum": 1263,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a qualifying debt, or",
+                                                    "tokenCum": 1270,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any cause of action relating to a qualifying debt,",
+                                                    "tokenCum": 1283,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "is the relevant proportion of the amount that would otherwise be recoverablein respect of the qualifying debt or cause of action.",
+                                                            "tokenCum": 1309,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 70,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the meaning of \u201cthe relevant proportion\u201d, see section 4.",
+                                            "tokenCum": 1323,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (1) does not apply in relation to an agreement (a \u201ccompromiseagreement\u201d) that compromises\u2014",
+                                            "tokenCum": 1351,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a claim for a qualifying debt, or",
+                                                    "tokenCum": 1361,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a claim in respect of a cause of action relating to a qualifying debt.",
+                                                    "tokenCum": 1379,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 67,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But the amount recoverable under a compromise agreement is limited to theamount that would be recoverable in respect of the claim if the agreement hadnot been made (and subsection (1) applied to the claim).",
+                                            "tokenCum": 1423,
+                                            "wordSum": 34,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (1) does not apply where an agreement that is not a compromiseagreement (a \u201crefinancing agreement\u201d) has been made\u2014",
+                                            "tokenCum": 1456,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "that changes the terms for repayment of a debt (\u201cthe rescheduled debt\u201d) insuch a way as to reduce its net present value, or",
+                                                    "tokenCum": 1491,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by virtue of which a debt (\u201cthe original debt\u201d) is replaced by a debt (\u201cthenew debt\u201d) whose net present value is less than the net present value of theoriginal debt.",
+                                                    "tokenCum": 1537,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 72,
+                                            "tokenSum": 125,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "But the amount recoverable in respect of the rescheduled debt or the newdebt is limited to the amount that would be recoverable in respect of theinitial debt if the refinancing agreement had not been made (and subsection(1) applied to that debt).",
+                                            "tokenCum": 1596,
+                                            "wordSum": 41,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In subsection (6) \u201cthe initial debt\u201d means the debt mentioned in subsection(5)(a) or (as the case may be) the original debt.",
+                                            "tokenCum": 1634,
+                                            "wordSum": 21,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "References in this section to the amount recoverable include the amountrecoverable on the enforcement of any security.",
+                                            "tokenCum": 1657,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "This section applies even if the law applicable to the qualifying debt, orto any compromise agreement, refinancing agreement or security, is the law ofa country outside the United Kingdom.",
+                                            "tokenCum": 1697,
+                                            "wordSum": 29,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 309,
+                                    "tokenSum": 514,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Meaning of \u201cthe relevant proportion\u201d",
+                                    "tokenCum": 1705,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act any reference to the relevant proportion, in relation to aqualifying debt, is to be read as follows.",
+                                            "tokenCum": 1731,
+                                            "wordSum": 20,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where the qualifying debt is one to which the Initiative applies, therelevant proportion is\u2014",
+                                            "tokenCum": 1752,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "[![](/ukpga/2010/22/images/ukpga_20100022_en_001)](/ukpga/2010/22/images/ukpga_20100022_en_001?view=plain)",
+                                                    "tokenCum": 1826,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 78,
+                                                    "tokenCount": 78
+                                                }
+                                            ],
+                                            "wordSum": 15,
+                                            "tokenSum": 102,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "where\u2014",
+                                            "tokenCum": 1828,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * A is the amount the debt would be if it were reduced in accordance with the Initiative (on the assumption, if it is not the case, that completion point has been reached, for the purposes of the Initiative, in respect of the country whose debt it is), and ",
+                                                    "tokenCum": 1892,
+                                                    "wordSum": 49,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 68
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * B is the amount of the debt without it having been so reduced. ",
+                                                    "tokenCum": 1910,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 95,
+                                            "tokenCount": 4
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where the qualifying debt is a debt of a potentially eligible Initiativecountry, the relevant proportion is 33%.",
+                                            "tokenCum": 1939,
+                                            "wordSum": 17,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 121,
+                                    "tokenSum": 268,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Judgments for qualifying debts etc",
+                                    "tokenCum": 1948,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to\u2014",
+                                            "tokenCum": 1953,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a judgment on a relevant claim given by a court in the United Kingdombefore commencement,",
+                                                    "tokenCum": 1972,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a foreign judgment given (whether before or after commencement) on arelevant claim, and",
+                                                    "tokenCum": 1992,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an award made (whether before or after commencement) on a relevant claim inan arbitration (conducted under any laws).",
+                                                    "tokenCum": 2021,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 88,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cRelevant claim\u201d means\u2014",
+                                            "tokenCum": 2028,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a claim for, or relating to, a qualifying debt, or",
+                                                    "tokenCum": 2044,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a claim under an agreement compromising a claim within paragraph (a).",
+                                                    "tokenCum": 2058,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 48,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The amount of the judgment or award is to be treated as equal to the amountit would be if the court, tribunal or arbitrator had applied section 3 inrelation to the relevant claim.",
+                                            "tokenCum": 2098,
+                                            "wordSum": 33,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (3) does not apply in relation to a claim if the effect of it soapplying would be to increase the amount of the judgment or award.",
+                                            "tokenCum": 2131,
+                                            "wordSum": 27,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2135,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cjudgment\u201d includes an order (and references to the giving of a judgment are to be read accordingly), and ",
+                                                    "tokenCum": 2161,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cforeign judgment\u201d means a judgment (however described) of a court or tribunal of a country outside the United Kingdom, and includes anything (other than an arbitration award) which is enforceable as if it were such a judgment. ",
+                                                    "tokenCum": 2215,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 95,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This section applies to anything that gives effect to a compromise of arelevant claim as if in subsection (3) after \u201cif\u201d there were inserted \u201ctherelevant claim had not been compromised and\u201d.",
+                                            "tokenCum": 2257,
+                                            "wordSum": 31,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 230,
+                                    "tokenSum": 366,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 664,
+                            "tokenSum": 1155,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary and general",
+                            "tokenCum": 2262,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Exception where debtor fails to make offer to pay recoverable amount",
+                                    "tokenCum": 2275,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act does not apply to a relevant claim, a relevant foreign judgment ora relevant arbitration award if\u2014",
+                                            "tokenCum": 2296,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "proceedings are brought in respect of the relevant claim, foreign judgmentor arbitration award, and",
+                                                    "tokenCum": 2315,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the debtor does not, before the relevant time, make an offer to compromisethe proceedings on comparable Initiative terms.",
+                                                    "tokenCum": 2343,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 79,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of this section an offer is made on \u201ccomparable Initiativeterms\u201d if the net present value of payments to be made in accordance with theoffer is equal to or exceeds the net present value of the payment required tosatisfy the relevant claim, foreign judgment or arbitration award (reduced inaccordance with this Act).",
+                                            "tokenCum": 2422,
+                                            "wordSum": 54,
+                                            "tokenSum": 82,
+                                            "tokenCount": 82
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2426,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cforeign judgment\u201d has the meaning given by section 5(5), ",
+                                                    "tokenCum": 2445,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cjudgment\u201d includes an order, ",
+                                                    "tokenCum": 2456,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cproceedings\u201d means proceedings in a part of the United Kingdom, and includes proceedings for\u2014 ",
+                                                    "tokenCum": 2481,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the registration of a foreign judgment or an arbitration award, or",
+                                                    "tokenCum": 2481,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "permission to enforce an arbitration award in the same manner as a judgment ofthe court,",
+                                                    "tokenCum": 2494,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "but does not include proceedings for the enforcement of a judgment or award,",
+                                                            "tokenCum": 2529,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crelevant arbitration award\u201d means an award within section 5(1)(c), ",
+                                                            "tokenCum": 2551,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crelevant claim\u201d has the meaning given by section 5(2), ",
+                                                            "tokenCum": 2570,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crelevant foreign judgment\u201d means a foreign judgment within section 5(1)(b), and ",
+                                                            "tokenCum": 2593,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe relevant time\u201d means\u2014 ",
+                                                            "tokenCum": 2603,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 65,
+                                                    "tokenSum": 138,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the time when a court first gives judgment on the relevant claim,",
+                                                    "tokenCum": 2603,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the time when the foreign judgment or arbitration award is registered, or (asthe case may be)",
+                                                    "tokenCum": 2616,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the time when permission is given to enforce the arbitration award in the samemanner as a judgment of the court.",
+                                                    "tokenCum": 2637,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 157,
+                                            "tokenSum": 300,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section applies to cases where the proceedings were brought beforecommencement (as well as cases where they are brought after commencement), butnot to cases where the relevant time occurred before commencement.",
+                                            "tokenCum": 2705,
+                                            "wordSum": 31,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 303,
+                                    "tokenSum": 522,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Exception for overriding EU or international obligations",
+                                    "tokenCum": 2714,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Nothing in this Act applies to a foreign judgment or an arbitration awardof a kind required by European Union law, or by an international obligation ofthe United Kingdom, to be enforced in full even in cases where suchenforcement is contrary to the public policy of the United Kingdom.",
+                                            "tokenCum": 2773,
+                                            "wordSum": 48,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Accordingly, this Act does not apply to\u2014",
+                                            "tokenCum": 2783,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a foreign judgment that is certified as a European Enforcement Order(within the meaning of [Regulation (EU) No.805/2004](/european/regulation/2004/0805?view=plain \"Go to item oflegislation\") of the European Parliament and of the Council),",
+                                                    "tokenCum": 2859,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a foreign judgment that is an enforceable European Order for Payment(within the meaning of [Regulation (EU) No.1896/2006](/european/regulation/2006/1896?view=plain \"Go to item oflegislation\") of the European Parliament and of the Council), or",
+                                                    "tokenCum": 2937,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 82
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an award to which section 1 of the Arbitration (International InvestmentDisputes) Act 1966 applies (awards made under the Convention on the settlementof investment disputes between States and nationals of other States).",
+                                                    "tokenCum": 2990,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                }
+                                            ],
+                                            "wordSum": 97,
+                                            "tokenSum": 232,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cForeign judgment\u201d has the meaning given by section 5(5).",
+                                            "tokenCum": 3005,
+                                            "wordSum": 9,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 161,
+                                    "tokenSum": 323,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Saving ",
+                                    "tokenCum": 3008,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Nothing in this Act enables a person to recover anything paid in (total orpartial) satisfaction of any liability (whether arising under an agreement,judgment, order, award or otherwise).",
+                                            "tokenCum": 3048,
+                                            "wordSum": 27,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 48,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Duration of Act",
+                                    "tokenCum": 3052,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act expires at the end of the period of one year beginning withcommencement; but this is subject to subsections (2) and (3).",
+                                            "tokenCum": 3085,
+                                            "wordSum": 23,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Treasury may by order provide that this Act (instead of expiring at thetime it would otherwise expire) expires at the end of the period of one yearfrom that time.",
+                                            "tokenCum": 3126,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Treasury may by order provide that this Act has permanent effect.",
+                                            "tokenCum": 3141,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under this section is to be made by statutory instrument.",
+                                            "tokenCum": 3156,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An order under this section may be made only if a draft of the statutoryinstrument containing it has been laid before, and approved by a resolutionof, each House of Parliament.",
+                                            "tokenCum": 3194,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If this Act expires by virtue of this section\u2014",
+                                            "tokenCum": 3205,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Act is to be treated as never having been in force, and",
+                                                    "tokenCum": 3219,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "accordingly, where\u2014",
+                                                    "tokenCum": 3223,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "a judgment was given, or order or arbitration award made, on a relevantclaim (as defined by section 5(2)) while the Act was in force, and",
+                                                    "tokenCum": 3259,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the amount of the judgment, order or award is, as a result of section 3,less than it would be if that section had not applied in relation to theclaim,",
+                                                    "tokenCum": 3296,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the amount of the judgment, order or award is to be treated as equal to theamount it would be if the section had not applied in relation to the claim.",
+                                                            "tokenCum": 3329,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        }
+                                                    ],
+                                                    "wordSum": 59,
+                                                    "tokenSum": 79,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 108,
+                                            "tokenSum": 159,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 218,
+                                    "tokenSum": 322,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Commencement, extent and short title",
+                                    "tokenCum": 3337,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act comes into force at the end of the period of two months beginningwith the day on which it is passed.",
+                                            "tokenCum": 3361,
+                                            "wordSum": 22,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act extends to each part of the United Kingdom.",
+                                            "tokenCum": 3372,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Debt Relief (Developing Countries) Act 2010.",
+                                            "tokenCum": 3397,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 3397,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 32,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 50,
+                                    "tokenSum": 83,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 763,
+                            "tokenSum": 1304,
+                            "tokenCount": 5
+                        }
+                    ],
+                    "wordSum": 2184,
+                    "tokenSum": 3765,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2211,
+            "tokenSum": 3867,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2010/22/enacted?view=plain",
+    "title": "Debt Relief (Developing Countries) Act 2010",
+    "longtitle": "Make provision for or in connection with the relief of debts of certain developing countries.",
+    "date": "[8th April 2010]",
+    "wordSum": 2211,
+    "tokenSum": 3868,
+    "tokenCount": 0,
+    "totalTokens": 3868
+}

@@ -1,0 +1,956 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2019/18/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Mental Capacity (Amendment) Act 2019",
+                    "tokenCum": 59,
+                    "wordSum": 5,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2019 CHAPTER 18",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the Mental Capacity Act 2005 in relation to procedures inaccordance with which a person may be deprived of liberty where the personlacks capacity to consent; and for connected purposes.",
+                            "tokenCum": 117,
+                            "wordSum": 33,
+                            "tokenSum": 50,
+                            "tokenCount": 50
+                        }
+                    ],
+                    "wordSum": 36,
+                    "tokenSum": 60,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th May 2019]",
+                    "tokenCum": 128,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 185,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Safeguards",
+                            "tokenCum": 188,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Deprivation of liberty: authorisation of arrangements enabling care andtreatment",
+                                    "tokenCum": 206,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Mental Capacity Act 2005 is amended as follows.",
+                                            "tokenCum": 223,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 4A (restriction on deprivation of liberty) for subsection (5)substitute\u2014",
+                                            "tokenCum": 247,
+                                            "wordSum": 11,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(5)",
+                                            "text": "D may deprive P of liberty if, by doing so, D is carrying out arrangementsauthorised under Schedule AA1 (arrangements enabling the care and treatment ofpersons who lack capacity).\u201d",
+                                            "tokenCum": 291,
+                                            "wordSum": 28,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After section 4B insert\u2014",
+                                            "tokenCum": 298,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c4CCarrying out of authorised arrangements giving rise to deprivation ofliberty",
+                                            "tokenCum": 320,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies to an act that a person (\u201cD\u201d) does in carrying outarrangements authorised under Schedule AA1.",
+                                                    "tokenCum": 349,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "D does not incur any liability in relation to the act that would not havebeen incurred if the cared-for person\u2014",
+                                                    "tokenCum": 379,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "had had capacity to consent in relation to D doing the act, and",
+                                                            "tokenCum": 393,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "had consented to D doing the act.",
+                                                            "tokenCum": 402,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 40,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Nothing in this section excludes a person\u2019s civil liability for loss ordamage, or a person\u2019s criminal liability, resulting from that person\u2019snegligence in doing the act.",
+                                                    "tokenCum": 444,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Paragraph 31 of Schedule AA1 applies if an authorisation ceases to haveeffect in certain cases.",
+                                                    "tokenCum": 468,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "\u201cCared-for person\u201d has the meaning given by paragraph 2(1) of thatSchedule.\u201d",
+                                                    "tokenCum": 491,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Before Schedule 1 insert the Schedule AA1 set out in Schedule 1 to thisAct.",
+                                                    "tokenCum": 513,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 133,
+                                            "tokenSum": 252,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 194,
+                                    "tokenSum": 376,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Deprivation of liberty: authorisation of steps necessary for life-sustaining treatment or vital act",
+                                    "tokenCum": 534,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "For section 4B of the Mental Capacity Act 2005 substitute\u2014",
+                                            "tokenCum": 553,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c4BDeprivation of liberty necessary for life-sustaining treatment orvital act",
+                                            "tokenCum": 573,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "If Conditions 1 to 4 are met, D is authorised to take steps which deprive Pof liberty.",
+                                                    "tokenCum": 598,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Condition 1 is that the steps\u2014",
+                                                    "tokenCum": 607,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "are wholly or partly for the purpose of giving P life-sustaining treatmentor doing any vital act, or",
+                                                            "tokenCum": 631,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "consist wholly or partly of giving P life-sustaining treatment or doing anyvital act.",
+                                                            "tokenCum": 652,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A vital act is any act which the person doing it reasonably believes to benecessary to prevent a serious deterioration in P\u2019s condition.",
+                                                    "tokenCum": 686,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "Condition 2 is that the steps are necessary in order to give the life-sustaining treatment or do the vital act.",
+                                                    "tokenCum": 713,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Condition 3 is that D reasonably believes that P lacks capacity to consentto D taking the steps.",
+                                                    "tokenCum": 737,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Condition 4 is that\u2014",
+                                                    "tokenCum": 744,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "subsection (7) applies, or",
+                                                            "tokenCum": 752,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "there is an emergency.",
+                                                            "tokenCum": 758,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        }
+                                                    ],
+                                                    "wordSum": 12,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "This subsection applies if\u2014",
+                                                    "tokenCum": 764,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a decision relevant to whether D is authorised to deprive P of liberty isbeing sought from the court, or",
+                                                            "tokenCum": 788,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a responsible body is carrying out functions under Schedule AA1 with a viewto determining whether to authorise arrangements that give rise to adeprivation of P\u2019s liberty.",
+                                                            "tokenCum": 826,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        }
+                                                    ],
+                                                    "wordSum": 49,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "In subsection (7) it does not matter\u2014",
+                                                    "tokenCum": 837,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "whether the decision mentioned in paragraph (a) relates to the stepsmentioned in subsection (1);",
+                                                            "tokenCum": 859,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "whether the arrangements mentioned in paragraph (b) include those steps.",
+                                                            "tokenCum": 873,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "There is an emergency if D reasonably believes that\u2014",
+                                                    "tokenCum": 886,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "there is an urgent need to take the steps mentioned in subsection (1) inorder to give the life-sustaining treatment or do the vital act, and",
+                                                            "tokenCum": 921,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "it is not reasonably practicable before taking those steps\u2014",
+                                                            "tokenCum": 934,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "to make an application for P to be detained under Part 2 of the MentalHealth Act,",
+                                                            "tokenCum": 956,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "to make an application within subsection (7)(a), or",
+                                                            "tokenCum": 969,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(iii)",
+                                                            "text": "to secure that action within subsection (7)(b) is taken.\u201d",
+                                                            "tokenCum": 984,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 76,
+                                                    "tokenSum": 140,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 290,
+                                            "tokenSum": 535,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 313,
+                                    "tokenSum": 580,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Powers of the court to determine questions",
+                                    "tokenCum": 992,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 21 of the Mental Capacity Act 2005 insert\u2014",
+                                            "tokenCum": 1011,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cPowers of the court in relation to Schedule AA1",
+                                            "tokenCum": 1025,
+                                            "children": [
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 21",
+                                                    "text": "ZAPowers of court in relation to Schedule AA1",
+                                                    "tokenCum": 1038,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "This section applies where an authorisation under Schedule AA1\u2014",
+                                                            "tokenCum": 1051,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "has effect, or",
+                                                                    "tokenCum": 1055,
+                                                                    "wordSum": 3,
+                                                                    "tokenSum": 10,
+                                                                    "tokenCount": 10
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "is to have effect from a date specified under paragraph 28 of thatSchedule.",
+                                                                    "tokenCum": 1073,
+                                                                    "wordSum": 13,
+                                                                    "tokenSum": 24,
+                                                                    "tokenCount": 24
+                                                                }
+                                                            ],
+                                                            "wordSum": 25,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "The court may determine any question relating to\u2014",
+                                                            "tokenCum": 1083,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "whether Schedule AA1 applies to the arrangements, or whether theauthorisation conditions are met;",
+                                                                    "tokenCum": 1103,
+                                                                    "wordSum": 13,
+                                                                    "tokenSum": 26,
+                                                                    "tokenCount": 26
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "what period the authorisation has effect for;",
+                                                                    "tokenCum": 1112,
+                                                                    "wordSum": 7,
+                                                                    "tokenSum": 15,
+                                                                    "tokenCount": 15
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(c)",
+                                                                    "text": "what the authorisation relates to.",
+                                                                    "tokenCum": 1120,
+                                                                    "wordSum": 5,
+                                                                    "tokenSum": 14,
+                                                                    "tokenCount": 14
+                                                                }
+                                                            ],
+                                                            "wordSum": 33,
+                                                            "tokenSum": 70,
+                                                            "tokenCount": 14
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(3)",
+                                                            "text": "If the court determines a question under subsection (2), the court may makean order\u2014",
+                                                            "tokenCum": 1140,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "varying or terminating the authorisation;",
+                                                                    "tokenCum": 1148,
+                                                                    "wordSum": 5,
+                                                                    "tokenSum": 14,
+                                                                    "tokenCount": 14
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "directing the responsible body to vary the authorisation.",
+                                                                    "tokenCum": 1159,
+                                                                    "wordSum": 8,
+                                                                    "tokenSum": 17,
+                                                                    "tokenCount": 17
+                                                                }
+                                                            ],
+                                                            "wordSum": 27,
+                                                            "tokenSum": 56,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(4)",
+                                                            "text": "Where the court makes an order under subsection (3) the court may make anorder about a person\u2019s liability for anything done in carrying out thearrangements before the variation or termination.",
+                                                            "tokenCum": 1201,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(5)",
+                                                            "text": "An order under subsection (4) may, in particular, exclude a person fromliability.",
+                                                            "tokenCum": 1221,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(6)",
+                                                            "text": "\u201cAuthorisation conditions\u201d has the meaning given by paragraph 13 ofSchedule AA1.\u201d",
+                                                            "tokenCum": 1241,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 146,
+                                                    "tokenSum": 292,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 155,
+                                            "tokenSum": 309,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 172,
+                                    "tokenSum": 341,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 680,
+                            "tokenSum": 1301,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Code of practice etc",
+                            "tokenCum": 1245,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Deprivation of liberty: code of practice",
+                                    "tokenCum": 1254,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 42 of the Mental Capacity Act 2005 (codes of practice) is amendedas follows.",
+                                            "tokenCum": 1281,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After subsection (1) insert\u2014",
+                                            "tokenCum": 1289,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)Guidance about what kinds of arrangements for enabling the care ortreatment of a person fall within paragraph 2(1)(b) of Schedule AA1 must beincluded in the code, or one of the codes, issued under subsection (1).\u201d",
+                                                    "tokenCum": 1352,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 67
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 78,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (2) insert\u2014",
+                                            "tokenCum": 1360,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(2A)Before the end of each review period the Lord Chancellor must\u2014",
+                                            "tokenCum": 1379,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "review each code for the guidance of persons exercising functions underSchedule AA1, and",
+                                                    "tokenCum": 1398,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "lay a report of the review before Parliament.",
+                                                    "tokenCum": 1407,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "But this does not affect the Lord Chancellor\u2019s functions under subsection (2).",
+                                                    "tokenCum": 1426,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(2B)A review period is\u2014",
+                                                    "tokenCum": 1435,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to the first review, the period of 3 years beginning with theday on which this subsection comes into force, and",
+                                                    "tokenCum": 1462,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to subsequent reviews, each period of 5 years beginning withthe day on which the report of the previous review was laid beforeParliament.\u201d",
+                                                    "tokenCum": 1492,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 94,
+                                            "tokenSum": 159,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (3) after \u201cpreparation\u201d insert \u201c, review\u201d.",
+                                            "tokenCum": 1509,
+                                            "wordSum": 8,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 165,
+                                    "tokenSum": 309,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 169,
+                            "tokenSum": 314,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 1510,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Consequential provision etc",
+                                    "tokenCum": 1515,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations make provision that isconsequential on any provision made by this Act.",
+                                            "tokenCum": 1538,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 1544,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may make different provision for different purposes or areas;",
+                                                    "tokenCum": 1554,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may amend, repeal or revoke any provision made by or under an Act passedbefore this Act or in the same Session.",
+                                                    "tokenCum": 1581,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 54,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The power to make regulations under this section is exercisable bystatutory instrument.",
+                                            "tokenCum": 1600,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Regulations under this section that repeal or amend a provision of an Actmay not be made unless a draft of the statutory instrument containing them hasbeen laid before Parliament and approved by a resolution of each House ofParliament.",
+                                            "tokenCum": 1649,
+                                            "wordSum": 38,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Any other regulations under this section are subject to annulment inpursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 1676,
+                                            "wordSum": 19,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Schedule 2 makes minor and consequential amendments.",
+                                            "tokenCum": 1689,
+                                            "wordSum": 7,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 131,
+                                    "tokenSum": 207,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 1698,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 1707,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This section, and section 5 except subsection (6), come into force on theday this Act is passed.",
+                                            "tokenCum": 1731,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The other provisions of this Act come into force\u2014",
+                                            "tokenCum": 1742,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the purpose only of enabling the exercise of any power to makeregulations, on the day this Act is passed;",
+                                                    "tokenCum": 1768,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for all other purposes, on whatever day the Secretary of State appoints byregulations.",
+                                                    "tokenCum": 1786,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 66,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Different days may be appointed for different purposes or different areas.",
+                                            "tokenCum": 1799,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State may by regulations make transitional or savingprovision in connection with the coming into force of any provision of thisAct.",
+                                            "tokenCum": 1828,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Regulations under subsection (5) may make different provision for differentpurposes or different areas.",
+                                            "tokenCum": 1848,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The power to make regulations under this section is exercisable bystatutory instrument.",
+                                            "tokenCum": 1867,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "This Act may be cited as the Mental Capacity (Amendment) Act 2019.",
+                                            "tokenCum": 1891,
+                                            "wordSum": 12,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 143,
+                                    "tokenSum": 236,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 275,
+                            "tokenSum": 445,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1160,
+                    "tokenSum": 2118,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1205,
+            "tokenSum": 2251,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2019/18/enacted?view=plain",
+    "title": "Mental Capacity (Amendment) Act 2019",
+    "longtitle": "An Act to amend the Mental Capacity Act 2005 in relation to procedures in accordance with which a person may be deprived of liberty where the person lacks capacity to consent; and for connected purposes.",
+    "date": "[16th May 2019]",
+    "wordSum": 1205,
+    "tokenSum": 2252,
+    "tokenCount": 0,
+    "totalTokens": 2252
+}

@@ -1,0 +1,2823 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2006/29/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Compensation Act 2006",
+                    "tokenCum": 53,
+                    "wordSum": 3,
+                    "tokenSum": 10,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2006 CHAPTER 29",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to specify certain factors that may be taken into account by a courtdetermining a claim in negligence or breach of statutory duty; to makeprovision about damages for mesothelioma; and to make provision for theregulation of claims management services.",
+                            "tokenCum": 122,
+                            "wordSum": 40,
+                            "tokenSum": 61,
+                            "tokenCount": 61
+                        }
+                    ],
+                    "wordSum": 43,
+                    "tokenSum": 71,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[25th July 2006]",
+                    "tokenCum": 133,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 190,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 1Standard of care",
+                            "tokenCum": 196,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Deterrent effect of potential liability",
+                                    "tokenCum": 204,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "A court considering a claim in negligence or breach of statutory duty may, indetermining whether the defendant should have taken particular steps to meet astandard of care (whether by taking precautions against a risk or otherwise),have regard to whether a requirement to take those steps might\u2014",
+                                            "tokenCum": 268,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "prevent a desirable activity from being undertaken at all, to a particularextent or in a particular way, or",
+                                                    "tokenCum": 293,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "discourage persons from undertaking functions in connection with adesirable activity.",
+                                                    "tokenCum": 309,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 116,
+                                            "tokenCount": 66
+                                        }
+                                    ],
+                                    "wordSum": 79,
+                                    "tokenSum": 126,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Apologies, offers of treatment or other redress",
+                                    "tokenCum": 319,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "An apology, an offer of treatment or other redress, shall not of itself amountto an admission of negligence or breach of statutory duty.",
+                                            "tokenCum": 354,
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 50,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Mesothelioma: damages",
+                                    "tokenCum": 361,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 366,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person (\u201cthe responsible person\u201d) has negligently or in breach ofstatutory duty caused or permitted another person (\u201cthe victim\u201d) to be exposedto asbestos,",
+                                                    "tokenCum": 407,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the victim has contracted mesothelioma as a result of exposure to asbestos,",
+                                                    "tokenCum": 427,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "because of the nature of mesothelioma and the state of medical science, itis not possible to determine with certainty whether it was the exposurementioned in paragraph (a) or another exposure which caused the victim tobecome ill, and",
+                                                    "tokenCum": 479,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 56
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the responsible person is liable in tort, by virtue of the exposurementioned in paragraph (a), in connection with damage caused to the victim bythe disease (whether by reason of having materially increased a risk or forany other reason).",
+                                                    "tokenCum": 530,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                }
+                                            ],
+                                            "wordSum": 114,
+                                            "tokenSum": 188,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The responsible person shall be liable\u2014",
+                                            "tokenCum": 538,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in respect of the whole of the damage caused to the victim by the disease(irrespective of whether the victim was also exposed to asbestos\u2014",
+                                                    "tokenCum": 569,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "other than by the responsible person, whether or not in circumstances inwhich another person has liability in tort, or",
+                                                    "tokenCum": 592,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "by the responsible person in circumstances in which he has no liability intort), and",
+                                                    "tokenCum": 609,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "jointly and severally with any other responsible person.",
+                                                    "tokenCum": 620,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 71,
+                                            "tokenSum": 109,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (2) does not prevent\u2014",
+                                            "tokenCum": 629,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "one responsible person from claiming a contribution from another, or",
+                                                    "tokenCum": 641,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a finding of contributory negligence.",
+                                                    "tokenCum": 651,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 42,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In determining the extent of contributions of different responsible personsin accordance with subsection (3)(a), a court shall have regard to therelative lengths of the periods of exposure for which each was responsible;but this subsection shall not apply\u2014",
+                                            "tokenCum": 703,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if or to the extent that responsible persons agree to apportionresponsibility amongst themselves on some other basis, or",
+                                                    "tokenCum": 726,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if or to the extent that the court thinks that another basis fordetermining contributions is more appropriate in the circumstances of aparticular case.",
+                                                    "tokenCum": 754,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 114,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In subsection (1) the reference to causing or permitting a person to beexposed to asbestos includes a reference to failing to protect a person fromexposure to asbestos.",
+                                            "tokenCum": 795,
+                                            "wordSum": 27,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In the application of this section to Scotland\u2014",
+                                            "tokenCum": 804,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a reference to tort shall be taken as a reference to delict, and",
+                                                    "tokenCum": 819,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a reference to a court shall be taken to include a reference to a jury.",
+                                                    "tokenCum": 836,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 52,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The Treasury may make regulations about the provision of compensation to aresponsible person where\u2014",
+                                            "tokenCum": 858,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he claims, or would claim, a contribution from another responsible personin accordance with subsection (3)(a), but",
+                                                    "tokenCum": 883,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is unable or likely to be unable to obtain the contribution, because aninsurer of the other responsible person is unable or likely to be unable tosatisfy the claim for a contribution.",
+                                                    "tokenCum": 922,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 97,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The regulations may, in particular\u2014",
+                                            "tokenCum": 930,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "replicate or apply (with or without modification) a provision of theFinancial Services Compensation Scheme;",
+                                                    "tokenCum": 954,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "replicate or apply (with or without modification) a transitionalcompensation provision;",
+                                                    "tokenCum": 972,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "provide for a specified person to assess and pay compensation;",
+                                                    "tokenCum": 984,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "provide for expenses incurred (including the payment of compensation) to bemet out of levies collected in accordance with section 213(3)(b) of theFinancial Services and Markets Act [2000 (c. 8)](/id/ukpga/2000/8?view=plain\"Go to item of legislation\") (the Financial Services Compensation Scheme);",
+                                                    "tokenCum": 1079,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 99,
+                                                    "tokenCount": 99
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "modify the effect of a transitional compensation provision;",
+                                                    "tokenCum": 1090,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "enable the Financial Services Authority to amend the Financial ServicesCompensation Scheme;",
+                                                    "tokenCum": 1112,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "modify the Financial Services and Markets Act 2000 in its application to anamendment pursuant to paragraph (f);",
+                                                    "tokenCum": 1143,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "make, or require the making of, provision for the making of a claim by aresponsible person for compensation whether or not he has already satisfiedclaims in tort against him;",
+                                                    "tokenCum": 1182,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "make, or require the making of, provision which has effect in relation toclaims for contributions made on or after the date on which this Act ispassed.",
+                                                    "tokenCum": 1216,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 168,
+                                            "tokenSum": 333,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Provision made by virtue of subsection (8)(a) shall cease to have effectwhen the Financial Services Compensation Scheme is amended by the FinancialServices Authority by virtue of subsection (8)(f).",
+                                            "tokenCum": 1267,
+                                            "wordSum": 28,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In subsections (7) and (8)\u2014",
+                                            "tokenCum": 1278,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a reference to a responsible person includes a reference to an insurer of aresponsible person, and",
+                                                    "tokenCum": 1299,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201ctransitional compensation provision\u201d means a provision of an enactmentwhich is made under the Financial Services and Markets Act 2000 and\u2014",
+                                                    "tokenCum": 1334,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "preserves the effect of the Policyholders Protection Act [1975 (c.75)](/id/ukpga/1975/75?view=plain \"Go to item of legislation\"), or",
+                                                    "tokenCum": 1384,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "applies the Financial Services Compensation Scheme in relation to mattersarising before its establishment.",
+                                                    "tokenCum": 1405,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 157,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "Regulations under subsection (7)\u2014",
+                                            "tokenCum": 1414,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may include consequential or incidental provision,",
+                                                    "tokenCum": 1423,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may make provision which has effect generally or only in relation tospecified cases or circumstances,",
+                                                    "tokenCum": 1441,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may make different provision for different cases or circumstances,",
+                                                    "tokenCum": 1451,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "shall be made by statutory instrument, and",
+                                                    "tokenCum": 1461,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "may not be made unless a draft has been laid before and approved byresolution of each House of Parliament.",
+                                                    "tokenCum": 1483,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 101,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 736,
+                                    "tokenSum": 1300,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 849,
+                            "tokenSum": 1483,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 2Claims Management Services",
+                            "tokenCum": 1491,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Provision of regulated claims management services",
+                                    "tokenCum": 1499,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person may not provide regulated claims management services unless\u2014",
+                                            "tokenCum": 1511,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is an authorised person,",
+                                                    "tokenCum": 1518,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is an exempt person,",
+                                                    "tokenCum": 1525,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the requirement for authorisation has been waived in relation to him inaccordance with regulations under section 9, or",
+                                                    "tokenCum": 1551,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "he is an individual acting otherwise than in the course of a business.",
+                                                    "tokenCum": 1565,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 85,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this Part\u2014",
+                                            "tokenCum": 1569,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cauthorised person\u201d means a person authorised by the Regulator undersection 5(1)(a),",
+                                                    "tokenCum": 1592,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cclaims management services\u201d means advice or other services in relation tothe making of a claim,",
+                                                    "tokenCum": 1613,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "\u201cclaim\u201d means a claim for compensation, restitution, repayment or any otherremedy or relief in respect of loss or damage or in respect of an obligation,whether the claim is made or could be made\u2014",
+                                                    "tokenCum": 1662,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "by way of legal proceedings,",
+                                                    "tokenCum": 1669,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in accordance with a scheme of regulation (whether voluntary orcompulsory), or",
+                                                    "tokenCum": 1689,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "in pursuance of a voluntary undertaking,",
+                                                    "tokenCum": 1700,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "\u201cexempt person\u201d has the meaning given by section 6(5), and",
+                                                    "tokenCum": 1717,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "services are regulated if they are\u2014",
+                                                    "tokenCum": 1725,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "of a kind prescribed by order of the Secretary of State, or",
+                                                    "tokenCum": 1739,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "provided in cases or circumstances of a kind prescribed by order of theSecretary of State.",
+                                                    "tokenCum": 1758,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 127,
+                                            "tokenSum": 236,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 1765,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a reference to the provision of services includes, in particular, areference to\u2014",
+                                                    "tokenCum": 1781,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the provision of financial services or assistance,",
+                                                    "tokenCum": 1789,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the provision of services by way of or in relation to legalrepresentation,",
+                                                    "tokenCum": 1804,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "referring or introducing one person to another, and",
+                                                    "tokenCum": 1814,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iv)",
+                                                    "text": "making inquiries, and",
+                                                    "tokenCum": 1820,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person does not provide claims management services by reason only ofgiving, or preparing to give, evidence (whether or not expert evidence).",
+                                                    "tokenCum": 1850,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 119,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (1)(d) an individual acts in the course of abusiness if, in particular\u2014",
+                                            "tokenCum": 1876,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he acts in the course of an employment, or",
+                                                    "tokenCum": 1887,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he otherwise receives or hopes to receive money or money\u2019s worth as aresult of his action.",
+                                                    "tokenCum": 1908,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 69,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State may by order provide that a claim for a specifiedbenefit shall be treated as a claim for the purposes of this Part.",
+                                            "tokenCum": 1938,
+                                            "wordSum": 26,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Secretary of State may specify a benefit under subsection (5) only ifit appears to him to be a United Kingdom social security benefit designed toprovide compensation for industrial injury.",
+                                            "tokenCum": 1976,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 352,
+                                    "tokenSum": 593,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "The Regulator",
+                                    "tokenCum": 1979,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by order designate a person (\u201cthe Regulator\u201d)\u2014",
+                                            "tokenCum": 1998,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to authorise persons to provide regulated claims management services,",
+                                                    "tokenCum": 2010,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to regulate the conduct of authorised persons, and",
+                                                    "tokenCum": 2021,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "to exercise such other functions as are conferred on the Regulator by orunder this Part.",
+                                                    "tokenCum": 2040,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 76,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may designate a person only if satisfied that theperson\u2014",
+                                            "tokenCum": 2056,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is competent to perform the functions of the Regulator,",
+                                                    "tokenCum": 2068,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "will make arrangements to avoid any conflict of interest between theperson\u2019s functions as Regulator and any other functions, and",
+                                                    "tokenCum": 2093,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "will promote the interests of persons using regulated claims managementservices (including, in particular, by\u2014",
+                                                    "tokenCum": 2113,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "setting and monitoring standards of competence and professional conduct forpersons providing regulated claims management services,",
+                                                    "tokenCum": 2133,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "promoting good practice by persons providing regulated claims managementservices, in particular in relation to the provision of information aboutcharges and other matters to persons using or considering using the services,",
+                                                    "tokenCum": 2170,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "promoting practices likely to facilitate competition between differentproviders of regulated claims management services, and",
+                                                    "tokenCum": 2190,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iv)",
+                                                    "text": "ensuring that arrangements are made for the protection of persons usingregulated claims management services (including arrangements for the handlingof complaints about the conduct of authorised persons)).",
+                                                    "tokenCum": 2226,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 140,
+                                            "tokenSum": 217,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the Secretary of State thinks that no existing person (whether anindividual or a body corporate or unincorporate) is suitable for designationunder subsection (1), he may by order establish a person for the purpose ofbeing designated.",
+                                            "tokenCum": 2280,
+                                            "wordSum": 36,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Regulator shall\u2014",
+                                            "tokenCum": 2285,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "comply with any directions given to him by the Secretary of State;",
+                                                    "tokenCum": 2299,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "have regard to any guidance given to him by the Secretary of State;",
+                                                    "tokenCum": 2313,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "have regard to any code of practice issued to him by the Secretary ofState;",
+                                                    "tokenCum": 2329,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "try to meet any targets set for him by the Secretary of State;",
+                                                    "tokenCum": 2343,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "provide the Secretary of State with any report or information requested(but this paragraph does not require or permit disclosure of information incontravention of any other enactment).",
+                                                    "tokenCum": 2377,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 81,
+                                            "tokenSum": 120,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State shall lay before Parliament any code of practiceissued by him to the Regulator.",
+                                            "tokenCum": 2398,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Secretary of State may pay grants to the Regulator (which may be onterms or conditions, including terms and conditions as to repayment with orwithout interest).",
+                                            "tokenCum": 2434,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A reference in this Part to the Regulator includes a reference to a personacting on behalf of the Regulator or with his authority.",
+                                            "tokenCum": 2463,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The Secretary of State may by order revoke a person\u2019s designation undersubsection (1).",
+                                            "tokenCum": 2484,
+                                            "wordSum": 13,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "While no person is designated under subsection (1) the Secretary of Stateshall exercise functions of the Regulator.",
+                                            "tokenCum": 2507,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "The Secretary of State may by order transfer (whether for a period of timespecified in the order or otherwise) a function of the Regulator to theSecretary of State.",
+                                            "tokenCum": 2544,
+                                            "wordSum": 28,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 427,
+                                    "tokenSum": 660,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Exemptions ",
+                                    "tokenCum": 2548,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by order provide that section 4(1) shall notprevent the provision of regulated claims management services by a person whois a member of a specified body.",
+                                            "tokenCum": 2586,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by order provide that section 4(1) shall notprevent the provision of regulated claims management services\u2014",
+                                            "tokenCum": 2613,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by a specified person or class of person,",
+                                                    "tokenCum": 2622,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in specified circumstances, or",
+                                                    "tokenCum": 2627,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "by a specified person or class of person in specified circumstances.",
+                                                    "tokenCum": 2639,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 68,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Provision by virtue of subsection (1) or (2) may be expressed to haveeffect subject to compliance with specified conditions.",
+                                            "tokenCum": 2667,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Section 4(1) shall not prevent the provision of regulated claims managementservices by a person who is established or appointed by virtue of anenactment.",
+                                            "tokenCum": 2700,
+                                            "wordSum": 23,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this Part a person is \u201cexempt\u201d if, or in so far as,section 4(1) does not, by virtue of this section, prevent him from providingregulated claims management services.",
+                                            "tokenCum": 2746,
+                                            "wordSum": 31,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 147,
+                                    "tokenSum": 231,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Enforcement: offence",
+                                    "tokenCum": 2752,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person commits an offence if he contravenes section 4(1).",
+                                            "tokenCum": 2769,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person who is guilty of an offence under subsection (1) shall be liable\u2014",
+                                            "tokenCum": 2789,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on conviction on indictment\u2014",
+                                                    "tokenCum": 2797,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to imprisonment for a term not exceeding two years,",
+                                                    "tokenCum": 2809,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to a fine, or",
+                                                    "tokenCum": 2814,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "to both, or",
+                                                    "tokenCum": 2818,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on summary conviction\u2014",
+                                                    "tokenCum": 2823,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to imprisonment for a term not exceeding 51 weeks,",
+                                                    "tokenCum": 2837,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to a fine not exceeding level 5 on the standard scale, or",
+                                                    "tokenCum": 2852,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "to both.",
+                                                    "tokenCum": 2855,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 121,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Until the commencement of section 281(4) and (5) of the Criminal JusticeAct [2003 (c. 44)](/id/ukpga/2003/44?view=plain \"Go to item of legislation\")(51 week maximum term of sentences) the reference in subsection (3)(b)(i)above to 51 weeks shall have effect as if it were a reference to six months.",
+                                            "tokenCum": 2957,
+                                            "wordSum": 45,
+                                            "tokenSum": 105,
+                                            "tokenCount": 105
+                                        }
+                                    ],
+                                    "wordSum": 117,
+                                    "tokenSum": 254,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Enforcement: the Regulator",
+                                    "tokenCum": 2964,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Regulator may apply to the court for an injunction restraining a personfrom providing regulated claims management services if he is not\u2014",
+                                            "tokenCum": 2993,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an authorised person,",
+                                                    "tokenCum": 2998,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an exempt person, or",
+                                                    "tokenCum": 3004,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the subject of a waiver in accordance with regulations under section 9.",
+                                                    "tokenCum": 3022,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 73,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201cthe court\u201d means the High Court or a county court.",
+                                            "tokenCum": 3041,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Regulator may\u2014",
+                                            "tokenCum": 3046,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "investigate whether an offence has been committed under this Part;",
+                                                    "tokenCum": 3058,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "institute criminal proceedings in respect of an offence under this Part.",
+                                                    "tokenCum": 3073,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 43,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purpose of investigating whether an offence has been committedunder this Part the Regulator may require the provision of information ordocuments.",
+                                            "tokenCum": 3102,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "On an application by the Regulator a judge of the High Court, Circuit judgeor justice of the peace may issue a warrant authorising the Regulator to enterand search premises on which a person conducts or is alleged to conductregulated claims management business, for the purposes of investigatingwhether an offence has been committed under this Part.",
+                                            "tokenCum": 3176,
+                                            "wordSum": 55,
+                                            "tokenSum": 77,
+                                            "tokenCount": 77
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Regulator may take copies of written or electronic records found on asearch by virtue of subsection (5) for a purpose specified in subsection(3)(a) or (b).",
+                                            "tokenCum": 3215,
+                                            "wordSum": 26,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In subsections (4) to (6) a reference to the Regulator includes a referenceto a person authorised by him in writing.",
+                                            "tokenCum": 3245,
+                                            "wordSum": 20,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The Secretary of State shall make regulations\u2014",
+                                            "tokenCum": 3254,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "specifying matters of which a judge or justice of the peace must besatisfied, or to which he must have regard, before issuing a warrant undersubsection (5), and",
+                                                    "tokenCum": 3291,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "regulating the exercise of a power under or by virtue of subsection (4) or(5) (whether by restricting the circumstances in which a power may beexercised, by specifying conditions to be complied with in the exercise of apower, or otherwise).",
+                                                    "tokenCum": 3348,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 73,
+                                            "tokenSum": 114,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 277,
+                                    "tokenSum": 445,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Regulations ",
+                                    "tokenCum": 3351,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State shall make regulations about\u2014",
+                                            "tokenCum": 3361,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "authorisations under section 5(1);",
+                                                    "tokenCum": 3371,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the functions of the Regulator.",
+                                                    "tokenCum": 3378,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 38,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Schedule specifies particular provision that may be made by theregulations.",
+                                            "tokenCum": 3394,
+                                            "wordSum": 11,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Transitional provision of regulations under this section may, inparticular, make provision about the extent to which functions under this Partor under the regulations may be exercised in respect of matters arising beforethe commencement of a provision made by or by virtue of this Part.",
+                                            "tokenCum": 3453,
+                                            "wordSum": 44,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        }
+                                    ],
+                                    "wordSum": 73,
+                                    "tokenSum": 124,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Obstructing the Regulator",
+                                    "tokenCum": 3459,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person commits an offence if without reasonable excuse he obstructs theRegulator in the exercise of a power\u2014",
+                                            "tokenCum": 3484,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "under section 8(4) to (6), or",
+                                                    "tokenCum": 3496,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by virtue of paragraph 14 of the Schedule.",
+                                                    "tokenCum": 3508,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 60,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person who is guilty of an offence under subsection (1) shall be liableon summary conviction to a fine not exceeding level 5 on the standard scale.",
+                                            "tokenCum": 3545,
+                                            "wordSum": 27,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 62,
+                                    "tokenSum": 108,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Pretending to be authorised, &c.",
+                                    "tokenCum": 3556,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person commits an offence if he falsely holds himself out as being\u2014",
+                                            "tokenCum": 3573,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an authorised person,",
+                                                    "tokenCum": 3578,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an exempt person, or",
+                                                    "tokenCum": 3584,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the subject of a waiver in accordance with regulations under section 9.",
+                                                    "tokenCum": 3602,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 61,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person commits an offence if\u2014",
+                                            "tokenCum": 3610,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he offers to provide regulated claims management services, and",
+                                                    "tokenCum": 3621,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provision by him of those services would constitute an offence under thisPart.",
+                                                    "tokenCum": 3637,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of subsection (2) a person offers to provide services ifhe\u2014",
+                                            "tokenCum": 3655,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "makes an offer to a particular person or class of person,",
+                                                    "tokenCum": 3667,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "makes arrangements for an advertisement in which he offers to provideservices, or",
+                                                    "tokenCum": 3685,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "makes arrangements for an advertisement in which he is described orpresented as competent to provide services.",
+                                                    "tokenCum": 3708,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 86,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person who is guilty of an offence under subsection (1) or (2) shall beliable\u2014",
+                                            "tokenCum": 3732,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on conviction on indictment\u2014",
+                                                    "tokenCum": 3740,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to imprisonment for a term not exceeding two years,",
+                                                    "tokenCum": 3752,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to a fine, or",
+                                                    "tokenCum": 3757,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "to both, or",
+                                                    "tokenCum": 3761,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on summary conviction\u2014",
+                                                    "tokenCum": 3766,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to imprisonment for a term not exceeding 51 weeks,",
+                                                    "tokenCum": 3780,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to a fine not exceeding level 5 on the standard scale, or",
+                                                    "tokenCum": 3795,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "to both.",
+                                                    "tokenCum": 3798,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 125,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where a person commits an offence under this section by causing material tobe displayed or made accessible, he shall be treated as committing the offenceon each day during any part of which the material is displayed or madeaccessible.",
+                                            "tokenCum": 3845,
+                                            "wordSum": 38,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Until the commencement of section 281(4) and (5) of the Criminal JusticeAct [2003 (c. 44)](/id/ukpga/2003/44?view=plain \"Go to item of legislation\")(51 week maximum term of sentences) the reference in subsection (4)(b)(i)above to 51 weeks shall have effect as if it were a reference to six months.",
+                                            "tokenCum": 3947,
+                                            "wordSum": 45,
+                                            "tokenSum": 105,
+                                            "tokenCount": 105
+                                        }
+                                    ],
+                                    "wordSum": 260,
+                                    "tokenSum": 486,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "The Claims Management Services Tribunal",
+                                    "tokenCum": 3954,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There shall be a tribunal to be known as the Claims Management ServicesTribunal.",
+                                            "tokenCum": 3973,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Tribunal shall be constituted as follows\u2014",
+                                            "tokenCum": 3983,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "members of the Financial Services and Markets Tribunal shall also bemembers of the Claims Management Services Tribunal,",
+                                                    "tokenCum": 4008,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the President of the Financial Services and Markets Tribunal shall also actas President of the Claims Management Services Tribunal,",
+                                                    "tokenCum": 4035,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the Deputy President of the Financial Services and Markets Tribunal shallalso act as Deputy President of the Claims Management Services Tribunal, and",
+                                                    "tokenCum": 4067,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the panel of chairmen of the Financial Services and Markets Tribunal shallalso be the panel of chairmen of the Claims Management Services Tribunal.",
+                                                    "tokenCum": 4100,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 88,
+                                            "tokenSum": 146,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An appeal or reference to the Tribunal shall be heard by a member of thepanel of chairmen\u2014",
+                                            "tokenCum": 4121,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "selected in accordance with arrangements made by the President, and",
+                                                    "tokenCum": 4134,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sitting alone or, in accordance with those arrangements, with one or twomembers of the lay panel;",
+                                                    "tokenCum": 4157,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and a chairman who sits with one other member shall have a casting vote.",
+                                                            "tokenCum": 4173,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 89,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Lord Chancellor may make rules about the proceedings of the Tribunal;and the rules\u2014",
+                                            "tokenCum": 4194,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "shall include provision about timing of references and appeals,",
+                                                    "tokenCum": 4205,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "shall include provision for the suspension of decisions of the Regulatorwhile an appeal could be brought or is pending,",
+                                                    "tokenCum": 4229,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "shall include provision about the making of interim orders,",
+                                                    "tokenCum": 4240,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "shall enable the Tribunal to suspend or further suspend (wholly or partly)the effect of a decision of the Regulator,",
+                                                    "tokenCum": 4268,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "shall permit the Regulator to apply for the termination of the suspensionof a decision of his,",
+                                                    "tokenCum": 4289,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "may include provision about evidence,",
+                                                    "tokenCum": 4295,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "may include provision about any other matter of a kind for which rulesunder section 132 of the Financial Services and Markets Act [2000 (c.8)](/id/ukpga/2000/8?view=plain \"Go to item of legislation\") (the FinancialServices and Markets Tribunal) may make provision,",
+                                                    "tokenCum": 4375,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 84,
+                                                    "tokenCount": 84
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "may include transitional, consequential or incidental provision,",
+                                                    "tokenCum": 4387,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "may make provision generally or only for specified cases or circumstances,",
+                                                    "tokenCum": 4399,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(j)",
+                                                    "text": "may make different provision for different cases or circumstances,",
+                                                    "tokenCum": 4409,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(k)",
+                                                    "text": "shall be made by statutory instrument, and",
+                                                    "tokenCum": 4419,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(l)",
+                                                    "text": "shall be subject to annulment in pursuance of a resolution of either Houseof Parliament.",
+                                                    "tokenCum": 4439,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 176,
+                                            "tokenSum": 317,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The following provisions of Schedule 13 to the Financial Services andMarkets Act 2000 shall have effect, with any necessary modifications, inrelation to the Claims Management Services Tribunal\u2014",
+                                            "tokenCum": 4484,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "paragraph 5 (remuneration and allowances),",
+                                                    "tokenCum": 4496,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraph 6 (staff),",
+                                                    "tokenCum": 4503,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "paragraph 7(3) and (4) (composition),",
+                                                    "tokenCum": 4517,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "paragraph 8 (sittings),",
+                                                    "tokenCum": 4525,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "paragraph 10 (practice directions),",
+                                                    "tokenCum": 4535,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "paragraph 11 (evidence), and",
+                                                    "tokenCum": 4544,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "paragraph 12(1) to (3) (decisions).",
+                                                    "tokenCum": 4560,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 152,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In Part 1 of Schedule 1 to the Tribunals and Inquiries Act [1992 (c.53)](/id/ukpga/1992/53?view=plain \"Go to item of legislation\") (tribunalsunder supervision of Council) insert at the appropriate place\u2014",
+                                            "tokenCum": 4633,
+                                            "wordSum": 28,
+                                            "tokenSum": 76,
+                                            "tokenCount": 76
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201cClaims management services| The Claims Management Services Tribunalestablished by the Compensation Act 2006.\u201d  ---|---    ### 13Appeals and references to Tribunal",
+                                            "tokenCum": 4679,
+                                            "wordSum": 20,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person may appeal to the Claims Management Services Tribunal if theRegulator\u2014",
+                                            "tokenCum": 4696,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "refuses the person\u2019s application for authorisation,",
+                                                    "tokenCum": 4707,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "grants the person authorisation on terms or subject to conditions,",
+                                                    "tokenCum": 4720,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "imposes conditions on the person\u2019s authorisation,",
+                                                    "tokenCum": 4731,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "suspends the person\u2019s authorisation, or",
+                                                    "tokenCum": 4741,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "cancels the person\u2019s authorisation.",
+                                                    "tokenCum": 4751,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 95,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Regulator may refer to the Tribunal (with or without findings of factor recommendations)\u2014",
+                                            "tokenCum": 4772,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a complaint about the professional conduct of an authorised person, or",
+                                                    "tokenCum": 4786,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the question whether an authorised person has complied with a rule ofprofessional conduct.",
+                                                    "tokenCum": 4804,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 64,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "On a reference or appeal under this section the Tribunal\u2014",
+                                            "tokenCum": 4816,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may take any decision on an application for authorisation that theRegulator could have taken;",
+                                                    "tokenCum": 4834,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may impose or remove conditions on a person\u2019s authorisation;",
+                                                    "tokenCum": 4848,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may suspend a person\u2019s authorisation;",
+                                                    "tokenCum": 4858,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "may cancel a person\u2019s authorisation;",
+                                                    "tokenCum": 4867,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "may remit a matter to the Regulator;",
+                                                    "tokenCum": 4877,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "may not award costs.",
+                                                    "tokenCum": 4882,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 105,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An authorised person may appeal to the Court of Appeal against a decisionof the Tribunal.",
+                                            "tokenCum": 4903,
+                                            "wordSum": 15,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 593,
+                                    "tokenSum": 1148,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 4907,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Part\u2014",
+                                            "tokenCum": 4911,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201caction\u201d includes omission, ",
+                                            "tokenCum": 4921,
+                                            "wordSum": 4,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cauthorised person\u201d has the meaning given by section 4, ",
+                                            "tokenCum": 4938,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cclaim\u201d has the meaning given by section 4, ",
+                                            "tokenCum": 4954,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cclaims management services\u201d has the meaning given by section 4, ",
+                                            "tokenCum": 4973,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cexempt person\u201d has the meaning given by section 6(5), ",
+                                            "tokenCum": 4992,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cregulated claims management services\u201d shall be construed in accordance with section 4(2)(e), ",
+                                            "tokenCum": 5018,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cspecified\u201d, in relation to an order or regulations, means specified in the order or regulations, and ",
+                                            "tokenCum": 5044,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe Regulator\u201d means (subject to section 5(7)) the person designated under section 5(1) or, where no person is designated or in so far as is necessary having regard to any order under section 5(10), the Secretary of State. ",
+                                            "tokenCum": 5104,
+                                            "wordSum": 39,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 117,
+                                    "tokenSum": 230,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Orders and regulations",
+                                    "tokenCum": 5109,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "An order or regulations under this Part\u2014",
+                                            "tokenCum": 5118,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may make provision that applies generally or only in specified cases orcircumstances,",
+                                                    "tokenCum": 5135,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may make different provision for different cases or circumstances, and",
+                                                    "tokenCum": 5146,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may include transitional, incidental or consequential provision.",
+                                                    "tokenCum": 5158,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 64,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An order or regulations under this Part shall be made by statutoryinstrument.",
+                                            "tokenCum": 5176,
+                                            "wordSum": 12,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An order under section 4(2)(e)\u2014",
+                                            "tokenCum": 5188,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may not be made unless the Secretary of State has consulted\u2014",
+                                                    "tokenCum": 5201,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the Office of Fair Trading, and",
+                                                    "tokenCum": 5209,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "such other persons as he thinks appropriate, and",
+                                                    "tokenCum": 5218,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may not be made unless a draft has been laid before and approved byresolution of each House of Parliament.",
+                                                    "tokenCum": 5240,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 49,
+                                            "tokenSum": 83,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under section 4(5) may not be made unless a draft has been laidbefore, and approved by resolution of, each House of Parliament.",
+                                            "tokenCum": 5272,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An order under section 5 may not be made unless a draft has been laidbefore, and approved by resolution of, each House of Parliament.",
+                                            "tokenCum": 5301,
+                                            "wordSum": 24,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An order under section 5(3) may include provision\u2014",
+                                            "tokenCum": 5314,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for the appointment of members;",
+                                                    "tokenCum": 5320,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for funding;",
+                                                    "tokenCum": 5324,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "for dissolution (which may include provision enabling the Secretary ofState to make provision for the transfer of property, rights and liabilities).",
+                                                    "tokenCum": 5352,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 66,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The first order made under section 6 may not be made unless a draft hasbeen laid before, and approved by resolution of, each House of Parliament.",
+                                            "tokenCum": 5384,
+                                            "wordSum": 26,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "An order under section 6 which has the effect of removing or restricting anexemption from section 4(1) may not be made unless a draft has been laidbefore, and approved by resolution of, each House of Parliament.",
+                                            "tokenCum": 5433,
+                                            "wordSum": 36,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Any other order under section 6 shall be subject to annulment in pursuanceof a resolution of either House of Parliament.",
+                                            "tokenCum": 5460,
+                                            "wordSum": 20,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "Regulations under section 8 or 9 may not be made unless a draft has beenlaid before, and approved by resolution of, each House of Parliament.",
+                                            "tokenCum": 5493,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 291,
+                                    "tokenSum": 461,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 2720,
+                            "tokenSum": 4749,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 3General",
+                            "tokenCum": 5497,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Commencement ",
+                                    "tokenCum": 5501,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The preceding provisions of this Act, other than sections 1, 2 and 3, shallcome into force in accordance with provision made by order of the Secretary ofState.",
+                                            "tokenCum": 5539,
+                                            "wordSum": 27,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An order under subsection (1)\u2014",
+                                            "tokenCum": 5548,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may make provision generally or only for specified purposes,",
+                                                    "tokenCum": 5558,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may make different provision for different purposes,",
+                                                    "tokenCum": 5566,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may make transitional, consequential or incidental provision, and",
+                                                    "tokenCum": 5579,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "shall be made by statutory instrument.",
+                                                    "tokenCum": 5588,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 68,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 3 shall be treated as having always had effect.",
+                                            "tokenCum": 5600,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But the section shall have no effect in relation to\u2014",
+                                            "tokenCum": 5611,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a claim which is settled before 3rd May 2006 (whether or not legalproceedings in relation to the claim have been instituted), or",
+                                                    "tokenCum": 5646,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "legal proceedings which are determined before that date.",
+                                                    "tokenCum": 5656,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 67,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where a claim is settled on or after that date and before the date on whichthis Act is passed, a party to the settlement may apply to a relevant court tohave the settlement varied; and\u2014",
+                                            "tokenCum": 5696,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a court is a relevant court for that purpose if it had, or would have had,jurisdiction to determine the claim by way of legal proceedings,",
+                                                    "tokenCum": 5729,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an application shall be brought as an application in, or by way of,proceedings on the claim, and",
+                                                    "tokenCum": 5752,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a court to which an application is made shall vary the settlement to suchextent (if any) as appears appropriate to reflect the effect of section 3.",
+                                                    "tokenCum": 5784,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 103,
+                                            "tokenSum": 143,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where legal proceedings are determined on or after that date and before thedate on which this Act is passed, a party to the proceedings may apply to thecourt to vary the determination; and\u2014",
+                                            "tokenCum": 5825,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "\u201cthe court\u201d means the court which determined the proceedings,",
+                                                    "tokenCum": 5838,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the application shall be treated as an application in the proceedings, and",
+                                                    "tokenCum": 5852,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the court shall vary the determination to such extent (if any) as appearsappropriate to reflect the effect of section 3.",
+                                                    "tokenCum": 5880,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 111,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 290,
+                                    "tokenSum": 451,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Extent ",
+                                    "tokenCum": 5883,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act shall extend to England and Wales only.",
+                                            "tokenCum": 5893,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But section 3 (and section 16(3) to (6)) shall extend to\u2014",
+                                            "tokenCum": 5914,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "England and Wales,",
+                                                    "tokenCum": 5918,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Scotland, and",
+                                                    "tokenCum": 5921,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "Northern Ireland.",
+                                                    "tokenCum": 5924,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 46,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 64,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Short title",
+                                    "tokenCum": 5926,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Compensation Act 2006.",
+                                            "tokenCum": 5944,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 25,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 9",
+                                    "tokenCum": 5947,
+                                    "wordSum": 2,
+                                    "tokenSum": 5,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 334,
+                            "tokenSum": 550,
+                            "tokenCount": 4
+                        }
+                    ],
+                    "wordSum": 3939,
+                    "tokenSum": 6840,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3989,
+            "tokenSum": 6978,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2006/29/enacted?view=plain",
+    "title": "Compensation Act 2006",
+    "longtitle": "An Act to specify certain factors that may be taken into account by a court determining a claim in negligence or breach of statutory duty; to make provision about damages for mesothelioma; and to make provision for the regulation of claims management services.",
+    "date": "[25th July 2006]",
+    "wordSum": 3989,
+    "tokenSum": 6979,
+    "tokenCount": 0,
+    "totalTokens": 6979
+}

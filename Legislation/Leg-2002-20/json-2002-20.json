@@ -1,0 +1,503 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2002/20/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Industrial and Provident Societies Act 2002",
+                    "tokenCum": 57,
+                    "wordSum": 6,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2002 CHAPTER 20",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to enable the law relating to societies registered under the Industrialand Provident Societies Act 1965 to be amended so as to bring it intoconformity with certain aspects of the law relating to companies; to amend theprocedure whereby such a society may convert itself into, or amalgamate withor transfer its engagements to, a company; and for connected purposes.",
+                            "tokenCum": 154,
+                            "wordSum": 59,
+                            "tokenSum": 89,
+                            "tokenCount": 89
+                        }
+                    ],
+                    "wordSum": 62,
+                    "tokenSum": 99,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th July 2002]",
+                    "tokenCum": 164,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 221,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Requirements for conversion of a registered society into a company",
+                            "tokenCum": 233,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 52 of the Industrial and Provident Societies Act [1965 (c.12)](/id/ukpga/1965/12?view=plain \"Go to item of legislation\") (\u201cthe 1965Act\u201d) (conversion into, amalgamation with, or transfer of engagements tocompany) shall be amended as provided in subsection (2) below.",
+                                    "tokenCum": 328,
+                                    "wordSum": 36,
+                                    "tokenSum": 97,
+                                    "tokenCount": 97
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For subsection (3) (resolution to be passed by not less than three-fourthsof the members voting in person or, where the rules allow, by proxy), thereshall be substituted\u2014",
+                                    "tokenCum": 373,
+                                    "wordSum": 27,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(3)",
+                                    "text": "In this section the expression \u201cspecial resolution\u201d means a resolution\u2014",
+                                    "tokenCum": 386,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "which is passed at a general meeting of which notice, specifying theintention to propose the resolution, has been duly given according to therules of the society (\u201cthe rules\u201d);",
+                                            "tokenCum": 424,
+                                            "wordSum": 28,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "which is passed by not less than three-fourths of such of the qualifyingmembers of the society as may have voted in person or, where the rules allowproxies, by proxy;",
+                                            "tokenCum": 465,
+                                            "wordSum": 29,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "on which not less than half of the qualifying members of the society votedeither in person or, where the rules allow proxies, by proxy; and",
+                                            "tokenCum": 498,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "which is confirmed by a majority of such of the qualifying members of thesociety as may have voted in person or, where the rules allow proxies, byproxy at a subsequent general meeting of which notice has been duly given heldnot less than fourteen days nor more than one month from the day of themeeting at which the resolution was passed in accordance with paragraphs (a)to (c) of this subsection,",
+                                            "tokenCum": 589,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and references to the qualifying members of a society are references to themembers of the society who are for the time being entitled under the society\u2019srules to vote.",
+                                                    "tokenCum": 623,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 97,
+                                            "tokenSum": 132,
+                                            "tokenCount": 93
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(3A)At any such meeting as aforesaid, a declaration by the chairman that\u2014",
+                                            "tokenCum": 644,
+                                            "wordSum": 12,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "all reasonably practicable steps have been taken to ascertain the number ofqualifying members of the society; and",
+                                            "tokenCum": 668,
+                                            "wordSum": 17,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the resolution has been carried,",
+                                            "tokenCum": 674,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "shall be deemed conclusive evidence of those facts.",
+                                            "tokenCum": 685,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(3B)Subsections (4) and (5) of section 50 of this Act shall have effect forthe purposes of this section as they have effect for the purposes of thatsection but as if in subsection (5) of that section for the reference tosubsection (2)(b) of that section there were substituted a reference tosubsection (3)(d) of this section.\u201d",
+                                            "tokenCum": 768,
+                                            "wordSum": 54,
+                                            "tokenSum": 86,
+                                            "tokenCount": 86
+                                        }
+                                    ],
+                                    "wordSum": 285,
+                                    "tokenSum": 428,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 358,
+                            "tokenSum": 585,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Power to modify, etc. to assimilate to company law",
+                            "tokenCum": 781,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "If, on any modification of the statutory provisions in force in GreatBritain relating to companies, it appears to the Treasury to be expedient tomodify the relevant statutory provisions for the purpose of assimilating thelaw relating to companies and the law relating to industrial and providentsocieties, the Treasury may, by order, make such modifications of the relevantstatutory provisions as they think appropriate for that purpose.",
+                                    "tokenCum": 880,
+                                    "wordSum": 64,
+                                    "tokenSum": 101,
+                                    "tokenCount": 101
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The \u201crelevant statutory provisions\u201d are the provisions of the Industrialand Provident Societies Acts 1965 to 1978 as for the time being in forceexcept the following provisions of the 1965 Act\u2014",
+                                    "tokenCum": 937,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 1 (societies which may be registered);",
+                                            "tokenCum": 948,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 10(1) (amendments of registered rules);",
+                                            "tokenCum": 963,
+                                            "wordSum": 6,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "sections 16 to 18 (cancellation, suspension or refusal of registration ofsociety or rules);",
+                                            "tokenCum": 989,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "sections 23 to 27 (nominations, provision for intestacy, payment in respectof mentally incapable persons and validity of payments);",
+                                            "tokenCum": 1025,
+                                            "wordSum": 18,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "sections 50 to 54 (amalgamation, transfer of engagements and conversions);",
+                                            "tokenCum": 1047,
+                                            "wordSum": 10,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "section 55(b) (dissolution of registered society by instrument);",
+                                            "tokenCum": 1065,
+                                            "wordSum": 8,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "section 56 (power of registrar to petition for winding up);",
+                                            "tokenCum": 1082,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(h)",
+                                            "text": "section 58 (instrument of dissolution); and",
+                                            "tokenCum": 1094,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "section 59 (restriction on dissolution or cancellation of registration ofsociety).",
+                                            "tokenCum": 1113,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 118,
+                                    "tokenSum": 262,
+                                    "tokenCount": 58
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The power conferred by subsection (1) of this section includes power tomodify the relevant statutory provisions so as to\u2014",
+                                    "tokenCum": 1142,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "confer power to make orders, regulations, rules or other subordinatelegislation;",
+                                            "tokenCum": 1160,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "create criminal offences; or",
+                                            "tokenCum": 1166,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "provide for the charging of fees but not any charge in the nature oftaxation.",
+                                            "tokenCum": 1185,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 83,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An order under this section may\u2014",
+                                    "tokenCum": 1192,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "make consequential amendments of or repeals in the provisions listed insubsection (2) of this section; or",
+                                            "tokenCum": 1217,
+                                            "wordSum": 16,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make such transitional or saving provisions as appear to the Treasury to benecessary or expedient.",
+                                            "tokenCum": 1241,
+                                            "wordSum": 15,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 64,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The power to make an order under this section shall be exercisable bystatutory instrument and no such order shall be made unless a draft of it hasbeen laid before and approved by a resolution of each House of Parliament.",
+                                    "tokenCum": 1288,
+                                    "wordSum": 39,
+                                    "tokenSum": 49,
+                                    "tokenCount": 49
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1292,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cmodification\u201d includes any additions and, as regards modifications of the statutory provisions relating to companies, any modification whether effected by any future Act or by an instrument made after the passing of this Act under an Act whenever passed; and ",
+                                            "tokenCum": 1347,
+                                            "wordSum": 41,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cstatutory provisions\u201d except in the expression \u201crelevant statutory provisions\u201d includes the provisions of any instrument made under an Act. ",
+                                            "tokenCum": 1382,
+                                            "wordSum": 20,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 64,
+                                    "tokenSum": 102,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 378,
+                            "tokenSum": 675,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Channel Islands",
+                            "tokenCum": 1384,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Her Majesty may by Order in Council direct that any of the provisions ofthis Act or any instrument made under it shall extend, with such modifications(if any) as may be specified in the Order, to any of the Channel Islands.",
+                                    "tokenCum": 1432,
+                                    "wordSum": 40,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "An Order in Council under this section may make such transitional,incidental or supplementary provision as appears to Her Majesty to benecessary or expedient.",
+                                    "tokenCum": 1467,
+                                    "wordSum": 23,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                }
+                            ],
+                            "wordSum": 65,
+                            "tokenSum": 90,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1475,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Industrial and Provident Societies Act 2002and this Act and the Industrial and Provident Societies Acts 1965 to 1978 maybe cited together as the Industrial and Provident Societies Acts 1965 to 2002.",
+                                    "tokenCum": 1548,
+                                    "wordSum": 38,
+                                    "tokenSum": 75,
+                                    "tokenCount": 75
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act shall come into force on the expiration of the period of twomonths beginning with the date on which it is passed.",
+                                    "tokenCum": 1576,
+                                    "wordSum": 23,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act does not extend to Northern Ireland.",
+                                    "tokenCum": 1585,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1585,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 14,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 74,
+                            "tokenSum": 128,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 911,
+                    "tokenSum": 1536,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 983,
+            "tokenSum": 1705,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2002/20/enacted?view=plain",
+    "title": "Industrial and Provident Societies Act 2002",
+    "longtitle": "An Act to enable the law relating to societies registered under the Industrial and Provident Societies Act 1965 to be amended so as to bring it into conformity with certain aspects of the law relating to companies; to amend the procedure whereby such a society may convert itself into, or amalgamate with or transfer its engagements to, a company; and for connected purposes.",
+    "date": "[8th July 2002]",
+    "wordSum": 983,
+    "tokenSum": 1706,
+    "tokenCount": 0,
+    "totalTokens": 1706
+}

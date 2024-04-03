@@ -1,0 +1,677 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2017/2/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Savings (Government Contributions) Act 2017",
+                    "tokenCum": 59,
+                    "wordSum": 5,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2017 CHAPTER 2",
+                    "tokenCum": 67,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for, and in connection with, government bonuses inrespect of additions to savings accounts and other investment plans.",
+                            "tokenCum": 98,
+                            "wordSum": 22,
+                            "tokenSum": 32,
+                            "tokenCount": 32
+                        }
+                    ],
+                    "wordSum": 25,
+                    "tokenSum": 41,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th January 2017]",
+                    "tokenCum": 109,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 166,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Government contributions to Lifetime ISAs",
+                            "tokenCum": 174,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Where a qualifying addition to a Lifetime ISA is made in a relevant period,HMRC must pay a government bonus.",
+                                    "tokenCum": 202,
+                                    "wordSum": 19,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of this Act, a \u201cLifetime ISA\u201d is a plan of a descriptionspecified in Treasury regulations.",
+                                    "tokenCum": 233,
+                                    "wordSum": 18,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of this section and Schedule 1\u2014",
+                                    "tokenCum": 245,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an addition to a Lifetime ISA is a \u201cqualifying addition\u201d if it is of adescription specified in Treasury regulations, and",
+                                            "tokenCum": 277,
+                                            "wordSum": 20,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a period is a \u201crelevant period\u201d if it is a period specified in Treasuryregulations.",
+                                            "tokenCum": 299,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 74,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A description may be specified under subsection (2)\u2014",
+                                    "tokenCum": 311,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "only if some or all of the income from investments under plans of thatdescription is exempt from income tax as a result of investment planregulations;",
+                                            "tokenCum": 343,
+                                            "wordSum": 25,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "even if plans of that description are referred to in investment planregulations\u2014",
+                                            "tokenCum": 359,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "as individual savings accounts other than lifetime individual savingsaccounts, or",
+                                            "tokenCum": 374,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "otherwise than as individual savings accounts.",
+                                            "tokenCum": 382,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 61,
+                                    "tokenSum": 97,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A government bonus under this section is an amount determined in accordancewith Treasury regulations.",
+                                    "tokenCum": 402,
+                                    "wordSum": 14,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Schedule 1 makes further provision in connection with government bonusesunder this section.",
+                                    "tokenCum": 419,
+                                    "wordSum": 12,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In subsection (4) \u201cinvestment plan regulations\u201d means regulations madeunder section 694 of the Income Tax (Trading and Other Income) Act 2005.",
+                                    "tokenCum": 463,
+                                    "wordSum": 21,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                }
+                            ],
+                            "wordSum": 193,
+                            "tokenSum": 330,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Government contributions to Help-to-Save accounts",
+                            "tokenCum": 472,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "If there is entitlement to an amount of government bonus in respect of aHelp-to-Save account, the amount must be paid by the paying authority.",
+                                    "tokenCum": 506,
+                                    "wordSum": 24,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The paying authority is the Treasury but, if there are arrangements forgovernment bonuses under this section to be paid by HMRC or the Director ofSavings, the paying authority is (as the case may be) HMRC or the Director.",
+                                    "tokenCum": 564,
+                                    "wordSum": 38,
+                                    "tokenSum": 60,
+                                    "tokenCount": 60
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Schedule 2\u2014",
+                                    "tokenCum": 569,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "makes provision about the interpretation of this section, and",
+                                            "tokenCum": 579,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "makes further provision in connection with Help-to-Save accounts.",
+                                            "tokenCum": 592,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 36,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 86,
+                            "tokenSum": 142,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Income tax treatment of Government contributions under section 1 or 2",
+                            "tokenCum": 606,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In Chapter 9 of Part 6 of the Income Tax (Trading and Other Income) Act2005 (other exempt income), after section 775 insert\u2014",
+                                    "tokenCum": 646,
+                                    "wordSum": 22,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c775AGovernment bonus for savings account or other investment plan",
+                                    "tokenCum": 663,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "No liability to income tax arises in respect of a payment of, or in respectof, a government bonus under section 1 or 2 of the Savings (GovernmentContributions) Act 2017.\u201d",
+                                            "tokenCum": 712,
+                                            "wordSum": 29,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (3) applies to a Lifetime ISA or Help-to-Save account whichwould be treated, by virtue of any of sections 564E to 564G of the Income TaxAct 2007, as an alternative finance arrangement but for the payment of agovernment bonus under this Act.",
+                                            "tokenCum": 786,
+                                            "wordSum": 42,
+                                            "tokenSum": 77,
+                                            "tokenCount": 77
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A Lifetime ISA or Help-to-Save account to which this subsection applies isto be treated, for the purposes of Part 10A of the Income Tax Act 2007, as analternative finance arrangement.",
+                                            "tokenCum": 839,
+                                            "wordSum": 30,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201calternative finance arrangement\u201d has the meaning given bysection 564A of the Income Tax Act 2007.",
+                                            "tokenCum": 872,
+                                            "wordSum": 18,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        }
+                                    ],
+                                    "wordSum": 128,
+                                    "tokenSum": 240,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 161,
+                            "tokenSum": 297,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Regulations ",
+                            "tokenCum": 875,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Any power to make regulations under this Act is exercisable by statutoryinstrument.",
+                                    "tokenCum": 895,
+                                    "wordSum": 12,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A statutory instrument containing (whether alone or with other provision)\u2014",
+                                    "tokenCum": 911,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the first regulations under section 1(5),",
+                                            "tokenCum": 922,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the first regulations under any of paragraphs 4, 7(1)(a), 7(3), 7(4), 7(5),8(2), 8(7) and 11 of Schedule 1,",
+                                            "tokenCum": 975,
+                                            "wordSum": 18,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "regulations under paragraph 17(5) of Schedule 1 which result in a specifiedamount being increased,",
+                                            "tokenCum": 999,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "regulations under paragraph 3(6)(a) of Schedule 2 which result in thematurity period being shortened,",
+                                            "tokenCum": 1026,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "the first regulations under any of paragraphs 3(7), 5(1), 6(1), 7(2),10(1)(b), 15(2) and 16 of Schedule 2, or",
+                                            "tokenCum": 1079,
+                                            "wordSum": 18,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "regulations under paragraph 10(2) of Schedule 2 which result in the maximummonthly amount being decreased,",
+                                            "tokenCum": 1106,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "is not to be made unless a draft of the instrument has been laid before, andapproved by a resolution of, the House of Commons.",
+                                                    "tokenCum": 1135,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 63,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 119,
+                                    "tokenSum": 264,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A statutory instrument which\u2014",
+                                    "tokenCum": 1142,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "contains regulations under this Act, and",
+                                            "tokenCum": 1150,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "is not subject to a requirement that a draft of the instrument be laidbefore, and approved by a resolution of, the House of Commons,",
+                                            "tokenCum": 1178,
+                                            "wordSum": 24,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "is subject to annulment in pursuance of a resolution of the House of Commons.",
+                                            "tokenCum": 1197,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 73,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subsection (3) does not apply to regulations under section 6(3).",
+                                    "tokenCum": 1215,
+                                    "wordSum": 10,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "For the purposes of subsection (2)(b), regulations under paragraph 2(2) ofSchedule 1 that could be made under a provision listed in subsection (2)(b)are treated as regulations under that provision.",
+                                    "tokenCum": 1265,
+                                    "wordSum": 29,
+                                    "tokenSum": 52,
+                                    "tokenCount": 52
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Regulations under this Act may\u2014",
+                                    "tokenCum": 1272,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "apply generally or only in specified cases or circumstances;",
+                                            "tokenCum": 1282,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make different provision for different cases or circumstances;",
+                                            "tokenCum": 1291,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "include consequential, supplementary or incidental provision;",
+                                            "tokenCum": 1303,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "include transitory or transitional provision or savings.",
+                                            "tokenCum": 1314,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 63,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 254,
+                            "tokenSum": 498,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Interpretation and amendments",
+                            "tokenCum": 1321,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1325,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cHelp-to-Save account\u201d has the meaning given by paragraph 3 of Schedule 2, ",
+                                            "tokenCum": 1350,
+                                            "wordSum": 13,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cHMRC\u201d means the Commissioners for Her Majesty\u2019s Revenue and Customs, ",
+                                            "tokenCum": 1373,
+                                            "wordSum": 11,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cLifetime ISA\u201d has the meaning given by section 1(2), and ",
+                                            "tokenCum": 1395,
+                                            "wordSum": 11,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cTreasury regulations\u201d means regulations made by the Treasury. ",
+                                            "tokenCum": 1415,
+                                            "wordSum": 9,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 108,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In Schedule 2 to the Northern Ireland Act 1998 (excepted matters), beforeparagraph 10 insert\u2014",
+                                    "tokenCum": 1442,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c9DBonuses under the Savings (Government Contributions) Act 2017.\u201d",
+                                            "tokenCum": 1466,
+                                            "wordSum": 8,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 22,
+                                    "tokenSum": 56,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In paragraph 19(1) of Schedule 36 to the Finance Act 2008 (information notcovered by information notices), before the \u201cor\u201d at the end of paragraph (a)insert\u2014",
+                                    "tokenCum": 1515,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "\u201c(aa)",
+                                            "text": "information that relates to the conduct of a pending appeal under theSavings (Government Contributions) Act 2017 or any part of a documentcontaining such information,\u201d.",
+                                            "tokenCum": 1557,
+                                            "wordSum": 24,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 49,
+                                    "tokenSum": 96,
+                                    "tokenCount": 50
+                                }
+                            ],
+                            "wordSum": 121,
+                            "tokenSum": 268,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title and commencement",
+                            "tokenCum": 1563,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Savings (Government Contributions) Act 2017.",
+                                    "tokenCum": 1588,
+                                    "wordSum": 12,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on the day after that on which it is passed,subject to subsection (3).",
+                                    "tokenCum": 1611,
+                                    "wordSum": 18,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The duty under section 2 does not apply in relation to accounts openedbefore such date as may be specified in Treasury regulations.",
+                                    "tokenCum": 1639,
+                                    "wordSum": 22,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Without prejudice to the generality of section 4(6)(a) and (b), differentdates may be specified under subsection (3) in relation to differentdescriptions of eligible persons (see paragraph 4 of Schedule 2), and any suchdescription may be framed in a way that results in different dates beingspecified under subsection (3) for different areas.",
+                                    "tokenCum": 1724,
+                                    "wordSum": 51,
+                                    "tokenSum": 87,
+                                    "tokenCount": 87
+                                }
+                            ],
+                            "wordSum": 107,
+                            "tokenSum": 176,
+                            "tokenCount": 6
+                        }
+                    ],
+                    "wordSum": 958,
+                    "tokenSum": 1769,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 992,
+            "tokenSum": 1883,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2017/2/enacted?view=plain",
+    "title": "Savings (Government Contributions) Act 2017",
+    "longtitle": "An Act to make provision for, and in connection with, government bonuses in respect of additions to savings accounts and other investment plans.",
+    "date": "[16th January 2017]",
+    "wordSum": 992,
+    "tokenSum": 1884,
+    "tokenCount": 0,
+    "totalTokens": 1884
+}

@@ -1,0 +1,1418 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2011/3/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "National Insurance Contributions Act 2011",
+                    "tokenCum": 56,
+                    "wordSum": 5,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2011 CHAPTER 3",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for and in connection with increasing rates ofnational insurance contributions and a regional secondary Class 1contributions holiday for new businesses.",
+                            "tokenCum": 99,
+                            "wordSum": 25,
+                            "tokenSum": 36,
+                            "tokenCount": 36
+                        }
+                    ],
+                    "wordSum": 28,
+                    "tokenSum": 45,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[22nd March 2011]",
+                    "tokenCum": 110,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 167,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 1Increases in rates",
+                            "tokenCum": 175,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Class 1 contributions",
+                                    "tokenCum": 179,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 8(2) of SSCBA 1992 and SSCB(NI)A 1992 (calculation of primaryClass 1 percentages)\u2014",
+                                            "tokenCum": 219,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in paragraph (a) (main primary percentage), for \u201c11\u201d substitute \u201c12\u201d, and",
+                                                    "tokenCum": 240,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph (b) (additional primary percentage), for \u201c1\u201d substitute \u201c2\u201d.",
+                                                    "tokenCum": 259,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 91,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 9(2) of SSCBA 1992 and SSCB(NI)A 1992 (calculation of secondaryClass 1 percentage), for \u201c12.8\u201d substitute \u201c13.8\u201d.",
+                                            "tokenCum": 311,
+                                            "wordSum": 18,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 152,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Class 4 contributions",
+                                    "tokenCum": 315,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 15(3ZA) of SSCBA 1992 and SSCB(NI)A 1992 (Class 4 percentages)\u2014",
+                                            "tokenCum": 354,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in paragraph (a) (main Class 4 percentage), for \u201c8\u201d substitute \u201c9\u201d, and",
+                                                    "tokenCum": 375,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph (b) (additional Class 4 percentage), for \u201c1\u201d substitute \u201c2\u201d.",
+                                                    "tokenCum": 396,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 92,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 143(4)(b) of SSAA 1992 (power to alter contributions with a viewto adjusting level of National Insurance Fund: main Class 4 percentage not tobe increased to more than 8.25 per cent), for \u201c8.25\u201d substitute \u201c9.25\u201d.",
+                                            "tokenCum": 468,
+                                            "wordSum": 36,
+                                            "tokenSum": 75,
+                                            "tokenCount": 75
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 173,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Increased product of additional rates to be paid into National InsuranceFund",
+                                    "tokenCum": 485,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In section 162(5) of SSAA 1992 and section 142(5) of SSA(NI)A 1992(destination of contributions: 100 per cent of product of additional primarypercentage rate and additional Class 4 percentage rate to form part of healthservice allocation), for \u201c100\u201d substitute \u201c50\u201d.",
+                                            "tokenCum": 568,
+                                            "wordSum": 39,
+                                            "tokenSum": 86,
+                                            "tokenCount": 86
+                                        }
+                                    ],
+                                    "wordSum": 50,
+                                    "tokenSum": 105,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 184,
+                            "tokenSum": 439,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 2Regional secondary contributions holiday for new businesses",
+                            "tokenCum": 581,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Holiday for new businesses",
+                                    "tokenCum": 587,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 592,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person, or a number of persons in partnership, (\u201cP\u201d) starts a newbusiness during the relevant period,",
+                                                    "tokenCum": 619,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the principal place at which the new business is carried on when it isstarted is not in any of the excluded regions, and",
+                                                    "tokenCum": 646,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "one or more persons are qualifying employees in relation to the newbusiness.",
+                                                    "tokenCum": 662,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 90,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The appropriate amount in respect of each qualifying employee may be\u2014",
+                                            "tokenCum": 675,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "deducted from Class 1 contributions payments which P is liable to make, or",
+                                                    "tokenCum": 693,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "refunded to P.",
+                                                    "tokenCum": 699,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 48,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 5 defines what is meant by \u201cstarting a new business\u201d.",
+                                            "tokenCum": 714,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "\u201cThe relevant period\u201d is the period\u2014",
+                                            "tokenCum": 723,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "beginning with 22 June 2010, and",
+                                                    "tokenCum": 736,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ending with 5 September 2013.",
+                                                    "tokenCum": 747,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 44,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "\u201cThe excluded regions\u201d are Greater London, the South East Region and theEastern Region.",
+                                            "tokenCum": 768,
+                                            "wordSum": 13,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Section 6 specifies when a person is a qualifying employee in relation to anew business.",
+                                            "tokenCum": 788,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Section 7 specifies what is the appropriate amount in respect of aqualifying employee.",
+                                            "tokenCum": 806,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Section 8 explains how a deduction or refund is made.",
+                                            "tokenCum": 820,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Section 9 makes provision requiring the retention of records.",
+                                            "tokenCum": 832,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "Section 10 contains an anti-avoidance rule.",
+                                            "tokenCum": 845,
+                                            "wordSum": 6,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "Section 11 makes provision for the interpretation of this Part.",
+                                            "tokenCum": 858,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 191,
+                                    "tokenSum": 340,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Starting a new business",
+                                    "tokenCum": 862,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "P \u201cstarts\u201d a new business when P begins to carry on a new business.",
+                                            "tokenCum": 879,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A business is not a \u201cnew\u201d business if\u2014",
+                                            "tokenCum": 890,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "P has, at any time during the period of 6 months ending with the time whenP begins to carry it on, carried on another business consisting of theactivities of which the business consists (or most of them), or",
+                                                    "tokenCum": 936,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "P carries it on as a result of a transfer (within the meaning of subsection(3)).",
+                                                    "tokenCum": 958,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 90,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "P carries on a business as a result of a transfer if P begins to carry onthe business on another person ceasing to carry on the activities of which itconsists (or most of them) in consequence of arrangements involving P and theother person.",
+                                            "tokenCum": 1011,
+                                            "wordSum": 43,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (3) P is to be taken to begin to carry on abusiness on another person ceasing to carry on such activities if\u2014",
+                                            "tokenCum": 1045,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the business begins to be carried on by P otherwise than in partnership onsuch activities ceasing to be carried on by persons in partnership, or",
+                                                    "tokenCum": 1075,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "P is a number of persons in partnership who begin to carry on the businesson such activities ceasing to be carried on\u2014",
+                                                    "tokenCum": 1101,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "by a person, or a number of persons, otherwise than in partnership,",
+                                                    "tokenCum": 1117,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "by persons in a partnership not consisting only of all the personsconstituting P, or",
+                                                    "tokenCum": 1136,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "partly as mentioned in sub-paragraph (i) and partly as mentioned in sub-paragraph (ii).",
+                                                    "tokenCum": 1157,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 113,
+                                            "tokenSum": 169,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "P is not to be regarded as starting a new business by beginning to carry ona business if\u2014",
+                                            "tokenCum": 1177,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "before P begins to carry on the business, P is a party to arrangementsunder which P may (at any time during the relevant period) carry on as part ofthe business activities carried on by any other person, and",
+                                                    "tokenCum": 1222,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the business would have been prevented by subsection (2)(b) from being anew business had\u2014",
+                                                    "tokenCum": 1244,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "P begun to carry on the activities when beginning to carry on the business,and",
+                                                    "tokenCum": 1260,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the other person at that time ceased to carry them on.",
+                                                    "tokenCum": 1272,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 95,
+                                            "tokenSum": 134,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section \u201cbusiness\u201d means something which is\u2014",
+                                            "tokenCum": 1284,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a trade, profession or vocation for the purposes of the Income Tax Acts orthe Corporation Tax Acts,",
+                                                    "tokenCum": 1308,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a property business (within the meaning of section 263(6) of the Income Tax(Trading and Other Income) Act 2005), or",
+                                                    "tokenCum": 1346,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an investment business (that is, a business consisting wholly or partly ofmaking investments).",
+                                                    "tokenCum": 1366,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 109,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 387,
+                                    "tokenSum": 584,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Qualifying employees",
+                                    "tokenCum": 1369,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person is a \u201cqualifying employee\u201d in relation to a new business if\u2014",
+                                            "tokenCum": 1386,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the person first becomes employed as an employed earner for the purposes ofthe new business before the end of the initial period, and",
+                                                    "tokenCum": 1412,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "P is the secondary contributor in relation to any payment of earnings to orfor the benefit of the person in respect of the employment at any time duringthe period that is the holiday period in relation to the person.",
+                                                    "tokenCum": 1458,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 100,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where (apart from this subsection) there would be more than 10 qualifyingemployees, only the first 10 persons who become qualifying employees arequalifying employees.",
+                                            "tokenCum": 1498,
+                                            "wordSum": 23,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The \u201cinitial period\u201d means the period of one year beginning with\u2014",
+                                            "tokenCum": 1512,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the date on which P starts the new business, or",
+                                                    "tokenCum": 1523,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if earlier, the first date on which a person first becomes employed as anemployed earner for the purposes of the new business,",
+                                                    "tokenCum": 1551,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "but if the first date on which a person first becomes employed as an employedearner for the purposes of the new business is before 22 June 2010, the personis to be taken for the purposes of paragraph (b) as first so employed on thatdate.",
+                                                            "tokenCum": 1609,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 63,
+                                                            "tokenCount": 63
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 127,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The \u201choliday period\u201d, in relation to a person, is the period\u2014",
+                                            "tokenCum": 1625,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "beginning with the day on which the person first becomes employed as anemployed earner for the purposes of the new business or, if the person firstbecomes so employed before 6 September 2010, with that date, and",
+                                                    "tokenCum": 1675,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ending with the earlier of\u2014",
+                                                    "tokenCum": 1681,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the end of the period of one year beginning with the day on which itbegins, and",
+                                                    "tokenCum": 1700,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the end of the relevant period.",
+                                                    "tokenCum": 1707,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 117,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "None of the following has effect for the purposes of this Part\u2014",
+                                            "tokenCum": 1720,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Social Security Contributions (Intermediaries) Regulations 2000 ([S.I.2000/727](/id/uksi/2000/727?view=plain \"Go to item of legislation\")) and theSocial Security Contributions (Intermediaries) (Northern Ireland) Regulations2000 ([S.I. 2000/728](/id/uksi/2000/728?view=plain \"Go to item oflegislation\")) (which provide in certain cases for an intermediary to betreated as the secondary contributor in relation to the payment of earnings),and",
+                                                    "tokenCum": 1872,
+                                                    "wordSum": 48,
+                                                    "tokenSum": 156,
+                                                    "tokenCount": 156
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Social Security Contributions (Managed Service Companies) Regulations2007 ([S.I. 2007/2070](/id/uksi/2007/2070?view=plain \"Go to item oflegislation\")) (which provide in certain cases for a managed service companyto be treated as the secondary contributor in relation to the payment ofearnings).",
+                                                    "tokenCum": 1962,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 94,
+                                                    "tokenCount": 94
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 266,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 357,
+                                    "tokenSum": 658,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "The appropriate amount",
+                                    "tokenCum": 1965,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The appropriate amount in respect of a qualifying employee is the relevantamount of secondary Class 1 contributions.",
+                                            "tokenCum": 1986,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "\u201cThe relevant amount of secondary Class 1 contributions\u201d is the amount ofsecondary Class 1 contributions which P is liable to pay in respect ofrelevant earnings.",
+                                            "tokenCum": 2022,
+                                            "wordSum": 25,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "\u201cRelevant earnings\u201d are earnings paid to or for the benefit of thequalifying employee, in respect of employment as an employed earner for thepurposes of the new business, at any time during the holiday period when theprincipal place at which the business is carried on is not in any of theexcluded regions.",
+                                            "tokenCum": 2092,
+                                            "wordSum": 51,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But if (apart from this subsection) the relevant amount of secondary Class1 contributions would exceed \u00a35,000, it is the first \u00a35,000 which P becomesliable to pay.",
+                                            "tokenCum": 2137,
+                                            "wordSum": 26,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In the case of a qualifying employee who is a mariner, the reference insubsection (3) to earnings paid at any time during the holiday periodincludes, in relation to earnings paid for a voyage beginning in the holidayperiod but ending after it, earnings earned in the part of the voyage periodfalling within the holiday period.",
+                                            "tokenCum": 2210,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201cMariner\u201d and \u201cvoyage period\u201d have the meaning given by regulation 115 of the2001 Regulations.",
+                                                    "tokenCum": 2240,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 110,
+                                            "tokenCount": 75
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If P is liable to pay secondary Class 1 contributions at the contracted-outrate, P is to be treated for the purposes of subsection (2) as liable to paythem at the non-contracted-out rate; and for this purpose \u201ccontracted-outrate\u201d and \u201cnon-contracted-out rate\u201d have the same meaning as in the 2001Regulations.",
+                                            "tokenCum": 2330,
+                                            "wordSum": 48,
+                                            "tokenSum": 93,
+                                            "tokenCount": 93
+                                        }
+                                    ],
+                                    "wordSum": 238,
+                                    "tokenSum": 392,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Making of deductions or refunds",
+                                    "tokenCum": 2339,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "To the extent that the appropriate amount is attributable to secondaryClass 1 contributions payable in respect of earnings paid in a tax year it maybe deducted from any one or more Class 1 contributions payments made by P inrespect of that tax year.",
+                                            "tokenCum": 2394,
+                                            "wordSum": 43,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the amount which P would be entitled to deduct under this sectionexceeds the amount of the payments from which it can be deducted, HMRC mustinstead refund the excess to P if P requests them to do so.",
+                                            "tokenCum": 2445,
+                                            "wordSum": 38,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "No deduction or refund may be made under this section until an applicationhas been submitted to, and granted by, HMRC.",
+                                            "tokenCum": 2473,
+                                            "wordSum": 20,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An application must contain such information, and must be made in such formand manner, as is specified by HMRC.",
+                                            "tokenCum": 2498,
+                                            "wordSum": 19,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "No application may be made for a refund in respect of a qualifying employeeafter the end of the period of 4 years beginning with the day on which thelast deduction could be made in respect of the qualifying employee.",
+                                            "tokenCum": 2545,
+                                            "wordSum": 39,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "For the purposes of\u2014",
+                                            "tokenCum": 2550,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "Part 2 of the Social Security Contributions (Transfer of Functions, etc.)Act 1999, and",
+                                                    "tokenCum": 2577,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Part 3 of the Social Security Contributions (Transfer of Functions, etc.)(Northern Ireland) Order 1999 ([S.I. 1999/671](/id/uksi/1999/671?view=plain\"Go to item of legislation\")),",
+                                                    "tokenCum": 2649,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "(decisions and appeals), the decisions to which this subsection applies aredecisions of an officer of Revenue and Customs under section 8 of that Act orArticle 7 of that Order.",
+                                                            "tokenCum": 2695,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        }
+                                                    ],
+                                                    "wordSum": 49,
+                                                    "tokenSum": 127,
+                                                    "tokenCount": 75
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 166,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Subsection (6) applies to\u2014",
+                                            "tokenCum": 2703,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a decision whether P is or was entitled to make a deduction under thissection and, if so, the amount that P is or was entitled to deduct, and",
+                                                    "tokenCum": 2737,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a decision whether P is entitled to a refund under this section and, if so,the amount of the refund.",
+                                                    "tokenCum": 2762,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 78,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 281,
+                                    "tokenSum": 476,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Retention of records",
+                                    "tokenCum": 2766,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where P is or was entitled to make a deduction undersection 8 in respect of a qualifying employee.",
+                                            "tokenCum": 2792,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "P must keep and preserve any documents or records relating to\u2014",
+                                            "tokenCum": 2805,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "P\u2019s entitlement to make a deduction in respect of the employee, and",
+                                                    "tokenCum": 2823,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the calculation of any amount that has been, or could have been, deducted,",
+                                                    "tokenCum": 2840,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "for not less than 3 years beginning with the date on which the last deductionunder section 8 is, or could be, made in respect of the employee.",
+                                                            "tokenCum": 2874,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 40,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 98,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Accordingly, the duty imposed by paragraph 26(1) of Schedule 4 to the 2001Regulations (retention by employer of contribution and election records) doesnot apply to any such documents or records.",
+                                            "tokenCum": 2925,
+                                            "wordSum": 29,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The duty imposed by this section may be discharged by preserving thedocuments or records in any form or by any means.",
+                                            "tokenCum": 2953,
+                                            "wordSum": 21,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of Schedule 36 to the Finance Act 2008 (information andinspection powers), as applied by section 110ZA of SSAA 1992 and section 104ZAof SSA(NI)A 1992, the duty imposed by this section is to be treated as if itwere a duty imposed under or by virtue of SSCBA 1992 or SSCB(NI)A 1992.",
+                                            "tokenCum": 3064,
+                                            "wordSum": 53,
+                                            "tokenSum": 114,
+                                            "tokenCount": 114
+                                        }
+                                    ],
+                                    "wordSum": 190,
+                                    "tokenSum": 332,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Anti-avoidance ",
+                                    "tokenCum": 3070,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Part does not apply if P starts the new business pursuant to avoidancearrangements.",
+                                            "tokenCum": 3091,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Arrangements are \u201cavoidance arrangements\u201d if the main purpose, or one ofthe main purposes, of P in being a party to them is to secure that activitieswhich might otherwise have been carried on as part of another business(whether by P or any other person) are carried on by P as part of the newbusiness in order to obtain deductions or refunds (or increased deductions orrefunds) under this Part.",
+                                            "tokenCum": 3185,
+                                            "wordSum": 67,
+                                            "tokenSum": 97,
+                                            "tokenCount": 97
+                                        }
+                                    ],
+                                    "wordSum": 82,
+                                    "tokenSum": 129,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Interpretation of Part 2",
+                                    "tokenCum": 3192,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Part\u2014",
+                                            "tokenCum": 3196,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe 2001 Regulations\u201d means the Social Security (Contributions) Regulations 2001 ([S.I. 2001/1004](/id/uksi/2001/1004?view=plain \"Go to item of legislation\")); ",
+                                                    "tokenCum": 3267,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe appropriate amount\u201d is to be read in accordance with section 7; ",
+                                                    "tokenCum": 3287,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201carrangements\u201d includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable); ",
+                                                    "tokenCum": 3319,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cClass 1 contributions payments\u201d means payments under\u2014 ",
+                                                    "tokenCum": 3335,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "paragraph 10 of Schedule 4 to the 2001 Regulations (monthly payments), or",
+                                                    "tokenCum": 3335,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "paragraph 11 of that Schedule (quarterly payments);",
+                                                    "tokenCum": 3360,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe Eastern Region\u201d means\u2014 ",
+                                                            "tokenCum": 3385,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 12,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the counties of Bedford, Cambridgeshire, Central Bedfordshire, Essex,Hertfordshire, Norfolk and Suffolk, and",
+                                                    "tokenCum": 3385,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the non-metropolitan districts of Luton, Peterborough, Southend-on-Sea andThurrock;",
+                                                    "tokenCum": 3418,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe excluded regions\u201d has the meaning given by section 4(5); ",
+                                                            "tokenCum": 3465,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cHMRC\u201d means the Commissioners for Her Majesty\u2019s Revenue and Customs; ",
+                                                            "tokenCum": 3488,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201choliday period\u201d has the meaning given by section 6(4); ",
+                                                            "tokenCum": 3507,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cqualifying employee\u201d has the meaning given by section 6; ",
+                                                            "tokenCum": 3524,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe relevant period\u201d has the meaning given by section 4(4); ",
+                                                            "tokenCum": 3543,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe South East Region\u201d means\u2014 ",
+                                                            "tokenCum": 3554,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 67,
+                                                    "tokenSum": 170,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the counties of Buckinghamshire, East Sussex, Hampshire, the Isle of Wight,Kent, Oxfordshire, Surrey and West Sussex, and",
+                                                    "tokenCum": 3554,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the non-metropolitan districts of Bracknell Forest, Brighton and Hove, Medway,Milton Keynes, Portsmouth, Reading, Slough, Southampton, West Berkshire,Windsor and Maidenhead and Wokingham.",
+                                                    "tokenCum": 3590,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 62
+                                                }
+                                            ],
+                                            "wordSum": 200,
+                                            "tokenSum": 534,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Expressions used in this Part and in Part 1 of SSCBA 1992 or SSCB(NI)A 1992have the same meaning for the purposes of this Part as they have for thepurposes of that Part.",
+                                            "tokenCum": 3701,
+                                            "wordSum": 32,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        }
+                                    ],
+                                    "wordSum": 236,
+                                    "tokenSum": 599,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 1970,
+                            "tokenSum": 3524,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Part 3General",
+                            "tokenCum": 3705,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Abbreviations of Acts",
+                                    "tokenCum": 3712,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3716,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSAA 1992\u201d means the Social Security Administration Act 1992; ",
+                                            "tokenCum": 3740,
+                                            "wordSum": 10,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSA(NI)A 1992\u201d means the Social Security Administration (Northern Ireland) Act 1992; ",
+                                            "tokenCum": 3774,
+                                            "wordSum": 12,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCBA 1992\u201d means the Social Security Contributions and Benefits Act 1992; ",
+                                            "tokenCum": 3805,
+                                            "wordSum": 12,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cSSCB(NI)A 1992\u201d means the Social Security Contributions and Benefits (Northern Ireland) Act 1992. ",
+                                            "tokenCum": 3845,
+                                            "wordSum": 14,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 157,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Commencement ",
+                                    "tokenCum": 3849,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Part 1 comes into force on 6 April 2011.",
+                                            "tokenCum": 3865,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Part 2 and this Part come into force on the day on which this Act ispassed.",
+                                            "tokenCum": 3885,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 26,
+                                    "tokenSum": 48,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Extent ",
+                                    "tokenCum": 3888,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The amendments made by Part 1 have the same extent as the provisions towhich they relate.",
+                                            "tokenCum": 3910,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Part 2 and this Part extend to England and Wales, Scotland and NorthernIreland.",
+                                            "tokenCum": 3928,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 51,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Short title",
+                                    "tokenCum": 3930,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the National Insurance Contributions Act 2011.",
+                                            "tokenCum": 3952,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 29,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 3952,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 126,
+                            "tokenSum": 292,
+                            "tokenCount": 4
+                        }
+                    ],
+                    "wordSum": 2316,
+                    "tokenSum": 4313,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2353,
+            "tokenSum": 4428,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2011/3/enacted?view=plain",
+    "title": "National Insurance Contributions Act 2011",
+    "longtitle": "An Act to make provision for and in connection with increasing rates of national insurance contributions and a regional secondary Class 1 contributions holiday for new businesses.",
+    "date": "[22nd March 2011]",
+    "wordSum": 2353,
+    "tokenSum": 4429,
+    "tokenCount": 0,
+    "totalTokens": 4429
+}

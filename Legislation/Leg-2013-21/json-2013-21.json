@@ -1,0 +1,690 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2013/21/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Partnerships (Prosecution) (Scotland) Act 2013",
+                    "tokenCum": 63,
+                    "wordSum": 5,
+                    "tokenSum": 20,
+                    "tokenCount": 19
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2013 CHAPTER 21",
+                    "tokenCum": 72,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the prosecution in Scotland of partnerships,partners and others following dissolution or changes in membership.",
+                            "tokenCum": 100,
+                            "wordSum": 20,
+                            "tokenSum": 29,
+                            "tokenCount": 29
+                        }
+                    ],
+                    "wordSum": 23,
+                    "tokenSum": 39,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[25th April 2013]",
+                    "tokenCum": 111,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 168,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Prosecution after dissolution",
+                            "tokenCum": 174,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Prosecution of dissolved partnership",
+                                    "tokenCum": 182,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section and sections 2 and 3 apply where\u2014",
+                                            "tokenCum": 194,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a partnership is dissolved, and",
+                                                    "tokenCum": 202,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an offence is alleged to have been committed by the partnership beforedissolution.",
+                                                    "tokenCum": 223,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 52,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The partnership may be prosecuted, or continue to be prosecuted, for theoffence as if it had not been dissolved.",
+                                            "tokenCum": 253,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But it is not competent to commence proceedings against the partnership byvirtue of subsection (2) if a period of more than 5 years has elapsed sincethe partnership was dissolved.",
+                                            "tokenCum": 297,
+                                            "wordSum": 29,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (3), proceedings are commenced on the dateon which an indictment or, as the case may be, a complaint is served on thepartnership.",
+                                            "tokenCum": 339,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (3) is without prejudice to section 136 of the CriminalProcedure (Scotland) Act 1995 (time limit for certain offences).",
+                                            "tokenCum": 380,
+                                            "wordSum": 19,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where a partnership is convicted of an offence by virtue of subsection (2),any enactment or rule of law relating to the liability of partners on theconviction of a partnership applies as if the partnership had not beendissolved.",
+                                            "tokenCum": 437,
+                                            "wordSum": 37,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "But subsection (6) is subject to section 3 (which disapplies provisionsrestricting payment of fines to partnership assets).",
+                                            "tokenCum": 467,
+                                            "wordSum": 17,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 178,
+                                    "tokenSum": 324,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Dissolution of partnership: proceedings against former partner or otherperson",
+                                    "tokenCum": 483,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person, who could have been prosecuted for the offence committed by thepartnership had it not been dissolved, may be prosecuted, or may continue tobe prosecuted, despite the dissolution.",
+                                            "tokenCum": 530,
+                                            "wordSum": 29,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) applies irrespective of whether the partnership has been oris prosecuted for the offence but not where the partnership has been soprosecuted and acquitted.",
+                                            "tokenCum": 571,
+                                            "wordSum": 25,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In proceedings against a person by virtue of subsection (1), evidence ledmay include evidence as to the commission of the offence by the partnership.",
+                                            "tokenCum": 603,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 87,
+                                    "tokenSum": 147,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Payment of fine where dissolved partnership convicted",
+                                    "tokenCum": 614,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "An enactment, in so far as it restricts to payment out of a partnership\u2019sassets the payment of a fine imposed on the partnership on its conviction ofan offence, does not apply in the case of a partnership which has beendissolved.",
+                                            "tokenCum": 674,
+                                            "wordSum": 40,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 76,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 315,
+                            "tokenSum": 554,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Prosecution after change in membership",
+                            "tokenCum": 681,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Prosecution of partnership after change in membership",
+                                    "tokenCum": 691,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section and section 5 apply where\u2014",
+                                            "tokenCum": 700,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "there is a change in the membership of a partnership,",
+                                                    "tokenCum": 712,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the partnership continues to carry on business after the change, and",
+                                                    "tokenCum": 725,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an offence is alleged to have been committed by the partnership before thechange.",
+                                                    "tokenCum": 743,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 67,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The partnership may be prosecuted, or continue to be prosecuted, for theoffence.",
+                                            "tokenCum": 765,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of this section and section 5, any enactment or rule oflaw, by virtue of which a change in membership of a partnership results in anew partnership being constituted, does not apply.",
+                                            "tokenCum": 811,
+                                            "wordSum": 34,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section and section 5, there is a change in the membership of apartnership where\u2014",
+                                            "tokenCum": 832,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a partner dies or, if not an individual, ceases to exist,",
+                                                    "tokenCum": 847,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a partner resigns, retires or is expelled from the partnership, or",
+                                                    "tokenCum": 865,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a person is admitted as a partner into the partnership.",
+                                                    "tokenCum": 877,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 81,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 142,
+                                    "tokenSum": 234,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Change in membership of partnership: proceedings against partner or otherperson",
+                                    "tokenCum": 891,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person, who could have been prosecuted for the offence committed by thepartnership had there not been a change in membership, may be prosecuted, ormay continue to be prosecuted, for the offence despite the change inmembership.",
+                                            "tokenCum": 947,
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (1) applies irrespective of whether the partnership has been oris prosecuted for the offence but not where the partnership has been soprosecuted and acquitted.",
+                                            "tokenCum": 988,
+                                            "wordSum": 25,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In proceedings against a person by virtue of subsection (1), evidence ledmay include evidence as to the commission of the offence by the partnership.",
+                                            "tokenCum": 1020,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 95,
+                                    "tokenSum": 154,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 242,
+                            "tokenSum": 396,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General and miscellaneous",
+                            "tokenCum": 1025,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Consequential amendments",
+                                    "tokenCum": 1031,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Partnership Act 1890 is amended as follows.",
+                                            "tokenCum": 1047,
+                                            "wordSum": 8,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 38 (continuing authority of partners for purposes of winding upetc.), after third \u201cdissolution\u201d insert \u201c, and in relation to any prosecutionof the partnership by virtue of section 1 of the Partnerships (Prosecution)(Scotland) Act 2013\u201d.",
+                                            "tokenCum": 1116,
+                                            "wordSum": 36,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Criminal Procedure (Scotland) Act 1995 is amended as follows.",
+                                            "tokenCum": 1138,
+                                            "wordSum": 10,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 70 (solemn proceedings against organisations), in subsection(2), after paragraph (a) insert\u2014",
+                                            "tokenCum": 1165,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(aa)",
+                                                    "text": "in the case of a partnership prosecuted by virtue of section 1 of thePartnerships (Prosecution) (Scotland) Act 2013, the dwelling-house or place ofbusiness of any of the partners,\u201d.",
+                                                    "tokenCum": 1220,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 89,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 141 (summary proceedings: manner of citation), in subsection(2)\u2014",
+                                            "tokenCum": 1243,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in paragraph (b), after \u201cbody of trustees\u201d insert \u201cor a partnershipprosecuted by virtue of section 1 of the Partnerships (Prosecution) (Scotland)Act 2013\u201d,",
+                                                    "tokenCum": 1293,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "omit the word \u201cor\u201d immediately after that paragraph, and",
+                                                    "tokenCum": 1306,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "after paragraph (c) insert \u201cor",
+                                                    "tokenCum": 1314,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "where the accused is a partnership prosecuted by virtue of section 1 of thePartnerships (Prosecution) (Scotland) Act 2013, if the citation is left withany one of the partners who is resident in Scotland;\u201d.",
+                                                    "tokenCum": 1371,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 79,
+                                            "tokenSum": 170,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Secretary of State may by order made by statutory instrument make suchfurther amendments of any enactment as appear to the Secretary of State to benecessary or expedient in consequence of this Act.",
+                                            "tokenCum": 1417,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "An order under subsection (6) may not be made unless a draft of thestatutory instrument containing it has been laid before and approved by aresolution of each House of Parliament.",
+                                            "tokenCum": 1458,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "But an order under subsection (6) which does not contain provisionsamending any enactment contained in an Act or an Act of the ScottishParliament is subject to annulment in pursuance of a resolution of eitherHouse of Parliament.",
+                                            "tokenCum": 1511,
+                                            "wordSum": 36,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        }
+                                    ],
+                                    "wordSum": 275,
+                                    "tokenSum": 532,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 1515,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 1519,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references to an offence, in relation to its commission or allegedcommission by a partnership, are references to an offence that the partnershipis, by virtue of an enactment or rule of law, capable of committing separatelyfrom its partners,",
+                                                    "tokenCum": 1573,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "\u201cenactment\u201d includes an enactment contained\u2014",
+                                                    "tokenCum": 1585,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "in subordinate legislation (within the meaning of the Interpretation Act1978), or",
+                                                    "tokenCum": 1607,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in, or in an instrument made under, an Act of the Scottish Parliament.",
+                                                    "tokenCum": 1623,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 127,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 70,
+                                    "tokenSum": 133,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Short title, commencement and extent",
+                                    "tokenCum": 1631,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the Partnerships (Prosecution) (Scotland) Act2013.",
+                                            "tokenCum": 1658,
+                                            "wordSum": 11,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force on the day after the day on which this Act ispassed.",
+                                            "tokenCum": 1677,
+                                            "wordSum": 16,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act applies where the partnership is dissolved or there is a change inthe membership of the partnership on or after the day on which this Act comesinto force.",
+                                            "tokenCum": 1712,
+                                            "wordSum": 29,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This Act (other than section 3)\u2014",
+                                            "tokenCum": 1722,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "applies irrespective of when the offence mentioned in section 1(1)(b) or4(1)(c) is alleged to have been committed,",
+                                                    "tokenCum": 1756,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "applies to any proceedings in relation to such an offence which are ongoingon the day this Act comes into force as it applies in relation to proceedingscommenced after that day.",
+                                                    "tokenCum": 1795,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 94,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act extends only to Scotland.",
+                                            "tokenCum": 1802,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "But the amendment made by section 6(2), and any amendment made by an orderunder section 6(6), has the same extent as the enactment (or the relevant partof the enactment) to which it relates.",
+                                            "tokenCum": 1857,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 1857,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 62,
+                                            "tokenCount": 57
+                                        }
+                                    ],
+                                    "wordSum": 153,
+                                    "tokenSum": 266,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 501,
+                            "tokenSum": 937,
+                            "tokenCount": 5
+                        }
+                    ],
+                    "wordSum": 1094,
+                    "tokenSum": 1945,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1126,
+            "tokenSum": 2061,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2013/21/enacted?view=plain",
+    "title": "Partnerships (Prosecution) (Scotland) Act 2013",
+    "longtitle": "An Act to make provision about the prosecution in Scotland of partnerships, partners and others following dissolution or changes in membership.",
+    "date": "[25th April 2013]",
+    "wordSum": 1126,
+    "tokenSum": 2062,
+    "tokenCount": 0,
+    "totalTokens": 2062
+}

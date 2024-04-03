@@ -1,0 +1,525 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/1/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Stamp Duty Land Tax Act 2015",
+                    "tokenCum": 56,
+                    "wordSum": 6,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 1",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about stamp duty land tax on residential propertytransactions; and for connected purposes.",
+                            "tokenCum": 86,
+                            "wordSum": 17,
+                            "tokenSum": 23,
+                            "tokenCount": 23
+                        }
+                    ],
+                    "wordSum": 20,
+                    "tokenSum": 32,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th February 2015]",
+                    "tokenCum": 97,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Most Gracious Sovereign",
+                    "tokenCum": 103,
+                    "wordSum": 3,
+                    "tokenSum": 7,
+                    "tokenCount": 6
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "WE,  Your Majesty\u2019s most dutiful and loyal subjects, the Commons of the UnitedKingdom in Parliament assembled, towards raising the necessary supplies todefray Your Majesty\u2019s public expenses, have freely and voluntarily resolved tomake the provision hereinafter mentioned; and do therefore most humbly beseechYour Majesty that it may be enacted, and be it enacted by the Queen\u2019s mostExcellent Majesty, by and with the advice and consent of the Lords Spiritualand Temporal, and Commons, in this present Parliament assembled, and by theauthority of the same, as follows:\u2014",
+                    "tokenCum": 240,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Change in method of calculating tax on residential property transactions",
+                            "tokenCum": 251,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 55 of the Finance Act 2003 (general rules on calculating the amountof stamp duty land tax chargeable) is amended as follows.",
+                                    "tokenCum": 288,
+                                    "wordSum": 22,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In subsection (1) for \u201ca percentage of the chargeable consideration for thetransaction\u201d substitute \u201cdetermined in accordance with subsections (1B), (1C)and (2)\u201d.",
+                                    "tokenCum": 331,
+                                    "wordSum": 21,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After subsection (1A) insert\u2014",
+                                    "tokenCum": 340,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(1B)If the relevant land consists entirely of residential property and thetransaction is not one of a number of linked transactions, the amount of taxchargeable is determined as follows\u2014",
+                                            "tokenCum": 379,
+                                            "wordSum": 28,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * _Step 1_",
+                                            "tokenCum": 386,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 63,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Apply the rates specified in the second column of Table A below to the partsof the relevant consideration specified in the first column of that Table.",
+                                    "tokenCum": 416,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * _Step 2_",
+                                            "tokenCum": 423,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 29,
+                                    "tokenSum": 42,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Add together the amounts calculated at Step 1 (if there are two or more suchamounts).",
+                                    "tokenCum": 443,
+                                    "wordSum": 15,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "TABLE A: RESIDENTIAL",
+                                    "tokenCum": 451,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Part of relevant consideration| Rate  ---|---  So much as does not exceed \u00a3125,000| 0%  So much as exceeds \u00a3125,000 but does not exceed \u00a3250,000| 2%  So much as exceeds \u00a3250,000 but does not exceed \u00a3925,000| 5%  So much as exceeds \u00a3925,000 but does not exceed \u00a31,500,000| 10%  The remainder (if any)| 12%    ",
+                                            "tokenCum": 586,
+                                            "wordSum": 52,
+                                            "tokenSum": 138,
+                                            "tokenCount": 138
+                                        }
+                                    ],
+                                    "wordSum": 55,
+                                    "tokenSum": 148,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "(1C)If the relevant land consists entirely of residential property and thetransaction is one of a number of linked transactions, the amount of taxchargeable in respect of the particular transaction under consideration isdetermined as follows\u2014",
+                                    "tokenCum": 633,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * _Step 1_",
+                                            "tokenCum": 640,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 59,
+                                    "tokenCount": 48
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Apply the rates specified in the second column of Table A in subsection (1B)to the parts of the relevant consideration specified in the first column ofthat Table.",
+                                    "tokenCum": 675,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * _Step 2_",
+                                            "tokenCum": 682,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 47,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Add together the amounts calculated at Step 1 (if there are two or more suchamounts).",
+                                    "tokenCum": 702,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * _Step 3_",
+                                            "tokenCum": 709,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 18,
+                                    "tokenSum": 32,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Multiply the amount given by Step 1 or Step 2, as the case may be, by\u2014",
+                                    "tokenCum": 732,
+                                    "wordSum": 16,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "[![](/ukpga/2015/1/images/ukpga_20150001_en_001)](/ukpga/2015/1/images/ukpga_20150001_en_001?view=plain)",
+                                    "tokenCum": 804,
+                                    "wordSum": 1,
+                                    "tokenSum": 74,
+                                    "tokenCount": 74
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "where\u2014",
+                                    "tokenCum": 806,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "    * C is the chargeable consideration for the transaction, and",
+                                            "tokenCum": 819,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "    * R is the relevant consideration.\u201d",
+                                            "tokenCum": 827,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (2) for the words from the beginning of that subsection tothe end of Table A substitute\u2014",
+                                            "tokenCum": 851,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201cIf the relevant land consists of or includes land that is not residentialproperty, the amount of tax chargeable is the percentage of the chargeableconsideration for the transaction determined in accordance with Table B belowby reference to the amount of the relevant consideration.\u201d",
+                                            "tokenCum": 905,
+                                            "wordSum": 42,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In subsection (3) for \u201csubsection (2)\u201d substitute \u201csubsections (1B) and(2)\u201d.",
+                                            "tokenCum": 931,
+                                            "wordSum": 10,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In subsection (4) at the beginning insert \u201cFor the purposes of subsections(1C) and (2),\u201d.",
+                                            "tokenCum": 957,
+                                            "wordSum": 14,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Omit subsection (7).",
+                                            "tokenCum": 964,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The Schedule, which makes amendments consequential on the amendments madeby this section, has effect.",
+                                            "tokenCum": 988,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 118,
+                                    "tokenSum": 210,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 407,
+                            "tokenSum": 818,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Citation, commencement and transitional provision etc",
+                            "tokenCum": 999,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Stamp Duty Land Tax Act 2015.",
+                                    "tokenCum": 1021,
+                                    "wordSum": 13,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The amendments made by this Act have effect in relation to any landtransaction of which the effective date is, or is after, 4 December 2014.",
+                                    "tokenCum": 1057,
+                                    "wordSum": 25,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "But those amendments do not have effect in relation to a transaction if thepurchaser so elects and either\u2014",
+                                    "tokenCum": 1082,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the transaction is effected in pursuance of a contract entered into andsubstantially performed before 4 December 2014, or",
+                                            "tokenCum": 1113,
+                                            "wordSum": 18,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the transaction is effected in pursuance of a contract entered into beforethat date and is not excluded by subsection (5).",
+                                            "tokenCum": 1143,
+                                            "wordSum": 20,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 94,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An election under subsection (3)\u2014",
+                                    "tokenCum": 1152,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "must be included in the land transaction return made in respect of thetransaction or in an amendment of that return, and",
+                                            "tokenCum": 1177,
+                                            "wordSum": 21,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "must comply with any requirements specified by the Commissioners for HerMajesty\u2019s Revenue and Customs as to its form or the manner of its inclusion.",
+                                            "tokenCum": 1211,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 50,
+                                    "tokenSum": 76,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A transaction effected in pursuance of a contract entered into before 4December 2014 is excluded by this subsection if\u2014",
+                                    "tokenCum": 1243,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "there is any variation of the contract, or assignment (or assignation) ofrights under the contract, on or after 4 December 2014,",
+                                            "tokenCum": 1277,
+                                            "wordSum": 21,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the transaction is effected in consequence of the exercise on or after thatdate of any option, right of pre-emption or similar right, or",
+                                            "tokenCum": 1307,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "on or after that date there is an assignment (or assignation), subsale orother transaction relating to the whole or part of the subject-matter of thecontract as a result of which a person other than the purchaser under thecontract becomes entitled to call for a conveyance.",
+                                            "tokenCum": 1368,
+                                            "wordSum": 45,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 108,
+                                    "tokenSum": 168,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In subsections (3) to (5)\u2014",
+                                    "tokenCum": 1379,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cland transaction return\u201d, in relation to a transaction, means the return under section 76 of the Finance Act 2003 in respect of that transaction; ",
+                                            "tokenCum": 1417,
+                                            "wordSum": 25,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpurchaser\u201d has the same meaning as in Part 4 of that Act (see section 43(4) of that Act); ",
+                                            "tokenCum": 1450,
+                                            "wordSum": 19,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201csubstantially performed\u201d, in relation to a contract, has the same meaning as in that Part (see section 44(5) of that Act). ",
+                                            "tokenCum": 1487,
+                                            "wordSum": 22,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 1490,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 73,
+                                    "tokenSum": 136,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 331,
+                            "tokenSum": 548,
+                            "tokenCount": 11
+                        }
+                    ],
+                    "wordSum": 822,
+                    "tokenSum": 1504,
+                    "tokenCount": 137
+                }
+            ],
+            "wordSum": 855,
+            "tokenSum": 1613,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/1/enacted?view=plain",
+    "title": "Stamp Duty Land Tax Act 2015",
+    "longtitle": "An Act to make provision about stamp duty land tax on residential property transactions; and for connected purposes.",
+    "date": "[12th February 2015]",
+    "wordSum": 855,
+    "tokenSum": 1614,
+    "tokenCount": 0,
+    "totalTokens": 1614
+}

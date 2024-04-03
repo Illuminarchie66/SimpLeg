@@ -1,0 +1,1394 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/26/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Glue Traps (Offences) Act 2022",
+                    "tokenCum": 58,
+                    "wordSum": 5,
+                    "tokenSum": 15,
+                    "tokenCount": 14
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 26",
+                    "tokenCum": 67,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make certain uses of glue traps an offence; and for connectedpurposes.",
+                            "tokenCum": 88,
+                            "wordSum": 14,
+                            "tokenSum": 22,
+                            "tokenCount": 22
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 32,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[28th April 2022]",
+                    "tokenCum": 99,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 156,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Offences",
+                            "tokenCum": 158,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Offences relating to glue traps in England",
+                                    "tokenCum": 169,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person who sets a glue trap in England for the purpose of catching arodent commits an offence.",
+                                            "tokenCum": 193,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person who sets a glue trap in England in a manner which gives rise to arisk that a rodent will become caught in the glue trap commits an offence.",
+                                            "tokenCum": 229,
+                                            "wordSum": 30,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsections (1) and (2) do not apply if the glue trap is set under, and inaccordance with the terms of, a glue trap licence (see section 2).",
+                                            "tokenCum": 272,
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person who knowingly causes or permits an offence to be committed undersubsection (1) or (2) commits an offence.",
+                                            "tokenCum": 302,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A person commits an offence if the person\u2014",
+                                            "tokenCum": 312,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "finds a glue trap in England that has been set in a manner which gives riseto a risk that a rodent will become caught in the glue trap, and",
+                                                    "tokenCum": 346,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "without reasonable excuse, fails to ensure that the glue trap no longergives rise to such a risk.",
+                                                    "tokenCum": 369,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 78,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "If the person reasonably believes that the glue trap was set under, and inaccordance with the terms of, a glue trap licence, the person has a reasonableexcuse for the purposes of subsection (5)(b).",
+                                            "tokenCum": 421,
+                                            "wordSum": 33,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A person guilty of an offence under subsection (1), (2) or (4) is liable onsummary conviction to imprisonment for a term not exceeding 51 weeks or a fine(or both).",
+                                            "tokenCum": 468,
+                                            "wordSum": 29,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "A person guilty of an offence under subsection (5) is liable on summaryconviction to a fine.",
+                                            "tokenCum": 492,
+                                            "wordSum": 16,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In relation to an offence committed before section 281(5) of the CriminalJustice Act 2003 comes into force, the reference in subsection (7) to 51 weeksis to be read as a reference to six months.",
+                                            "tokenCum": 548,
+                                            "wordSum": 34,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "The court by which a person is convicted of an offence under this section\u2014",
+                                            "tokenCum": 565,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "must order the person to forfeit any glue trap in the person\u2019s possessionor control which has been used in the course of, or in connection with, thatoffence, and",
+                                                    "tokenCum": 604,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may order the person to forfeit any other glue trap in the person\u2019spossession or control.",
+                                                    "tokenCum": 627,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 90,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "In this Act \u201cglue trap\u201d means a trap which\u2014",
+                                            "tokenCum": 640,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is designed, or is capable of being used, to catch a rodent, and",
+                                                    "tokenCum": 657,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "uses an adhesive substance as the means, or one of the means, of capture.",
+                                                    "tokenCum": 677,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 61,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 360,
+                                    "tokenSum": 578,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 361,
+                            "tokenSum": 581,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Licences",
+                            "tokenCum": 679,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Glue trap licences",
+                                    "tokenCum": 684,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may grant a licence under this section (a \u201cglue traplicence\u201d) authorising a pest controller specified or described in the licenceto engage in conduct, for the purpose of preserving public health or publicsafety, which would otherwise amount to an offence under section 1(1) or (2).",
+                                            "tokenCum": 758,
+                                            "wordSum": 48,
+                                            "tokenSum": 77,
+                                            "tokenCount": 77
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may not grant a glue trap licence for a purposementioned in subsection (1), unless the Secretary of State is satisfied that,as regards that purpose, there is no other satisfactory solution.",
+                                            "tokenCum": 805,
+                                            "wordSum": 34,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A glue trap licence\u2014",
+                                            "tokenCum": 812,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may be, to any degree, general or specific,",
+                                                    "tokenCum": 823,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may be granted to all pest controllers, a class of pest controllers or aparticular pest controller (whether or not on an application from thecontroller or controllers concerned),",
+                                                    "tokenCum": 859,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may be subject to any conditions specified in the licence,",
+                                                    "tokenCum": 871,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "may be modified or revoked at any time by the Secretary of State (whetheror not on an application from the controller or controllers authorised by thelicence), and",
+                                                    "tokenCum": 906,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "subject to paragraph (d), is to be valid for the period specified in thelicence.",
+                                                    "tokenCum": 925,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 90,
+                                            "tokenSum": 143,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Secretary of State may require an application for the grant ormodification of a glue trap licence, or of a glue trap licence of a particulardescription, to be made in such form, and to be accompanied by suchdocumentation or information, as the Secretary of State considers appropriate.",
+                                            "tokenCum": 988,
+                                            "wordSum": 47,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State may by regulations\u2014",
+                                            "tokenCum": 997,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision for, or in connection with, the charging of fees or othercharges in relation to an application for the grant or modification of a gluetrap licence (and such fees or other charges may be set by reference to anycosts incurred, or expected to be incurred, by the Secretary of State or apublic authority in connection with this section or section 5, including costsunconnected with the application);",
+                                                    "tokenCum": 1089,
+                                                    "wordSum": 67,
+                                                    "tokenSum": 96,
+                                                    "tokenCount": 96
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make provision for, or in connection with, appeals in respect of\u2014",
+                                                    "tokenCum": 1104,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "a decision to refuse an application for the grant or modification of a gluetrap licence;",
+                                                    "tokenCum": 1123,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "a decision to modify or revoke a glue trap licence.",
+                                                    "tokenCum": 1137,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 110,
+                                            "tokenSum": 168,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Regulations under subsection (5)(b) may, in particular, include provisionabout\u2014",
+                                            "tokenCum": 1156,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the grounds upon which an appeal may be made;",
+                                                    "tokenCum": 1166,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "when an appeal may be made;",
+                                                    "tokenCum": 1173,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the court, tribunal or other person who is to determine the appeal;",
+                                                    "tokenCum": 1188,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the procedure for making, or determining, an appeal.",
+                                                    "tokenCum": 1200,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 82,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The Secretary of State may by regulations make provision for, or inconnection with, the delegation of a function of the Secretary of State underthis section (including a function involving the exercise of a discretion) toany public authority which the Secretary of State considers to be competent toexercise the function concerned.",
+                                            "tokenCum": 1267,
+                                            "wordSum": 50,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Regulations under subsection (7) may not delegate a power to makeregulations.",
+                                            "tokenCum": 1286,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 1292,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "are to be made by statutory instrument;",
+                                                    "tokenCum": 1302,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may make consequential, supplementary, incidental, transitory, transitionalor saving provision.",
+                                                    "tokenCum": 1323,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 48,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "A statutory instrument containing regulations under this section issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 1354,
+                                            "wordSum": 20,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "In this section \u201cpublic authority\u201d means any person certain of whosefunctions are functions of a public nature.",
+                                            "tokenCum": 1375,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "In this Act \u201cpest controller\u201d means a person\u2014",
+                                            "tokenCum": 1387,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "who, in the course of a business, provides a service which consists of, orinvolves, pest control, or",
+                                                    "tokenCum": 1413,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is employed by a public authority to carry out pest control.",
+                                                    "tokenCum": 1426,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 62,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 530,
+                                    "tokenSum": 853,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Offences in connection with licences",
+                                    "tokenCum": 1433,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person commits an offence if, in connection with an application for thegrant or modification of a glue trap licence, the person\u2014",
+                                            "tokenCum": 1463,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "makes a statement or representation, or provides a document or information,which the person knows to be false in a material particular, or",
+                                                    "tokenCum": 1489,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "recklessly makes a statement or representation, or provides a document orinformation, which is false in a material particular.",
+                                                    "tokenCum": 1512,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 90,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person guilty of an offence under this section is liable on summaryconviction to imprisonment for a term not exceeding 51 weeks or a fine (orboth).",
+                                            "tokenCum": 1549,
+                                            "wordSum": 26,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In relation to an offence committed before section 281(5) of the CriminalJustice Act 2003 comes into force, the reference in subsection (2) to 51 weeksis to be read as a reference to six months.",
+                                            "tokenCum": 1605,
+                                            "wordSum": 34,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 127,
+                                    "tokenSum": 198,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 658,
+                            "tokenSum": 1054,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Enforcement and other powers",
+                            "tokenCum": 1611,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Enforcement powers of constables",
+                                    "tokenCum": 1618,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If a justice of the peace is satisfied by information on oath that\u2014",
+                                            "tokenCum": 1633,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "there are reasonable grounds for believing that an offence under section 1is being or has been committed, and",
+                                                    "tokenCum": 1656,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "evidence of the offence, or any glue trap which may be liable to beforfeited under section 1(10), may be found on any premises,",
+                                                    "tokenCum": 1693,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the justice of the peace may grant a warrant to any constable to enter andsearch those premises, if necessary using reasonable force, for the purpose ofexercising a power conferred by subsection (2).",
+                                                            "tokenCum": 1739,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 51,
+                                                            "tokenCount": 51
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 92,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 86,
+                                            "tokenSum": 137,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After a constable has entered premises under subsection (1), the constablemay seize and detain for the purposes of proceedings under this Act\u2014",
+                                            "tokenCum": 1772,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "anything the constable reasonably believes to be evidence of the offence,or",
+                                                    "tokenCum": 1789,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any glue trap which may be liable to be forfeited under section 1(10).",
+                                                    "tokenCum": 1811,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 83,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A constable may, for the purpose of assisting the constable in exercising apower conferred by subsection (2), when entering premises under subsection(1), take with them\u2014",
+                                            "tokenCum": 1853,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any other person, and",
+                                                    "tokenCum": 1858,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any equipment or materials.",
+                                                    "tokenCum": 1863,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 63,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 169,
+                                    "tokenSum": 292,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Enforcement powers of authorised inspectors",
+                                    "tokenCum": 1872,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "An \u201cauthorised inspector\u201d is a person authorised in writing under thissubsection by the Secretary of State.",
+                                            "tokenCum": 1895,
+                                            "wordSum": 16,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An authorisation under subsection (1) is subject to any conditions orlimitations specified in it.",
+                                            "tokenCum": 1916,
+                                            "wordSum": 14,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An authorised inspector may, at any reasonable time, enter and inspectpremises (other than a dwelling) occupied by any pest controller who isauthorised by a glue trap licence, for the purposes of\u2014",
+                                            "tokenCum": 1964,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "verifying any statement or representation made, or document or informationprovided, by the pest controller in connection with an application for thegrant or modification of a glue trap licence, or",
+                                                    "tokenCum": 2004,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ascertaining whether any condition to which a glue trap licence is subjecthas been complied with.",
+                                                    "tokenCum": 2026,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 121,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An authorised inspector must produce evidence of the inspector\u2019sauthorisation under subsection (1) before entering any premises undersubsection (3), if requested to do so by a person entitled to be on thepremises.",
+                                            "tokenCum": 2076,
+                                            "wordSum": 31,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "After an inspector has entered any premises under subsection (3), theinspector may for a purpose mentioned in subsection (3)(a) or (b)\u2014",
+                                            "tokenCum": 2113,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "inspect any document, record or other thing found on the premises;",
+                                                    "tokenCum": 2127,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "take a sample from anything found on the premises;",
+                                                    "tokenCum": 2138,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "question any person on the premises;",
+                                                    "tokenCum": 2146,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "require any person on the premises to give the inspector such assistance asis reasonable in the circumstances;",
+                                                    "tokenCum": 2167,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "take a photograph or video recording of anything that is found on thepremises;",
+                                                    "tokenCum": 2184,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "take copies of any document or record on the premises (in whatever form itis held);",
+                                                    "tokenCum": 2203,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "require information stored in an electronic form and accessible from thepremises to be produced in a form in which it can be taken away and in whichit is visible and legible or from which it can readily be produced in avisible and legible form;",
+                                                    "tokenCum": 2256,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "seize and detain anything which the inspector reasonably believes to beevidence of the commission of an offence under section 3 or non-compliancewith any condition to which a glue trap licence is subject.",
+                                                    "tokenCum": 2304,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                }
+                                            ],
+                                            "wordSum": 168,
+                                            "tokenSum": 263,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Subsection (5)(h) does not include power to seize an item which the personexercising the power has reasonable grounds for believing to be subject tolegal privilege (within the meaning of section 10 of the Police and CriminalEvidence Act 1984).",
+                                            "tokenCum": 2368,
+                                            "wordSum": 38,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The inspector must, on request, provide a record of anything that is seizedunder subsection (5)(h) to any person who\u2014",
+                                            "tokenCum": 2397,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is an occupier of the premises, or",
+                                                    "tokenCum": 2407,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "has possession or control of the thing seized immediately before itsseizure.",
+                                                    "tokenCum": 2422,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 65,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Anything which has been seized in the exercise of a power under subsection(5)(h) may be retained so long as is necessary in all the circumstances,including in particular\u2014",
+                                            "tokenCum": 2460,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for use as evidence in proceedings under this Act, or",
+                                                    "tokenCum": 2472,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for forensic examination or for investigation in connection with an offenceunder this Act.",
+                                                    "tokenCum": 2491,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 80,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "But nothing may be retained for either of the purposes mentioned insubsection (8) if a photograph, video recording or a copy would be sufficientfor that purpose.",
+                                            "tokenCum": 2523,
+                                            "wordSum": 26,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "The authorised inspector may, for the purpose of assisting the inspectorin exercising any of the powers conferred by subsection (5), when enteringpremises under subsection (3) take with them\u2014",
+                                            "tokenCum": 2570,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any other person, and",
+                                                    "tokenCum": 2575,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any equipment or materials.",
+                                                    "tokenCum": 2580,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 68,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "A person taken onto premises under subsection (10) may exercise any powerconferred by subsection (5) if the person is in the company, and under thesupervision, of the inspector.",
+                                            "tokenCum": 2625,
+                                            "wordSum": 28,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "In subsection (3), \u201cdwelling\u201d includes any yard, garden, garage orouthouse which is used for purposes in connection with a dwelling.",
+                                            "tokenCum": 2659,
+                                            "wordSum": 20,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 544,
+                                    "tokenSum": 898,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Offences in connection with authorised inspectors",
+                                    "tokenCum": 2668,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person who intentionally obstructs an authorised inspector acting in theexercise of powers conferred by section 5 commits an offence.",
+                                            "tokenCum": 2700,
+                                            "wordSum": 20,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person who fails without reasonable excuse to comply with a requirementfor assistance reasonably made under section 5(5)(d) commits an offence.",
+                                            "tokenCum": 2733,
+                                            "wordSum": 21,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person who, with intent to deceive, falsely pretends to be an authorisedinspector commits an offence.",
+                                            "tokenCum": 2761,
+                                            "wordSum": 16,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person guilty of an offence under subsection (1) or (2) is liable onsummary conviction to a fine.",
+                                            "tokenCum": 2789,
+                                            "wordSum": 18,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A person guilty of an offence under subsection (3) is liable\u2014",
+                                            "tokenCum": 2806,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on summary conviction, to imprisonment for a term not exceeding 12 monthsor a fine (or both);",
+                                                    "tokenCum": 2831,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on conviction on indictment, to imprisonment for a term not exceeding twoyears or a fine (or both).",
+                                                    "tokenCum": 2858,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 80,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In relation to an offence committed before the commencement of paragraph24(2) of Schedule 22 to the Sentencing Act 2020, the reference in subsection(5)(a) to 12 months is to be read as a reference to six months.",
+                                            "tokenCum": 2920,
+                                            "wordSum": 36,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        }
+                                    ],
+                                    "wordSum": 161,
+                                    "tokenSum": 289,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 878,
+                            "tokenSum": 1486,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 2921,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Offences by bodies corporate",
+                                    "tokenCum": 2927,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if an offence under this Act is committed by a bodycorporate.",
+                                            "tokenCum": 2946,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the offence is proved to have been committed with the consent orconnivance of, or to be attributable to any neglect on the part of\u2014",
+                                            "tokenCum": 2979,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a senior officer of the body corporate, or",
+                                                    "tokenCum": 2989,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person purporting to act in such a capacity,",
+                                                    "tokenCum": 3001,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the senior officer or person (as well as the body corporate) is guilty of theoffence and liable to be proceeded against and punished accordingly.",
+                                                            "tokenCum": 3033,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        }
+                                                    ],
+                                                    "wordSum": 33,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 103,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 3037,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdirector\u201d, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate; ",
+                                                    "tokenCum": 3068,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csenior officer\u201d, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body corporate. ",
+                                                    "tokenCum": 3101,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 79,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 131,
+                                    "tokenSum": 212,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Crown application",
+                                    "tokenCum": 3103,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subject to the provisions of this section, this Act binds the Crown.",
+                                            "tokenCum": 3120,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Crown is not to be criminally liable under this Act.",
+                                            "tokenCum": 3135,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Despite subsection (2), this Act applies to persons in the service of theCrown as it applies to other persons.",
+                                            "tokenCum": 3160,
+                                            "wordSum": 19,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But the powers conferred by sections 4 and 5 are not exercisable inrelation to premises occupied by the Crown.",
+                                            "tokenCum": 3187,
+                                            "wordSum": 19,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In circumstances where, but for subsection (2), the Crown would becriminally liable under this Act, the High Court may make a declaration tothat effect.",
+                                            "tokenCum": 3221,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Nothing in this Act affects Her Majesty in her private capacity.",
+                                            "tokenCum": 3234,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Subsection (6) is to be read as if section 38(3) of the Crown ProceedingsAct 1947 (meaning of Her Majesty in her private capacity) were contained inthis Act.",
+                                            "tokenCum": 3281,
+                                            "wordSum": 27,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 125,
+                                    "tokenSum": 203,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "General interpretation",
+                                    "tokenCum": 3283,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3287,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cauthorised inspector\u201d has the meaning given by section 5(1); ",
+                                            "tokenCum": 3307,
+                                            "wordSum": 10,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cglue trap\u201d has the meaning given by section 1(11); ",
+                                            "tokenCum": 3327,
+                                            "wordSum": 10,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cglue trap licence\u201d has the meaning given by section 2(1); ",
+                                            "tokenCum": 3348,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpest controller\u201d has the meaning given by section 2(12); ",
+                                            "tokenCum": 3368,
+                                            "wordSum": 10,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpremises\u201d includes any place and, in particular, includes\u2014 ",
+                                            "tokenCum": 3386,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any vehicle, vessel, aircraft or hovercraft;",
+                                                    "tokenCum": 3386,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any tent or movable structure.",
+                                                    "tokenCum": 3396,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 46,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 66,
+                                    "tokenSum": 150,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 3412,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 3421,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The provisions of this Act come into force on such day or days as theSecretary of State may by regulations made by statutory instrument appoint anddifferent days may be appointed for different purposes.",
+                                            "tokenCum": 3463,
+                                            "wordSum": 33,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Glue Traps (Offences) Act 2022.",
+                                            "tokenCum": 3486,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 3486,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 12,
+                                            "tokenSum": 30,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 98,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 381,
+                            "tokenSum": 665,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 2314,
+                    "tokenSum": 3844,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2340,
+            "tokenSum": 3948,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/26/enacted?view=plain",
+    "title": "Glue Traps (Offences) Act 2022",
+    "longtitle": "An Act to make certain uses of glue traps an offence; and for connected purposes.",
+    "date": "[28th April 2022]",
+    "wordSum": 2340,
+    "tokenSum": 3949,
+    "tokenCount": 0,
+    "totalTokens": 3949
+}

@@ -1,0 +1,710 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2021/19/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Botulinum Toxin and Cosmetic Fillers (Children) Act 2021",
+                    "tokenCum": 67,
+                    "wordSum": 8,
+                    "tokenSum": 24,
+                    "tokenCount": 23
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2021 CHAPTER 19",
+                    "tokenCum": 76,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the administration to persons under the age of18 of botulinum toxin and of other substances for cosmetic purposes; and forconnected purposes.",
+                            "tokenCum": 116,
+                            "wordSum": 27,
+                            "tokenSum": 41,
+                            "tokenCount": 41
+                        }
+                    ],
+                    "wordSum": 30,
+                    "tokenSum": 51,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[29th April 2021]",
+                    "tokenCum": 127,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 184,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Offence of administering certain substances to a child",
+                            "tokenCum": 196,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "It is an offence for a person to administer, in England, to another person(\u201cA\u201d)\u2014",
+                                    "tokenCum": 220,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "botulinum toxin, or",
+                                            "tokenCum": 229,
+                                            "wordSum": 3,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a subcutaneous, submucous or intradermal injection of a filler for acosmetic purpose,",
+                                            "tokenCum": 254,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "where A is under the age of 18.",
+                                                    "tokenCum": 265,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 43,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 81,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A \u201cfiller\u201d is any substance used for dermal or mucous membrane filling(whether or not designed to be so used).",
+                                    "tokenCum": 296,
+                                    "wordSum": 19,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of subsection (1)(b), an injection of a filler is, inparticular, to be taken to be for a cosmetic purpose if\u2014",
+                                    "tokenCum": 332,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the filler is generally used for such a purpose, or",
+                                            "tokenCum": 344,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the likely effect of the injection is to alter the appearance of the personinjected.",
+                                            "tokenCum": 361,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 73,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "It is a defence for a person charged with an offence under subsection (1)to show that at the time of the alleged offence\u2014",
+                                    "tokenCum": 392,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the defendant was a registered medical practitioner,",
+                                            "tokenCum": 403,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the defendant was a regulated health professional who, in administering thebotulinum toxin or the filler (as the case may be), was acting in accordancewith the directions of a registered medical practitioner, or",
+                                            "tokenCum": 454,
+                                            "wordSum": 32,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the defendant\u2014",
+                                            "tokenCum": 458,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "had taken reasonable steps to establish A\u2019s age, and",
+                                            "tokenCum": 470,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "reasonably believed that A was aged 18 or over.",
+                                            "tokenCum": 483,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 82,
+                                    "tokenSum": 139,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A person is taken to have shown a matter mentioned in subsection (4) if\u2014",
+                                    "tokenCum": 501,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "sufficient evidence of the matter is adduced to raise an issue with respectto it, and",
+                                            "tokenCum": 520,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the contrary is not proved beyond reasonable doubt.",
+                                            "tokenCum": 529,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 54,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A person who commits an offence under subsection (1) is liable on summaryconviction to a fine.",
+                                    "tokenCum": 553,
+                                    "wordSum": 16,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "In this section \u201cregulated health professional\u201d means\u2014",
+                                    "tokenCum": 564,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a registered nurse;",
+                                            "tokenCum": 569,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a registered dentist within the meaning of the Dentists Act 1984 (seesection 53 of that Act);",
+                                            "tokenCum": 598,
+                                            "wordSum": 16,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a registered pharmacist within the meaning of the Pharmacy Order 2010([S.I. 2010/231](/id/uksi/2010/231?view=plain \"Go to item of legislation\"))(see article 3 of that Order);",
+                                            "tokenCum": 667,
+                                            "wordSum": 22,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a registered person within the meaning of the Pharmacy (Northern Ireland)Order 1976 ([S.I. 1976/1213 (N.I. 22)](/id/nisi/1976/1213?view=plain \"Go toitem of legislation\")) (see Article 2 of that Order).",
+                                            "tokenCum": 750,
+                                            "wordSum": 26,
+                                            "tokenSum": 86,
+                                            "tokenCount": 86
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 211,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 320,
+                            "tokenSum": 630,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Offence by persons carrying on a business",
+                            "tokenCum": 758,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A person (a \u201cbusiness owner\u201d) commits an offence if in the course of thebusiness owner\u2019s business\u2014",
+                                    "tokenCum": 785,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a person other than an approved person administers, in England, to anotherperson (\u201cA\u201d)\u2014",
+                                            "tokenCum": 808,
+                                            "wordSum": 13,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "botulinum toxin, or",
+                                            "tokenCum": 817,
+                                            "wordSum": 3,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "a subcutaneous, submucous or intradermal injection of a filler for acosmetic purpose,",
+                                            "tokenCum": 842,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "where A is under the age of 18;",
+                                                    "tokenCum": 853,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 43,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "arrangements are made, in England, by or on behalf of the business owner,for a person other than an approved person to administer, in England, toanother person (\u201cA\u201d)\u2014",
+                                            "tokenCum": 895,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "botulinum toxin, or",
+                                            "tokenCum": 904,
+                                            "wordSum": 3,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "a subcutaneous, submucous or intradermal injection of a filler for acosmetic purpose,",
+                                            "tokenCum": 929,
+                                            "wordSum": 12,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "where A is under the age of 18.",
+                                            "tokenCum": 940,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 102,
+                                    "tokenSum": 209,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of subsection (1), an injection of a filler is, inparticular, to be taken to be for a cosmetic purpose if\u2014",
+                                    "tokenCum": 974,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the filler injected, or arranged to be injected, is generally used for sucha purpose, or",
+                                            "tokenCum": 996,
+                                            "wordSum": 15,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the likely effect of the injection is, or would be, to alter the appearanceof the person injected.",
+                                            "tokenCum": 1018,
+                                            "wordSum": 17,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 55,
+                                    "tokenSum": 86,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A person who commits an offence under subsection (1) is liable on summaryconviction to a fine.",
+                                    "tokenCum": 1042,
+                                    "wordSum": 16,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "It is a defence for a business owner charged with an offence undersubsection (1) to prove that the business owner took all reasonableprecautions and exercised all due diligence to avoid committing it.",
+                                    "tokenCum": 1087,
+                                    "wordSum": 32,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1091,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201capproved person\u201d means\u2014 ",
+                                            "tokenCum": 1101,
+                                            "wordSum": 4,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a registered medical practitioner;",
+                                            "tokenCum": 1101,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a regulated health professional who, in administering the botulinum toxin orthe filler (as the case may be), is or would be acting in accordance with thedirections of a registered medical practitioner;",
+                                            "tokenCum": 1108,
+                                            "wordSum": 31,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201cfiller\u201d has the same meaning as in section 1;",
+                                            "tokenCum": 1172,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cregulated health professional\u201d has the same meaning as in section 1. ",
+                                                    "tokenCum": 1191,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 40,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 122,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 275,
+                            "tokenSum": 499,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Offences by bodies corporate",
+                            "tokenCum": 1197,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies where an offence under section 2 is committed by abody corporate.",
+                                    "tokenCum": 1216,
+                                    "wordSum": 14,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "If the offence is proved to have been committed with the consent orconnivance of, or to be attributable to any neglect on the part of\u2014",
+                                    "tokenCum": 1249,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any director, manager or secretary of the body corporate, or",
+                                            "tokenCum": 1262,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any person who was purporting to act in any such capacity,",
+                                            "tokenCum": 1276,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "that director, manager, secretary or person purporting to act as such (as wellas the body corporate) commits the offence and is liable to be proceededagainst and punished accordingly.",
+                                                    "tokenCum": 1319,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 64,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 115,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The reference in subsection (2) to the director, manager or secretary ofthe body corporate includes a reference to any other similar officer of thebody corporate.",
+                                    "tokenCum": 1353,
+                                    "wordSum": 25,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                }
+                            ],
+                            "wordSum": 117,
+                            "tokenSum": 179,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Enforcement ",
+                            "tokenCum": 1357,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A local weights and measures authority may enforce in its area theprovisions of section 2 _._",
+                                    "tokenCum": 1379,
+                                    "wordSum": 16,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the investigatory powers available to local weights and measuresauthorities for the purpose of enforcing that provision, see Schedule 5 to theConsumer Rights Act 2015.",
+                                    "tokenCum": 1418,
+                                    "wordSum": 25,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (duties andpowers to which Schedule 5 applies), at the appropriate place insert \u201csection4 of the Botulinum Toxin and Cosmetic Fillers (Children) Act 2021\u201d.",
+                                    "tokenCum": 1488,
+                                    "wordSum": 35,
+                                    "tokenSum": 72,
+                                    "tokenCount": 72
+                                }
+                            ],
+                            "wordSum": 77,
+                            "tokenSum": 142,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Power to make consequential provision",
+                            "tokenCum": 1494,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State may by regulations made by statutory instrument makeprovision that is consequential on this Act.",
+                                    "tokenCum": 1519,
+                                    "wordSum": 18,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A statutory instrument containing regulations under this section is subjectto annulment in pursuance of a resolution of either House of Parliament.",
+                                    "tokenCum": 1549,
+                                    "wordSum": 21,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                }
+                            ],
+                            "wordSum": 44,
+                            "tokenSum": 66,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 1558,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Subject to subsection (2), this Act extends to England and Wales only.",
+                                    "tokenCum": 1575,
+                                    "wordSum": 12,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Sections 4(3) and 5 extend to England and Wales, Scotland and NorthernIreland.",
+                                    "tokenCum": 1597,
+                                    "wordSum": 12,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Sections 1 to 4 come into force on such day or days as the Secretary ofState may by regulations made by statutory instrument appoint.",
+                                    "tokenCum": 1629,
+                                    "wordSum": 24,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Section 5 and this section come into force on the day on which this Act ispassed.",
+                                    "tokenCum": 1649,
+                                    "wordSum": 16,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "This Act may be cited as the Botulinum Toxin and Cosmetic Fillers(Children) Act 2021.",
+                                    "tokenCum": 1681,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1681,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 37,
+                                    "tokenCount": 33
+                                }
+                            ],
+                            "wordSum": 83,
+                            "tokenSum": 146,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 952,
+                    "tokenSum": 1720,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 994,
+            "tokenSum": 1852,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2021/19/enacted?view=plain",
+    "title": "Botulinum Toxin and Cosmetic Fillers (Children) Act 2021",
+    "longtitle": "An Act to make provision about the administration to persons under the age of 18 of botulinum toxin and of other substances for cosmetic purposes; and for connected purposes.",
+    "date": "[29th April 2021] ",
+    "wordSum": 994,
+    "tokenSum": 1853,
+    "tokenCount": 0,
+    "totalTokens": 1853
+}

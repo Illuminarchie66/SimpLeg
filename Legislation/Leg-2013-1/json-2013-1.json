@@ -1,0 +1,764 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2013/1/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Trusts (Capital and Income) Act 2013",
+                    "tokenCum": 58,
+                    "wordSum": 6,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2013 CHAPTER 1",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the law relating to capital and income in trusts.",
+                            "tokenCum": 83,
+                            "wordSum": 13,
+                            "tokenSum": 18,
+                            "tokenCount": 18
+                        }
+                    ],
+                    "wordSum": 16,
+                    "tokenSum": 27,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[31st January 2013]",
+                    "tokenCum": 94,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 151,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Disapplication of apportionment etc. rules",
+                            "tokenCum": 161,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Any entitlement to income under a new trust is to income as it arises (andaccordingly section 2 of the Apportionment Act 1870, which provides for incometo accrue from day to day, does not apply in relation to the trust).",
+                                    "tokenCum": 222,
+                                    "wordSum": 39,
+                                    "tokenSum": 63,
+                                    "tokenCount": 63
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The following do not apply in relation to a new trust\u2014",
+                                    "tokenCum": 234,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the first part of the rule known as the rule in _Howe v. Earl of Dartmouth_(which requires certain residuary personal estate to be sold);",
+                                            "tokenCum": 268,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the second part of that rule (which withholds from a life tenant incomearising from certain investments and compensates the life tenant with paymentsof interest);",
+                                            "tokenCum": 304,
+                                            "wordSum": 24,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the rule known as the rule in _Re Earl of Chesterfield\u2019s Trusts_ (whichrequires the proceeds of the conversion of certain investments to beapportioned between capital and income);",
+                                            "tokenCum": 348,
+                                            "wordSum": 27,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the rule known as the rule in _Allhusen v. Whittell_ (which requires acontribution to be made from income for the purpose of paying a deceasedperson\u2019s debts, legacies and annuities).",
+                                            "tokenCum": 399,
+                                            "wordSum": 29,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        }
+                                    ],
+                                    "wordSum": 115,
+                                    "tokenSum": 191,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Trustees have power to sell any property which (but for subsection (2)(a))they would have been under a duty to sell.",
+                                    "tokenCum": 428,
+                                    "wordSum": 20,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subsections (1) to (3) have effect subject to any contrary intention thatappears\u2014",
+                                    "tokenCum": 448,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in any trust instrument of the trust, and",
+                                            "tokenCum": 457,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in any power under which the trust is created or arises.",
+                                            "tokenCum": 470,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 50,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section \u201cnew trust\u201d means a trust created or arising on or afterthe day on which this section comes into force (and includes a trust createdor arising on or after that day under a power conferred before that day).",
+                                    "tokenCum": 519,
+                                    "wordSum": 40,
+                                    "tokenSum": 51,
+                                    "tokenCount": 51
+                                }
+                            ],
+                            "wordSum": 250,
+                            "tokenSum": 397,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Classification of certain corporate distributions as capital",
+                            "tokenCum": 527,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A receipt consisting of a tax-exempt corporate distribution is to betreated for the purposes of any trust to which this section applies as areceipt of capital (even if it would otherwise be treated for those purposesas a receipt of income).",
+                                    "tokenCum": 579,
+                                    "wordSum": 40,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsection (1) has effect subject to any contrary intention that appears\u2014",
+                                    "tokenCum": 594,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in any trust instrument of the trust, and",
+                                            "tokenCum": 603,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in any power under which the trust is created or arises.",
+                                            "tokenCum": 616,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 30,
+                                    "tokenSum": 45,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The following are tax-exempt corporate distributions for the purposes ofthis section and section 3\u2014",
+                                    "tokenCum": 637,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a distribution that is an exempt distribution by virtue of section 1076,1077 or 1078 of the Corporation Tax Act 2010, and",
+                                            "tokenCum": 677,
+                                            "wordSum": 21,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other distribution of assets (in any form) by a body corporate, wherethe distribution is of a description specified by an order made by theSecretary of State by statutory instrument.",
+                                            "tokenCum": 718,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 110,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An order under subsection (3)(b) may specify a description of distributiononly if neither income tax nor capital gains tax is chargeable in respect of adistribution of that description.",
+                                    "tokenCum": 757,
+                                    "wordSum": 28,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A statutory instrument containing an order under subsection (3)(b) issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                    "tokenCum": 793,
+                                    "wordSum": 21,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "This section applies to any trust, whether created or arising before orafter this section comes into force.",
+                                    "tokenCum": 814,
+                                    "wordSum": 17,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 208,
+                            "tokenSum": 320,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Power to compensate income beneficiary",
+                            "tokenCum": 822,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies in any case where\u2014",
+                                    "tokenCum": 830,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "by virtue of section 2 a tax-exempt corporate distribution made by a bodycorporate is treated for the purposes of a trust to which that section appliesas a receipt of capital, and",
+                                            "tokenCum": 872,
+                                            "wordSum": 31,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the trustees are satisfied that it is likely that, but for thedistribution, there would have been a receipt from the body corporate thatwould have been a receipt of income for the purposes of the trust.",
+                                            "tokenCum": 917,
+                                            "wordSum": 35,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        }
+                                    ],
+                                    "wordSum": 73,
+                                    "tokenSum": 103,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The trustees may make a payment out of the capital funds of the trust, ortransfer any property of the trust, to an income beneficiary for the purposeset out in subsection (3) (and any such payment or transfer is to be treatedas a payment or transfer of capital).",
+                                    "tokenCum": 979,
+                                    "wordSum": 47,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The purpose is placing the income beneficiary (so far as practicable) inthe position in which the trustees consider that the beneficiary would havebeen had there been the receipt of income mentioned in subsection (1)(b).",
+                                    "tokenCum": 1031,
+                                    "wordSum": 34,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In this section \u201cincome beneficiary\u201d, in relation to a trust, means aperson entitled to income arising under the trust, or for whose benefit suchincome may be applied.",
+                                    "tokenCum": 1070,
+                                    "wordSum": 27,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                }
+                            ],
+                            "wordSum": 186,
+                            "tokenSum": 271,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Total return investment by charities",
+                            "tokenCum": 1077,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 104 of the Charities Act 2011 insert\u2014",
+                                    "tokenCum": 1095,
+                                    "wordSum": 9,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201cTotal return investment",
+                                    "tokenCum": 1100,
+                                    "children": [
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 104",
+                                            "text": "AInvestment of endowment fund on total return basis",
+                                            "tokenCum": 1113,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies to any available endowment fund of a charity.",
+                                                    "tokenCum": 1128,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "If the condition in subsection (3) is met in relation to the charity, thecharity trustees may resolve that the fund, or a portion of it\u2014",
+                                                    "tokenCum": 1163,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "should be invested without the need to maintain a balance between capitaland income returns, and",
+                                                            "tokenCum": 1181,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "accordingly, should be freed from the restrictions with respect toexpenditure of capital that apply to it.",
+                                                            "tokenCum": 1203,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        }
+                                                    ],
+                                                    "wordSum": 56,
+                                                    "tokenSum": 89,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The condition is that the charity trustees are satisfied that it is in theinterests of the charity that regulations under section 104B(1)(b) shouldapply in place of the restrictions mentioned in subsection (2)(b).",
+                                                    "tokenCum": 1256,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "While a resolution under subsection (2) has effect, the regulations applyin place of the restrictions.",
+                                                    "tokenCum": 1278,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In this section \u201cavailable endowment fund\u201d, in relation to a charity,means\u2014",
+                                                    "tokenCum": 1298,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the whole of the charity\u2019s permanent endowment if it is all subject to thesame trusts, or",
+                                                            "tokenCum": 1323,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "any part of its permanent endowment which is subject to any particulartrusts that are different from those to which any other part is subject.",
+                                                            "tokenCum": 1353,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        }
+                                                    ],
+                                                    "wordSum": 51,
+                                                    "tokenSum": 89,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 173,
+                                            "tokenSum": 296,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 104",
+                                            "text": "BTotal return investment: regulations",
+                                            "tokenCum": 1361,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Commission may by regulations make provision about\u2014",
+                                                    "tokenCum": 1371,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "resolutions under section 104A(2),",
+                                                            "tokenCum": 1383,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the investment of a relevant fund without the need to maintain a balancebetween capital and income returns, and expenditure from such a fund, and",
+                                                            "tokenCum": 1413,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the steps that must be taken by charity trustees in respect of a fund, orportion of a fund, in the event of a resolution under section 104A(2) ceasingto have effect in respect of the fund or portion.",
+                                                            "tokenCum": 1466,
+                                                            "wordSum": 37,
+                                                            "tokenSum": 58,
+                                                            "tokenCount": 58
+                                                        }
+                                                    ],
+                                                    "wordSum": 73,
+                                                    "tokenSum": 124,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Regulations under subsection (1)(a) may, in particular\u2014",
+                                                    "tokenCum": 1481,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "specify steps that must be taken by charity trustees before passing aresolution under section 104A(2),",
+                                                            "tokenCum": 1508,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "make provision about the variation and revocation of such a resolution,",
+                                                            "tokenCum": 1521,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "require charity trustees to notify the Commission of the passing, variationor revocation of such a resolution, and",
+                                                            "tokenCum": 1544,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "specify circumstances in which such a resolution is to cease to haveeffect.",
+                                                            "tokenCum": 1559,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 62,
+                                                    "tokenSum": 117,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Regulations under subsection (1)(b) may, in particular\u2014",
+                                                    "tokenCum": 1574,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "make provision requiring a relevant fund to be invested, and the returnsfrom that investment to be allocated, in such a way as to maintain (so far aspracticable) the long-term capital value of the fund,",
+                                                            "tokenCum": 1621,
+                                                            "wordSum": 34,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "make provision about the taking of advice by charity trustees in connectionwith the investment of, and expenditure from, a relevant fund,",
+                                                            "tokenCum": 1651,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "confer on the charity trustees of a relevant fund a power (subject to suchrestrictions as may be specified in the regulations) to accumulate income,",
+                                                            "tokenCum": 1685,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "make provision about expenditure from a relevant fund (including byimposing limits on expenditure and specifying circumstances in whichexpenditure requires the Commission\u2019s consent), and",
+                                                            "tokenCum": 1723,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "require charity trustees to report to the Commission on the investment of,and expenditure from, a relevant fund.",
+                                                            "tokenCum": 1749,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 126,
+                                                    "tokenSum": 219,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A power to accumulate income conferred by regulations under subsection(1)(b) or (c) is not subject to section 14(3) of the Perpetuities andAccumulations Act 2009 (which provides for certain powers to accumulate incometo cease to have effect after 21 years).",
+                                                    "tokenCum": 1822,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Any regulations made by the Commission under this section must be publishedby the Commission in such manner as it thinks fit.",
+                                                    "tokenCum": 1846,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In this section \u201crelevant fund\u201d means a fund, or portion of a fund, inrespect of which a resolution under section 104A(2) has effect, and includesthe returns from the investment of the fund or portion.\u201d",
+                                                    "tokenCum": 1899,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                }
+                                            ],
+                                            "wordSum": 359,
+                                            "tokenSum": 633,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 535,
+                                    "tokenSum": 936,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 549,
+                            "tokenSum": 964,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Crown application, extent and commencement",
+                            "tokenCum": 1907,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Sections 1 to 3 bind the Crown.",
+                                    "tokenCum": 1918,
+                                    "wordSum": 7,
+                                    "tokenSum": 13,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 1927,
+                                    "wordSum": 8,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This section and section 6 come into force on the day on which this Act ispassed, but otherwise this Act comes into force on such day as the Secretaryof State may by order made by statutory instrument appoint.",
+                                    "tokenCum": 1973,
+                                    "wordSum": 38,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "An order under subsection (3) may\u2014",
+                                    "tokenCum": 1983,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "appoint different days for different purposes;",
+                                            "tokenCum": 1990,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make such provision as the Secretary of State considers necessary orexpedient for transitory, transitional or saving purposes in connection withthe coming into force of any provision of this Act.",
+                                            "tokenCum": 2028,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 63,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 99,
+                            "tokenSum": 144,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title",
+                            "tokenCum": 2030,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the Trusts (Capital and Income) Act 2013.",
+                                    "tokenCum": 2054,
+                                    "wordSum": 13,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 15,
+                            "tokenSum": 29,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "",
+                            "tokenCum": 2054,
+                            "wordSum": 0,
+                            "tokenSum": 1,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1343,
+                    "tokenSum": 2184,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1369,
+            "tokenSum": 2283,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2013/1/enacted?view=plain",
+    "title": "Trusts (Capital and Income) Act 2013",
+    "longtitle": "An Act to amend the law relating to capital and income in trusts.",
+    "date": "[31st January 2013]",
+    "wordSum": 1369,
+    "tokenSum": 2284,
+    "tokenCount": 0,
+    "totalTokens": 2284
+}

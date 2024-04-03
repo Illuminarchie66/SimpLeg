@@ -1,0 +1,2784 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2010/23/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Bribery Act 2010",
+                    "tokenCum": 54,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2010 CHAPTER 23",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about offences relating to bribery; and for connectedpurposes.",
+                            "tokenCum": 85,
+                            "wordSum": 13,
+                            "tokenSum": 23,
+                            "tokenCount": 23
+                        }
+                    ],
+                    "wordSum": 16,
+                    "tokenSum": 33,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th April 2010]",
+                    "tokenCum": 95,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 152,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General bribery offences",
+                            "tokenCum": 159,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Offences of bribing another person",
+                                    "tokenCum": 167,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person (\u201cP\u201d) is guilty of an offence if either of the following casesapplies.",
+                                            "tokenCum": 189,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Case 1 is where\u2014",
+                                            "tokenCum": 195,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "P offers, promises or gives a financial or other advantage to anotherperson, and",
+                                                    "tokenCum": 211,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "P intends the advantage\u2014",
+                                                    "tokenCum": 217,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to induce a person to perform improperly a relevant function or activity,or",
+                                                    "tokenCum": 234,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to reward a person for the improper performance of such a function oractivity.",
+                                                    "tokenCum": 250,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 80,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Case 2 is where\u2014",
+                                            "tokenCum": 256,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "P offers, promises or gives a financial or other advantage to anotherperson, and",
+                                                    "tokenCum": 272,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "P knows or believes that the acceptance of the advantage would itselfconstitute the improper performance of a relevant function or activity.",
+                                                    "tokenCum": 299,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 60,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In case 1 it does not matter whether the person to whom the advantage isoffered, promised or given is the same person as the person who is to perform,or has performed, the function or activity concerned.",
+                                            "tokenCum": 344,
+                                            "wordSum": 36,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In cases 1 and 2 it does not matter whether the advantage is offered,promised or given by P directly or through a third party.",
+                                            "tokenCum": 374,
+                                            "wordSum": 24,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 163,
+                                    "tokenSum": 256,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Offences relating to being bribed",
+                                    "tokenCum": 383,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person (\u201cR\u201d) is guilty of an offence if any of the following casesapplies.",
+                                            "tokenCum": 405,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Case 3 is where R requests, agrees to receive or accepts a financial orother advantage intending that, in consequence, a relevant function oractivity should be performed improperly (whether by R or another person).",
+                                            "tokenCum": 451,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Case 4 is where\u2014",
+                                            "tokenCum": 457,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "R requests, agrees to receive or accepts a financial or other advantage,and",
+                                                    "tokenCum": 473,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the request, agreement or acceptance itself constitutes the improperperformance by R of a relevant function or activity.",
+                                                    "tokenCum": 497,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 57,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Case 5 is where R requests, agrees to receive or accepts a financial orother advantage as a reward for the improper performance (whether by R oranother person) of a relevant function or activity.",
+                                            "tokenCum": 540,
+                                            "wordSum": 33,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Case 6 is where, in anticipation of or in consequence of R requesting,agreeing to receive or accepting a financial or other advantage, a relevantfunction or activity is performed improperly\u2014",
+                                            "tokenCum": 582,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by R, or",
+                                                    "tokenCum": 586,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by another person at R\u2019s request or with R\u2019s assent or acquiescence.",
+                                                    "tokenCum": 607,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 78,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In cases 3 to 6 it does not matter\u2014",
+                                            "tokenCum": 619,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "whether R requests, agrees to receive or accepts (or is to request, agreeto receive or accept) the advantage directly or through a third party,",
+                                                    "tokenCum": 651,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "whether the advantage is (or is to be) for the benefit of R or anotherperson.",
+                                                    "tokenCum": 670,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 74,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In cases 4 to 6 it does not matter whether R knows or believes that theperformance of the function or activity is improper.",
+                                            "tokenCum": 700,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In case 6, where a person other than R is performing the function oractivity, it also does not matter whether that person knows or believes thatthe performance of the function or activity is improper.",
+                                            "tokenCum": 742,
+                                            "wordSum": 34,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 267,
+                                    "tokenSum": 418,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Function or activity to which bribe relates",
+                                    "tokenCum": 752,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of this Act a function or activity is a relevant functionor activity if\u2014",
+                                            "tokenCum": 770,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it falls within subsection (2), and",
+                                                    "tokenCum": 779,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "meets one or more of conditions A to C.",
+                                                    "tokenCum": 789,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 48,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The following functions and activities fall within this subsection\u2014",
+                                            "tokenCum": 800,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any function of a public nature,",
+                                                    "tokenCum": 807,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any activity connected with a business,",
+                                                    "tokenCum": 814,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any activity performed in the course of a person\u2019s employment,",
+                                                    "tokenCum": 828,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any activity performed by or on behalf of a body of persons (whethercorporate or unincorporate).",
+                                                    "tokenCum": 854,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 84,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Condition A is that a person performing the function or activity isexpected to perform it in good faith.",
+                                            "tokenCum": 875,
+                                            "wordSum": 18,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Condition B is that a person performing the function or activity isexpected to perform it impartially.",
+                                            "tokenCum": 896,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Condition C is that a person performing the function or activity is in aposition of trust by virtue of performing it.",
+                                            "tokenCum": 920,
+                                            "wordSum": 21,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A function or activity is a relevant function or activity even if it\u2014",
+                                            "tokenCum": 934,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "has no connection with the United Kingdom, and",
+                                                    "tokenCum": 943,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is performed in a country or territory outside the United Kingdom.",
+                                                    "tokenCum": 955,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 46,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this section \u201cbusiness\u201d includes trade or profession.",
+                                            "tokenCum": 967,
+                                            "wordSum": 8,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 179,
+                                    "tokenSum": 280,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Improper performance to which bribe relates",
+                                    "tokenCum": 978,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of this Act a relevant function or activity\u2014",
+                                            "tokenCum": 990,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is performed improperly if it is performed in breach of a relevantexpectation, and",
+                                                    "tokenCum": 1011,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is to be treated as being performed improperly if there is a failure toperform the function or activity and that failure is itself a breach of arelevant expectation.",
+                                                    "tokenCum": 1045,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 78,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201crelevant expectation\u201d\u2014",
+                                            "tokenCum": 1057,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to a function or activity which meets condition A or B, meansthe expectation mentioned in the condition concerned, and",
+                                                    "tokenCum": 1082,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to a function or activity which meets condition C, means anyexpectation as to the manner in which, or the reasons for which, the functionor activity will be performed that arises from the position of trust mentionedin that condition.",
+                                                    "tokenCum": 1131,
+                                                    "wordSum": 40,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 97,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Anything that a person does (or omits to do) arising from or in connectionwith that person\u2019s past performance of a relevant function or activity is tobe treated for the purposes of this Act as being done (or omitted) by thatperson in the performance of that function or activity.",
+                                            "tokenCum": 1193,
+                                            "wordSum": 48,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        }
+                                    ],
+                                    "wordSum": 172,
+                                    "tokenSum": 253,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Expectation test",
+                                    "tokenCum": 1197,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of sections 3 and 4, the test of what is expected is atest of what a reasonable person in the United Kingdom would expect inrelation to the performance of the type of function or activity concerned.",
+                                            "tokenCum": 1242,
+                                            "wordSum": 39,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In deciding what such a person would expect in relation to the performanceof a function or activity where the performance is not subject to the law ofany part of the United Kingdom, any local custom or practice is to bedisregarded unless it is permitted or required by the written law applicableto the country or territory concerned.",
+                                            "tokenCum": 1307,
+                                            "wordSum": 56,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2) \u201cwritten law\u201d means law contained in\u2014",
+                                            "tokenCum": 1322,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any written constitution, or provision made by or under legislation,applicable to the country or territory concerned, or",
+                                                    "tokenCum": 1346,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any judicial decision which is so applicable and is evidenced in publishedwritten sources.",
+                                                    "tokenCum": 1364,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 68,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 136,
+                                    "tokenSum": 190,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 920,
+                            "tokenSum": 1405,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Bribery of foreign public officials",
+                            "tokenCum": 1372,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Bribery of foreign public officials",
+                                    "tokenCum": 1380,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person (\u201cP\u201d) who bribes a foreign public official (\u201cF\u201d) is guilty of anoffence if P\u2019s intention is to influence F in F\u2019s capacity as a foreign publicofficial.",
+                                            "tokenCum": 1427,
+                                            "wordSum": 28,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "P must also intend to obtain or retain\u2014",
+                                            "tokenCum": 1436,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "business, or",
+                                                    "tokenCum": 1439,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an advantage in the conduct of business.",
+                                                    "tokenCum": 1447,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 31,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "P bribes F if, and only if\u2014",
+                                            "tokenCum": 1458,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "directly or through a third party, P offers, promises or gives anyfinancial or other advantage\u2014",
+                                                    "tokenCum": 1479,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "to F, or",
+                                                    "tokenCum": 1483,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "to another person at F\u2019s request or with F\u2019s assent or acquiescence, and",
+                                                    "tokenCum": 1505,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "F is neither permitted nor required by the written law applicable to F tobe influenced in F\u2019s capacity as a foreign public official by the offer,promise or gift.",
+                                                    "tokenCum": 1540,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 112,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "References in this section to influencing F in F\u2019s capacity as a foreignpublic official mean influencing F in the performance of F\u2019s functions as suchan official, which includes\u2014",
+                                            "tokenCum": 1578,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any omission to exercise those functions, and",
+                                                    "tokenCum": 1587,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any use of F\u2019s position as such an official, even if not within F\u2019sauthority.",
+                                                    "tokenCum": 1609,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 49,
+                                            "tokenSum": 80,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "\u201cForeign public official\u201d means an individual who\u2014",
+                                            "tokenCum": 1619,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "holds a legislative, administrative or judicial position of any kind,whether appointed or elected, of a country or territory outside the UnitedKingdom (or any subdivision of such a country or territory),",
+                                                    "tokenCum": 1663,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "exercises a public function\u2014",
+                                                    "tokenCum": 1670,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "for or on behalf of a country or territory outside the United Kingdom (orany subdivision of such a country or territory), or",
+                                                    "tokenCum": 1698,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "for any public agency or public enterprise of that country or territory(or subdivision), or",
+                                                    "tokenCum": 1719,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "is an official or agent of a public international organisation.",
+                                                    "tokenCum": 1730,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 144,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "\u201cPublic international organisation\u201d means an organisation whose members areany of the following\u2014",
+                                            "tokenCum": 1746,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "countries or territories,",
+                                                    "tokenCum": 1751,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "governments of countries or territories,",
+                                                    "tokenCum": 1759,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "other public international organisations,",
+                                                    "tokenCum": 1765,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a mixture of any of the above.",
+                                                    "tokenCum": 1773,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 62,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of subsection (3)(b), the written law applicable to F is\u2014",
+                                            "tokenCum": 1792,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "where the performance of the functions of F which P intends to influencewould be subject to the law of any part of the United Kingdom, the law of thatpart of the United Kingdom,",
+                                                    "tokenCum": 1831,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where paragraph (a) does not apply and F is an official or agent of apublic international organisation, the applicable written rules of thatorganisation,",
+                                                    "tokenCum": 1860,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "where paragraphs (a) and (b) do not apply, the law of the country orterritory in relation to which F is a foreign public official so far as thatlaw is contained in\u2014",
+                                                    "tokenCum": 1902,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "any written constitution, or provision made by or under legislation,applicable to the country or territory concerned, or",
+                                                    "tokenCum": 1926,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "any judicial decision which is so applicable and is evidenced in publishedwritten sources.",
+                                                    "tokenCum": 1944,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 130,
+                                            "tokenSum": 194,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "For the purposes of this section, a trade or profession is a business.",
+                                            "tokenCum": 1959,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 426,
+                                    "tokenSum": 701,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 431,
+                            "tokenSum": 710,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Failure of commercial organisations to prevent bribery",
+                            "tokenCum": 1971,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Failure of commercial organisations to prevent bribery",
+                                    "tokenCum": 1983,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A relevant commercial organisation (\u201cC\u201d) is guilty of an offence under thissection if a person (\u201cA\u201d) associated with C bribes another person intending\u2014",
+                                            "tokenCum": 2020,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to obtain or retain business for C, or",
+                                                    "tokenCum": 2029,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to obtain or retain an advantage in the conduct of business for C.",
+                                                    "tokenCum": 2043,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 44,
+                                            "tokenSum": 71,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But it is a defence for C to prove that C had in place adequate proceduresdesigned to prevent persons associated with C from undertaking such conduct.",
+                                            "tokenCum": 2075,
+                                            "wordSum": 26,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of this section, A bribes another person if, and only if,A\u2014",
+                                            "tokenCum": 2096,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is, or would be, guilty of an offence under section 1 or 6 (whether or notA has been prosecuted for such an offence), or",
+                                                    "tokenCum": 2132,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "would be guilty of such an offence if section 12(2)(c) and (4) wereomitted.",
+                                                    "tokenCum": 2158,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 94,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "See section 8 for the meaning of a person associated with C and see section9 for a duty on the Secretary of State to publish guidance.",
+                                            "tokenCum": 2187,
+                                            "wordSum": 26,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2191,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpartnership\u201d means\u2014 ",
+                                                    "tokenCum": 2201,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a partnership within the Partnership Act 1890, or",
+                                                    "tokenCum": 2201,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a limited partnership registered under the Limited Partnerships Act 1907,",
+                                                    "tokenCum": 2217,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "or a firm or entity of a similar character formed under the law of a countryor territory outside the United Kingdom,",
+                                                            "tokenCum": 2258,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crelevant commercial organisation\u201d means\u2014 ",
+                                                            "tokenCum": 2269,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a body which is incorporated under the law of any part of the United Kingdomand which carries on a business (whether there or elsewhere),",
+                                                    "tokenCum": 2269,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other body corporate (wherever incorporated) which carries on a business,or part of a business, in any part of the United Kingdom,",
+                                                    "tokenCum": 2299,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a partnership which is formed under the law of any part of the United Kingdomand which carries on a business (whether there or elsewhere), or",
+                                                    "tokenCum": 2331,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "any other partnership (wherever formed) which carries on a business, or partof a business, in any part of the United Kingdom,",
+                                                    "tokenCum": 2362,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and, for the purposes of this section, a trade or profession is a business.",
+                                                    "tokenCum": 2409,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 156,
+                                            "tokenSum": 267,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 310,
+                                    "tokenSum": 513,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Meaning of associated person",
+                                    "tokenCum": 2414,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For the purposes of section 7, a person (\u201cA\u201d) is associated with C if(disregarding any bribe under consideration) A is a person who performsservices for or on behalf of C.",
+                                            "tokenCum": 2460,
+                                            "wordSum": 30,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The capacity in which A performs services for or on behalf of C does notmatter.",
+                                            "tokenCum": 2479,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Accordingly A may (for example) be C\u2019s employee, agent or subsidiary.",
+                                            "tokenCum": 2499,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Whether or not A is a person who performs services for or on behalf of C isto be determined by reference to all the relevant circumstances and not merelyby reference to the nature of the relationship between A and C.",
+                                            "tokenCum": 2543,
+                                            "wordSum": 40,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "But if A is an employee of C, it is to be presumed unless the contrary isshown that A is a person who performs services for or on behalf of C.",
+                                            "tokenCum": 2580,
+                                            "wordSum": 31,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 131,
+                                    "tokenSum": 188,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Guidance about commercial organisations preventing bribery",
+                                    "tokenCum": 2593,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State must publish guidance about procedures that relevantcommercial organisations can put in place to prevent persons associated withthem from bribing as mentioned in section 7(1).",
+                                            "tokenCum": 2633,
+                                            "wordSum": 28,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may, from time to time, publish revisions toguidance under this section or revised guidance.",
+                                            "tokenCum": 2659,
+                                            "wordSum": 18,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Secretary of State must consult the Scottish Ministers beforepublishing anything under this section.",
+                                            "tokenCum": 2677,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Publication under this section is to be in such manner as the Secretary ofState considers appropriate.",
+                                            "tokenCum": 2697,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Expressions used in this section have the same meaning as in section 7.",
+                                            "tokenCum": 2713,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 95,
+                                    "tokenSum": 150,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 543,
+                            "tokenSum": 864,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Prosecution and penalties",
+                            "tokenCum": 2720,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Consent to prosecution",
+                                    "tokenCum": 2726,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "No proceedings for an offence under this Act may be instituted in Englandand Wales except by or with the consent of\u2014",
+                                            "tokenCum": 2752,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Director of Public Prosecutions,",
+                                                    "tokenCum": 2760,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Director of the Serious Fraud Office, or",
+                                                    "tokenCum": 2771,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the Director of Revenue and Customs Prosecutions.",
+                                                    "tokenCum": 2783,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 72,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "No proceedings for an offence under this Act may be instituted in NorthernIreland except by or with the consent of\u2014",
+                                            "tokenCum": 2809,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Director of Public Prosecutions for Northern Ireland, or",
+                                                    "tokenCum": 2821,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Director of the Serious Fraud Office.",
+                                                    "tokenCum": 2831,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "No proceedings for an offence under this Act may be instituted in Englandand Wales or Northern Ireland by a person\u2014",
+                                            "tokenCum": 2856,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "who is acting\u2014",
+                                                    "tokenCum": 2860,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "under the direction or instruction of the Director of Public Prosecutions,the Director of the Serious Fraud Office or the Director of Revenue andCustoms Prosecutions, or",
+                                                    "tokenCum": 2897,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "on behalf of such a Director, or",
+                                                    "tokenCum": 2906,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to whom such a function has been assigned by such a Director,",
+                                                    "tokenCum": 2919,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "except with the consent of the Director concerned to the institution of theproceedings.",
+                                                            "tokenCum": 2936,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 129,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Director of Public Prosecutions, the Director of the Serious FraudOffice and the Director of Revenue and Customs Prosecutions must exercisepersonally any function under subsection (1), (2) or (3) of giving consent.",
+                                            "tokenCum": 2988,
+                                            "wordSum": 32,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The only exception is if\u2014",
+                                            "tokenCum": 2994,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Director concerned is unavailable, and",
+                                                    "tokenCum": 3002,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "there is another person who is designated in writing by the Director actingpersonally as the person who is authorised to exercise any such function whenthe Director is unavailable.",
+                                                    "tokenCum": 3037,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 60,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In that case, the other person may exercise the function but must do sopersonally.",
+                                            "tokenCum": 3055,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Subsections (4) to (6) apply instead of any other provisions which wouldotherwise have enabled any function of the Director of Public Prosecutions,the Director of the Serious Fraud Office or the Director of Revenue andCustoms Prosecutions under subsection (1), (2) or (3) of giving consent to beexercised by a person other than the Director concerned.",
+                                            "tokenCum": 3139,
+                                            "wordSum": 54,
+                                            "tokenSum": 87,
+                                            "tokenCount": 87
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "No proceedings for an offence under this Act may be instituted in NorthernIreland by virtue of section 36 of the Justice (Northern Ireland) Act 2002(delegation of the functions of the Director of Public Prosecutions forNorthern Ireland to persons other than the Deputy Director) except with theconsent of the Director of Public Prosecutions for Northern Ireland to theinstitution of the proceedings.",
+                                            "tokenCum": 3233,
+                                            "wordSum": 60,
+                                            "tokenSum": 97,
+                                            "tokenCount": 97
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "The Director of Public Prosecutions for Northern Ireland must exercisepersonally any function under subsection (2) or (8) of giving consent unlessthe function is exercised personally by the Deputy Director of PublicProsecutions for Northern Ireland by virtue of section 30(4) or (7) of the Actof 2002 (powers of Deputy Director to exercise functions of Director).",
+                                            "tokenCum": 3320,
+                                            "wordSum": 54,
+                                            "tokenSum": 90,
+                                            "tokenCount": 90
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "Subsection (9) applies instead of section 36 of the Act of 2002 inrelation to the functions of the Director of Public Prosecutions for NorthernIreland and the Deputy Director of Public Prosecutions for Northern Irelandunder, or (as the case may be) by virtue of, subsections (2) and (8) above ofgiving consent.",
+                                            "tokenCum": 3400,
+                                            "wordSum": 50,
+                                            "tokenSum": 83,
+                                            "tokenCount": 83
+                                        }
+                                    ],
+                                    "wordSum": 463,
+                                    "tokenSum": 761,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Penalties ",
+                                    "tokenCum": 3404,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "An individual guilty of an offence under section 1, 2 or 6 is liable\u2014",
+                                            "tokenCum": 3425,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on summary conviction, to imprisonment for a term not exceeding 12 months,or to a fine not exceeding the statutory maximum, or to both,",
+                                                    "tokenCum": 3461,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on conviction on indictment, to imprisonment for a term not exceeding 10years, or to a fine, or to both.",
+                                                    "tokenCum": 3493,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 100,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any other person guilty of an offence under section 1, 2 or 6 is liable\u2014",
+                                            "tokenCum": 3515,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on summary conviction, to a fine not exceeding the statutory maximum,",
+                                                    "tokenCum": 3532,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on conviction on indictment, to a fine.",
+                                                    "tokenCum": 3544,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 62,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person guilty of an offence under section 7 is liable on conviction onindictment to a fine.",
+                                            "tokenCum": 3569,
+                                            "wordSum": 17,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The reference in subsection (1)(a) to 12 months is to be read\u2014",
+                                            "tokenCum": 3589,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in its application to England and Wales in relation to an offence committedbefore the commencement of section 154(1) of the Criminal Justice Act 2003,and",
+                                                    "tokenCum": 3630,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in its application to Northern Ireland,",
+                                                    "tokenCum": 3637,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "as a reference to 6 months.",
+                                                            "tokenCum": 3645,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 92,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 155,
+                                    "tokenSum": 288,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 621,
+                            "tokenSum": 1057,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Other provisions about offences",
+                            "tokenCum": 3651,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Offences under this Act: territorial application",
+                                    "tokenCum": 3659,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "An offence is committed under section 1, 2 or 6 in England and Wales,Scotland or Northern Ireland if any act or omission which forms part of theoffence takes place in that part of the United Kingdom.",
+                                            "tokenCum": 3708,
+                                            "wordSum": 36,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (3) applies if\u2014",
+                                            "tokenCum": 3716,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "no act or omission which forms part of an offence under section 1, 2 or 6takes place in the United Kingdom,",
+                                                    "tokenCum": 3746,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person\u2019s acts or omissions done or made outside the United Kingdom wouldform part of such an offence if done or made in the United Kingdom, and",
+                                                    "tokenCum": 3779,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "that person has a close connection with the United Kingdom.",
+                                                    "tokenCum": 3790,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 97,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In such a case\u2014",
+                                            "tokenCum": 3795,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the acts or omissions form part of the offence referred to in subsection(2)(a), and",
+                                                    "tokenCum": 3817,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "proceedings for the offence may be taken at any place in the UnitedKingdom.",
+                                                    "tokenCum": 3836,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 57,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (2)(c) a person has a close connection withthe United Kingdom if, and only if, the person was one of the following at thetime the acts or omissions concerned were done or made\u2014",
+                                            "tokenCum": 3884,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a British citizen,",
+                                                    "tokenCum": 3889,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a British overseas territories citizen,",
+                                                    "tokenCum": 3899,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a British National (Overseas),",
+                                                    "tokenCum": 3907,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a British Overseas citizen,",
+                                                    "tokenCum": 3915,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "a person who under the British Nationality Act 1981 was a British subject,",
+                                                    "tokenCum": 3934,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "a British protected person within the meaning of that Act,",
+                                                    "tokenCum": 3945,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "an individual ordinarily resident in the United Kingdom,",
+                                                    "tokenCum": 3955,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "a body incorporated under the law of any part of the United Kingdom,",
+                                                    "tokenCum": 3970,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "a Scottish partnership.",
+                                                    "tokenCum": 3975,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 100,
+                                            "tokenSum": 178,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An offence is committed under section 7 irrespective of whether the acts oromissions which form part of the offence take place in the United Kingdom orelsewhere.",
+                                            "tokenCum": 4011,
+                                            "wordSum": 26,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where no act or omission which forms part of an offence under section 7takes place in the United Kingdom, proceedings for the offence may be taken atany place in the United Kingdom.",
+                                            "tokenCum": 4053,
+                                            "wordSum": 32,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Subsection (8) applies if, by virtue of this section, proceedings for anoffence are to be taken in Scotland against a person.",
+                                            "tokenCum": 4083,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Such proceedings may be taken\u2014",
+                                            "tokenCum": 4090,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in any sheriff court district in which the person is apprehended or incustody, or",
+                                                    "tokenCum": 4111,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in such sheriff court district as the Lord Advocate may determine.",
+                                                    "tokenCum": 4127,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 55,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In subsection (8) \u201csheriff court district\u201d is to be read in accordance withsection 307(1) of the Criminal Procedure (Scotland) Act 1995.",
+                                            "tokenCum": 4174,
+                                            "wordSum": 21,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 365,
+                                    "tokenSum": 616,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Defence for certain bribery offences etc.",
+                                    "tokenCum": 4186,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is a defence for a person charged with a relevant bribery offence toprove that the person\u2019s conduct was necessary for\u2014",
+                                            "tokenCum": 4216,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the proper exercise of any function of an intelligence service, or",
+                                                    "tokenCum": 4228,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the proper exercise of any function of the armed forces when engaged onactive service.",
+                                                    "tokenCum": 4244,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 69,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The head of each intelligence service must ensure that the service has inplace arrangements designed to ensure that any conduct of a member of theservice which would otherwise be a relevant bribery offence is necessary for apurpose falling within subsection (1)(a).",
+                                            "tokenCum": 4301,
+                                            "wordSum": 41,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The Defence Council must ensure that the armed forces have in placearrangements designed to ensure that any conduct of\u2014",
+                                            "tokenCum": 4325,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a member of the armed forces who is engaged on active service, or",
+                                                    "tokenCum": 4339,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a civilian subject to service discipline when working in support of anyperson falling within paragraph (a),",
+                                                    "tokenCum": 4359,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "which would otherwise be a relevant bribery offence is necessary for a purposefalling within subsection (1)(b).",
+                                                            "tokenCum": 4386,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        }
+                                                    ],
+                                                    "wordSum": 32,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 101,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The arrangements which are in place by virtue of subsection (2) or (3) mustbe arrangements which the Secretary of State considers to be satisfactory.",
+                                            "tokenCum": 4421,
+                                            "wordSum": 24,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of this section, the circumstances in which a person\u2019sconduct is necessary for a purpose falling within subsection (1)(a) or (b) areto be treated as including any circumstances in which the person\u2019s conduct\u2014",
+                                            "tokenCum": 4472,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "would otherwise be an offence under section 2, and",
+                                                    "tokenCum": 4484,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "involves conduct by another person which, but for subsection (1)(a) or (b),would be an offence under section 1.",
+                                                    "tokenCum": 4515,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 62,
+                                            "tokenSum": 105,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 4519,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cactive service\u201d means service in\u2014 ",
+                                                    "tokenCum": 4530,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an action or operation against an enemy,",
+                                                    "tokenCum": 4530,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an operation outside the British Islands for the protection of life orproperty, or",
+                                                    "tokenCum": 4538,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the military occupation of a foreign country or territory,",
+                                                    "tokenCum": 4553,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201carmed forces\u201d means Her Majesty\u2019s forces (within the meaning of the Armed Forces Act 2006), ",
+                                                            "tokenCum": 4594,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201ccivilian subject to service discipline\u201d and \u201cenemy\u201d have the same meaning as in the Act of 2006, ",
+                                                            "tokenCum": 4626,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cGCHQ\u201d has the meaning given by section 3(3) of the Intelligence Services Act 1994, ",
+                                                            "tokenCum": 4657,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201chead\u201d means\u2014 ",
+                                                            "tokenCum": 4665,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 61,
+                                                    "tokenSum": 136,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to the Security Service, the Director General of the SecurityService,",
+                                                    "tokenCum": 4665,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to the Secret Intelligence Service, the Chief of the SecretIntelligence Service, and",
+                                                    "tokenCum": 4680,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in relation to GCHQ, the Director of GCHQ,",
+                                                    "tokenCum": 4699,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cintelligence service\u201d means the Security Service, the Secret Intelligence Service or GCHQ, ",
+                                                            "tokenCum": 4736,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201crelevant bribery offence\u201d means\u2014 ",
+                                                            "tokenCum": 4751,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 26,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an offence under section 1 which would not also be an offence under section 6,",
+                                                    "tokenCum": 4751,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an offence under section 2,",
+                                                    "tokenCum": 4771,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an offence committed by aiding, abetting, counselling or procuring thecommission of an offence falling within paragraph (a) or (b),",
+                                                    "tokenCum": 4779,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "an offence of attempting or conspiring to commit, or of inciting thecommission of, an offence falling within paragraph (a) or (b), or",
+                                                    "tokenCum": 4815,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "an offence under Part 2 of the Serious Crime Act 2007 (encouraging orassisting crime) in relation to an offence falling within paragraph (a) or(b).",
+                                                    "tokenCum": 4849,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 227,
+                                            "tokenSum": 459,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 470,
+                                    "tokenSum": 846,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Offences under sections 1, 2 and 6 by bodies corporate etc.",
+                                    "tokenCum": 4911,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if an offence under section 1, 2 or 6 is committed bya body corporate or a Scottish partnership.",
+                                            "tokenCum": 4941,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the offence is proved to have been committed with the consent orconnivance of\u2014",
+                                            "tokenCum": 4960,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a senior officer of the body corporate or Scottish partnership, or",
+                                                    "tokenCum": 4974,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person purporting to act in such a capacity,",
+                                                    "tokenCum": 4986,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the senior officer or person (as well as the body corporate or partnership) isguilty of the offence and liable to be proceeded against and punishedaccordingly.",
+                                                            "tokenCum": 5024,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        }
+                                                    ],
+                                                    "wordSum": 34,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 99,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But subsection (2) does not apply, in the case of an offence which iscommitted under section 1, 2 or 6 by virtue of section 12(2) to (4), to asenior officer or person purporting to act in such a capacity unless thesenior officer or person has a close connection with the United Kingdom(within the meaning given by section 12(4)).",
+                                            "tokenCum": 5114,
+                                            "wordSum": 58,
+                                            "tokenSum": 93,
+                                            "tokenCount": 93
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 5118,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdirector\u201d, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate, ",
+                                                    "tokenCum": 5149,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csenior officer\u201d means\u2014 ",
+                                                    "tokenCum": 5159,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to a body corporate, a director, manager, secretary or othersimilar officer of the body corporate, and",
+                                                    "tokenCum": 5159,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to a Scottish partnership, a partner in the partnership.",
+                                                    "tokenCum": 5185,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 105,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 207,
+                                    "tokenSum": 350,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Offences under section 7 by partnerships",
+                                    "tokenCum": 5209,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Proceedings for an offence under section 7 alleged to have been committedby a partnership must be brought in the name of the partnership (and not inthat of any of the partners).",
+                                            "tokenCum": 5251,
+                                            "wordSum": 31,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of such proceedings\u2014",
+                                            "tokenCum": 5259,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "rules of court relating to the service of documents have effect as if thepartnership were a body corporate, and",
+                                                    "tokenCum": 5284,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the following provisions apply as they apply in relation to a bodycorporate\u2014",
+                                                    "tokenCum": 5301,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "section 33 of the Criminal Justice Act 1925 and Schedule 3 to theMagistrates\u2019 Courts Act 1980,",
+                                                    "tokenCum": 5336,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "section 18 of the [Criminal Justice Act (Northern Ireland) 1945 (c. 15(N.I.))](/id/apni/1945/15?view=plain \"Go to item of legislation\") and Schedule4 to the Magistrates\u2019 Courts (Northern Ireland) Order 1981 ([S.I. 1981/1675(N.I.26)](/id/nisi/1981/1675?view=plain \"Go to item of legislation\")),",
+                                                    "tokenCum": 5470,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 138,
+                                                    "tokenCount": 138
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "section 70 of the Criminal Procedure (Scotland) Act 1995.",
+                                                    "tokenCum": 5492,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 264,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A fine imposed on the partnership on its conviction for an offence undersection 7 is to be paid out of the partnership assets.",
+                                            "tokenCum": 5523,
+                                            "wordSum": 23,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201cpartnership\u201d has the same meaning as in section 7.",
+                                            "tokenCum": 5541,
+                                            "wordSum": 12,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 168,
+                                    "tokenSum": 375,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 1214,
+                            "tokenSum": 2194,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary and final provisions",
+                            "tokenCum": 5548,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Application to Crown",
+                                    "tokenCum": 5551,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act applies to individuals in the public service of the Crown as itapplies to other individuals.",
+                                            "tokenCum": 5571,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 28,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Consequential provision",
+                                    "tokenCum": 5575,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The following common law offences are abolished\u2014",
+                                            "tokenCum": 5585,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the offences under the law of England and Wales and Northern Ireland ofbribery and embracery,",
+                                                    "tokenCum": 5608,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the offences under the law of Scotland of bribery and accepting a bribe.",
+                                                    "tokenCum": 5628,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 64,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Schedule 1 (which contains consequential amendments) has effect.",
+                                            "tokenCum": 5644,
+                                            "wordSum": 8,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Schedule 2 (which contains repeals and revocations) has effect.",
+                                            "tokenCum": 5661,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The relevant national authority may by order make such supplementary,incidental or consequential provision as the relevant national authorityconsiders appropriate for the purposes of this Act or in consequence of thisAct.",
+                                            "tokenCum": 5702,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The power to make an order under this section\u2014",
+                                            "tokenCum": 5712,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is exercisable by statutory instrument,",
+                                                    "tokenCum": 5722,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "includes power to make transitional, transitory or saving provision,",
+                                                    "tokenCum": 5735,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may, in particular, be exercised by amending, repealing, revoking orotherwise modifying any provision made by or under an enactment (including anyAct passed in the same Session as this Act).",
+                                                    "tokenCum": 5779,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 92,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Subject to subsection (7), a statutory instrument containing an order ofthe Secretary of State under this section may not be made unless a draft ofthe instrument has been laid before, and approved by a resolution of, eachHouse of Parliament.",
+                                            "tokenCum": 5831,
+                                            "wordSum": 39,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A statutory instrument containing an order of the Secretary of State underthis section which does not amend or repeal a provision of a public generalAct or of devolved legislation is subject to annulment in pursuance of aresolution of either House of Parliament.",
+                                            "tokenCum": 5890,
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Subject to subsection (9), a statutory instrument containing an order ofthe Scottish Ministers under this section may not be made unless a draft ofthe instrument has been laid before, and approved by a resolution of, theScottish Parliament.",
+                                            "tokenCum": 5942,
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "A statutory instrument containing an order of the Scottish Ministers underthis section which does not amend or repeal a provision of an Act of theScottish Parliament or of a public general Act is subject to annulment inpursuance of a resolution of the Scottish Parliament.",
+                                            "tokenCum": 6002,
+                                            "wordSum": 44,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 6006,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdevolved legislation\u201d means an Act of the Scottish Parliament, a Measure of the National Assembly for Wales or an Act of the Northern Ireland Assembly, ",
+                                                    "tokenCum": 6042,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cenactment\u201d includes an Act of the Scottish Parliament and Northern Ireland legislation, ",
+                                                    "tokenCum": 6063,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201crelevant national authority\u201d means\u2014 ",
+                                                    "tokenCum": 6074,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the case of provision which would be within the legislative competence ofthe Scottish Parliament if it were contained in an Act of that Parliament, theScottish Ministers, and",
+                                                    "tokenCum": 6074,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other case, the Secretary of State.",
+                                                    "tokenCum": 6111,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 142,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 381,
+                                    "tokenSum": 622,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Extent ",
+                                    "tokenCum": 6124,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subject as follows, this Act extends to England and Wales, Scotland andNorthern Ireland.",
+                                            "tokenCum": 6144,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to subsections (3) to (5), any amendment, repeal or revocation madeby Schedule 1 or 2 has the same extent as the provision amended, repealed orrevoked.",
+                                            "tokenCum": 6191,
+                                            "wordSum": 26,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The amendment of, and repeals in, the Armed Forces Act 2006 do not extendto the Channel Islands.",
+                                            "tokenCum": 6220,
+                                            "wordSum": 17,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The amendments of the International Criminal Court Act 2001 extend toEngland and Wales and Northern Ireland only.",
+                                            "tokenCum": 6247,
+                                            "wordSum": 17,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (2) does not apply to the repeal in the Civil Aviation Act 1982.",
+                                            "tokenCum": 6271,
+                                            "wordSum": 14,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 167,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Commencement and transitional provision etc.",
+                                    "tokenCum": 6280,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Subject to subsection (2), this Act comes into force on such day as theSecretary of State may by order made by statutory instrument appoint.",
+                                            "tokenCum": 6313,
+                                            "wordSum": 24,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 16, 17(4) to (10) and 18, this section (other than subsections (5)to (7)) and section 20 come into force on the day on which this Act is passed.",
+                                            "tokenCum": 6367,
+                                            "wordSum": 29,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An order under subsection (1) may\u2014",
+                                            "tokenCum": 6377,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appoint different days for different purposes,",
+                                                    "tokenCum": 6384,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make such transitional, transitory or saving provision as the Secretary ofState considers appropriate in connection with the coming into force of anyprovision of this Act.",
+                                                    "tokenCum": 6417,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 61,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The Secretary of State must consult the Scottish Ministers before making anorder under this section in connection with any provision of this Act whichwould be within the legislative competence of the Scottish Parliament if itwere contained in an Act of that Parliament.",
+                                            "tokenCum": 6468,
+                                            "wordSum": 42,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act does not affect any liability, investigation, legal proceeding orpenalty for or in respect of\u2014",
+                                            "tokenCum": 6491,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a common law offence mentioned in subsection (1) of section 17 which iscommitted wholly or partly before the coming into force of that subsection inrelation to such an offence, or",
+                                                    "tokenCum": 6534,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an offence under the Public Bodies Corrupt Practices Act 1889 or thePrevention of Corruption Act 1906 committed wholly or partly before the cominginto force of the repeal of the Act by Schedule 2 to this Act.",
+                                                    "tokenCum": 6591,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                }
+                                            ],
+                                            "wordSum": 82,
+                                            "tokenSum": 134,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "For the purposes of subsection (5) an offence is partly committed before aparticular time if any act or omission which forms part of the offence takesplace before that time.",
+                                            "tokenCum": 6629,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Subsections (5) and (6) are without prejudice to section 16 of theInterpretation Act 1978 (general savings on repeal).",
+                                            "tokenCum": 6667,
+                                            "wordSum": 18,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 266,
+                                    "tokenSum": 435,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 20",
+                                    "text": "Short title",
+                                    "tokenCum": 6669,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Bribery Act 2010.",
+                                            "tokenCum": 6688,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 26,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 771,
+                            "tokenSum": 1286,
+                            "tokenCount": 7
+                        }
+                    ],
+                    "wordSum": 4536,
+                    "tokenSum": 7574,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 4559,
+            "tokenSum": 7674,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2010/23/enacted?view=plain",
+    "title": "Bribery Act 2010",
+    "longtitle": "An Act to make provision about offences relating to bribery; and for connected purposes.",
+    "date": "[8th April 2010]",
+    "wordSum": 4559,
+    "tokenSum": 7675,
+    "tokenCount": 0,
+    "totalTokens": 7675
+}

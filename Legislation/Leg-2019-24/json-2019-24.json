@@ -1,0 +1,339 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2019/24/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Wild Animals in Circuses Act 2019",
+                    "tokenCum": 56,
+                    "wordSum": 6,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2019 CHAPTER 24",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision to prohibit the use of wild animals in travellingcircuses.",
+                            "tokenCum": 84,
+                            "wordSum": 14,
+                            "tokenSum": 20,
+                            "tokenCount": 20
+                        }
+                    ],
+                    "wordSum": 17,
+                    "tokenSum": 30,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[24th July 2019]",
+                    "tokenCum": 95,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 152,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Prohibition on use of wild animals in travelling circuses in England",
+                            "tokenCum": 167,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A circus operator may not use a wild animal in a travelling circus inEngland.",
+                                    "tokenCum": 187,
+                                    "wordSum": 14,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of this section, a circus operator uses a wild animal in atravelling circus if the animal performs or is exhibited as part of thecircus.",
+                                    "tokenCum": 223,
+                                    "wordSum": 27,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A circus operator who contravenes subsection (1) is guilty of an offenceand liable on summary conviction to a fine.",
+                                    "tokenCum": 253,
+                                    "wordSum": 19,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Where an offence under this section is committed by a body corporate and isproved\u2014",
+                                    "tokenCum": 272,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "to have been committed with the consent or connivance of an officer of thebody corporate, or",
+                                            "tokenCum": 293,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "to be attributable to any neglect on the part of an officer of the bodycorporate,",
+                                            "tokenCum": 314,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the officer (as well as the body corporate) is guilty of the offence andliable to be proceeded against and punished accordingly.",
+                                                    "tokenCum": 343,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 57,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 66,
+                                    "tokenSum": 102,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 347,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201canimal\u201d has the meaning given by section 1(1) of the Animal Welfare Act 2006; ",
+                                            "tokenCum": 378,
+                                            "wordSum": 15,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201ccircus operator\u201d, in relation to a circus, means\u2014 ",
+                                            "tokenCum": 395,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the owner of the circus,",
+                                            "tokenCum": 395,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other person with overall responsibility for the operation of the circus,and",
+                                            "tokenCum": 402,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "if neither the owner of the circus nor any person with overall responsibilityfor its operation is present in the United Kingdom, the person in the UnitedKingdom who is ultimately responsible for the operation of the circus;",
+                                            "tokenCum": 417,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cofficer\u201d, in relation to a body corporate, means\u2014 ",
+                                                    "tokenCum": 479,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 69,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a director, manager, secretary or other similar officer of the body corporate,and",
+                                            "tokenCum": 479,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any person purporting to act in any such capacity;",
+                                            "tokenCum": 496,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cwild animal\u201d means an animal of a kind which is not commonly domesticated in Great Britain. ",
+                                                    "tokenCum": 532,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 43,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 127,
+                                    "tokenSum": 220,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 264,
+                            "tokenSum": 430,
+                            "tokenCount": 15
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Inspections ",
+                            "tokenCum": 536,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The Schedule makes provision about inspections for the purposes of this Act.",
+                                    "tokenCum": 552,
+                                    "wordSum": 12,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 13,
+                            "tokenSum": 23,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Consequential amendment",
+                            "tokenCum": 558,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In section 5(2) of the Dangerous Wild Animals Act 1976 (exemption from Act foranimals kept in circuses), after \u201ccircus\u201d insert \u201cin Wales\u201d.",
+                                    "tokenCum": 603,
+                                    "wordSum": 22,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                }
+                            ],
+                            "wordSum": 24,
+                            "tokenSum": 54,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 612,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales only, except that the amendment madeby section 3 also extends to Scotland.",
+                                    "tokenCum": 637,
+                                    "wordSum": 19,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on 20 January 2020.",
+                                    "tokenCum": 653,
+                                    "wordSum": 9,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act may be cited as the Wild Animals in Circuses Act 2019.",
+                                    "tokenCum": 674,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 2",
+                                            "tokenCum": 677,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 29,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 48,
+                            "tokenSum": 84,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 385,
+                    "tokenSum": 649,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 412,
+            "tokenSum": 749,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2019/24/enacted?view=plain",
+    "title": "Wild Animals in Circuses Act 2019",
+    "longtitle": "An Act to make provision to prohibit the use of wild animals in travelling circuses.",
+    "date": "[24th July 2019]",
+    "wordSum": 412,
+    "tokenSum": 750,
+    "tokenCount": 0,
+    "totalTokens": 750
+}

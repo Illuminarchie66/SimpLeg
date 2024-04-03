@@ -1,0 +1,371 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/24/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "House of Commons Commission Act 2015",
+                    "tokenCum": 54,
+                    "wordSum": 6,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 24",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the House of Commons (Administration) Act 1978 so as to makeprovision about the membership of the House of Commons Commission, so as toconfer a new strategic function on the Commission, and so as to make provisionabout the exercise of functions on behalf of the Commission or its members.",
+                            "tokenCum": 133,
+                            "wordSum": 52,
+                            "tokenSum": 71,
+                            "tokenCount": 71
+                        }
+                    ],
+                    "wordSum": 55,
+                    "tokenSum": 81,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 144,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 201,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Members of the Commission etc.",
+                            "tokenCum": 208,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 1 of the House of Commons (Administration) Act 1978 (the House ofCommons Commission) is amended as follows.",
+                                    "tokenCum": 240,
+                                    "wordSum": 18,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "After subsection (1) insert\u2014",
+                                    "tokenCum": 248,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(1A)The Commission is to consist of seven parliamentary members, two externalmembers and two official members.\u201d",
+                                            "tokenCum": 272,
+                                            "wordSum": 15,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 37,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In subsection (2) (members of the Commission)\u2014",
+                                    "tokenCum": 285,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for \u201cCommission shall consist of\u201d substitute \u201cparliamentary members are tobe\u201d, and",
+                                            "tokenCum": 304,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in paragraph (d) (members appointed by the House of Commons) for \u201cthree\u201dsubstitute \u201cfour\u201d.",
+                                            "tokenCum": 327,
+                                            "wordSum": 13,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 31,
+                                    "tokenSum": 63,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "After subsection (2) insert\u2014",
+                                    "tokenCum": 335,
+                                    "wordSum": 4,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(2A)An external member may not be\u2014",
+                                    "tokenCum": 347,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a member of the House of Commons,",
+                                            "tokenCum": 355,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a member of the House of Lords,",
+                                            "tokenCum": 364,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a member of staff in the House Departments, or",
+                                            "tokenCum": 375,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a member of staff of the House of Lords.",
+                                            "tokenCum": 386,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(2B)An external member is to be appointed by resolution of the House ofCommons.",
+                                            "tokenCum": 406,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "(2C)The official members are\u2014",
+                                            "tokenCum": 415,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Clerk of the House of Commons or, if that office is vacant, a member ofstaff in the House Departments who is appointed as an official member by theCommission, and",
+                                            "tokenCum": 456,
+                                            "wordSum": 30,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Director General of the House of Commons or, if that office is vacantor no longer exists, a member of staff in the House Departments who isappointed as an official member by the Commission.\u201d",
+                                            "tokenCum": 499,
+                                            "wordSum": 34,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 119,
+                                    "tokenSum": 190,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (4) after the definition of \u201cLeader of the Opposition\u201dinsert\u2014",
+                                    "tokenCum": 521,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201c\u201cmember of staff of the House of Lords\u201d means a person who is employed under a contract of employment with the Corporate Officer of the House of Lords.\u201d",
+                                            "tokenCum": 559,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 65,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The Schedule (further provision about members and procedure of theCommission) has effect.",
+                                    "tokenCum": 578,
+                                    "wordSum": 12,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                }
+                            ],
+                            "wordSum": 248,
+                            "tokenSum": 428,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Functions of the Commission",
+                            "tokenCum": 583,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In section 2 of the House of Commons (Administration) Act 1978 (functions ofthe Commission) before subsection (1) insert\u2014",
+                                    "tokenCum": 616,
+                                    "wordSum": 18,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 22,
+                            "tokenSum": 41,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "\u201c(A1)The Commission must from time to time set strategic priorities andobjectives in connection with services provided by the House Departments.\u201d",
+                            "tokenCum": 647,
+                            "wordSum": 20,
+                            "tokenSum": 32,
+                            "tokenCount": 32
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Commencement, extent and short title",
+                            "tokenCum": 655,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section comes into force on the day on which this Act is passed.",
+                                    "tokenCum": 670,
+                                    "wordSum": 14,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 1 and the Schedule come into force, for the purposes of makingappointments, on the day on which this Act is passed.",
+                                    "tokenCum": 700,
+                                    "wordSum": 22,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Section 1 and the Schedule come into force for other purposes, and section2 comes into force, on the day after the making of the appointments requiredby section 1(2)(d) of the House of Commons (Administration) Act 1978 asamended by section 1 (or, where those appointments are made on different days,the making of the last of them).",
+                                    "tokenCum": 784,
+                                    "wordSum": 55,
+                                    "tokenSum": 86,
+                                    "tokenCount": 86
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Appointments made before this Act is fully in force, by virtue ofsubsection (2), take effect on the first day on which this Act is fully inforce.",
+                                    "tokenCum": 818,
+                                    "wordSum": 26,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "This Act extends to the whole of the United Kingdom.",
+                                    "tokenCum": 829,
+                                    "wordSum": 10,
+                                    "tokenSum": 13,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "This Act may be cited as the House of Commons Commission Act 2015.",
+                                    "tokenCum": 848,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 851,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 27,
+                                    "tokenCount": 20
+                                }
+                            ],
+                            "wordSum": 147,
+                            "tokenSum": 220,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 473,
+                    "tokenSum": 779,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 538,
+            "tokenSum": 928,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/24/enacted?view=plain",
+    "title": "House of Commons Commission Act 2015",
+    "longtitle": "An Act to amend the House of Commons (Administration) Act 1978 so as to make provision about the membership of the House of Commons Commission, so as to confer a new strategic function on the Commission, and so as to make provision about the exercise of functions on behalf of the Commission or its members.",
+    "date": "[26th March 2015]",
+    "wordSum": 538,
+    "tokenSum": 929,
+    "tokenCount": 0,
+    "totalTokens": 929
+}

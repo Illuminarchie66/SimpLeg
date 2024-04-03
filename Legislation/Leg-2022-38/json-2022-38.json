@@ -1,0 +1,1168 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/38/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Social Security (Additional Payments) Act 2022",
+                    "tokenCum": 58,
+                    "wordSum": 6,
+                    "tokenSum": 15,
+                    "tokenCount": 14
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 38",
+                    "tokenCum": 67,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about additional payments to recipients of means-tested benefits, tax credits and disability benefits.",
+                            "tokenCum": 94,
+                            "wordSum": 18,
+                            "tokenSum": 28,
+                            "tokenCount": 28
+                        }
+                    ],
+                    "wordSum": 21,
+                    "tokenSum": 38,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[28th June 2022]",
+                    "tokenCum": 105,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 162,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Means-tested additional payments",
+                            "tokenCum": 170,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Means-tested additional payments: main payments",
+                                    "tokenCum": 182,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State must secure that\u2014",
+                                            "tokenCum": 190,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a single payment of \u00a3326 is made to any person who has a qualifyingentitlement to a social security benefit in respect of 25 May 2022 (the first\u201cqualifying day\u201d), and",
+                                                    "tokenCum": 238,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a single payment of \u00a3324 is made to any person who has a qualifyingentitlement to a social security benefit in respect of the second qualifyingday.",
+                                                    "tokenCum": 273,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 102,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "HMRC must secure that\u2014",
+                                            "tokenCum": 280,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a single payment of \u00a3326 is made to any person who has a qualifyingentitlement to child tax credit or working tax credit, but not to a socialsecurity benefit, in respect of 25 May 2022, and",
+                                                    "tokenCum": 333,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a single payment of \u00a3324 is made to any person who has a qualifyingentitlement to child tax credit or working tax credit, but not to a socialsecurity benefit, in respect of the second qualifying day.",
+                                                    "tokenCum": 381,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 119,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The social security benefits are\u2014",
+                                            "tokenCum": 387,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "universal credit under the Welfare Reform Act 2012 or the Welfare Reform(Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I.1)](/id/nisi/2015/2006?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 468,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 85,
+                                                    "tokenCount": 85
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "state pension credit under the State Pension Credit Act 2002 or the StatePension Credit Act (Northern Ireland) 2002;",
+                                                    "tokenCum": 505,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an income-based jobseeker\u2019s allowance under the Jobseekers Act 1995 or theJobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I.15)](/id/nisi/1995/2705?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 597,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 96,
+                                                    "tokenCount": 96
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "an income-related employment and support allowance under Part 1 of theWelfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland)2007;",
+                                                    "tokenCum": 645,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "income support under section 124 of the Social Security Contributions andBenefits Act 1992 or section 123 of the Social Security Contributions andBenefits (Northern Ireland) Act 1992.",
+                                                    "tokenCum": 700,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 119,
+                                            "tokenSum": 342,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The second qualifying day is such day, not later than 31 October 2022, asmay be specified by the Secretary of State in regulations.",
+                                            "tokenCum": 735,
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations under subsection (4) may specify a day before the regulationscome into force.",
+                                            "tokenCum": 755,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In this section, and in sections 2 to 4, references to a \u201cperson\u201d are to anindividual or to a couple (but not to each member of a couple separately).",
+                                            "tokenCum": 794,
+                                            "wordSum": 29,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 324,
+                                    "tokenSum": 680,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Qualifying entitlements",
+                                    "tokenCum": 800,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person has a qualifying entitlement to a social security benefit inrespect of a qualifying day if\u2014",
+                                            "tokenCum": 824,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in respect of universal credit, the person is entitled to a payment of atleast 1p in respect of an assessment period ending during the period of onemonth ending with the qualifying day;",
+                                                    "tokenCum": 866,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in respect of state pension credit, an income-based jobseeker\u2019s allowance,an income-related employment and support allowance or income support, theperson is entitled to a payment of at least 1p in respect of any day duringthe period of one month ending with the qualifying day.",
+                                                    "tokenCum": 932,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                }
+                                            ],
+                                            "wordSum": 92,
+                                            "tokenSum": 143,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person has a qualifying entitlement to child tax credit or working taxcredit in respect of a qualifying day if\u2014",
+                                            "tokenCum": 959,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "where the qualifying day is 25 May 2022, the person receives a payment orhas an award of the credit in question in the period beginning with 26 April2022 and ending with 25 May 2022;",
+                                                    "tokenCum": 1015,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where the qualifying day is the second qualifying day, the person receivesa payment or has an award of the credit in question in the period of one monthending with the second qualifying day,",
+                                                    "tokenCum": 1055,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and, in either case, the payment or award of the credit in question is of atleast \u00a326 or HMRC expects the person to receive total payments or have anaward of the credit in question of at least \u00a326 in respect of the tax year2022-23.",
+                                                            "tokenCum": 1120,
+                                                            "wordSum": 44,
+                                                            "tokenSum": 70,
+                                                            "tokenCount": 70
+                                                        }
+                                                    ],
+                                                    "wordSum": 77,
+                                                    "tokenSum": 114,
+                                                    "tokenCount": 43
+                                                }
+                                            ],
+                                            "wordSum": 131,
+                                            "tokenSum": 204,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "References in this section to a person receiving a payment or having anaward do not include payments received or awards made as a result of fraud.",
+                                            "tokenCum": 1151,
+                                            "wordSum": 26,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 251,
+                                    "tokenSum": 389,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Applicable benefits or tax credits",
+                                    "tokenCum": 1159,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where a person has a qualifying entitlement to universal credit and toanother social security benefit in respect of a qualifying day, the benefit byreference to which the means-tested additional payment in respect of thequalifying day is to be made is universal credit (if the payment is made undersection 1(1)).",
+                                            "tokenCum": 1226,
+                                            "wordSum": 49,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where a person has a qualifying entitlement to child tax credit and toworking tax credit in respect of a qualifying day, the tax credit by referenceto which the means-tested additional payment in respect of the qualifying dayis to be paid is child tax credit (if the payment is made under section 1(2)).",
+                                            "tokenCum": 1296,
+                                            "wordSum": 52,
+                                            "tokenSum": 73,
+                                            "tokenCount": 73
+                                        }
+                                    ],
+                                    "wordSum": 106,
+                                    "tokenSum": 153,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Means-tested additional payments: final payments",
+                                    "tokenCum": 1308,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "HMRC must secure that a single payment of \u00a3326 is made to any person who\u2014",
+                                            "tokenCum": 1329,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "receives a payment or has an award of child tax credit or working taxcredit in respect of the period beginning with 26 April 2022 and ending with25 May 2022,",
+                                                    "tokenCum": 1373,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not entitled to a payment under section 1(1)(a) or (2)(a), and",
+                                                    "tokenCum": 1395,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "receives total payments or has an award of the credit in question of atleast \u00a326 in respect of the tax year 2022-23.",
+                                                    "tokenCum": 1430,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 78,
+                                            "tokenSum": 137,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "HMRC must secure that a single payment of \u00a3324 is made to any person who\u2014",
+                                            "tokenCum": 1451,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "receives a payment or has an award of child tax credit or working taxcredit in respect of the period of one month ending with the second qualifyingday,",
+                                                    "tokenCum": 1483,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not entitled to a payment under section 1(1)(b) or (2)(b), and",
+                                                    "tokenCum": 1505,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "receives total payments or has an award of the credit in question of atleast \u00a326 in respect of the tax year 2022-23.",
+                                                    "tokenCum": 1540,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 125,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where a person is entitled to a payment under this section by reference tochild tax credit and working tax credit, the tax credit by reference to whichthe payment is to be made is child tax credit.",
+                                            "tokenCum": 1581,
+                                            "wordSum": 36,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "References in this section to a person receiving a payment or having anaward do not include payments received or awards made as a result of fraud.",
+                                            "tokenCum": 1612,
+                                            "wordSum": 26,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 221,
+                                    "tokenSum": 354,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 905,
+                            "tokenSum": 1585,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Disability additional payments",
+                            "tokenCum": 1617,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Disability additional payments",
+                                    "tokenCum": 1622,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State must secure that a single payment of \u00a3150 (a\u201cdisability additional payment\u201d) is made to each individual who is entitled toa payment of a disability benefit that is payable in respect of 25 May 2022.",
+                                            "tokenCum": 1679,
+                                            "wordSum": 38,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The disability benefits are\u2014",
+                                            "tokenCum": 1685,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a disability living allowance under section 71 of the Social SecurityContributions and Benefits Act 1992 or section 71 of the Social SecurityContributions and Benefits (Northern Ireland) Act 1992;",
+                                                    "tokenCum": 1742,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a personal independence payment under the Welfare Reform Act 2012 or Part 5of the Welfare Reform (Northern Ireland) Order 2015;",
+                                                    "tokenCum": 1781,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an attendance allowance under section 64 of the Social SecurityContributions and Benefits Act 1992 or section 64 of the Social SecurityContributions and Benefits (Northern Ireland) Act 1992;",
+                                                    "tokenCum": 1837,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a constant attendance allowance under section 104 of the Social SecurityContributions and Benefits Act 1992 or section 104 of the Social SecurityContributions and Benefits (Northern Ireland) Act 1992;",
+                                                    "tokenCum": 1896,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 63
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "an adult disability payment under the Disability Assistance for Working AgePeople (Scotland) Regulations 2022 ([S.S.I.2022/54](/id/ssi/2022/54?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 1963,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 71,
+                                                    "tokenCount": 71
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "a child disability payment under the Disability Assistance for Children andYoung People (Scotland) Regulations 2021 ([S.S.I.2021/174](/id/ssi/2021/174?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 2033,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 74,
+                                                    "tokenCount": 74
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "an armed forces independence payment under article 24A of the Armed Forcesand Reserve Forces (Compensation Scheme) Order 2011 ([S.I.2011/517](/id/uksi/2011/517?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 2104,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "a constant attendance allowance under\u2014",
+                                                    "tokenCum": 2112,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "article 14 or 43 of the Personal Injuries (Civilians) Scheme 1983 ([S.I.1983/686](/id/uksi/1983/686?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 2178,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "article 8 of the Naval, Military and Air Forces etc. (Disablement andDeath) Service Pensions Order 2006 ([S.I.2006/606](/id/uksi/2006/606?view=plain \"Go to item of legislation\"));",
+                                                    "tokenCum": 2247,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 73
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "a mobility supplement under\u2014",
+                                                    "tokenCum": 2254,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "article 25A or 48A of the Personal Injuries (Civilians) Scheme 1983;",
+                                                    "tokenCum": 2284,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "article 20 of the Naval, Military and Air Forces etc. (Disablement andDeath) Service Pensions Order 2006.",
+                                                    "tokenCum": 2316,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                }
+                                            ],
+                                            "wordSum": 247,
+                                            "tokenSum": 692,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where an individual is entitled to a payment of more than one disabilitybenefit that is payable in respect of 25 May 2022, the benefit by reference towhich the disability additional payment is to be made is the first benefit inthe list in subsection (2) to which the individual is entitled.",
+                                            "tokenCum": 2385,
+                                            "wordSum": 50,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        }
+                                    ],
+                                    "wordSum": 338,
+                                    "tokenSum": 831,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 341,
+                            "tokenSum": 837,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Administration etc",
+                            "tokenCum": 2387,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Administration of additional payments",
+                                    "tokenCum": 2392,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For all purposes relating to the administration of an additional payment,any provision applying in relation to a social security benefit, child taxcredit, working tax credit or disability benefit by reference to which thatpayment is made is to apply in relation to that payment as if that paymentwere a payment or award of the social security benefit, child tax credit,working tax credit or disability benefit in question.",
+                                            "tokenCum": 2474,
+                                            "wordSum": 66,
+                                            "tokenSum": 85,
+                                            "tokenCount": 85
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The provision applied by subsection (1)\u2014",
+                                            "tokenCum": 2484,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "includes provision relating to overpayments and recovery, and appealsrelating to overpayments and recovery (but not provision relating to appealsor reviews about entitlement to the social security benefit, tax credit ordisability benefit in question), and",
+                                                    "tokenCum": 2537,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is subject to any necessary modifications.",
+                                                    "tokenCum": 2544,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 81,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (1) has effect in relation to a payment made in purportedcompliance with a duty under section 1 or 4 as if that payment were theadditional payment which it purported to be.",
+                                            "tokenCum": 2590,
+                                            "wordSum": 32,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (1) (including as it has effect as a result of subsection (3))is subject to regulations made by the Secretary of State, the Treasury or HMRCunder subsection (5).",
+                                            "tokenCum": 2636,
+                                            "wordSum": 28,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The Secretary of State, the Treasury or HMRC may by regulations makeprovision, in relation to additional payments or payments purporting to beadditional payments, applying or disapplying, with or without modifications,any provision applying in relation to a social security benefit, child taxcredit, working tax credit or a disability benefit.",
+                                            "tokenCum": 2711,
+                                            "wordSum": 48,
+                                            "tokenSum": 78,
+                                            "tokenCount": 78
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The regulations may make provision having effect from the day on which thisAct comes into force.",
+                                            "tokenCum": 2730,
+                                            "wordSum": 16,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 240,
+                                    "tokenSum": 371,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Cooperation etc between the Secretary of State and HMRC",
+                                    "tokenCum": 2742,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State and HMRC must cooperate in exercising theirfunctions in relation to additional payments.",
+                                            "tokenCum": 2767,
+                                            "wordSum": 16,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Section 3 of the Social Security Act 1998 (use of information) has effect\u2014",
+                                            "tokenCum": 2788,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to HMRC as it has effect in relation to the Secretary of State,and",
+                                                    "tokenCum": 2807,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "as if, in subsection (1A), the reference to social security includedadditional payments.",
+                                                    "tokenCum": 2828,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 72,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 127 of the Welfare Reform Act 2012 (information-sharing betweenSecretary of State and HMRC) has effect as if\u2014",
+                                            "tokenCum": 2865,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "functions of HMRC conferred by or under this Act were HMRC functions withinthe meaning of that section, and",
+                                                    "tokenCum": 2891,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "functions of the Secretary of State conferred by or under this Act weredepartmental functions within the meaning of that section.",
+                                                    "tokenCum": 2918,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 101,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Section 34 of the Scotland Act 2016 (information-sharing between theSecretary of State and the Scottish Ministers) has effect as if, in subsection(7), the reference to social security in the definition of \u201csocial securityfunction\u201d included additional payments.",
+                                            "tokenCum": 2978,
+                                            "wordSum": 36,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (6) applies where\u2014",
+                                            "tokenCum": 2986,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Secretary of State or HMRC make a payment to a person in purportedcompliance with a duty in section 1 or 4,",
+                                                    "tokenCum": 3017,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the person was entitled to receive an additional payment of an amount equalto that payment under a different duty in section 1 or 4 (\u201cthe applicableduty\u201d), and",
+                                                    "tokenCum": 3054,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the person does not receive the additional payment to which they areentitled under the applicable duty.",
+                                                    "tokenCum": 3073,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 110,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The payment made in purported compliance with a duty in section 1 or 4 isto be treated as if it had been made in accordance with the applicable duty(and, accordingly, the payment is not recoverable on the grounds that it wasnot made in compliance with a duty in section 1 or 4).",
+                                            "tokenCum": 3142,
+                                            "wordSum": 52,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        }
+                                    ],
+                                    "wordSum": 278,
+                                    "tokenSum": 460,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Payments to be disregarded for the purposes of tax and social security",
+                                    "tokenCum": 3157,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "No account is to be taken of an additional payment in considering a person\u2019s\u2014",
+                                            "tokenCum": 3174,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "liability to tax,",
+                                                    "tokenCum": 3179,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "entitlement to benefit under an enactment relating to social security(irrespective of the name or nature of the benefit), or",
+                                                    "tokenCum": 3208,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "entitlement to a tax credit.",
+                                                    "tokenCum": 3216,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 74,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 91,
+                                    "tokenCount": 16
+                                }
+                            ],
+                            "wordSum": 573,
+                            "tokenSum": 925,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provisions",
+                            "tokenCum": 3219,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3223,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3227,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cadditional payment\u201d means a means-tested additional payment or a disability additional payment; ",
+                                                    "tokenCum": 3250,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdisability additional payment\u201d has the meaning given by section 5(1); ",
+                                                    "tokenCum": 3270,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cdisability benefit\u201d means a benefit listed in section 5(2); ",
+                                                    "tokenCum": 3289,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cHMRC\u201d means the Commissioners for Her Majesty\u2019s Revenue and Customs; ",
+                                                    "tokenCum": 3312,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cmeans-tested additional payment\u201d means a payment under section 1 or 4; ",
+                                                    "tokenCum": 3335,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe second qualifying day\u201d means the day specified in regulations under section 1(4); ",
+                                                    "tokenCum": 3359,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csocial security benefit\u201d means a benefit listed in section 1(3); ",
+                                                    "tokenCum": 3378,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe tax year 2022-23\u201d means the period beginning with 6 April 2022 and ending with 5 April 2023. ",
+                                                    "tokenCum": 3419,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 104,
+                                            "tokenSum": 231,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3423,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "references to \u201ca qualifying day\u201d are to\u2014",
+                                                    "tokenCum": 3434,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "25 May 2022, or",
+                                                    "tokenCum": 3445,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the day specified in regulations under section 1(4);",
+                                                    "tokenCum": 3458,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "references to child tax credit or working tax credit are to child taxcredit or working tax credit under the Tax Credits Act 2002.",
+                                                    "tokenCum": 3489,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 89,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 150,
+                                    "tokenSum": 326,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Regulations ",
+                                    "tokenCum": 3492,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A power to make regulations under any provision of this Act includes powerto make\u2014",
+                                            "tokenCum": 3509,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "consequential, supplementary, incidental, transitional or saving provision;",
+                                                    "tokenCum": 3525,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "different provision for different purposes.",
+                                                    "tokenCum": 3531,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 50,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this Act are to be made by statutory instrument.",
+                                            "tokenCum": 3546,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A statutory instrument containing regulations under this Act is subject toannulment in pursuance of a resolution of either House of Parliament.",
+                                            "tokenCum": 3576,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 59,
+                                    "tokenSum": 106,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 3585,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales, Scotland and Northern Ireland.",
+                                            "tokenCum": 3598,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "This Act comes into force on the day on which it is passed.",
+                                            "tokenCum": 3612,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This Act may be cited as the Social Security (Additional Payments) Act2022.",
+                                            "tokenCum": 3634,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 3634,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 12,
+                                            "tokenSum": 29,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 73,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 252,
+                            "tokenSum": 509,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 2107,
+                    "tokenSum": 3914,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 2138,
+            "tokenSum": 4024,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/38/enacted?view=plain",
+    "title": "Social Security (Additional Payments) Act 2022",
+    "longtitle": "An Act to make provision about additional payments to recipients of means-tested benefits, tax credits and disability benefits.",
+    "date": "[28th June 2022]",
+    "wordSum": 2138,
+    "tokenSum": 4025,
+    "tokenCount": 0,
+    "totalTokens": 4025
+}

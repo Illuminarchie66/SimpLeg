@@ -1,0 +1,871 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2009/17/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Driving Instruction (Suspension and Exemption Powers) Act 2009",
+                    "tokenCum": 67,
+                    "wordSum": 8,
+                    "tokenSum": 24,
+                    "tokenCount": 23
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2009 CHAPTER 17",
+                    "tokenCum": 76,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to provide for the suspension in certain circumstances of registrationand licences relating to the provision of driving instruction; to makeprovision about exemptions from prohibitions concerning registration(including provision about suspension); to make provision about compensationin connection with suspension; and for connected purposes.",
+                            "tokenCum": 137,
+                            "wordSum": 43,
+                            "tokenSum": 62,
+                            "tokenCount": 62
+                        }
+                    ],
+                    "wordSum": 46,
+                    "tokenSum": 72,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th November 2009]",
+                    "tokenCum": 148,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 205,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Suspension of registration",
+                            "tokenCum": 210,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Suspension of registration",
+                                    "tokenCum": 215,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "After section 128 of the [Road Traffic Act 1988 (c.52)](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") (as substitutedby Schedule 6 to the [Road Safety Act 2006 (c.49)](/id/ukpga/2006/49?view=plain \"Go to item of legislation\")) (terminationof registration by Registrar) insert\u2014",
+                                            "tokenCum": 333,
+                                            "wordSum": 36,
+                                            "tokenSum": 121,
+                                            "tokenCount": 121
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c128ZASuspension of registration by Registrar",
+                                            "tokenCum": 348,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Registrar may suspend a person\u2019s registration in respect of anydescription of driving instruction if the Registrar\u2014",
+                                                    "tokenCum": 374,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "has given, or is about to give, the person notice under section 127(5) or128(4) in relation to the person\u2019s registration in respect of that descriptionof driving instruction,",
+                                                            "tokenCum": 419,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 50,
+                                                            "tokenCount": 50
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "is considering whether to refuse the application for an extension of theperson\u2019s registration or (as the case may be) whether to terminate theperson\u2019s registration, or has decided so to refuse or terminate but thedecision is not yet in effect, and",
+                                                            "tokenCum": 471,
+                                                            "wordSum": 40,
+                                                            "tokenSum": 57,
+                                                            "tokenCount": 57
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "believes that the person would pose a significant threat to the safety ofmembers of the public if the person\u2019s registration were not suspended.",
+                                                            "tokenCum": 500,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        }
+                                                    ],
+                                                    "wordSum": 107,
+                                                    "tokenSum": 171,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Registrar must, on deciding to suspend a person\u2019s registration inrespect of any description of driving instruction, give written notice of thedecision to the person.",
+                                                    "tokenCum": 538,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The decision to suspend takes effect on the giving of the notice.",
+                                                    "tokenCum": 552,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "No notice may be given under subsection (2) before the notice under section127(5) or (as the case may be) 128(4) is given but the subsection (2) noticemay be included in the section 127(5) or 128(4) notice if the section 127(5)or 128(4) notice is still to be given when the decision to suspend is made.",
+                                                    "tokenCum": 656,
+                                                    "wordSum": 54,
+                                                    "tokenSum": 108,
+                                                    "tokenCount": 108
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A suspension under this section is terminated if\u2014",
+                                                    "tokenCum": 666,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the Registrar decides not to refuse the application for an extension of theperson\u2019s registration or (as the case may be) decides not to terminate theperson\u2019s registration,",
+                                                            "tokenCum": 705,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 44,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Registrar decides to refuse the application for an extension of theperson\u2019s registration or (as the case may be) to terminate the person\u2019sregistration but the decision has not taken effect and an appeal against thedecision is successfully concluded,",
+                                                            "tokenCum": 758,
+                                                            "wordSum": 38,
+                                                            "tokenSum": 58,
+                                                            "tokenCount": 58
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the Registrar has not decided whether to refuse the application for anextension of the person\u2019s registration or (as the case may be) whether toterminate the person\u2019s registration and the period of 75 days beginning withthe giving of the section 127(5) or 128(4) notice has ended,",
+                                                            "tokenCum": 830,
+                                                            "wordSum": 45,
+                                                            "tokenSum": 77,
+                                                            "tokenCount": 77
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the person\u2019s registration is terminated (whether under section 128 orotherwise), or",
+                                                            "tokenCum": 851,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "the Registrar decides to terminate the suspension.",
+                                                            "tokenCum": 863,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 135,
+                                                    "tokenSum": 236,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The Registrar must give written notice to a person of the fact that theperson\u2019s suspension is terminated as mentioned in subsection (5)(a) to (c) or(e).",
+                                                    "tokenCum": 904,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "For the purposes of this Part of this Act, the fact that a person\u2019sregistration is suspended does not prevent the person from being \u201cregistered\u201d;and \u201cregistration\u201d is to be construed accordingly.\u201d",
+                                                    "tokenCum": 950,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "In section 123(1)(a) and (b) of the [Road Traffic Act 1988 (c.52)](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") (as substitutedby Schedule 6 to the Act of 2006) (prohibition on giving paid drivinginstruction or carrying on business in the provision of paid drivinginstruction when unregistered) after \u201cof driving instruction\u201d insert \u201cand theregistration is not suspended\u201d.",
+                                                    "tokenCum": 1074,
+                                                    "wordSum": 53,
+                                                    "tokenSum": 128,
+                                                    "tokenCount": 128
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In section 123A(3) of the [Road Traffic Act1988](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") (assubstituted by Schedule 6 to the Act of 2006) (defence to offence ofcontravening the prohibition) after \u201cquestion\u201d insert \u201cor (as the case may be)that the registration was at that time suspended\u201d.",
+                                                    "tokenCum": 1181,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 111,
+                                                    "tokenCount": 111
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 142 of the [Road Traffic Act 1988](/id/ukpga/1988/52?view=plain\"Go to item of legislation\") (as substituted by Schedule 6 to the Act of 2006)(index to Part 5), in the entry in the table for \u201cRegistered andregistration\u201d, for \u201cSection 123(7)\u201d substitute \u201cSections 123(7) and 128ZA(7)\u201d.",
+                                                    "tokenCum": 1299,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 122,
+                                                    "tokenCount": 122
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In subsection (1) of section 18 of the [Road Traffic Offenders Act 1988 (c.53)](/id/ukpga/1988/53?view=plain \"Go to item of legislation\") (as it haseffect with the substitution of paragraphs (a) to (d) of that subsection bySchedule 6 to the Act of 2006) (evidence by certificate as to registrationetc. of driving instructors etc.), after paragraph (b) and before the word\u201cor\u201d at the end of the paragraph, insert\u2014",
+                                                    "tokenCum": 1432,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "\u201c(ba)",
+                                                            "text": "a person\u2019s registration was, or was not, suspended,\u201d.",
+                                                            "tokenCum": 1447,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 72,
+                                                    "tokenSum": 157,
+                                                    "tokenCount": 136
+                                                }
+                                            ],
+                                            "wordSum": 605,
+                                            "tokenSum": 1206,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 644,
+                                    "tokenSum": 1334,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Compensation in respect of suspension",
+                                    "tokenCum": 1455,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 128ZA of the [Road Traffic Act 1988 (c.52)](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") (as inserted orto be inserted by section 1(1) above) insert\u2014",
+                                            "tokenCum": 1526,
+                                            "wordSum": 25,
+                                            "tokenSum": 74,
+                                            "tokenCount": 74
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c128ZBCompensation in respect of suspension",
+                                            "tokenCum": 1540,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Secretary of State must by regulations make a scheme for the making ofpayments by the Secretary of State to persons in respect of one or more of thefollowing\u2014",
+                                                    "tokenCum": 1575,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "income losses incurred by them as a result of their registrations beingsuspended by virtue of section 128ZA,",
+                                                            "tokenCum": 1605,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "non-income losses so incurred, and",
+                                                            "tokenCum": 1616,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "any other matters which relate to such a suspension and are provided for inthe scheme.",
+                                                            "tokenCum": 1634,
+                                                            "wordSum": 15,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 113,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "No payments may be made under a scheme in respect of a person\u2019s suspensionunless\u2014",
+                                                    "tokenCum": 1654,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the suspension is terminated because the Registrar decides not to refusethe application for an extension of the person\u2019s registration or (as the casemay be) decides not to terminate the person\u2019s registration,",
+                                                            "tokenCum": 1701,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "an appeal is successfully concluded against the decision of the Registrarto refuse the application for an extension of the person\u2019s registration or (asthe case may be) to terminate the person\u2019s registration (whether or not theRegistrar\u2019s decision has taken effect), or",
+                                                            "tokenCum": 1758,
+                                                            "wordSum": 40,
+                                                            "tokenSum": 62,
+                                                            "tokenCount": 62
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "any other circumstances provided for in the scheme apply.",
+                                                            "tokenCum": 1768,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 94,
+                                                    "tokenSum": 153,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Where the decision of the Registrar to refuse the application for anextension of the person\u2019s registration or (as the case may be) to terminatethe person\u2019s registration has taken effect before an appeal against it issuccessfully concluded, any payments under a scheme may relate only to thesuspension.",
+                                                    "tokenCum": 1834,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A scheme may, in particular, specify\u2014",
+                                                    "tokenCum": 1843,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the description or descriptions of income losses, or",
+                                                            "tokenCum": 1853,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the description or descriptions of non-income losses,",
+                                                            "tokenCum": 1865,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "in respect of which payments are to be made but need not provide for themaking of payments in respect of all income losses or all non-income losses orfor the making of payments which correspond to the full amount of any incomelosses or non-income losses.",
+                                                                    "tokenCum": 1925,
+                                                                    "wordSum": 44,
+                                                                    "tokenSum": 66,
+                                                                    "tokenCount": 66
+                                                                }
+                                                            ],
+                                                            "wordSum": 51,
+                                                            "tokenSum": 83,
+                                                            "tokenCount": 16
+                                                        }
+                                                    ],
+                                                    "wordSum": 65,
+                                                    "tokenSum": 111,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A scheme may also, in particular\u2014",
+                                                    "tokenCum": 1933,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "specify the basis or bases of valuation for determining losses or theperson who is to decide their valuation,",
+                                                            "tokenCum": 1956,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "specify the amounts of payments to be made or the basis or bases on whichsuch amounts are to be calculated,",
+                                                            "tokenCum": 1979,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "provide for the procedure to be followed (including when claims may be madeand the provision of information) in respect of claims under the scheme andfor the determination of such claims.",
+                                                            "tokenCum": 2015,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        }
+                                                    ],
+                                                    "wordSum": 74,
+                                                    "tokenSum": 109,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "A person who is aggrieved by a decision of the Secretary of State as to theperson\u2019s entitlement to payments under a scheme or the amounts of any suchpayments may appeal to the First-tier Tribunal.",
+                                                    "tokenCum": 2064,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "On an appeal, the First-tier Tribunal may make such order as it considersappropriate.",
+                                                    "tokenCum": 2087,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "If the Tribunal considers that any evidence adduced on an appeal had notbeen adduced to the Secretary of State before the making of the decision towhich the appeal relates, the Tribunal may (instead of making an order undersubsection (7)) remit the matter to the Secretary of State for the Secretaryof State to reconsider the decision.",
+                                                    "tokenCum": 2165,
+                                                    "wordSum": 55,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 82
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "In this section\u2014",
+                                                    "tokenCum": 2169,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cincome losses\u201d means losses of income, and",
+                                                            "tokenCum": 2182,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cnon-income losses\u201d means losses other than income losses.\u201d",
+                                                            "tokenCum": 2198,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 20,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 472,
+                                            "tokenSum": 782,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 502,
+                                    "tokenSum": 866,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 1149,
+                            "tokenSum": 2206,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Exemptions from registration",
+                            "tokenCum": 2203,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Exemptions from prohibitions concerning registration",
+                                    "tokenCum": 2211,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 124(2) of the [Road Traffic Act 1988 (c.52)](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") (as substitutedby Schedule 6 to the [Road Safety Act 2006 (c.49)](/id/ukpga/2006/49?view=plain \"Go to item of legislation\")) (exemptionfrom prohibitions imposed by section 123) insert\u2014",
+                                            "tokenCum": 2338,
+                                            "wordSum": 38,
+                                            "tokenSum": 130,
+                                            "tokenCount": 130
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(3)",
+                                            "text": "Circumstances prescribed by virtue of this section may, in particular,consist of, or include, the exercise (whether in individual cases orotherwise) of a discretion by the Registrar or another person.",
+                                            "tokenCum": 2387,
+                                            "wordSum": 29,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Regulations prescribing circumstances of the kind mentioned in subsection(3) may, in particular, make provision about\u2014",
+                                            "tokenCum": 2412,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the procedure to be followed in relation to any decision resulting from theexercise of the discretion,",
+                                                    "tokenCum": 2434,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the review or revocation of such a decision,",
+                                                    "tokenCum": 2444,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an appeal against such a decision,",
+                                                    "tokenCum": 2451,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the time when such a decision has effect,",
+                                                    "tokenCum": 2460,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "the suspension of an exemption in connection with the making of such adecision (including provision corresponding to that made by, or capable ofbeing made under, section 128ZB).",
+                                                    "tokenCum": 2502,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 138,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations made by virtue of this section may, in particular, makeprovision for the payment of fees.\u201d",
+                                            "tokenCum": 2525,
+                                            "wordSum": 16,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 168,
+                                    "tokenSum": 356,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 171,
+                            "tokenSum": 362,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Transitory amendments to existing regime",
+                            "tokenCum": 2533,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Transitory amendments to existing regime",
+                                    "tokenCum": 2541,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Schedule 1 (which contains amendments to Part 5 of the [Road Traffic Act1988](/id/ukpga/1988/52?view=plain \"Go to item of legislation\") as it haseffect without the amendments and repeals made by the [Road Safety Act2006](/id/ukpga/2006/49?view=plain \"Go to item of legislation\")) has effect.",
+                                            "tokenCum": 2648,
+                                            "wordSum": 39,
+                                            "tokenSum": 110,
+                                            "tokenCount": 110
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The enactments listed in Schedule 2 are repealed to the extent specified.",
+                                            "tokenCum": 2666,
+                                            "wordSum": 12,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 56,
+                                    "tokenSum": 141,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 61,
+                            "tokenSum": 150,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary and final provisions",
+                            "tokenCum": 2673,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Consequential provision",
+                                    "tokenCum": 2677,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by order make such supplementary, incidental orconsequential provision as the Secretary of State considers appropriate forthe purposes of this Act or in consequence of this Act.",
+                                            "tokenCum": 2718,
+                                            "wordSum": 31,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The power to make an order under this section\u2014",
+                                            "tokenCum": 2728,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is exercisable by statutory instrument,",
+                                                    "tokenCum": 2738,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "includes power to make transitional, transitory or saving provision,",
+                                                    "tokenCum": 2751,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "may, in particular, be exercised by amending, repealing, revoking orotherwise modifying any provision made by or under an enactment (including anyAct passed in the same Session as this Act).",
+                                                    "tokenCum": 2795,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 92,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (2)(c) \u201cenactment\u201d includes an Act of the ScottishParliament.",
+                                            "tokenCum": 2817,
+                                            "wordSum": 10,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subject to subsection (5), an instrument containing an order under thissection may not be made unless a draft of the instrument has been laid before,and approved by a resolution of, each House of Parliament.",
+                                            "tokenCum": 2860,
+                                            "wordSum": 34,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An instrument containing an order under this section which does not amendor repeal a provision of a public general Act or an Act of the ScottishParliament is subject to annulment in pursuance of a resolution of eitherHouse of Parliament.",
+                                            "tokenCum": 2910,
+                                            "wordSum": 39,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 168,
+                                    "tokenSum": 266,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Transitional, transitory and saving provision",
+                                    "tokenCum": 2918,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by order made by statutory instrument make suchtransitional, transitory or saving provision as the Secretary of Stateconsiders appropriate in connection with the coming into force of anyprovision of this Act.",
+                                            "tokenCum": 2964,
+                                            "wordSum": 35,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An order under subsection (1) may, in particular, take account of anyamendment or repeal made, or to be made, by Schedule 6 to the Road Safety Act[2006 (c. 49)](/id/ukpga/2006/49?view=plain \"Go to item of legislation\").",
+                                            "tokenCum": 3043,
+                                            "wordSum": 34,
+                                            "tokenSum": 82,
+                                            "tokenCount": 82
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 141,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Short title, commencement and extent",
+                                    "tokenCum": 3051,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the Driving Instruction (Suspension and ExemptionPowers) Act 2009.",
+                                            "tokenCum": 3084,
+                                            "wordSum": 14,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 5 and 6 and this section come into force on the day on which thisAct is passed.",
+                                            "tokenCum": 3107,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Sections 1 to 4 and Schedules 1 and 2 come into force on such day as theSecretary of State may by order made by statutory instrument appoint; anddifferent days may be appointed for different purposes.",
+                                            "tokenCum": 3157,
+                                            "wordSum": 35,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This Act extends only to England and Wales and Scotland.",
+                                            "tokenCum": 3168,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 82,
+                                    "tokenSum": 139,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 328,
+                            "tokenSum": 554,
+                            "tokenCount": 7
+                        }
+                    ],
+                    "wordSum": 1745,
+                    "tokenSum": 3330,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1803,
+            "tokenSum": 3483,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2009/17/enacted?view=plain",
+    "title": "Driving Instruction (Suspension and Exemption Powers) Act 2009",
+    "longtitle": "An Act to provide for the suspension in certain circumstances of registration and licences relating to the provision of driving instruction; to make provision about exemptions from prohibitions concerning registration (including provision about suspension); to make provision about compensation in connection with suspension; and for connected purposes.",
+    "date": "[12th November 2009]",
+    "wordSum": 1803,
+    "tokenSum": 3484,
+    "tokenCount": 0,
+    "totalTokens": 3484
+}

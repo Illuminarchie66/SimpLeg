@@ -1,0 +1,2053 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2013/13/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Presumption of Death Act 2013",
+                    "tokenCum": 54,
+                    "wordSum": 5,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2013 CHAPTER 13",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision in relation to the presumed death of missing persons;and for connected purposes.",
+                            "tokenCum": 84,
+                            "wordSum": 17,
+                            "tokenSum": 22,
+                            "tokenCount": 22
+                        }
+                    ],
+                    "wordSum": 20,
+                    "tokenSum": 32,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2013]",
+                    "tokenCum": 95,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 152,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Declaration of presumed death",
+                            "tokenCum": 158,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Applying for declaration",
+                                    "tokenCum": 162,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where a person who is missing\u2014",
+                                            "tokenCum": 172,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is thought to have died, or",
+                                                    "tokenCum": 179,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "has not been known to be alive for a period of at least 7 years.",
+                                                    "tokenCum": 196,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 45,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any person may apply to the High Court for a declaration that the missingperson is presumed to be dead.",
+                                            "tokenCum": 218,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The court has jurisdiction to hear and determine an application under thissection only if\u2014",
+                                            "tokenCum": 235,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the missing person was domiciled in England and Wales on the day on whichhe or she was last known to be alive,",
+                                                    "tokenCum": 261,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the missing person had been habitually resident in England and Walesthroughout the period of 1 year ending with that day, or",
+                                                    "tokenCum": 289,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "subsection (4) is satisfied.",
+                                                    "tokenCum": 297,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 94,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This subsection is satisfied if the application is made by the spouse orcivil partner of the missing person and\u2014",
+                                            "tokenCum": 321,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the applicant is domiciled in England and Wales on the day on which theapplication is made, or",
+                                                    "tokenCum": 343,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the applicant has been habitually resident in England and Wales throughoutthe period of 1 year ending with that day.",
+                                                    "tokenCum": 367,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 81,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The court must refuse to hear an application under this section if\u2014",
+                                            "tokenCum": 380,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the application is made by someone other than the missing person\u2019s spouse,civil partner, parent, child or sibling, and",
+                                                    "tokenCum": 408,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the court considers that the applicant does not have a sufficient interestin the determination of the application.",
+                                                    "tokenCum": 430,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 74,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This section has effect subject to section 21(2).",
+                                            "tokenCum": 443,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 223,
+                                    "tokenSum": 341,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Making declaration",
+                                    "tokenCum": 446,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "On an application under section 1, the court must make the declaration ifit is satisfied that the missing person\u2014",
+                                            "tokenCum": 469,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "has died, or",
+                                                    "tokenCum": 473,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "has not been known to be alive for a period of at least 7 years.",
+                                                    "tokenCum": 490,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "It must include in the declaration a finding as to the date and time of themissing person\u2019s death.",
+                                            "tokenCum": 513,
+                                            "wordSum": 18,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where the court\u2014",
+                                            "tokenCum": 517,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is satisfied that the missing person has died, but",
+                                                    "tokenCum": 527,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is uncertain at which moment during a period the missing person died,",
+                                                    "tokenCum": 540,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "the finding must be that the missing person is presumed to have died at theend of that period.",
+                                                            "tokenCum": 561,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 64,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Where the court\u2014",
+                                            "tokenCum": 565,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is satisfied that the missing person has not been known to be alive for aperiod of at least 7 years, but",
+                                                    "tokenCum": 589,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not satisfied that the missing person has died,",
+                                                    "tokenCum": 599,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the finding must be that the missing person is presumed to have died at theend of the period of 7 years beginning with the day after the day on which heor she was last known to be alive.",
+                                                    "tokenCum": 642,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 71,
+                                            "tokenSum": 96,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 170,
+                                    "tokenSum": 246,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Effect of declaration",
+                                    "tokenCum": 645,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A declaration under this Act is conclusive of\u2014",
+                                            "tokenCum": 655,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the missing person\u2019s presumed death, and",
+                                                    "tokenCum": 665,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the date and time of the death.",
+                                                    "tokenCum": 673,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 21,
+                                            "tokenSum": 39,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A declaration under this Act is effective against all persons and for allpurposes, including for the purposes of\u2014",
+                                            "tokenCum": 695,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the acquisition of an interest in any property, and",
+                                                    "tokenCum": 706,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the ending of a marriage or civil partnership to which the missing personis a party.",
+                                                    "tokenCum": 724,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 62,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But subsections (1) and (2) apply to a declaration only if\u2014",
+                                            "tokenCum": 741,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it has not been appealed against and the period for bringing an appeal hasended, or",
+                                                    "tokenCum": 759,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it has been appealed against and the appeal (and any further appeal) hasbeen unsuccessful.",
+                                                    "tokenCum": 781,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 68,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (3), an appeal has been unsuccessful if\u2014",
+                                            "tokenCum": 799,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it has been dismissed or withdrawn, and",
+                                                    "tokenCum": 810,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any period for bringing a further appeal has ended.",
+                                                    "tokenCum": 820,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 50,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 134,
+                                    "tokenSum": 224,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Other powers of court making declaration",
+                                    "tokenCum": 826,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "When making a declaration under this Act, the court may\u2014",
+                                            "tokenCum": 838,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "determine any question which relates to an interest in property and arisesas a result of the declaration, and",
+                                                    "tokenCum": 860,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "determine the domicile of the missing person at the time of his or herpresumed death.",
+                                                    "tokenCum": 879,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 64,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "When making a declaration under this Act, the court may make such order asit considers reasonable in relation to any interest in property acquired as aresult of the declaration.",
+                                            "tokenCum": 914,
+                                            "wordSum": 29,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An order under subsection (2) may direct that the value of any interest inproperty acquired as a result of the declaration is not to be recoverable byvirtue of an order made under section 7(2).",
+                                            "tokenCum": 959,
+                                            "wordSum": 34,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "It may, in particular, direct that the value of the interest\u2014",
+                                            "tokenCum": 973,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is not to be recoverable in any circumstances, or",
+                                                    "tokenCum": 984,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "is not to be recoverable where conditions specified in the order are met.",
+                                                    "tokenCum": 999,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 51,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 145,
+                                    "tokenSum": 209,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 676,
+                            "tokenSum": 1027,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Variation order",
+                            "tokenCum": 1002,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Varying and revoking declaration",
+                                    "tokenCum": 1009,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "On an application by any person, a declaration under this Act may be variedor revoked by an order of the High Court (a \u201cvariation order\u201d).",
+                                            "tokenCum": 1042,
+                                            "wordSum": 25,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The court must refuse to hear an application for a variation order if itconsiders that the applicant does not have a sufficient interest in thedetermination of the application.",
+                                            "tokenCum": 1077,
+                                            "wordSum": 28,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 83,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Effect of variation order",
+                                    "tokenCum": 1081,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A variation order does not affect an interest in property acquired as aresult of a declaration under this Act (but see section 7).",
+                                            "tokenCum": 1109,
+                                            "wordSum": 23,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A variation order does not revive a marriage or civil partnership that wasbrought to an end by virtue of a declaration under this Act.",
+                                            "tokenCum": 1138,
+                                            "wordSum": 24,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Except as otherwise required by subsection (1) or (2)\u2014",
+                                            "tokenCum": 1154,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "where a variation order varies a declaration, subsections (1) and (2) ofsection 3 have effect in relation to the declaration as varied by the order,and",
+                                                    "tokenCum": 1190,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where a variation order revokes a declaration, those subsections cease tohave effect in relation to the declaration.",
+                                                    "tokenCum": 1213,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 86,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "But subsection (3) applies only if\u2014",
+                                            "tokenCum": 1223,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the variation order has not been appealed against and the period forbringing an appeal has ended, or",
+                                                    "tokenCum": 1245,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the variation order has been appealed against and the appeal (and anyfurther appeal) has been unsuccessful.",
+                                                    "tokenCum": 1269,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 39,
+                                            "tokenSum": 67,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of subsection (4), an appeal has been unsuccessful if\u2014",
+                                            "tokenCum": 1287,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it has been dismissed or withdrawn, and",
+                                                    "tokenCum": 1298,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any period for bringing a further appeal has ended.",
+                                                    "tokenCum": 1308,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 50,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 169,
+                                    "tokenSum": 272,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Other functions of court making variation order",
+                                    "tokenCum": 1315,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "When making a variation order, the court may\u2014",
+                                            "tokenCum": 1325,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "determine any question which relates to an interest in property and arisesas a result of the variation order, and",
+                                                    "tokenCum": 1348,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "determine the domicile of the missing person at the time of his or herpresumed death.",
+                                                    "tokenCum": 1367,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 63,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "When making a variation order, the court must make such further order (ifany) as it considers reasonable in relation to any interest in propertyacquired as a result of the declaration varied or revoked by the order (\u201ctheoriginal declaration\u201d) (but see subsections (3), (5) and (6)).",
+                                            "tokenCum": 1433,
+                                            "wordSum": 45,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The court must not make an order under subsection (2) if the applicationfor the variation order was made after the end of the period of 5 yearsbeginning with the day on which the original declaration was made, unless itconsiders that there are exceptional circumstances which make it appropriateto do so.",
+                                            "tokenCum": 1497,
+                                            "wordSum": 50,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In considering what order to make under subsection (2), the court must, asfar as practicable, have regard to the principles in section 8.",
+                                            "tokenCum": 1530,
+                                            "wordSum": 23,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "An order under subsection (2) does not affect income that accrued in theperiod\u2014",
+                                            "tokenCum": 1550,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "beginning with the day on which the original declaration was made, and",
+                                                    "tokenCum": 1563,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ending with the day on which the variation order was made.",
+                                                    "tokenCum": 1575,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 56,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An order under subsection (2) does not affect or provide grounds tochallenge\u2014",
+                                            "tokenCum": 1593,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a related good faith transaction, or",
+                                                    "tokenCum": 1600,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an interest in property acquired under such a transaction.",
+                                                    "tokenCum": 1610,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 46,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A \u201crelated good faith transaction\u201d is a transaction under which a personacquires an interest in the property that is the subject of the order (or anypart of it) in good faith and for value from\u2014",
+                                            "tokenCum": 1654,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person who acquired an interest in the property (or any part of it) as aresult of the original declaration, or",
+                                                    "tokenCum": 1680,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person who acquired an interest in the property (or any part of it) froma person described in paragraph (a), whether directly or indirectly.",
+                                                    "tokenCum": 1711,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 112,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Where a person has entitlement under a trust by virtue of an order undersubsection (2), the trustee is liable to that person for any loss suffered bythat person on account of any breach of trust by the trustee in theadministration or distribution of all or part of the property that is thesubject of the order.",
+                                            "tokenCum": 1783,
+                                            "wordSum": 55,
+                                            "tokenSum": 75,
+                                            "tokenCount": 75
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Subsection (8) does not apply to the extent that the trustee\u2019s liability isrestricted under any enactment or by any provision in a deed regulating theadministration of the trust.",
+                                            "tokenCum": 1828,
+                                            "wordSum": 28,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In subsection (9) \u201cenactment\u201d includes an enactment contained in\u2014",
+                                            "tokenCum": 1847,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an instrument made under an Act, or",
+                                                    "tokenCum": 1855,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an Act or Measure of the National Assembly for Wales or an instrument madeunder such an Act or Measure.",
+                                                    "tokenCum": 1878,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 61,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 428,
+                                    "tokenSum": 642,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Principles ",
+                                    "tokenCum": 1881,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "These are the principles referred to in section 7(4).",
+                                            "tokenCum": 1894,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The first principle is relevant where property (\u201cthe relevant property\u201d) isbeing or has been administered under a trust.",
+                                            "tokenCum": 1921,
+                                            "wordSum": 18,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The first principle is that\u2014",
+                                            "tokenCum": 1927,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person who, but for section 6(1), would have an interest in the relevantproperty by virtue of a variation order, and",
+                                                    "tokenCum": 1955,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person who, but for section 6(1), would have acquired an interest in therelevant property from a person described in paragraph (a),",
+                                                    "tokenCum": 1985,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "should be entitled to have made over to him or her by the trustee in fullsatisfaction of that interest the things listed in subsection (4).",
+                                                            "tokenCum": 2017,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        }
+                                                    ],
+                                                    "wordSum": 47,
+                                                    "tokenSum": 71,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 73,
+                                            "tokenSum": 112,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Those things are\u2014",
+                                            "tokenCum": 2021,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the interest in the relevant property or an equivalent interest in propertyrepresenting the relevant property, to the extent that such property is stillin the hands of the trustee when the variation order is made, and",
+                                                    "tokenCum": 2063,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the value of the interest in the relevant property, to the extent that suchproperty has been distributed.",
+                                                    "tokenCum": 2083,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 77,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The second principle is relevant where an insurer has paid a capital sum asa result of a declaration varied or revoked by a variation order.",
+                                            "tokenCum": 2112,
+                                            "wordSum": 25,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The second principle is that the capital sum, or any part of the capitalsum, should be repaid to the insurer if the facts in respect of which thevariation order was made justify such repayment.",
+                                            "tokenCum": 2158,
+                                            "wordSum": 34,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "The references in subsections (5) and (6) to a capital sum do not include acapital sum distributed by way of an annuity or other periodical payment.",
+                                            "tokenCum": 2195,
+                                            "wordSum": 26,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 241,
+                                    "tokenSum": 361,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 897,
+                            "tokenSum": 1362,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Further provision about declarations and orders",
+                            "tokenCum": 2201,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Giving notice of application",
+                                    "tokenCum": 2206,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A person who makes an application under this Act for a declaration or avariation order must send to the persons specified by rules of court\u2014",
+                                            "tokenCum": 2234,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "notice of the application, and",
+                                                    "tokenCum": 2240,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any other information specified by rules of court.",
+                                                    "tokenCum": 2249,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 54,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An application under this Act for a declaration or a variation order mustbe advertised in accordance with rules of court.",
+                                            "tokenCum": 2273,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The court must refuse to hear an application under this Act for adeclaration or a variation order if the requirements in this section have notbeen met.",
+                                            "tokenCum": 2304,
+                                            "wordSum": 26,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 122,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Attorney General",
+                                    "tokenCum": 2307,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In proceedings on an application under this Act for a declaration or avariation order, the court may at any stage direct that papers relating to thematter be sent to the Attorney General.",
+                                            "tokenCum": 2347,
+                                            "wordSum": 32,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "It may do so on the application of a party to the proceedings or withoutsuch an application being made.",
+                                            "tokenCum": 2369,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where the Attorney General incurs costs in connection with an applicationunder this Act for a declaration or a variation order, the court may make suchorder as it considers appropriate as to the payment of the costs by parties tothe proceedings.",
+                                            "tokenCum": 2418,
+                                            "wordSum": 40,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (3) applies whether the costs are incurred by virtue of adirection under subsection (1), an intervention under section 11(2) orotherwise.",
+                                            "tokenCum": 2457,
+                                            "wordSum": 21,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 114,
+                                    "tokenSum": 167,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Right to intervene",
+                                    "tokenCum": 2461,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The missing person\u2019s spouse, civil partner, parent, child or sibling mayintervene in proceedings on an application under this Act for a declaration ora variation order.",
+                                            "tokenCum": 2498,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Attorney General may intervene in such proceedings, whether or not thecourt directs papers relating to the application to be sent to the AttorneyGeneral.",
+                                            "tokenCum": 2532,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any other person may intervene in such proceedings only with the permissionof the court.",
+                                            "tokenCum": 2550,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "References in this section to intervening in proceedings include\u2014",
+                                            "tokenCum": 2562,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "arguing before the court any question in relation to the application whichthe court considers it necessary to have fully argued,",
+                                                    "tokenCum": 2587,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in proceedings on an application for a declaration under this Act, seekinga determination or order under section 4, and",
+                                                    "tokenCum": 2612,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in proceedings on an application for a variation order, seeking adetermination or order under section 7.",
+                                                    "tokenCum": 2635,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 100,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 130,
+                                    "tokenSum": 204,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Information ",
+                                    "tokenCum": 2637,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In proceedings on an application under this Act for a declaration or avariation order, the court may by order at any stage require a person who isnot a party to the proceedings to provide it with specified information thatit considers relevant to the question of whether the missing person is aliveor dead.",
+                                            "tokenCum": 2699,
+                                            "wordSum": 52,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "It may do so only where it considers it necessary for the purpose ofdisposing of the proceedings.",
+                                            "tokenCum": 2722,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "It may do so on the application of a party to the proceedings or withoutsuch an application being made.",
+                                            "tokenCum": 2744,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The order may not require the provision of information\u2014",
+                                            "tokenCum": 2754,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "which is permitted or required by any rule of law to be withheld on groundsof public interest immunity,",
+                                                    "tokenCum": 2778,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "which any person would be entitled to refuse to provide on grounds of legalprofessional privilege, or",
+                                                    "tokenCum": 2798,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "whose provision might incriminate the person providing it, or that person\u2019sspouse or civil partner, of an offence.",
+                                                    "tokenCum": 2825,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 96,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Before making an order under this section, the court must send notice ofits intention to make the order to any person who, in its opinion, is likelyto be affected by the order.",
+                                            "tokenCum": 2863,
+                                            "wordSum": 32,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The court may discharge or vary an order made under this section on anapplication made by any person who, in the opinion of the court, is affectedby it.",
+                                            "tokenCum": 2897,
+                                            "wordSum": 28,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this section \u201cspecified\u201d means specified in an order under this section.",
+                                            "tokenCum": 2913,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 221,
+                                    "tokenSum": 313,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Insurance against claims: trustees",
+                                    "tokenCum": 2921,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If the court so directs, the trustee of a trust affected by a declarationunder this Act must as soon as reasonably practicable take out an insurancepolicy in respect of any claim which may arise by virtue of an order undersection 7(2).",
+                                            "tokenCum": 2976,
+                                            "wordSum": 41,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of this section, a trust is affected by a declarationunder this Act if\u2014",
+                                            "tokenCum": 2995,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it arises as a result of the declaration, or",
+                                                    "tokenCum": 3006,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "property held under the trust is affected by the declaration.",
+                                                    "tokenCum": 3017,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 52,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A premium payable by the trustee in accordance with a direction under thissection may be paid out of money or other property held under the trust.",
+                                            "tokenCum": 3049,
+                                            "wordSum": 26,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 106,
+                                    "tokenSum": 155,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Insurance against claims: insurers paying capital sums",
+                                    "tokenCum": 3062,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Before paying a capital sum to a person as a result of a declaration underthis Act, an insurer may require the person to take out an insurance policy inrespect of any claim which the insurer may make in the event of a variationorder being made.",
+                                            "tokenCum": 3117,
+                                            "wordSum": 45,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The policy must be taken out\u2014",
+                                            "tokenCum": 3124,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the person\u2019s own name, and",
+                                                    "tokenCum": 3133,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for the benefit of the insurer.",
+                                                    "tokenCum": 3141,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 35,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (1) does not apply where the sum is paid in respect of anannuity or other periodical payment.",
+                                            "tokenCum": 3167,
+                                            "wordSum": 18,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201cinsurer\u201d means any person who provides for the payment ofa benefit on a person\u2019s death.",
+                                            "tokenCum": 3192,
+                                            "wordSum": 18,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 106,
+                                    "tokenSum": 165,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 771,
+                            "tokenSum": 1133,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Register of Presumed Deaths",
+                            "tokenCum": 3198,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Register of Presumed Deaths",
+                                    "tokenCum": 3204,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Registrar General must maintain a register which is to be called theRegister of Presumed Deaths.",
+                                            "tokenCum": 3226,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The register must be maintained in the General Register Office.",
+                                            "tokenCum": 3237,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The register may be maintained in any form the Registrar General considersappropriate.",
+                                            "tokenCum": 3256,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Schedule 1 (further provision about Register of Presumed Deaths) haseffect.",
+                                            "tokenCum": 3276,
+                                            "wordSum": 10,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 52,
+                                    "tokenSum": 92,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 56,
+                            "tokenSum": 99,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Other determinations",
+                            "tokenCum": 3279,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Other determinations about death of missing person",
+                                    "tokenCum": 3287,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "No declaration which may be applied for under section 1 may be madeotherwise than under this Act.",
+                                            "tokenCum": 3308,
+                                            "wordSum": 17,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where a court or tribunal makes a declaration that a missing person ispresumed to be dead (other than on an application under this Act), subsections(2) to (4) of section 2 apply to the court or tribunal as they apply to theHigh Court when it makes a declaration under this Act.",
+                                            "tokenCum": 3373,
+                                            "wordSum": 50,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Schedule 2 (amendment of provisions about presumption of death) has effect.",
+                                            "tokenCum": 3393,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Apart from subsections (1) to (3) and Schedule 2, nothing in the precedingprovisions of this Act affects any power or duty that a court or tribunal hasother than under this Act to determine a question relating to the death of amissing person.",
+                                            "tokenCum": 3454,
+                                            "wordSum": 42,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 127,
+                                    "tokenSum": 189,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 129,
+                            "tokenSum": 193,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary",
+                            "tokenCum": 3457,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Power to amend periods of time",
+                                    "tokenCum": 3464,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Secretary of State may by regulations amend this Act by increasing orreducing a period of time referred to in\u2014",
+                                            "tokenCum": 3489,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 1(1)(b),",
+                                                    "tokenCum": 3497,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 2(1) or (4), or",
+                                                    "tokenCum": 3508,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 7(3).",
+                                                    "tokenCum": 3514,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 65,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 74,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Consequential and supplementary etc provision",
+                                    "tokenCum": 3523,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations make consequential,supplementary, incidental, transitional, transitory or saving provision inrelation to any provision of this Act.",
+                                            "tokenCum": 3559,
+                                            "wordSum": 22,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this section may amend, repeal or revoke an enactmentpassed or made before, or in the same Session as, this Act is passed.",
+                                            "tokenCum": 3595,
+                                            "wordSum": 24,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this section \u201cenactment\u201d includes an enactment contained in\u2014",
+                                            "tokenCum": 3611,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an instrument made under an Act, or",
+                                                    "tokenCum": 3619,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an Act or Measure of the National Assembly for Wales or an instrument madeunder such an Act or Measure.",
+                                                    "tokenCum": 3642,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 58,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 86,
+                                    "tokenSum": 147,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Regulations ",
+                                    "tokenCum": 3645,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Regulations under this Act are to be made by statutory instrument.",
+                                            "tokenCum": 3660,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A statutory instrument containing the following regulations (whether aloneor with other provision) may not be made unless a draft of the instrument hasbeen laid before, and approved by a resolution of, each House of Parliament\u2014",
+                                            "tokenCum": 3707,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "regulations under section 17;",
+                                                    "tokenCum": 3715,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "regulations under section 18 which amend or repeal an Act (including an Actor Measure of the National Assembly for Wales).",
+                                                    "tokenCum": 3744,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 95,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Any other statutory instrument containing regulations made by the Secretaryof State under this Act is subject to annulment in pursuance of a resolutionof either House of Parliament.",
+                                            "tokenCum": 3781,
+                                            "wordSum": 27,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 98,
+                                    "tokenSum": 158,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 20",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 3785,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 3789,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe court\u201d means the High Court (except in section 16(2)); ",
+                                                    "tokenCum": 3810,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cinterest in property\u201d means an interest in property of any description, including an estate in land and a right over property; ",
+                                                    "tokenCum": 3839,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe missing person\u201d, in relation to a declaration under this Act or an application, determination or order made in connection with such a declaration, means the person who is or would be the subject of the declaration; ",
+                                                    "tokenCum": 3885,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Registrar General\u201d means the Registrar General for England and Wales; ",
+                                                    "tokenCum": 3906,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csibling\u201d means a sibling of the full blood or the half blood; ",
+                                                    "tokenCum": 3927,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ctrustee\u201d includes an executor, administrator or personal representative; ",
+                                                    "tokenCum": 3945,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cvariation order\u201d has the meaning given in section 5. ",
+                                                    "tokenCum": 3962,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 118,
+                                            "tokenSum": 208,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "References in this Act to a party to proceedings include a personintervening in the proceedings in accordance with section 11.",
+                                            "tokenCum": 3991,
+                                            "wordSum": 20,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 139,
+                                    "tokenSum": 246,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 21",
+                                    "text": "Application to Crown",
+                                    "tokenCum": 3994,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act binds the Crown.",
+                                            "tokenCum": 4001,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But an application may not be made under this Act for a declaration inrespect of Her Majesty.",
+                                            "tokenCum": 4021,
+                                            "wordSum": 17,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 38,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 22",
+                                    "text": "Commencement ",
+                                    "tokenCum": 4025,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The following come into force on the day on which this Act is passed\u2014",
+                                            "tokenCum": 4040,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 9 so far as it confers a power to make rules,",
+                                                    "tokenCum": 4055,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 15(4) and Schedule 1 so far as they confer a power to makeregulations,",
+                                                    "tokenCum": 4080,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "sections 17 to 21,",
+                                                    "tokenCum": 4089,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "this section, and",
+                                                    "tokenCum": 4093,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "sections 23 and 24.",
+                                                    "tokenCum": 4102,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 100,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to subsection (1), the provisions of this Act come into force onsuch day as the Secretary of State may by order appoint.",
+                                            "tokenCum": 4132,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An order under this section must be made by statutory instrument.",
+                                            "tokenCum": 4146,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An order under this section may\u2014",
+                                            "tokenCum": 4153,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "appoint different days for different purposes, and",
+                                                    "tokenCum": 4161,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "include transitional, transitory or saving provision.",
+                                                    "tokenCum": 4171,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 36,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 105,
+                                    "tokenSum": 192,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 23",
+                                    "text": "Extent ",
+                                    "tokenCum": 4174,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act extends to England and Wales.",
+                                            "tokenCum": 4182,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 8,
+                                    "tokenSum": 16,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 24",
+                                    "text": "Short title",
+                                    "tokenCum": 4184,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Presumption of Death Act 2013.",
+                                            "tokenCum": 4203,
+                                            "wordSum": 12,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 26,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 511,
+                            "tokenSum": 901,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 3076,
+                    "tokenSum": 4773,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3105,
+            "tokenSum": 4873,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2013/13/enacted?view=plain",
+    "title": "Presumption of Death Act 2013",
+    "longtitle": "An Act to make provision in relation to the presumed death of missing persons; and for connected purposes.",
+    "date": "[26th March 2013]",
+    "wordSum": 3105,
+    "tokenSum": 4874,
+    "tokenCount": 0,
+    "totalTokens": 4874
+}

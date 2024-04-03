@@ -1,0 +1,693 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/17/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Self-build and Custom Housebuilding Act 2015",
+                    "tokenCum": 57,
+                    "wordSum": 6,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 17",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to place a duty on certain public authorities to keep a register ofindividuals and associations of individuals who wish to acquire serviced plotsof land to bring forward self-build and custom housebuilding projects and toplace a duty on certain public authorities to have regard to those registersin carrying out planning and other functions.",
+                            "tokenCum": 133,
+                            "wordSum": 54,
+                            "tokenSum": 68,
+                            "tokenCount": 68
+                        }
+                    ],
+                    "wordSum": 57,
+                    "tokenSum": 78,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 144,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 201,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Registers of persons seeking to acquire land to build a home",
+                            "tokenCum": 214,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Each relevant authority must keep a register of\u2014",
+                                    "tokenCum": 223,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "individuals, and",
+                                            "tokenCum": 226,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "associations of individuals (including bodies corporate that exercisefunctions on behalf of associations of individuals),",
+                                            "tokenCum": 245,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "who are seeking to acquire serviced plots of land in the authority\u2019s area inorder to build houses for those individuals to occupy as homes.",
+                                                    "tokenCum": 276,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 57,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 74,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Each relevant authority must publicise its register under this section.",
+                                    "tokenCum": 288,
+                                    "wordSum": 10,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Relevant authorities are\u2014",
+                                    "tokenCum": 293,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "district councils;",
+                                            "tokenCum": 298,
+                                            "wordSum": 2,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "county councils in England so far as they are councils for an area forwhich there are no district councils;",
+                                            "tokenCum": 325,
+                                            "wordSum": 19,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "London borough councils;",
+                                            "tokenCum": 332,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the Common Council of the City of London;",
+                                            "tokenCum": 341,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "the Council of the Isles of Scilly.",
+                                            "tokenCum": 351,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 80,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Broads Authority is the relevant authority for the whole of its area,to the exclusion of any authority mentioned in subsection (3).",
+                                    "tokenCum": 381,
+                                    "wordSum": 22,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A National Park authority in England is the relevant authority for thewhole of its area, to the exclusion of any authority mentioned in subsection(3).",
+                                    "tokenCum": 413,
+                                    "wordSum": 24,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Regulations may\u2014",
+                                    "tokenCum": 417,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provide for specified public authorities, or specified descriptions ofpublic authorities, to be relevant authorities for specified areas in England,and",
+                                            "tokenCum": 442,
+                                            "wordSum": 19,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "provide for such an authority to be the relevant authority for its area tothe exclusion of any other authority.",
+                                            "tokenCum": 464,
+                                            "wordSum": 19,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 59,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "For the purposes of this section the area of the Common Council includesthe Inner Temple and the Middle Temple.",
+                                    "tokenCum": 486,
+                                    "wordSum": 19,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The Schedule makes provision in relation to registers under this section.",
+                                    "tokenCum": 499,
+                                    "wordSum": 11,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 227,
+                            "tokenSum": 346,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Duty as regards registers",
+                            "tokenCum": 505,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Each of the authorities mentioned in subsection (2) must have regard toeach register under section 1 that relates to its area when carrying out thefunctions mentioned in subsection (4).",
+                                    "tokenCum": 544,
+                                    "wordSum": 29,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The authorities referred to in subsection (1) are\u2014",
+                                    "tokenCum": 556,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "county councils in England;",
+                                            "tokenCum": 563,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "district councils;",
+                                            "tokenCum": 568,
+                                            "wordSum": 2,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "London borough councils;",
+                                            "tokenCum": 575,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the Common Council of the City of London (in its capacity as a localauthority);",
+                                            "tokenCum": 593,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "the Sub-Treasurer of the Inner Temple (in that person\u2019s capacity as a localauthority);",
+                                            "tokenCum": 616,
+                                            "wordSum": 13,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "the Under-Treasurer of the Middle Temple (in that person\u2019s capacity as alocal authority);",
+                                            "tokenCum": 638,
+                                            "wordSum": 13,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "the Council of the Isles of Scilly;",
+                                            "tokenCum": 648,
+                                            "wordSum": 7,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(h)",
+                                            "text": "the Broads Authority;",
+                                            "tokenCum": 654,
+                                            "wordSum": 3,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "National Park authorities in England;",
+                                            "tokenCum": 660,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(j)",
+                                            "text": "such other public authorities, or descriptions of public authority, as maybe specified.",
+                                            "tokenCum": 676,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 84,
+                                    "tokenSum": 164,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations under subsection (2)(j) that specify public authorities, ordescriptions of public authority, are to specify the areas in England that arethose authorities\u2019 areas for the purposes of this section.",
+                                    "tokenCum": 720,
+                                    "wordSum": 29,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The functions referred to in subsection (1) are functions relating to\u2014",
+                                    "tokenCum": 736,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "planning; ",
+                                            "tokenCum": 739,
+                                            "wordSum": 1,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "housing; ",
+                                            "tokenCum": 742,
+                                            "wordSum": 1,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the disposal of any land of the authority;",
+                                            "tokenCum": 752,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "regeneration. ",
+                                            "tokenCum": 757,
+                                            "wordSum": 1,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 22,
+                                    "tokenSum": 51,
+                                    "tokenCount": 17
+                                }
+                            ],
+                            "wordSum": 168,
+                            "tokenSum": 309,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Guidance ",
+                            "tokenCum": 761,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A relevant authority must have regard to any guidance issued by theSecretary of State when exercising any function conferred or imposed by orunder section 1 or the Schedule.",
+                                    "tokenCum": 799,
+                                    "wordSum": 28,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "An authority mentioned in section 2(2) must have regard to any guidanceissued by the Secretary of State when exercising the duty imposed by section2, including guidance about identifying functions affected by the duty.",
+                                    "tokenCum": 845,
+                                    "wordSum": 33,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                }
+                            ],
+                            "wordSum": 62,
+                            "tokenSum": 93,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Regulations ",
+                            "tokenCum": 848,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A statutory instrument containing regulations under\u2014",
+                                    "tokenCum": 858,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 1,",
+                                            "tokenCum": 862,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 2, or",
+                                            "tokenCum": 867,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "paragraph 6 of the Schedule,",
+                                            "tokenCum": 875,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(whether alone or with other provision) may not be made unless a draft of theinstrument has been laid before and approved by a resolution of each House ofParliament.",
+                                                    "tokenCum": 911,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 51,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 78,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A statutory instrument containing regulations under\u2014",
+                                    "tokenCum": 921,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 5, or",
+                                            "tokenCum": 926,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Schedule apart from paragraph 6,",
+                                            "tokenCum": 935,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "is subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 955,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 28,
+                                    "tokenSum": 55,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations under this Act, apart from regulations under section 6, mayinclude incidental, supplementary, consequential, transitional, transitory orsaving provision.",
+                                    "tokenCum": 992,
+                                    "wordSum": 18,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                }
+                            ],
+                            "wordSum": 91,
+                            "tokenSum": 176,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Interpretation ",
+                            "tokenCum": 996,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1000,
+                                    "wordSum": 3,
+                                    "tokenSum": 6,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201chouse\u201d includes a dwelling that forms part of a building; ",
+                                    "tokenCum": 1017,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201crelevant authority\u201d has the meaning given by section 1; ",
+                                    "tokenCum": 1034,
+                                    "wordSum": 10,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cregulations\u201d means regulations made by the Secretary of State by statutory instrument; ",
+                                    "tokenCum": 1056,
+                                    "wordSum": 13,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cserviced plot of land\u201d means a plot of land which satisfies such requirements about utilities and other matters as may be specified; ",
+                                    "tokenCum": 1086,
+                                    "wordSum": 23,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cspecified\u201d means specified by regulations. ",
+                                    "tokenCum": 1099,
+                                    "wordSum": 6,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 67,
+                            "tokenSum": 120,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 1108,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales.",
+                                    "tokenCum": 1116,
+                                    "wordSum": 7,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This section comes into force on the day this Act is passed.",
+                                    "tokenCum": 1129,
+                                    "wordSum": 12,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The other provisions of this Act come into force on such day or days asregulations may appoint; and different days may be appointed for differentpurposes.",
+                                    "tokenCum": 1161,
+                                    "wordSum": 25,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act may be cited as the Self-build and Custom Housebuilding Act 2015.",
+                                    "tokenCum": 1183,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 1186,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 30,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 64,
+                            "tokenSum": 99,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 715,
+                    "tokenSum": 1201,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 782,
+            "tokenSum": 1350,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/17/enacted?view=plain",
+    "title": "Self-build and Custom Housebuilding Act 2015",
+    "longtitle": "An Act to place a duty on certain public authorities to keep a register of individuals and associations of individuals who wish to acquire serviced plots of land to bring forward self-build and custom housebuilding projects and to place a duty on certain public authorities to have regard to those registers in carrying out planning and other functions.",
+    "date": "[26th March 2015]",
+    "wordSum": 782,
+    "tokenSum": 1351,
+    "tokenCount": 0,
+    "totalTokens": 1351
+}

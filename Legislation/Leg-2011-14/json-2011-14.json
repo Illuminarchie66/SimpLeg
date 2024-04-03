@@ -1,0 +1,670 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2011/14/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Fixed-term Parliaments Act 2011",
+                    "tokenCum": 56,
+                    "wordSum": 4,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2011 CHAPTER 14",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the dissolution of Parliament and thedetermination of polling days for parliamentary general elections; and forconnected purposes.",
+                            "tokenCum": 96,
+                            "wordSum": 22,
+                            "tokenSum": 32,
+                            "tokenCount": 32
+                        }
+                    ],
+                    "wordSum": 25,
+                    "tokenSum": 42,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[15th September 2011]",
+                    "tokenCum": 107,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 164,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Polling days for parliamentary general elections",
+                            "tokenCum": 172,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies for the purposes of the Timetable in rule 1 inSchedule 1 to the Representation of the People Act 1983 and is subject tosection 2.",
+                                    "tokenCum": 213,
+                                    "wordSum": 27,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The polling day for the next parliamentary general election after thepassing of this Act is to be 7 May 2015.",
+                                    "tokenCum": 243,
+                                    "wordSum": 20,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The polling day for each subsequent parliamentary general election is to bethe first Thursday in May in the fifth calendar year following that in whichthe polling day for the previous parliamentary general election fell.",
+                                    "tokenCum": 287,
+                                    "wordSum": 34,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "But, if the polling day for the previous parliamentary general election\u2014",
+                                    "tokenCum": 302,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "was appointed under section 2(7), and",
+                                            "tokenCum": 312,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in the calendar year in which it fell, fell before the first Thursday inMay,",
+                                            "tokenCum": 331,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "subsection (3) has effect as if for \u201cfifth\u201d there were substituted \u201cfourth\u201d.",
+                                                    "tokenCum": 354,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 49,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 79,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Prime Minister may by order made by statutory instrument provide thatthe polling day for a parliamentary general election in a specified calendaryear is to be later than the day determined under subsection (2) or (3), butnot more than two months later.",
+                                    "tokenCum": 411,
+                                    "wordSum": 42,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A statutory instrument containing an order under subsection (5) may not bemade unless a draft has been laid before and approved by a resolution of eachHouse of Parliament.",
+                                    "tokenCum": 448,
+                                    "wordSum": 28,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The draft laid before Parliament must be accompanied by a statement settingout the Prime Minister\u2019s reasons for proposing the change in the polling day.",
+                                    "tokenCum": 478,
+                                    "wordSum": 24,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                }
+                            ],
+                            "wordSum": 224,
+                            "tokenSum": 339,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Early parliamentary general elections",
+                            "tokenCum": 483,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "An early parliamentary general election is to take place if\u2014",
+                                    "tokenCum": 495,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the House of Commons passes a motion in the form set out in subsection (2),and",
+                                            "tokenCum": 514,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "if the motion is passed on a division, the number of members who vote infavour of the motion is a number equal to or greater than two thirds of thenumber of seats in the House (including vacant seats).",
+                                            "tokenCum": 560,
+                                            "wordSum": 38,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 85,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The form of motion for the purposes of subsection (1)(a) is\u2014",
+                                    "tokenCum": 577,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201cThat there shall be an early parliamentary general election.\u201d",
+                                            "tokenCum": 589,
+                                            "wordSum": 9,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 34,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "An early parliamentary general election is also to take place if\u2014",
+                                    "tokenCum": 602,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the House of Commons passes a motion in the form set out in subsection (4),and",
+                                            "tokenCum": 621,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the period of 14 days after the day on which that motion is passed endswithout the House passing a motion in the form set out in subsection (5).",
+                                            "tokenCum": 655,
+                                            "wordSum": 28,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 74,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The form of motion for the purposes of subsection (3)(a) is\u2014",
+                                    "tokenCum": 672,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201cThat this House has no confidence in Her Majesty\u2019s Government.\u201d",
+                                    "tokenCum": 686,
+                                    "wordSum": 10,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The form of motion for the purposes of subsection (3)(b) is\u2014",
+                                    "tokenCum": 703,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201cThat this House has confidence in Her Majesty\u2019s Government.\u201d",
+                                    "tokenCum": 716,
+                                    "wordSum": 9,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Subsection (7) applies for the purposes of the Timetable in rule 1 inSchedule 1 to the Representation of the People Act 1983.",
+                                    "tokenCum": 753,
+                                    "wordSum": 22,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "If a parliamentary general election is to take place as provided for bysubsection (1) or (3), the polling day for the election is to be the dayappointed by Her Majesty by proclamation on the recommendation of the PrimeMinister (and, accordingly, the appointed day replaces the day which wouldotherwise have been the polling day for the next election determined undersection 1).",
+                                    "tokenCum": 837,
+                                    "wordSum": 60,
+                                    "tokenSum": 86,
+                                    "tokenCount": 86
+                                }
+                            ],
+                            "wordSum": 264,
+                            "tokenSum": 393,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Dissolution of Parliament",
+                            "tokenCum": 843,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Parliament then in existence dissolves at the beginning of the 17thworking day before the polling day for the next parliamentary general electionas determined under section 1 or appointed under section 2(7).",
+                                    "tokenCum": 888,
+                                    "wordSum": 32,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Parliament cannot otherwise be dissolved.",
+                                    "tokenCum": 895,
+                                    "wordSum": 5,
+                                    "tokenSum": 9,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Once Parliament dissolves, the Lord Chancellor and, in relation to NorthernIreland, the Secretary of State have the authority to have the writs for theelection sealed and issued (see rule 3 in Schedule 1 to the Representation ofthe People Act 1983).",
+                                    "tokenCum": 957,
+                                    "wordSum": 40,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Once Parliament dissolves, Her Majesty may issue the proclamation summoningthe new Parliament which may\u2014",
+                                    "tokenCum": 979,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "appoint the day for the first meeting of the new Parliament;",
+                                            "tokenCum": 991,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "deal with any other matter which was normally dealt with before the passingof this Act by proclamations summoning new Parliaments (except a matter dealtwith by subsection (1) or (3)).",
+                                            "tokenCum": 1035,
+                                            "wordSum": 29,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 86,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section \u201cworking day\u201d means any day other than\u2014",
+                                    "tokenCum": 1048,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a Saturday or Sunday;",
+                                            "tokenCum": 1053,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a Christmas Eve, Christmas Day or Good Friday;",
+                                            "tokenCum": 1064,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a day which is a bank holiday under the Banking and Financial Dealings Act1971 in any part of the United Kingdom;",
+                                            "tokenCum": 1096,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a day appointed for public thanksgiving or mourning.",
+                                            "tokenCum": 1109,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 88,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "But, if\u2014",
+                                    "tokenCum": 1113,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "on a day (\u201cthe relevant day\u201d) one or more working days are fixed orappointed as bank holidays or days for public thanksgiving or mourning, and",
+                                            "tokenCum": 1152,
+                                            "wordSum": 25,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "as a result, the day for the dissolution of a Parliament would (apart fromthis subsection) be brought forward from what it was immediately before therelevant day to a day that is earlier than 30 days after the relevant day,",
+                                            "tokenCum": 1202,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the day or days in question are to continue to be treated as working days(even if the polling day is subsequently changed).",
+                                                    "tokenCum": 1228,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 83,
+                                            "tokenCount": 52
+                                        }
+                                    ],
+                                    "wordSum": 88,
+                                    "tokenSum": 131,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 273,
+                            "tokenSum": 432,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "General election for Scottish Parliament not to fall on same date asparliamentary general election under section 1(2)",
+                            "tokenCum": 1252,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies in relation to the ordinary general election formembership of the Scottish Parliament the poll for which would, apart fromthis section and disregarding sections 2(5) and 3(3) of the Scotland Act 1998,be held on 7 May 2015 (that is, the date specified in section 1(2) of thisAct).",
+                                    "tokenCum": 1334,
+                                    "wordSum": 49,
+                                    "tokenSum": 84,
+                                    "tokenCount": 84
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 2(2) of the 1998 Act has effect as if, instead of providing for thepoll for that election to be held on that date, it provided (subject tosections 2(5) and 3(3) of that Act) for the poll to be held on 5 May 2016 (andsection 2(2) has effect in relation to subsequent ordinary general electionsaccordingly).",
+                                    "tokenCum": 1427,
+                                    "wordSum": 55,
+                                    "tokenSum": 95,
+                                    "tokenCount": 95
+                                }
+                            ],
+                            "wordSum": 121,
+                            "tokenSum": 204,
+                            "tokenCount": 24
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "General election for National Assembly for Wales not to fall on same dateas parliamentary general election under section 1(2)",
+                            "tokenCum": 1452,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies in relation to the ordinary general election formembership of the National Assembly for Wales the poll for which would, apartfrom this section and disregarding sections 4 and 5(5) of the Government ofWales Act 2006, be held on 7 May 2015 (that is, the date specified in section1(2) of this Act).",
+                                    "tokenCum": 1535,
+                                    "wordSum": 53,
+                                    "tokenSum": 85,
+                                    "tokenCount": 85
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 3(1) of the 2006 Act has effect as if, instead of providing for thepoll for that election to be held on that date, it provided (subject tosections 4 and 5(5) of that Act) for the poll to be held on 5 May 2016 (andsection 3(1) has effect in relation to subsequent ordinary general electionsaccordingly).",
+                                    "tokenCum": 1625,
+                                    "wordSum": 55,
+                                    "tokenSum": 92,
+                                    "tokenCount": 92
+                                }
+                            ],
+                            "wordSum": 127,
+                            "tokenSum": 203,
+                            "tokenCount": 25
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Supplementary provisions",
+                            "tokenCum": 1630,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act does not affect Her Majesty\u2019s power to prorogue Parliament.",
+                                    "tokenCum": 1647,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act does not affect the way in which the sealing of a proclamationsummoning a new Parliament may be authorised; and the sealing of aproclamation to be issued under section 2(7) may be authorised in the sameway.",
+                                    "tokenCum": 1702,
+                                    "wordSum": 37,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Schedule (which contains consequential amendments etc) has effect.",
+                                    "tokenCum": 1718,
+                                    "wordSum": 9,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 59,
+                            "tokenSum": 100,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Final provisions",
+                            "tokenCum": 1721,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Fixed-term Parliaments Act 2011.",
+                                    "tokenCum": 1742,
+                                    "wordSum": 11,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on the day it is passed.",
+                                    "tokenCum": 1754,
+                                    "wordSum": 11,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "An amendment or repeal made by this Act has the same extent as theenactment or relevant part of the enactment to which the amendment or repealrelates.",
+                                    "tokenCum": 1794,
+                                    "wordSum": 26,
+                                    "tokenSum": 42,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Prime Minister must make arrangements\u2014",
+                                    "tokenCum": 1802,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for a committee to carry out a review of the operation of this Act and, ifappropriate in consequence of its findings, to make recommendations for therepeal or amendment of this Act, and",
+                                            "tokenCum": 1846,
+                                            "wordSum": 32,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for the publication of the committee\u2019s findings and recommendations (ifany).",
+                                            "tokenCum": 1863,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 77,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A majority of the members of the committee are to be members of the Houseof Commons.",
+                                    "tokenCum": 1881,
+                                    "wordSum": 16,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Arrangements under subsection (4)(a) are to be made no earlier than 1 June2020 and no later than 30 November 2020.",
+                                    "tokenCum": 1920,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 6",
+                                            "tokenCum": 1923,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 22,
+                                    "tokenSum": 47,
+                                    "tokenCount": 40
+                                }
+                            ],
+                            "wordSum": 136,
+                            "tokenSum": 227,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 1240,
+                    "tokenSum": 1956,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1273,
+            "tokenSum": 2068,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2011/14/enacted?view=plain",
+    "title": "Fixed-term Parliaments Act 2011",
+    "longtitle": "An Act to make provision about the dissolution of Parliament and the determination of polling days for parliamentary general elections; and for connected purposes.",
+    "date": "[15th September 2011]",
+    "wordSum": 1273,
+    "tokenSum": 2069,
+    "tokenCount": 0,
+    "totalTokens": 2069
+}

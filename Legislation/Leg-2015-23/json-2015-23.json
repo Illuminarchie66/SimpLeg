@@ -1,0 +1,851 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/23/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Control of Horses Act 2015",
+                    "tokenCum": 55,
+                    "wordSum": 5,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 23",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for the taking of action in relation to horses whichare on land in England without lawful authority; and for connected purposes.",
+                            "tokenCum": 94,
+                            "wordSum": 26,
+                            "tokenSum": 31,
+                            "tokenCount": 31
+                        }
+                    ],
+                    "wordSum": 29,
+                    "tokenSum": 41,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 105,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 162,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Powers of local authorities in England to detain horses",
+                            "tokenCum": 173,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "After section 7 of the Animals Act 1971 insert\u2014",
+                                    "tokenCum": 189,
+                                    "wordSum": 9,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c7APower of local authorities in England to detain horses",
+                                    "tokenCum": 202,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A local authority in England may detain a horse which is in any publicplace in its area, if the conditions in subsection (2) are met.",
+                                            "tokenCum": 234,
+                                            "wordSum": 25,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The conditions are\u2014",
+                                            "tokenCum": 238,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the local authority has reasonable grounds for believing that the horse isthere without lawful authority, and",
+                                                    "tokenCum": 258,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the land is lawfully occupied by a person\u2014",
+                                                    "tokenCum": 269,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "that person consents to the detention of the horse, or",
+                                                    "tokenCum": 282,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the local authority has reasonable grounds for believing that that personwould consent to the detention of the horse (but this does not require theauthority to seek consent).",
+                                                    "tokenCum": 317,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 102,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 7C contains further provision about detention under this section.",
+                                            "tokenCum": 331,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this section \u201clocal authority\u201d means\u2014",
+                                            "tokenCum": 340,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a county council,",
+                                                    "tokenCum": 344,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a district council,",
+                                                    "tokenCum": 348,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a London borough council,",
+                                                    "tokenCum": 354,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the Common Council of the City of London, and",
+                                                    "tokenCum": 364,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "the Council of the Isles of Scilly.\u201d",
+                                                    "tokenCum": 374,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 66,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 7 of that Act (detention and sale of trespassing livestock), atthe end insert\u2014",
+                                            "tokenCum": 399,
+                                            "wordSum": 15,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(8)",
+                                            "text": "Subsections (2) to (7) do not apply to horses on land in England (as towhich, see sections 7A to 7C).\u201d",
+                                            "tokenCum": 433,
+                                            "wordSum": 20,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 11 of that Act (interpretation)\u2014",
+                                            "tokenCum": 447,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "after the definition of \u201cfencing\u201d insert\u2014",
+                                                    "tokenCum": 457,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201c\u201chorse\u201d includes an ass, mule or hinny;\u201d;",
+                                                            "tokenCum": 476,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 14,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in the definition of \u201clivestock\u201d omit \u201casses, mules, hinnies,\u201d;",
+                                                    "tokenCum": 499,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "after the definition of \u201cpoultry\u201d insert\u2014",
+                                                    "tokenCum": 510,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201c\u201cpublic place\u201d includes\u2014",
+                                                            "tokenCum": 519,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 10,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any common land or town or village green;",
+                                                    "tokenCum": 519,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any highway (and the verges of any highway);\u201d.",
+                                                    "tokenCum": 528,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 140,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 232,
+                                    "tokenSum": 440,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 250,
+                            "tokenSum": 470,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Powers of freeholders and occupiers in England to detain horses",
+                            "tokenCum": 555,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 7A of the Animals Act 1971 (as inserted by section 1 of thisAct), insert\u2014",
+                                    "tokenCum": 583,
+                                    "wordSum": 16,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c7BPowers of freeholders and occupiers in England to detain horses",
+                                    "tokenCum": 602,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where a horse is on any land in England without lawfulauthority.",
+                                            "tokenCum": 620,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The horse may be detained\u2014",
+                                            "tokenCum": 627,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in any case, by the occupier of the land, and",
+                                                    "tokenCum": 640,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the freeholder is not the occupier, by the freeholder with theoccupier\u2019s consent.",
+                                                    "tokenCum": 662,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 53,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Section 7C contains further provision about detention under this section.\u201d",
+                                            "tokenCum": 676,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 62,
+                                    "tokenSum": 112,
+                                    "tokenCount": 20
+                                }
+                            ],
+                            "wordSum": 88,
+                            "tokenSum": 158,
+                            "tokenCount": 15
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Exercise of powers of detention",
+                            "tokenCum": 684,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 7B of the Animals Act 1971 (as inserted by section 2 of thisAct), insert\u2014",
+                                    "tokenCum": 712,
+                                    "wordSum": 16,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c7CDetention of horses under sections 7A and 7B",
+                                    "tokenCum": 728,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where a horse is detained under section 7A or 7B.",
+                                            "tokenCum": 747,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The right to detain the horse ceases at the end of the period of 24 hoursbeginning with the time when it is first detained unless, within that period,the person detaining the horse gives notice of the detention to\u2014",
+                                            "tokenCum": 798,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the officer in charge of a police station, and",
+                                                    "tokenCum": 808,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the person detaining the horse knows to whom the horse belongs, thatperson.",
+                                                    "tokenCum": 825,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 89,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where notice is given under subsection (2), the right to detain the horseceases if, within the period of 96 hours beginning with the time when it isfirst detained, the person entitled to possession of the horse\u2014",
+                                            "tokenCum": 874,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "claims it, and",
+                                                    "tokenCum": 878,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "complies with the condition in subsection (4).",
+                                                    "tokenCum": 889,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 75,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The condition is that the person tenders to each person with a claim undersection 4A in respect of the horse such amount as is sufficient to satisfy theclaim.",
+                                            "tokenCum": 924,
+                                            "wordSum": 28,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "If by the end of the 96 hour period referred to in subsection (3) the rightto detain the horse has not ceased under this section\u2014",
+                                            "tokenCum": 957,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "ownership of the horse passes to the person detaining the horse, and",
+                                                    "tokenCum": 971,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "accordingly, the person detaining the horse may dispose of it by sellingit, arranging for it to be destroyed or in any other way.",
+                                                    "tokenCum": 1001,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 88,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where a horse is sold under this section and the proceeds of sale, less thecosts of the sale and any costs incurred in connection with it, exceed theamount of any claims under section 4A in respect of the horse, the excess isrecoverable from the person detaining the horse by the person who would havebeen entitled to possession of the horse but for this section.",
+                                            "tokenCum": 1083,
+                                            "wordSum": 64,
+                                            "tokenSum": 85,
+                                            "tokenCount": 85
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "A person detaining a horse under this section is liable for any damagecaused to it by a failure to treat it with reasonable care and supply it withadequate food and water while it is so detained.",
+                                            "tokenCum": 1128,
+                                            "wordSum": 36,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "References in this section to a claim under section 4A in respect of anyhorse do not include a claim under that section for damage done by or expensesincurred in respect of the horse before it was on the land without lawfulauthority.",
+                                            "tokenCum": 1181,
+                                            "wordSum": 41,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In calculating a period of 96 hours for the purposes of this section,disregard any time falling on\u2014",
+                                            "tokenCum": 1205,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a Saturday or Sunday,",
+                                                    "tokenCum": 1210,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Good Friday or Christmas Day, or",
+                                                    "tokenCum": 1217,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a day which is a bank holiday in England and Wales under the Banking andFinancial Dealings Act 1971.\u201d",
+                                                    "tokenCum": 1247,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 81,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 401,
+                                    "tokenSum": 600,
+                                    "tokenCount": 17
+                                }
+                            ],
+                            "wordSum": 422,
+                            "tokenSum": 639,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Liability for damage and expenses due to horses",
+                            "tokenCum": 1257,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "After section 4 of the Animals Act 1971 insert\u2014",
+                                    "tokenCum": 1273,
+                                    "wordSum": 9,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c4ALiability for damage and expenses due to horses on land in Englandwithout lawful authority",
+                                    "tokenCum": 1294,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where a horse is on any land in England without lawfulauthority.",
+                                            "tokenCum": 1312,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The person to whom the horse belongs is liable for\u2014",
+                                            "tokenCum": 1324,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any damage done by the horse to\u2014",
+                                                    "tokenCum": 1332,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the land, or",
+                                                    "tokenCum": 1336,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "any property on it which is in the ownership or possession of thefreeholder or occupier of the land, and",
+                                                    "tokenCum": 1359,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any expenses which are reasonably incurred by a person detaining the horseunder section 7A or 7B of this Act\u2014",
+                                                    "tokenCum": 1389,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "in keeping the horse while it cannot be restored to the person to whom itbelongs or while it is detained under section 7A or 7B of this Act, or",
+                                                    "tokenCum": 1426,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in ascertaining to whom it belongs.",
+                                                    "tokenCum": 1435,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "This is subject to the other provisions of this Act.",
+                                                            "tokenCum": 1447,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 16,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 103,
+                                            "tokenSum": 167,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of this section a horse belongs to the person in whosepossession it is.\u201d",
+                                            "tokenCum": 1466,
+                                            "wordSum": 16,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 4 of that Act (liability for damage and expenses due totrespassing livestock), at the end insert\u2014",
+                                            "tokenCum": 1495,
+                                            "wordSum": 18,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(3)",
+                                            "text": "This section does not apply in relation to horses on land in England (asto which, see section 4A).\u201d",
+                                            "tokenCum": 1519,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 5 of that Act (exceptions from liability)\u2014",
+                                            "tokenCum": 1534,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the heading and in subsection (1), for \u201c4\u201d substitute \u201c4A\u201d;",
+                                                    "tokenCum": 1554,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after subsection (5) insert\u2014",
+                                                    "tokenCum": 1562,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(5A)A person is not liable under section 4A of this Act in respect of a horsewhich strays from a highway when its presence there was a lawful use of thehighway.\u201d;",
+                                                    "tokenCum": 1608,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in subsection (6), after \u201csection 4 of this Act\u201d insert \u201c, or under section4A of this Act so far as relating to a straying horse in England,\u201d.",
+                                                    "tokenCum": 1649,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                }
+                                            ],
+                                            "wordSum": 81,
+                                            "tokenSum": 149,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 10 of that Act (application of certain enactments to liabilityunder sections 2 to 4), and in the heading to that section, for \u201c4\u201d substitute\u201c4A\u201d.",
+                                            "tokenCum": 1692,
+                                            "wordSum": 26,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        }
+                                    ],
+                                    "wordSum": 290,
+                                    "tokenSum": 487,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 307,
+                            "tokenSum": 516,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Commencement, extent and short title",
+                            "tokenCum": 1700,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act comes into force at the end of the period of two months beginningwith the day on which it is passed.",
+                                    "tokenCum": 1724,
+                                    "wordSum": 22,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act extends to England and Wales.",
+                                    "tokenCum": 1732,
+                                    "wordSum": 7,
+                                    "tokenSum": 10,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act may be cited as the Control of Horses Act 2015.",
+                                    "tokenCum": 1752,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1752,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 25,
+                                    "tokenCount": 21
+                                }
+                            ],
+                            "wordSum": 46,
+                            "tokenSum": 70,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 1149,
+                    "tokenSum": 1911,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1187,
+            "tokenSum": 2021,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/23/enacted?view=plain",
+    "title": "Control of Horses Act 2015",
+    "longtitle": "An Act to make provision for the taking of action in relation to horses which are on land in England without lawful authority; and for connected purposes.",
+    "date": "[26th March 2015]",
+    "wordSum": 1187,
+    "tokenSum": 2022,
+    "tokenCount": 0,
+    "totalTokens": 2022
+}

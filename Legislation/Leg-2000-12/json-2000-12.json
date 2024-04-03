@@ -1,0 +1,2300 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2000/12/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Limited Liability Partnerships Act 2000",
+                    "tokenCum": 56,
+                    "wordSum": 5,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2000 CHAPTER 12",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for limited liability partnerships.",
+                            "tokenCum": 77,
+                            "wordSum": 9,
+                            "tokenSum": 13,
+                            "tokenCount": 13
+                        }
+                    ],
+                    "wordSum": 12,
+                    "tokenSum": 23,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[20th July 2000]",
+                    "tokenCum": 88,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 145,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Introductory",
+                            "tokenCum": 149,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Limited liability partnerships",
+                                    "tokenCum": 154,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "There shall be a new form of legal entity to be known as a limitedliability partnership.",
+                                            "tokenCum": 174,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A limited liability partnership is a body corporate (with legal personalityseparate from that of its members) which is formed by being incorporated underthis Act; and\u2014",
+                                            "tokenCum": 211,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the following provisions of this Act (except in the phrase \u201coversealimited liability partnership\u201d), and",
+                                                    "tokenCum": 237,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other enactment (except where provision is made to the contrary orthe context otherwise requires),",
+                                                    "tokenCum": 258,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "references to a limited liability partnership are to such a body corporate.",
+                                                            "tokenCum": 274,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 68,
+                                            "tokenSum": 116,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A limited liability partnership has unlimited capacity.",
+                                            "tokenCum": 285,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The members of a limited liability partnership have such liability tocontribute to its assets in the event of its being wound up as is provided forby virtue of this Act.",
+                                            "tokenCum": 323,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Accordingly, except as far as otherwise provided by this Act or any otherenactment, the law relating to partnerships does not apply to a limitedliability partnership.",
+                                            "tokenCum": 360,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The Schedule (which makes provision about the names and registered officesof limited liability partnerships) has effect.",
+                                            "tokenCum": 383,
+                                            "wordSum": 16,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 165,
+                                    "tokenSum": 267,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 166,
+                            "tokenSum": 272,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Incorporation",
+                            "tokenCum": 387,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Incorporation document etc",
+                                    "tokenCum": 393,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For a limited liability partnership to be incorporated\u2014",
+                                            "tokenCum": 405,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "two or more persons associated for carrying on a lawful business with aview to profit must have subscribed their names to an incorporation document,",
+                                                    "tokenCum": 434,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "there must have been delivered to the registrar either the incorporationdocument or a copy authenticated in a manner approved by him, and",
+                                                    "tokenCum": 461,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "there must have been so delivered a statement in a form approved by theregistrar, made by either a solicitor engaged in the formation of the limitedliability partnership or anyone who subscribed his name to the incorporationdocument, that the requirement imposed by paragraph (a) has been compliedwith.",
+                                                    "tokenCum": 525,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 68
+                                                }
+                                            ],
+                                            "wordSum": 100,
+                                            "tokenSum": 147,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The incorporation document must\u2014",
+                                            "tokenCum": 531,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "be in a form approved by the registrar (or as near to such a form ascircumstances allow),",
+                                                    "tokenCum": 555,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "state the name of the limited liability partnership,",
+                                                    "tokenCum": 566,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "state whether the registered office of the limited liability partnership isto be situated in England and Wales, in Wales or in Scotland,",
+                                                    "tokenCum": 593,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "state the address of that registered office,",
+                                                    "tokenCum": 601,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "state the name and address of each of the persons who are to be members ofthe limited liability partnership on incorporation, and",
+                                                    "tokenCum": 628,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "either specify which of those persons are to be designated members or statethat every person who from time to time is a member of the limited liabilitypartnership is a designated member.",
+                                                    "tokenCum": 666,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                }
+                                            ],
+                                            "wordSum": 111,
+                                            "tokenSum": 168,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If a person makes a false statement under subsection (1)(c) which he\u2014",
+                                            "tokenCum": 684,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "knows to be false, or",
+                                                    "tokenCum": 690,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "does not believe to be true,",
+                                                    "tokenCum": 697,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "he commits an offence.",
+                                                            "tokenCum": 703,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        }
+                                                    ],
+                                                    "wordSum": 10,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 53,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A person guilty of an offence under subsection (3) is liable\u2014",
+                                            "tokenCum": 720,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on summary conviction, to imprisonment for a period not exceeding sixmonths or a fine not exceeding the statutory maximum, or to both, or",
+                                                    "tokenCum": 754,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "on conviction on indictment, to imprisonment for a period not exceeding twoyears or a fine, or to both.",
+                                                    "tokenCum": 782,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 90,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 293,
+                                    "tokenSum": 466,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Incorporation by registration",
+                                    "tokenCum": 788,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "When the requirements imposed by paragraphs (b) and (c) of subsection (1)of section 2 have been complied with, the registrar shall retain theincorporation document or copy delivered to him and, unless the requirementimposed by paragraph (a) of that subsection has not been complied with, heshall\u2014",
+                                            "tokenCum": 862,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "register the incorporation document or copy, and",
+                                                    "tokenCum": 871,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "give a certificate that the limited liability partnership is incorporatedby the name specified in the incorporation document.",
+                                                    "tokenCum": 894,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 117,
+                                            "tokenCount": 76
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The registrar may accept the statement delivered under paragraph (c) ofsubsection (1) of section 2 as sufficient evidence that the requirementimposed by paragraph (a) of that subsection has been complied with.",
+                                            "tokenCum": 939,
+                                            "wordSum": 31,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The certificate shall either be signed by the registrar or be authenticatedby his official seal.",
+                                            "tokenCum": 959,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The certificate is conclusive evidence that the requirements of section 2are complied with and that the limited liability partnership is incorporatedby the name specified in the incorporation document.",
+                                            "tokenCum": 997,
+                                            "wordSum": 28,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        }
+                                    ],
+                                    "wordSum": 146,
+                                    "tokenSum": 237,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 440,
+                            "tokenSum": 708,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Membership",
+                            "tokenCum": 1000,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Members ",
+                                    "tokenCum": 1003,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "On the incorporation of a limited liability partnership its members are thepersons who subscribed their names to the incorporation document (other thanany who have died or been dissolved).",
+                                            "tokenCum": 1042,
+                                            "wordSum": 28,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Any other person may become a member of a limited liability partnership byand in accordance with an agreement with the existing members.",
+                                            "tokenCum": 1069,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A person may cease to be a member of a limited liability partnership (aswell as by death or dissolution) in accordance with an agreement with theother members or, in the absence of agreement with the other members as tocessation of membership, by giving reasonable notice to the other members.",
+                                            "tokenCum": 1132,
+                                            "wordSum": 49,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A member of a limited liability partnership shall not be regarded for anypurpose as employed by the limited liability partnership unless, if he and theother members were partners in a partnership, he would be regarded for thatpurpose as employed by the partnership.",
+                                            "tokenCum": 1188,
+                                            "wordSum": 42,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        }
+                                    ],
+                                    "wordSum": 142,
+                                    "tokenSum": 202,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Relationship of members etc",
+                                    "tokenCum": 1194,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Except as far as otherwise provided by this Act or any other enactment, themutual rights and duties of the members of a limited liability partnership,and the mutual rights and duties of a limited liability partnership and itsmembers, shall be governed\u2014",
+                                            "tokenCum": 1251,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by agreement between the members, or between the limited liabilitypartnership and its members, or",
+                                                    "tokenCum": 1271,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in the absence of agreement as to any matter, by any provision made inrelation to that matter by regulations under section 15(c).",
+                                                    "tokenCum": 1301,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 118,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An agreement made before the incorporation of a limited liabilitypartnership between the persons who subscribe their names to the incorporationdocument may impose obligations on the limited liability partnership (to takeeffect at any time after its incorporation).",
+                                            "tokenCum": 1353,
+                                            "wordSum": 36,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        }
+                                    ],
+                                    "wordSum": 116,
+                                    "tokenSum": 181,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Members as agents",
+                                    "tokenCum": 1357,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Every member of a limited liability partnership is the agent of the limitedliability partnership.",
+                                            "tokenCum": 1377,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But a limited liability partnership is not bound by anything done by amember in dealing with a person if\u2014",
+                                            "tokenCum": 1400,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the member in fact has no authority to act for the limited liabilitypartnership by doing that thing, and",
+                                                    "tokenCum": 1423,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the person knows that he has no authority or does not know or believe himto be a member of the limited liability partnership.",
+                                                    "tokenCum": 1450,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 84,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where a person has ceased to be a member of a limited liabilitypartnership, the former member is to be regarded (in relation to any persondealing with the limited liability partnership) as still being a member of thelimited liability partnership unless\u2014",
+                                            "tokenCum": 1505,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the person has notice that the former member has ceased to be a member ofthe limited liability partnership, or",
+                                                    "tokenCum": 1528,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "notice that the former member has ceased to be a member of the limitedliability partnership has been delivered to the registrar.",
+                                                    "tokenCum": 1554,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 80,
+                                            "tokenSum": 115,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Where a member of a limited liability partnership is liable to any person(other than another member of the limited liability partnership) as a resultof a wrongful act or omission of his in the course of the business of thelimited liability partnership or with its authority, the limited liabilitypartnership is liable to the same extent as the member.",
+                                            "tokenCum": 1632,
+                                            "wordSum": 57,
+                                            "tokenSum": 81,
+                                            "tokenCount": 81
+                                        }
+                                    ],
+                                    "wordSum": 214,
+                                    "tokenSum": 309,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Ex-members ",
+                                    "tokenCum": 1636,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where a member of a limited liability partnership haseither ceased to be a member or\u2014",
+                                            "tokenCum": 1659,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "has died,",
+                                                    "tokenCum": 1662,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "has become bankrupt or had his estate sequestrated or has been wound up,",
+                                                    "tokenCum": 1681,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "has granted a trust deed for the benefit of his creditors, or",
+                                                    "tokenCum": 1696,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "has assigned the whole or any part of his share in the limited liabilitypartnership (absolutely or by way of charge or security).",
+                                                    "tokenCum": 1726,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 67,
+                                            "tokenSum": 109,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In such an event the former member or\u2014",
+                                            "tokenCum": 1735,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "his personal representative,",
+                                                    "tokenCum": 1739,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "his trustee in bankruptcy or permanent or interim trustee (within themeaning of the [1985 c. 66.] Bankruptcy (Scotland) Act 1985) or liquidator,",
+                                                    "tokenCum": 1791,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 56
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "his trustee under the trust deed for the benefit of his creditors, or",
+                                                    "tokenCum": 1808,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "his assignee,",
+                                                    "tokenCum": 1813,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "may not interfere in the management or administration of any business oraffairs of the limited liability partnership.",
+                                                            "tokenCum": 1837,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 19,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 65,
+                                            "tokenSum": 135,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "But subsection (2) does not affect any right to receive an amount from thelimited liability partnership in that event.",
+                                            "tokenCum": 1863,
+                                            "wordSum": 19,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 152,
+                                    "tokenSum": 279,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Designated members",
+                                    "tokenCum": 1866,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "If the incorporation document specifies who are to be designated members\u2014",
+                                            "tokenCum": 1880,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "they are designated members on incorporation, and",
+                                                    "tokenCum": 1889,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any member may become a designated member by and in accordance with anagreement with the other members,",
+                                                    "tokenCum": 1911,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and a member may cease to be a designated member in accordance with anagreement with the other members.",
+                                                            "tokenCum": 1935,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 35,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 53,
+                                            "tokenSum": 85,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "But if there would otherwise be no designated members, or only one, everymember is a designated member.",
+                                            "tokenCum": 1957,
+                                            "wordSum": 17,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the incorporation document states that every person who from time totime is a member of the limited liability partnership is a designated member,every member is a designated member.",
+                                            "tokenCum": 1993,
+                                            "wordSum": 29,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A limited liability partnership may at any time deliver to the registrar\u2014",
+                                            "tokenCum": 2009,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "notice that specified members are to be designated members, or",
+                                                    "tokenCum": 2020,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "notice that every person who from time to time is a member of the limitedliability partnership is a designated member,",
+                                                    "tokenCum": 2044,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "and, once it is delivered, subsection (1) (apart from paragraph (a)) andsubsection (2), or subsection (3), shall have effect as if that were stated inthe incorporation document.",
+                                                    "tokenCum": 2089,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 111,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A notice delivered under subsection (4)\u2014",
+                                            "tokenCum": 2099,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "shall be in a form approved by the registrar, and",
+                                                    "tokenCum": 2111,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "shall be signed by a designated member of the limited liability partnershipor authenticated in a manner approved by the registrar.",
+                                                    "tokenCum": 2137,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 59,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A person ceases to be a designated member if he ceases to be a member.",
+                                            "tokenCum": 2155,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 221,
+                                    "tokenSum": 345,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Registration of membership changes",
+                                    "tokenCum": 2160,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A limited liability partnership must ensure that\u2014",
+                                            "tokenCum": 2170,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "where a person becomes or ceases to be a member or designated member,notice is delivered to the registrar within fourteen days, and",
+                                                    "tokenCum": 2199,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "where there is any change in the name or address of a member, notice isdelivered to the registrar within 28 days.",
+                                                    "tokenCum": 2228,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 79,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where all the members from time to time of a limited liability partnershipare designated members, subsection (1)(a) does not require notice that aperson has become or ceased to be a designated member as well as a member.",
+                                            "tokenCum": 2276,
+                                            "wordSum": 37,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A notice delivered under subsection (1)\u2014",
+                                            "tokenCum": 2286,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "shall be in a form approved by the registrar, and",
+                                                    "tokenCum": 2298,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "shall be signed by a designated member of the limited liability partnershipor authenticated in a manner approved by the registrar,",
+                                                    "tokenCum": 2324,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and, if it relates to a person becoming a member or designated member, shallcontain a statement that he consents to becoming a member or designated membersigned by him or authenticated in a manner approved by the registrar.",
+                                                            "tokenCum": 2371,
+                                                            "wordSum": 37,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        }
+                                                    ],
+                                                    "wordSum": 57,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 73,
+                                            "tokenSum": 111,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If a limited liability partnership fails to comply with subsection (1), thepartnership and every designated member commits an offence.",
+                                            "tokenCum": 2401,
+                                            "wordSum": 19,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "But it is a defence for a designated member charged with an offence undersubsection (4) to prove that he took all reasonable steps for securing thatsubsection (1) was complied with.",
+                                            "tokenCum": 2443,
+                                            "wordSum": 30,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A person guilty of an offence under subsection (4) is liable on summaryconviction to a fine not exceeding level 5 on the standard scale.",
+                                            "tokenCum": 2477,
+                                            "wordSum": 24,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 237,
+                                    "tokenSum": 363,
+                                    "tokenCount": 6
+                                }
+                            ],
+                            "wordSum": 1083,
+                            "tokenSum": 1683,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Taxation",
+                            "tokenCum": 2479,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Income tax and chargeable gains",
+                                    "tokenCum": 2487,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In the [1988 c. 1.] Income and Corporation Taxes Act 1988, after section118 insert\u2014",
+                                            "tokenCum": 2519,
+                                            "wordSum": 14,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cLimited liability partnerships",
+                                            "tokenCum": 2527,
+                                            "children": [
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 118",
+                                                    "text": "ZATreatment of limited liability partnerships",
+                                                    "tokenCum": 2538,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "For the purposes of the Tax Acts, a trade, profession or business carried onby a limited liability partnership with a view to profit shall be treated ascarried on in partnership by its members (and not by the limited liabilitypartnership as such); and, accordingly, the property of the limited liabilitypartnership shall be treated for those purposes as partnership property.",
+                                                            "tokenCum": 2619,
+                                                            "wordSum": 58,
+                                                            "tokenSum": 86,
+                                                            "tokenCount": 86
+                                                        }
+                                                    ],
+                                                    "wordSum": 63,
+                                                    "tokenSum": 101,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 118",
+                                                    "text": "ZBRestriction on relief",
+                                                    "tokenCum": 2625,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "Sections 117 and 118 have effect in relation to a member of a limitedliability partnership as in relation to a limited partner, but subject tosections 118ZC and 118ZD.",
+                                                            "tokenCum": 2676,
+                                                            "wordSum": 28,
+                                                            "tokenSum": 56,
+                                                            "tokenCount": 56
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 118",
+                                                    "text": "ZCMember\u2019s contribution to trade",
+                                                    "tokenCum": 2684,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "Subsection (3) of section 117 does not have effect in relation to a memberof a limited liability partnership.",
+                                                            "tokenCum": 2712,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "But, for the purposes of that section and section 118, such a member\u2019scontribution to a trade at any time (\u201cthe relevant time\u201d) is the greater of\u2014",
+                                                            "tokenCum": 2752,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "the amount subscribed by him, and",
+                                                                    "tokenCum": 2760,
+                                                                    "wordSum": 6,
+                                                                    "tokenSum": 14,
+                                                                    "tokenCount": 14
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "the amount of his liability on a winding up.",
+                                                                    "tokenCum": 2772,
+                                                                    "wordSum": 9,
+                                                                    "tokenSum": 18,
+                                                                    "tokenCount": 18
+                                                                }
+                                                            ],
+                                                            "wordSum": 41,
+                                                            "tokenSum": 77,
+                                                            "tokenCount": 44
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(3)",
+                                                            "text": "The amount subscribed by a member of a limited liability partnership is theamount which he has contributed to the limited liability partnership ascapital, less so much of that amount (if any) as\u2014",
+                                                            "tokenCum": 2816,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "he has previously, directly or indirectly, drawn out or received back,",
+                                                                    "tokenCum": 2831,
+                                                                    "wordSum": 11,
+                                                                    "tokenSum": 21,
+                                                                    "tokenCount": 21
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "he so draws out or receives back during the period of five years beginningwith the relevant time,",
+                                                                    "tokenCum": 2851,
+                                                                    "wordSum": 17,
+                                                                    "tokenSum": 26,
+                                                                    "tokenCount": 26
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(c)",
+                                                                    "text": "he is or may be entitled so to draw out or receive back at any time when heis a member of the limited liability partnership, or",
+                                                                    "tokenCum": 2881,
+                                                                    "wordSum": 26,
+                                                                    "tokenSum": 36,
+                                                                    "tokenCount": 36
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(d)",
+                                                                    "text": "he is or may be entitled to require another person to reimburse to him.",
+                                                                    "tokenCum": 2899,
+                                                                    "wordSum": 14,
+                                                                    "tokenSum": 24,
+                                                                    "tokenCount": 24
+                                                                }
+                                                            ],
+                                                            "wordSum": 100,
+                                                            "tokenSum": 156,
+                                                            "tokenCount": 48
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(4)",
+                                                            "text": "The amount of the liability of a member of a limited liability partnershipon a winding up is the amount which\u2014",
+                                                            "tokenCum": 2925,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "he is liable to contribute to the assets of the limited liabilitypartnership in the event of its being wound up, and",
+                                                                    "tokenCum": 2953,
+                                                                    "wordSum": 21,
+                                                                    "tokenSum": 34,
+                                                                    "tokenCount": 34
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "he remains liable so to contribute for the period of at least five yearsbeginning with the relevant time (or until it is wound up, if that happensbefore the end of that period).",
+                                                                    "tokenCum": 2993,
+                                                                    "wordSum": 32,
+                                                                    "tokenSum": 46,
+                                                                    "tokenCount": 46
+                                                                }
+                                                            ],
+                                                            "wordSum": 73,
+                                                            "tokenSum": 111,
+                                                            "tokenCount": 30
+                                                        }
+                                                    ],
+                                                    "wordSum": 236,
+                                                    "tokenSum": 389,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 118",
+                                                    "text": "ZDCarry forward of unrelieved losses",
+                                                    "tokenCum": 3003,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "Where amounts relating to a trade carried on by a member of a limitedliability partnership are, in any one or more chargeable periods, preventedfrom being given or allowed by section 117 or 118 as it applies otherwise thanby virtue of this section (his \u201ctotal unrelieved loss\u201d), subsection (2)applies in each subsequent chargeable period in which\u2014",
+                                                            "tokenCum": 3087,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "he carries on the trade as a member of the limited liability partnership,and",
+                                                                    "tokenCum": 3105,
+                                                                    "wordSum": 13,
+                                                                    "tokenSum": 24,
+                                                                    "tokenCount": 24
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "any of his total unrelieved loss remains outstanding.",
+                                                                    "tokenCum": 3117,
+                                                                    "wordSum": 8,
+                                                                    "tokenSum": 18,
+                                                                    "tokenCount": 18
+                                                                }
+                                                            ],
+                                                            "wordSum": 76,
+                                                            "tokenSum": 131,
+                                                            "tokenCount": 88
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "Sections 380, 381, 393A(1) and 403 (and sections 117 and 118 as they applyin relation to those sections) shall have effect in the subsequent chargeableperiod as if\u2014",
+                                                            "tokenCum": 3175,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "any loss sustained or incurred by the member in the trade in thatchargeable period were increased by an amount equal to so much of his totalunrelieved loss as remains outstanding in that period, or",
+                                                                    "tokenCum": 3219,
+                                                                    "wordSum": 34,
+                                                                    "tokenSum": 50,
+                                                                    "tokenCount": 50
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "(if no loss is so sustained or incurred) a loss of that amount were sosustained or incurred.",
+                                                                    "tokenCum": 3247,
+                                                                    "wordSum": 17,
+                                                                    "tokenSum": 34,
+                                                                    "tokenCount": 34
+                                                                }
+                                                            ],
+                                                            "wordSum": 78,
+                                                            "tokenSum": 147,
+                                                            "tokenCount": 62
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(3)",
+                                                            "text": "To ascertain whether any (and, if so, how much) of a member\u2019s totalunrelieved loss remains outstanding in the subsequent chargeable period,deduct from the amount of his total unrelieved loss the aggregate of\u2014",
+                                                            "tokenCum": 3297,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "any relief given under any provision of the Tax Acts (otherwise than as aresult of subsection (2)) in respect of his total unrelieved loss in that orany previous chargeable period, and",
+                                                                    "tokenCum": 3341,
+                                                                    "wordSum": 31,
+                                                                    "tokenSum": 50,
+                                                                    "tokenCount": 50
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "any amount given or allowed in respect of his total unrelieved loss as aresult of subsection (2) in any previous chargeable period (or which wouldhave been so given or allowed had a claim been made).\u201d",
+                                                                    "tokenCum": 3388,
+                                                                    "wordSum": 35,
+                                                                    "tokenSum": 53,
+                                                                    "tokenCount": 53
+                                                                }
+                                                            ],
+                                                            "wordSum": 98,
+                                                            "tokenSum": 158,
+                                                            "tokenCount": 54
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "In section 362(2)(a) of that Act (loan to buy into partnership), after\u201cpartner\u201d insert \u201cin a limited partnership registered under the [1907 c. 24.]Limited Partnerships Act 1907\u201d.",
+                                                            "tokenCum": 3450,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 67,
+                                                            "tokenCount": 67
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(3)",
+                                                            "text": "In the [1992 c. 12.] Taxation of Chargeable Gains Act 1992, after section59 insert\u2014",
+                                                            "tokenCum": 3484,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 297,
+                                                    "tokenSum": 556,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 630,
+                                            "tokenSum": 1123,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c59ALimited liability partnerships",
+                                            "tokenCum": 3494,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where a limited liability partnership carries on a trade or business with aview to profit\u2014",
+                                                    "tokenCum": 3514,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "assets held by the limited liability partnership shall be treated for thepurposes of tax in respect of chargeable gains as held by its members aspartners, and",
+                                                            "tokenCum": 3549,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "any dealings by the limited liability partnership shall be treated forthose purposes as dealings by its members in partnership (and not by thelimited liability partnership as such),",
+                                                            "tokenCum": 3587,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "and tax in respect of chargeable gains accruing to the members of the limitedliability partnership on the disposal of any of its assets shall be assessedand charged on them separately.",
+                                                                    "tokenCum": 3628,
+                                                                    "wordSum": 30,
+                                                                    "tokenSum": 47,
+                                                                    "tokenCount": 47
+                                                                }
+                                                            ],
+                                                            "wordSum": 57,
+                                                            "tokenSum": 90,
+                                                            "tokenCount": 42
+                                                        }
+                                                    ],
+                                                    "wordSum": 98,
+                                                    "tokenSum": 154,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Where subsection (1) ceases to apply in relation to a limited liabilitypartnership with the effect that tax is assessed and charged\u2014",
+                                                    "tokenCum": 3659,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "on the limited liability partnership (as a company) in respect ofchargeable gains accruing on the disposal of any of its assets, and",
+                                                            "tokenCum": 3692,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "on the members in respect of chargeable gains accruing on the disposal ofany of their capital interests in the limited liability partnership,",
+                                                            "tokenCum": 3723,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "it shall be assessed and charged on the limited liability partnership as ifsubsection (1) had never applied in relation to it.",
+                                                            "tokenCum": 3751,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        }
+                                                    ],
+                                                    "wordSum": 86,
+                                                    "tokenSum": 142,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Neither the commencement of the application of subsection (1) nor thecessation of its application in relation to a limited liability partnership isto be taken as giving rise to the disposal of any assets by it or any of itsmembers.\u201d",
+                                                    "tokenCum": 3804,
+                                                    "wordSum": 39,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "After section 156 of that Act insert\u2014",
+                                                    "tokenCum": 3815,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 233,
+                                            "tokenSum": 381,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c156ACessation of trade by limited liability partnership",
+                                            "tokenCum": 3830,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where, immediately before the time of cessation of trade, a member of alimited liability partnership holds an asset, or an interest in an asset,acquired by him for a consideration treated as reduced under section 152 or153, he shall be treated as if a chargeable gain equal to the amount of thereduction accrued to him immediately before that time.",
+                                                    "tokenCum": 3913,
+                                                    "wordSum": 58,
+                                                    "tokenSum": 87,
+                                                    "tokenCount": 87
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Where, as a result of section 154(2), a chargeable gain on the disposal ofan asset, or an interest in an asset, by a member of a limited liabilitypartnership has not accrued before the time of cessation of trade, the membershall be treated as if the chargeable gain accrued immediately before thattime.",
+                                                    "tokenCum": 3991,
+                                                    "wordSum": 51,
+                                                    "tokenSum": 82,
+                                                    "tokenCount": 82
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this section \u201cthe time of cessation of trade\u201d, in relation to a limitedliability partnership, means the time when section 59A(1) ceases to apply inrelation to the limited liability partnership.\u201d",
+                                                    "tokenCum": 4040,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 53
+                                                }
+                                            ],
+                                            "wordSum": 146,
+                                            "tokenSum": 240,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 1028,
+                                    "tokenSum": 1789,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Inheritance tax",
+                                    "tokenCum": 4044,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In the [1984 c. 51.] Inheritance Tax Act 1984, after section 267 insert\u2014",
+                                            "tokenCum": 4076,
+                                            "wordSum": 13,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c267ALimited liability partnerships",
+                                            "tokenCum": 4087,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "For the purposes of this Act and any other enactments relating to inheritancetax\u2014",
+                                                    "tokenCum": 4107,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "property to which a limited liability partnership is entitled, or which itoccupies or uses, shall be treated as property to which its members areentitled, or which they occupy or use, as partners,",
+                                                            "tokenCum": 4151,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 49,
+                                                            "tokenCount": 49
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "any business carried on by a limited liability partnership shall be treatedas carried on in partnership by its members,",
+                                                            "tokenCum": 4175,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "incorporation, change in membership or dissolution of a limited liabilitypartnership shall be treated as formation, alteration or dissolution of apartnership, and",
+                                                            "tokenCum": 4209,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "any transfer of value made by or to a limited liability partnership shallbe treated as made by or to its members in partnership (and not by or to thelimited liability partnership as such).\u201d",
+                                                            "tokenCum": 4252,
+                                                            "wordSum": 33,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        }
+                                                    ],
+                                                    "wordSum": 118,
+                                                    "tokenSum": 189,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 121,
+                                            "tokenSum": 203,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 136,
+                                    "tokenSum": 244,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Stamp duty",
+                                    "tokenCum": 4255,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Stamp duty shall not be chargeable on an instrument by which property isconveyed or transferred by a person to a limited liability partnership inconnection with its incorporation within the period of one year beginning withthe date of incorporation if the following two conditions are satisfied.",
+                                            "tokenCum": 4312,
+                                            "wordSum": 45,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The first condition is that at the relevant time the person\u2014",
+                                            "tokenCum": 4324,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is a partner in a partnership comprised of all the persons who are or areto be members of the limited liability partnership (and no-one else), or",
+                                                    "tokenCum": 4359,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "holds the property conveyed or transferred as nominee or bare trustee forone or more of the partners in such a partnership.",
+                                                    "tokenCum": 4387,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 86,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The second condition is that\u2014",
+                                            "tokenCum": 4393,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the proportions of the property conveyed or transferred to which thepersons mentioned in subsection (2)(a) are entitled immediately after theconveyance or transfer are the same as those to which they were entitled atthe relevant time, or",
+                                                    "tokenCum": 4443,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "none of the differences in those proportions has arisen as part of a schemeor arrangement of which the main purpose, or one of the main purposes, isavoidance of liability to any duty or tax.",
+                                                    "tokenCum": 4487,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                }
+                                            ],
+                                            "wordSum": 75,
+                                            "tokenSum": 111,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (2) a person holds property as bare trusteefor a partner if the partner has the exclusive right (subject only tosatisfying any outstanding charge, lien or other right of the trustee toresort to the property for payment of duty, taxes, costs or other outgoings)to direct how the property shall be dealt with.",
+                                            "tokenCum": 4568,
+                                            "wordSum": 56,
+                                            "tokenSum": 84,
+                                            "tokenCount": 84
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section \u201cthe relevant time\u201d means\u2014",
+                                            "tokenCum": 4578,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if the person who conveyed or transferred the property to the limitedliability partnership acquired the property after its incorporation,immediately after he acquired the property, and",
+                                                    "tokenCum": 4613,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in any other case, immediately before its incorporation.",
+                                                    "tokenCum": 4624,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 67,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An instrument in respect of which stamp duty is not chargeable by virtue ofsubsection (1) shall not be taken to be duly stamped unless\u2014",
+                                            "tokenCum": 4655,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it has, in accordance with section 12 of the [1891 c. 39.] Stamp Act 1891,been stamped with a particular stamp denoting that it is not chargeable withany duty or that it is duly stamped, or",
+                                                    "tokenCum": 4717,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it is stamped with the duty to which it would be liable apart from thatsubsection.",
+                                                    "tokenCum": 4736,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 123,
+                                            "tokenCount": 33
+                                        }
+                                    ],
+                                    "wordSum": 350,
+                                    "tokenSum": 536,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Class 4 national insurance contributions",
+                                    "tokenCum": 4743,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In section 15 of the [1992 c. 4.] Social Security Contributions and BenefitsAct 1992 and section 15 of the [1992 c. 7.] Social Security Contributions andBenefits (Northern Ireland) Act 1992 (Class 4 contributions), after subsection(3) insert\u2014",
+                                            "tokenCum": 4827,
+                                            "wordSum": 36,
+                                            "tokenSum": 87,
+                                            "tokenCount": 87
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 96,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(3A)Where income tax is (or would be) charged on a member of a limitedliability partnership in respect of profits or gains arising from the carryingon of a trade or profession by the limited liability partnership, Class 4contributions shall be payable by him if they would be payable were the tradeor profession carried on in partnership by the members.\u201d",
+                                    "tokenCum": 4911,
+                                    "wordSum": 58,
+                                    "tokenSum": 86,
+                                    "tokenCount": 86
+                                }
+                            ],
+                            "wordSum": 1614,
+                            "tokenSum": 2754,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Regulations",
+                            "tokenCum": 4913,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Insolvency and winding up",
+                                    "tokenCum": 4921,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Regulations shall make provision about the insolvency and winding up oflimited liability partnerships by applying or incorporating, with suchmodifications as appear appropriate, Parts I to IV, VI and VII of the [1986 c.45.] Insolvency Act 1986.",
+                                            "tokenCum": 4988,
+                                            "wordSum": 36,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations may make other provision about the insolvency and winding up oflimited liability partnerships, and provision about the insolvency and windingup of oversea limited liability partnerships, by\u2014",
+                                            "tokenCum": 5035,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "applying or incorporating, with such modifications as appear appropriate,any law relating to the insolvency or winding up of companies or othercorporations which would not otherwise have effect in relation to them, or",
+                                                    "tokenCum": 5080,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "providing for any law relating to the insolvency or winding up of companiesor other corporations which would otherwise have effect in relation to themnot to apply to them or to apply to them with such modifications as appearappropriate.",
+                                                    "tokenCum": 5130,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                }
+                                            ],
+                                            "wordSum": 97,
+                                            "tokenSum": 153,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In this Act \u201coversea limited liability partnership\u201d means a bodyincorporated or otherwise established outside Great Britain and having suchconnection with Great Britain, and such other features, as regulations mayprescribe.",
+                                            "tokenCum": 5176,
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        }
+                                    ],
+                                    "wordSum": 166,
+                                    "tokenSum": 282,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Application of company law etc",
+                                    "tokenCum": 5181,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Regulations may make provision about limited liability partnerships andoversea limited liability partnerships (not being provision about insolvencyor winding up) by\u2014",
+                                            "tokenCum": 5217,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "applying or incorporating, with such modifications as appear appropriate,any law relating to companies or other corporations which would not otherwisehave effect in relation to them,",
+                                                    "tokenCum": 5250,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "providing for any law relating to companies or other corporations whichwould otherwise have effect in relation to them not to apply to them or toapply to them with such modifications as appear appropriate, or",
+                                                    "tokenCum": 5290,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "applying or incorporating, with such modifications as appear appropriate,any law relating to partnerships.",
+                                                    "tokenCum": 5310,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 92,
+                                            "tokenSum": 144,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 97,
+                                    "tokenSum": 151,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Consequential amendments",
+                                    "tokenCum": 5316,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Regulations may make in any enactment such amendments or repeals as appearappropriate in consequence of this Act or regulations made under it.",
+                                            "tokenCum": 5349,
+                                            "wordSum": 22,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The regulations may, in particular, make amendments and repeals affectingcompanies or other corporations or partnerships.",
+                                            "tokenCum": 5377,
+                                            "wordSum": 15,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 75,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "General ",
+                                    "tokenCum": 5379,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act \u201cregulations\u201d means regulations made by the Secretary of Stateby statutory instrument.",
+                                            "tokenCum": 5401,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under this Act may in particular\u2014",
+                                            "tokenCum": 5410,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision for dealing with non-compliance with any of the regulations(including the creation of criminal offences),",
+                                                    "tokenCum": 5434,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "impose fees (which shall be paid into the Consolidated Fund), and",
+                                                    "tokenCum": 5451,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "provide for the exercise of functions by persons prescribed by theregulations.",
+                                                    "tokenCum": 5466,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 80,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under this Act may\u2014",
+                                            "tokenCum": 5473,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "contain any appropriate consequential, incidental, supplementary ortransitional provisions or savings, and",
+                                                    "tokenCum": 5496,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make different provision for different purposes.",
+                                                    "tokenCum": 5503,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 22,
+                                            "tokenSum": 48,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "No regulations to which this subsection applies shall be made unless adraft of the statutory instrument containing the regulations (whether or nottogether with other provisions) has been laid before, and approved by aresolution of, each House of Parliament.",
+                                            "tokenCum": 5559,
+                                            "wordSum": 38,
+                                            "tokenSum": 59,
+                                            "tokenCount": 59
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Subsection (4) applies to\u2014",
+                                            "tokenCum": 5567,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "regulations under section 14(2) not consisting entirely of the applicationor incorporation (with or without modifications) of provisions contained in ormade under the [1986 c. 45.] Insolvency Act 1986,",
+                                                    "tokenCum": 5623,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "regulations under section 15 not consisting entirely of the application orincorporation (with or without modifications) of provisions contained in ormade under Part I, Chapter VIII of Part V, Part VII, Parts XI to XIII, PartsXVI to XVIII, Part XX or Parts XXIV to XXVI of the [1985 c. 6.] Companies Act1985,",
+                                                    "tokenCum": 5711,
+                                                    "wordSum": 51,
+                                                    "tokenSum": 92,
+                                                    "tokenCount": 92
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "regulations under section 14 or 15 making provision about oversea limitedliability partnerships, and",
+                                                    "tokenCum": 5735,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "regulations under section 16.",
+                                                    "tokenCum": 5743,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 100,
+                                            "tokenSum": 203,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A statutory instrument containing regulations under this Act shall (unlessa draft of it has been approved by a resolution of each House of Parliament)be subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 5793,
+                                            "wordSum": 36,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 256,
+                                    "tokenSum": 472,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 559,
+                            "tokenSum": 983,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Supplementary",
+                            "tokenCum": 5796,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 5800,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 5804,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201caddress\u201d, in relation to a member of a limited liability partnership, means\u2014 ",
+                                            "tokenCum": 5825,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if an individual, his usual residential address, and",
+                                                    "tokenCum": 5825,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if a corporation or Scottish firm, its registered or principal office,",
+                                                    "tokenCum": 5836,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cbusiness\u201d includes every trade, profession and occupation, ",
+                                                            "tokenCum": 5865,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cdesignated member\u201d shall be construed in accordance with section 8, ",
+                                                            "tokenCum": 5885,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cenactment\u201d includes subordinate legislation (within the meaning of the [1978 c. 30.] Interpretation Act 1978), ",
+                                                            "tokenCum": 5926,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cincorporation document\u201d shall be construed in accordance with section 2, ",
+                                                            "tokenCum": 5948,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201climited liability partnership\u201d has the meaning given by section 1(2), ",
+                                                            "tokenCum": 5969,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cmember\u201d shall be construed in accordance with section 4, ",
+                                                            "tokenCum": 5987,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cmodifications\u201d includes additions and omissions, ",
+                                                            "tokenCum": 6001,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cname\u201d, in relation to a member of a limited liability partnership, means\u2014 ",
+                                                            "tokenCum": 6022,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        }
+                                                    ],
+                                                    "wordSum": 97,
+                                                    "tokenSum": 230,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if an individual, his forename and surname (or, in the case of a peer or otherperson usually known by a title, his title instead of or in addition to eitheror both his forename and surname), and",
+                                                    "tokenCum": 6022,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if a corporation or Scottish firm, its corporate or firm name,",
+                                                    "tokenCum": 6067,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201coversea limited liability partnership\u201d has the meaning given by section 14(3), ",
+                                                            "tokenCum": 6107,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe registrar\u201d means\u2014 ",
+                                                            "tokenCum": 6117,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 27,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if the registered office of the limited liability partnership is, or is to be,situated in England and Wales or in Wales, the registrar or other officerperforming under the [1985 c. 6.] Companies Act 1985 the duty of registrationof companies in England and Wales, and",
+                                                    "tokenCum": 6117,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 74,
+                                                    "tokenCount": 74
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if its registered office is, or is to be, situated in Scotland, the registraror other officer performing under that Act the duty of registration ofcompanies in Scotland, and",
+                                                    "tokenCum": 6187,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cregulations\u201d has the meaning given by section 17(1). ",
+                                                            "tokenCum": 6243,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        }
+                                                    ],
+                                                    "wordSum": 37,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 262,
+                                            "tokenSum": 521,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 266,
+                                    "tokenSum": 534,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Commencement, extent and short title",
+                                    "tokenCum": 6251,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The preceding provisions of this Act shall come into force on such day asthe Secretary of State may by order made by statutory instrument appoint; anddifferent days may be appointed for different purposes.",
+                                            "tokenCum": 6292,
+                                            "wordSum": 33,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by order made by statutory instrument make anytransitional provisions and savings which appear appropriate in connectionwith the coming into force of any provision of this Act.",
+                                            "tokenCum": 6331,
+                                            "wordSum": 31,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of the [1998 c. 46.] Scotland Act 1998 this Act shall betaken to be a pre-commencement enactment within the meaning of that Act.",
+                                            "tokenCum": 6377,
+                                            "wordSum": 26,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Apart from sections 10 to 13 (and this section), this Act does not extendto Northern Ireland.",
+                                            "tokenCum": 6402,
+                                            "wordSum": 16,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This Act may be cited as the Limited Liability Partnerships Act 2000.",
+                                            "tokenCum": 6423,
+                                            "wordSum": 12,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 123,
+                                    "tokenSum": 197,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 390,
+                            "tokenSum": 735,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 4288,
+                    "tokenSum": 7193,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 4309,
+            "tokenSum": 7286,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2000/12/enacted?view=plain",
+    "title": "Limited Liability Partnerships Act 2000",
+    "longtitle": "An Act to make provision for limited liability partnerships.",
+    "date": "[20th July 2000]",
+    "wordSum": 4309,
+    "tokenSum": 7287,
+    "tokenCount": 0,
+    "totalTokens": 7287
+}

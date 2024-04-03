@@ -1,0 +1,1183 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2004/10/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Age-Related Payments Act 2004",
+                    "tokenCum": 56,
+                    "wordSum": 4,
+                    "tokenSum": 13,
+                    "tokenCount": 12
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2004 CHAPTER 10",
+                    "tokenCum": 65,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for payments by the Secretary of State to personsover the age of 70; and to enable provision to be made for payments by theSecretary of State to persons over the age of 60.",
+                            "tokenCum": 115,
+                            "wordSum": 38,
+                            "tokenSum": 51,
+                            "tokenCount": 51
+                        }
+                    ],
+                    "wordSum": 41,
+                    "tokenSum": 61,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[8th July 2004]",
+                    "tokenCum": 125,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 182,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Payments for 2004",
+                            "tokenCum": 190,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "\u201cQualifying individual\u201d and \u201crelevant week\u201d",
+                                    "tokenCum": 201,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act \u201cqualifying individual\u201d means an individual who\u2014",
+                                            "tokenCum": 214,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "is ordinarily resident in Great Britain on at least one day in the relevantweek, and",
+                                                    "tokenCum": 232,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "attains the age of 70 years on or before the last day of the relevant week.",
+                                                    "tokenCum": 252,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 62,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this Act \u201cthe relevant week\u201d means the week beginning with Monday 20thSeptember 2004 and ending with Sunday 26th September 2004.",
+                                            "tokenCum": 292,
+                                            "wordSum": 21,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 66,
+                                    "tokenSum": 118,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Entitlement: basic cases",
+                                    "tokenCum": 298,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A qualifying individual shall be entitled to a payment of \u00a3100 if at anytime in the relevant week\u2014",
+                                            "tokenCum": 322,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is single, and",
+                                                    "tokenCum": 327,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "either\u2014 ",
+                                                    "tokenCum": 330,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "he is not living with another qualifying individual, or",
+                                                    "tokenCum": 341,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "he is in receipt of state pension credit.",
+                                                    "tokenCum": 352,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 73,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A qualifying individual shall be entitled to a payment of \u00a350 if at anytime in the relevant week\u2014",
+                                            "tokenCum": 375,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is single,",
+                                                    "tokenCum": 379,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is not in receipt of state pension credit, and",
+                                                    "tokenCum": 392,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "he is living with another qualifying individual.",
+                                                    "tokenCum": 401,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 64,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A qualifying individual shall be entitled to a payment of \u00a3100 if at anytime in the relevant week he is part of a couple and\u2014",
+                                            "tokenCum": 432,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the other member of the couple is not a qualifying individual, or",
+                                                    "tokenCum": 446,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "either member of the couple is in receipt of\u2014",
+                                                    "tokenCum": 457,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "state pension credit,",
+                                                    "tokenCum": 462,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "an income-based jobseeker\u2019s allowance, or",
+                                                    "tokenCum": 476,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(iii)",
+                                                    "text": "income support.",
+                                                    "tokenCum": 479,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 101,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "A qualifying individual shall be entitled to a payment of \u00a350 if at anytime in the relevant week he is part of a couple and\u2014",
+                                            "tokenCum": 509,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the other member of the couple is a qualifying individual, and",
+                                                    "tokenCum": 522,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "neither member of the couple is in receipt of state pension credit.",
+                                                    "tokenCum": 537,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 69,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This section is subject to section 3.",
+                                            "tokenCum": 546,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 192,
+                                    "tokenSum": 327,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Entitlement: special cases",
+                                    "tokenCum": 552,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where\u2014 ",
+                                            "tokenCum": 555,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "two or more couples live together, and",
+                                                    "tokenCum": 564,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "two or more individuals, each of whom is part of one of the couples, would(but for this subsection) be entitled to a payment under section 2(3)(a) (andnot under section 2(3)(b)),",
+                                                    "tokenCum": 615,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "then each of those individuals shall instead be entitled to a payment of \u00a350.",
+                                                            "tokenCum": 632,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 44,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 54
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 96,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Where each member of a couple would (but for this subsection) be entitledto a payment under section 2(3)(b)\u2014",
+                                            "tokenCum": 661,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the member who is to receive a payment in 2004 under the Social Fund WinterFuel Payment Regulations 2000 ([S.I. 2000/729](/id/uksi/2000/729?view=plain\"Go to item of legislation\")) shall be entitled to the payment under section2(3)(b), and",
+                                                    "tokenCum": 746,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 89,
+                                                    "tokenCount": 89
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the other member shall not be entitled to a payment under section 2(3)(b).",
+                                                    "tokenCum": 765,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 144,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where\u2014 ",
+                                            "tokenCum": 768,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "only one member of a couple is a qualifying individual,",
+                                                    "tokenCum": 780,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he would (but for this subsection) be entitled to a payment under section2(3),",
+                                                    "tokenCum": 800,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the other member of the couple is to receive a payment in 2004 under theSocial Fund Winter Fuel Payment Regulations 2000, and",
+                                                    "tokenCum": 836,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the qualifying individual is not to receive a payment in 2004 under thoseregulations,",
+                                                    "tokenCum": 858,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "then\u2014",
+                                                    "tokenCum": 860,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 6,
+                                                    "tokenCount": 6
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "that other member of the couple shall be entitled to a payment of \u00a3100, and",
+                                                    "tokenCum": 879,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the qualifying individual shall not be entitled to a payment under section2(3).",
+                                                    "tokenCum": 896,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 162,
+                                            "tokenCount": 5
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subsection (5) applies to a qualifying individual if\u2014",
+                                            "tokenCum": 909,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "on the last day of the relevant week he is living in a care home, and",
+                                                    "tokenCum": 926,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "throughout the period of 13 weeks ending with the relevant week hisordinary place of residence was a care home.",
+                                                    "tokenCum": 949,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 64,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where this subsection applies to a qualifying individual\u2014",
+                                            "tokenCum": 960,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if he is not in receipt of state pension credit at any time in the relevantweek, he shall be entitled to a payment of \u00a350 (and he shall not be entitledto a payment under section 2), and",
+                                                    "tokenCum": 1007,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if at any time in the relevant week he is in receipt of state pensioncredit, he shall not be entitled to a payment under section 2 or this section.",
+                                                    "tokenCum": 1043,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                }
+                                            ],
+                                            "wordSum": 74,
+                                            "tokenSum": 105,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where a person to whom subsection (5) applies is part of a couple, in theapplication of section 2(3) and (4) to the other member of the couple theperson to whom subsection (5) applies shall be treated as a non-qualifyingindividual.",
+                                            "tokenCum": 1103,
+                                            "wordSum": 39,
+                                            "tokenSum": 63,
+                                            "tokenCount": 63
+                                        }
+                                    ],
+                                    "wordSum": 362,
+                                    "tokenSum": 642,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Disqualifications ",
+                                    "tokenCum": 1107,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A qualifying individual who would (but for this section) be entitled to apayment under section 2 or 3 shall not be entitled to the payment if\u2014",
+                                            "tokenCum": 1141,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "he is in receipt of free in-patient treatment throughout the period of 52weeks ending with the relevant week,",
+                                                    "tokenCum": 1168,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "he is in custody throughout the relevant week, or",
+                                                    "tokenCum": 1179,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "he is subject to immigration control throughout the relevant week.",
+                                                    "tokenCum": 1191,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 99,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of subsection (1)\u2014",
+                                            "tokenCum": 1201,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the reference to receipt of free in-patient treatment shall be construed inaccordance with regulation 2(2) and (2A) of the Social Security (Hospital In-Patients) Regulations 1975 ([S.I. 1975/555](/id/uksi/1975/555?view=plain \"Goto item of legislation\")),",
+                                                    "tokenCum": 1294,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 97,
+                                                    "tokenCount": 97
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person is in custody if he is detained in custody under a sentenceimposed by a court, and",
+                                                    "tokenCum": 1318,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the reference to being subject to immigration control shall be construed inaccordance with section 115(9) of the Immigration and Asylum Act [1999 (c.33)](/id/ukpga/1999/33?view=plain \"Go to item of legislation\").",
+                                                    "tokenCum": 1391,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                }
+                                            ],
+                                            "wordSum": 83,
+                                            "tokenSum": 215,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Where a person to whom this section applies is part of a couple, in theapplication of section 2(3) and (4) to the other member of the couple theperson to whom this section applies shall be treated as a non-qualifyingindividual.",
+                                            "tokenCum": 1445,
+                                            "wordSum": 39,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        }
+                                    ],
+                                    "wordSum": 186,
+                                    "tokenSum": 377,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Procedure ",
+                                    "tokenCum": 1448,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where before 31st December 2004 the Secretary of State thinks that a personis entitled to a payment under section 2 or 3, the Secretary of State shallmake the payment before that date (without a claim being required).",
+                                            "tokenCum": 1499,
+                                            "wordSum": 37,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A person who is entitled to a payment under section 2 or 3 and who does notreceive it before 31st December 2004, may claim the payment.",
+                                            "tokenCum": 1538,
+                                            "wordSum": 26,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A claim under subsection (2) must\u2014",
+                                            "tokenCum": 1548,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "be in writing to the Secretary of State,",
+                                                    "tokenCum": 1557,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "be received by the Secretary of State before 31st March 2005, and",
+                                                    "tokenCum": 1577,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "specify\u2014 ",
+                                                    "tokenCum": 1580,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the claimant\u2019s name, address, date of birth and national insurance number(if he has one), and",
+                                                    "tokenCum": 1604,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the date on which the claim is sent to the Secretary of State, and",
+                                                    "tokenCum": 1619,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "include a declaration that the claimant was ordinarily resident in GreatBritain on at least one day in the relevant week.",
+                                                    "tokenCum": 1645,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 76,
+                                            "tokenSum": 134,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If the Secretary of State thinks that a person making a claim undersubsection (2) is entitled to a payment under section 2 or 3, the Secretary ofState shall make the payment.",
+                                            "tokenCum": 1685,
+                                            "wordSum": 31,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The provisions of Chapter II of Part I of the Social Security Act [1998 (c.14)](/id/ukpga/1998/14?view=plain \"Go to item of legislation\") (revision,appeal, &c.) shall apply to a decision of the Secretary of State about aperson\u2019s entitlement to a payment under section 2 or 3 (whether or notfollowing a claim) as they apply to a decision of the Secretary of State undersection 8 of that Act.",
+                                            "tokenCum": 1803,
+                                            "wordSum": 64,
+                                            "tokenSum": 121,
+                                            "tokenCount": 121
+                                        }
+                                    ],
+                                    "wordSum": 235,
+                                    "tokenSum": 399,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Payment to be disregarded for tax and social security",
+                                    "tokenCum": 1815,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "No account shall be taken of entitlement to a payment under section 2 or 3 inconsidering a person's\u2014",
+                                            "tokenCum": 1842,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "liability to tax,",
+                                                    "tokenCum": 1847,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "entitlement to benefit under an enactment relating to social security(irrespective of the name or nature of the benefit), or",
+                                                    "tokenCum": 1876,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "entitlement to a tax credit.",
+                                                    "tokenCum": 1884,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 84,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 98,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 1098,
+                            "tokenSum": 1970,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Future payments",
+                            "tokenCum": 1887,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Power to provide for payments",
+                                    "tokenCum": 1893,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may make regulations providing for the making ofpayments by him to persons who have attained the age of 60 years.",
+                                            "tokenCum": 1924,
+                                            "wordSum": 24,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Regulations under subsection (1) may provide for payments to be made\u2014",
+                                            "tokenCum": 1941,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to persons in a specified class (which may be defined by reference to ageor otherwise);",
+                                                    "tokenCum": 1959,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in specified circumstances.",
+                                                    "tokenCum": 1963,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 50,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under subsection (1) may, in particular\u2014",
+                                            "tokenCum": 1976,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "provide for payments to be made only once, at specified times or over aspecified period,",
+                                                    "tokenCum": 1996,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "provide for exceptions,",
+                                                    "tokenCum": 2000,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "apply (with or without modifications) an enactment relating to socialsecurity (including, in particular, an enactment relating to claims, payments,evidence, revision of decisions, appeals or recovery of payment in error), and",
+                                                    "tokenCum": 2053,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "make different provision for different cases or circumstances.",
+                                                    "tokenCum": 2062,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 63,
+                                            "tokenSum": 118,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 2068,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "shall be made by statutory instrument, and",
+                                                    "tokenCum": 2078,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may not be made unless a draft has been laid before and approved byresolution of each House of Parliament.",
+                                                    "tokenCum": 2100,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 49,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 170(5) of the Social Security Administration Act [1992 (c.5)](/id/ukpga/1992/5?view=plain \"Go to item of legislation\") (Social SecurityAdvisory Committee) in the definition of \u201cthe relevant enactments\u201d afterparagraph (ah) insert\u2014",
+                                            "tokenCum": 2177,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(ai)",
+                                                    "text": "section 7 of the Age-Related Payments Act 2004;\u201d.",
+                                                    "tokenCum": 2196,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 103,
+                                            "tokenCount": 79
+                                        }
+                                    ],
+                                    "wordSum": 188,
+                                    "tokenSum": 362,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 190,
+                            "tokenSum": 366,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 2197,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Interpretation ",
+                                    "tokenCum": 2201,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 2205,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ccare home\u201d\u2014 ",
+                                                    "tokenCum": 2213,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to England and Wales, has the same meaning as that given bysection 3 of the Care Standards Act [2000 (c.14)](/id/ukpga/2000/14?view=plain \"Go to item of legislation\"), and",
+                                                    "tokenCum": 2213,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to Scotland, means accommodation provided by a care home servicewithin the meaning of section 2(3) of the [Regulation of Care (Scotland) Act2001 (asp 8)](/id/asp/2001/8?view=plain \"Go to item of legislation\"),",
+                                                    "tokenCum": 2275,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201ccouple\u201d means a man and a woman who share a household and who are, or who live as, husband and wife, ",
+                                                            "tokenCum": 2375,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cincome-based jobseeker\u2019s allowance\u201d has the meaning given by section 1(1) and (4) of the Jobseekers Act [1995 (c. 18)](/id/ukpga/1995/18?view=plain \"Go to item of legislation\"), ",
+                                                            "tokenCum": 2452,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 82,
+                                                            "tokenCount": 82
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cincome support\u201d means income support under section 124 of the Social Security Contributions and Benefits Act [1992 (c. 4)](/id/ukpga/1992/4?view=plain \"Go to item of legislation\"), ",
+                                                            "tokenCum": 2517,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 70,
+                                                            "tokenCount": 70
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cqualifying individual\u201d has the meaning given by section 1, ",
+                                                            "tokenCum": 2534,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe relevant week\u201d has the meaning given by section 1, ",
+                                                            "tokenCum": 2551,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csingle\u201d, in relation to an individual, means not part of a couple, and ",
+                                                            "tokenCum": 2571,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cstate pension credit\u201d has the meaning given by section 1(1) of the State Pension Credit Act [2002 (c. 16)](/id/ukpga/2002/16?view=plain \"Go to item of legislation\"). ",
+                                                            "tokenCum": 2637,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 71,
+                                                            "tokenCount": 71
+                                                        }
+                                                    ],
+                                                    "wordSum": 163,
+                                                    "tokenSum": 401,
+                                                    "tokenCount": 73
+                                                }
+                                            ],
+                                            "wordSum": 197,
+                                            "tokenSum": 486,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The provisions of this Act shall apply, with any necessary modifications,to the parties to a polygamous marriage as if they together formed one couple.",
+                                            "tokenCum": 2669,
+                                            "wordSum": 24,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        }
+                                    ],
+                                    "wordSum": 222,
+                                    "tokenSum": 527,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Money ",
+                                    "tokenCum": 2672,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Expenditure of the Secretary of State under or by virtue of this Act shall bepaid out of money provided by Parliament.",
+                                            "tokenCum": 2698,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 22,
+                                    "tokenSum": 34,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Extent ",
+                                    "tokenCum": 2701,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act shall extend only to\u2014",
+                                            "tokenCum": 2708,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "England and Wales, and",
+                                                    "tokenCum": 2713,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Scotland. ",
+                                                    "tokenCum": 2716,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 11,
+                                            "tokenSum": 26,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 31,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Citation ",
+                                    "tokenCum": 2719,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Age-Related Payments Act 2004.",
+                                            "tokenCum": 2740,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 12,
+                                    "tokenSum": 29,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 2740,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 269,
+                            "tokenSum": 625,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1593,
+                    "tokenSum": 3019,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1642,
+            "tokenSum": 3149,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2004/10/enacted?view=plain",
+    "title": "Age-Related Payments Act 2004",
+    "longtitle": "An Act to make provision for payments by the Secretary of State to persons over the age of 70; and to enable provision to be made for payments by the Secretary of State to persons over the age of 60.",
+    "date": "[8th July 2004]",
+    "wordSum": 1642,
+    "tokenSum": 3150,
+    "tokenCount": 0,
+    "totalTokens": 3150
+}

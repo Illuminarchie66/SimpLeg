@@ -1,0 +1,1179 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2016/16/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Driving Instructors (Registration) Act 2016",
+                    "tokenCum": 60,
+                    "wordSum": 5,
+                    "tokenSum": 17,
+                    "tokenCount": 16
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2016 CHAPTER 16",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the registration of driving instructors.",
+                            "tokenCum": 82,
+                            "wordSum": 11,
+                            "tokenSum": 14,
+                            "tokenCount": 14
+                        }
+                    ],
+                    "wordSum": 14,
+                    "tokenSum": 24,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[12th May 2016]",
+                    "tokenCum": 93,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 150,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Amendments to existing regime",
+                            "tokenCum": 156,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Re-entry in the register following expiry of registration",
+                                    "tokenCum": 167,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Part 5 of the Road Traffic Act 1988 (driving instruction) is amended asfollows.",
+                                            "tokenCum": 194,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 126 (duration of registration), omit subsection (3).",
+                                            "tokenCum": 212,
+                                            "wordSum": 9,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After that section insert\u2014",
+                                            "tokenCum": 217,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c126ARe-entry in the register following expiry of registration",
+                                            "tokenCum": 233,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies where a person whose name has been removed from theregister under section 126(1) applies under section 125(2) for the person\u2019sname to be entered again in the register.",
+                                                    "tokenCum": 281,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Registrar is not to regard the condition specified in section 125(3)(a)as fulfilled unless the Registrar is satisfied that\u2014",
+                                                    "tokenCum": 315,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person has again passed the examination mentioned in section 125(3)(a)since the removal of the person\u2019s name, or",
+                                                            "tokenCum": 346,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the person falls within subsection (3) or (4).",
+                                                            "tokenCum": 359,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        }
+                                                    ],
+                                                    "wordSum": 45,
+                                                    "tokenSum": 92,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A person falls within this subsection if\u2014",
+                                                    "tokenCum": 368,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person\u2019s application is made within the period of one year beginningwith the removal of the person\u2019s name (\u201cthe one year period\u201d), and",
+                                                            "tokenCum": 400,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 37,
+                                                            "tokenCount": 37
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the relevant conditions are fulfilled.",
+                                                            "tokenCum": 407,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        }
+                                                    ],
+                                                    "wordSum": 35,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A person falls within this subsection if\u2014",
+                                                    "tokenCum": 416,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person\u2019s application is made after the end of the one year period butwithin the period of four years beginning with the removal of the person\u2019sname,",
+                                                            "tokenCum": 450,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the relevant conditions are fulfilled,",
+                                                            "tokenCum": 457,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the person has passed a continued ability and fitness test since theremoval of the person\u2019s name, and",
+                                                            "tokenCum": 480,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the number of times (if any) that the person has failed to pass such a testsince that removal is less than three.",
+                                                            "tokenCum": 506,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 77,
+                                                    "tokenSum": 123,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "For the purposes of subsections (3)(b) and (4)(b), \u201cthe relevantconditions\u201d are\u2014",
+                                                    "tokenCum": 531,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that the person did not refuse to undergo\u2014",
+                                                            "tokenCum": 541,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "a continued ability and fitness test, or",
+                                                            "tokenCum": 550,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "an emergency control assessment,",
+                                                            "tokenCum": 557,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "which the person was required to undergo during the period of four yearsending with the removal of the person\u2019s name from the register, and",
+                                                                    "tokenCum": 586,
+                                                                    "wordSum": 24,
+                                                                    "tokenSum": 35,
+                                                                    "tokenCount": 35
+                                                                }
+                                                            ],
+                                                            "wordSum": 28,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that, where the person did undergo one or more continued ability andfitness tests during that period, the person passed the last such test.",
+                                                            "tokenCum": 615,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        }
+                                                    ],
+                                                    "wordSum": 77,
+                                                    "tokenSum": 139,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In this section \u201ccontinued ability and fitness test\u201d means a test ofcontinued ability and fitness to give instruction in the driving of motor carswhich is prescribed for the purposes of section 125(5)(a)(i).\u201d",
+                                                    "tokenCum": 669,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                }
+                                            ],
+                                            "wordSum": 304,
+                                            "tokenSum": 545,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 338,
+                                    "tokenSum": 617,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Voluntary removal from the register and subsequent re-entry",
+                                    "tokenCum": 681,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Part 5 of the Road Traffic Act 1988 (driving instruction) is amended asfollows.",
+                                            "tokenCum": 708,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After section 128 insert\u2014",
+                                            "tokenCum": 716,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c128AZAVoluntary removal from the register",
+                                            "tokenCum": 730,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Registrar must remove a person\u2019s name from the register if the personapplies to the Registrar for the removal.",
+                                                    "tokenCum": 758,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An application is to be made in such manner, and accompanied by suchparticulars, as the Secretary of State may determine.",
+                                                    "tokenCum": 784,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Registrar must give notice in writing of the removal to the applicant.",
+                                                    "tokenCum": 801,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Registrar may restore a person\u2019s name in the register where its removalunder this section was made by mistake or procured by fraud.",
+                                                    "tokenCum": 832,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Where a person\u2019s name is so restored, the removal and restoration areignored for the purposes of section 126(1) (duration of registration).",
+                                                    "tokenCum": 867,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 101,
+                                            "tokenSum": 174,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 128",
+                                            "text": "AZBRe-entry in the register following voluntary removal",
+                                            "tokenCum": 880,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies where a person whose name has been removed from theregister under section 128AZA applies under section 125(2) for the person\u2019sname to be entered again in the register.",
+                                                    "tokenCum": 928,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 52
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Registrar is not to regard the condition specified in section 125(3)(a)as fulfilled unless the Registrar is satisfied that\u2014",
+                                                    "tokenCum": 962,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person has again passed the examination mentioned in section 125(3)(a)since the date of the removal of the person\u2019s name, or",
+                                                            "tokenCum": 996,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the person falls within subsection (3) or (4).",
+                                                            "tokenCum": 1009,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        }
+                                                    ],
+                                                    "wordSum": 48,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A person falls within this subsection if\u2014",
+                                                    "tokenCum": 1018,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person\u2019s application is made\u2014",
+                                                            "tokenCum": 1026,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "within the period of one year beginning with the date of the removal of theperson\u2019s name (\u201cthe one year period\u201d), and",
+                                                            "tokenCum": 1054,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 33,
+                                                            "tokenCount": 33
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "within the period of four years beginning with the date when the personlast passed the examination mentioned in section 125(3)(a) or a continuedability and fitness test, and",
+                                                            "tokenCum": 1094,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 45,
+                                                            "tokenCount": 45
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the relevant conditions are fulfilled.",
+                                                            "tokenCum": 1101,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        }
+                                                    ],
+                                                    "wordSum": 65,
+                                                    "tokenSum": 116,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A person falls within this subsection if\u2014",
+                                                    "tokenCum": 1110,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the person\u2019s application is made\u2014",
+                                                            "tokenCum": 1118,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "within the one year period but not within the period mentioned insubsection (3)(a)(ii), or",
+                                                            "tokenCum": 1139,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "after the end of the one year period but within the period of four yearsbeginning with the date of the removal of the person\u2019s name,",
+                                                            "tokenCum": 1169,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 35,
+                                                            "tokenCount": 35
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the relevant conditions are fulfilled,",
+                                                            "tokenCum": 1176,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the person has passed a continued ability and fitness test since the dateof the removal of the person\u2019s name, and",
+                                                            "tokenCum": 1201,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "the number of times (if any) that the person has failed to pass such a testsince that date is less than three.",
+                                                            "tokenCum": 1227,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 98,
+                                                    "tokenSum": 160,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "For the purposes of subsections (3)(b) and (4)(b), \u201cthe relevantconditions\u201d are\u2014",
+                                                    "tokenCum": 1252,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "that the person did not refuse to undergo\u2014",
+                                                            "tokenCum": 1262,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(i)",
+                                                            "text": "a continued ability and fitness test, or",
+                                                            "tokenCum": 1271,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(ii)",
+                                                            "text": "an emergency control assessment,",
+                                                            "tokenCum": 1278,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "which the person was required to undergo during the period of four yearsending with the date of the removal of the person\u2019s name from the register,and",
+                                                                    "tokenCum": 1310,
+                                                                    "wordSum": 26,
+                                                                    "tokenSum": 38,
+                                                                    "tokenCount": 38
+                                                                }
+                                                            ],
+                                                            "wordSum": 30,
+                                                            "tokenSum": 50,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "that, where the person did undergo one or more continued ability andfitness tests during that period, the person passed the last such test.",
+                                                            "tokenCum": 1339,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        }
+                                                    ],
+                                                    "wordSum": 79,
+                                                    "tokenSum": 142,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In this section \u201ccontinued ability and fitness test\u201d means a test ofcontinued ability and fitness to give instruction in the driving of motor carswhich is prescribed for the purposes of section 125(5)(a)(i).\u201d",
+                                                    "tokenCum": 1393,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In section 128 (removal of names from the register), in subsections (6),(6A) and (7), after \u201cthe register\u201d insert \u201cunder this section\u201d.",
+                                                    "tokenCum": 1432,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 43,
+                                                    "tokenCount": 43
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 131 (appeals), at the end insert\u2014",
+                                                    "tokenCum": 1447,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "\u201c(6)",
+                                                    "text": "In subsections (1)(c) and (4D) the references to removal of a name fromthe register do not include removal under section 128AZA (voluntary removal).\u201d",
+                                                    "tokenCum": 1490,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 411,
+                                            "tokenSum": 748,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 537,
+                                    "tokenSum": 977,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 879,
+                            "tokenSum": 1601,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Amendments to existing regime as amended by the Road Safety Act 2006",
+                            "tokenCum": 1510,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Re-entry in the register following expiry of registration",
+                                    "tokenCum": 1521,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Schedule 6 to the Road Safety Act 2006 (which makes amendments to Part 5 ofthe Road Traffic Act 1988 which are not in force) is amended as follows.",
+                                            "tokenCum": 1569,
+                                            "wordSum": 28,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In paragraph 8, in section 126 of the Road Traffic Act 1988 (duration ofregistration) as substituted by that paragraph, in subsection (4) for thewords from \u201che\u201d to the end substitute \u201c\u2014",
+                                            "tokenCum": 1624,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the person is required again to fulfil such of the conditions prescribedunder section 125ZA(1) as may be prescribed, and",
+                                                    "tokenCum": 1656,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the registration is in relation to the giving of driving instruction,the person, if required by regulations to do so, must also pass such anexamination of continued ability and fitness referred to in section125ZA(4)(a) as may be prescribed.\u201d",
+                                                    "tokenCum": 1715,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 63
+                                                }
+                                            ],
+                                            "wordSum": 88,
+                                            "tokenSum": 157,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After paragraph 8 insert\u2014",
+                                            "tokenCum": 1721,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c8AIf section 126A (re-entry in the register following expiry of registration)(which is inserted by section 1 of the Driving Instructors (Registration) Act2016) is in force, omit section 126A.\u201d",
+                                                    "tokenCum": 1782,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 65
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 74,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 156,
+                                    "tokenSum": 295,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Voluntary termination of registration and subsequent re-registration",
+                                    "tokenCum": 1795,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Schedule 6 to the Road Safety Act 2006 (which makes amendments to Part 5 ofthe Road Traffic Act 1988 which are not in force) is amended as follows.",
+                                            "tokenCum": 1843,
+                                            "wordSum": 28,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After paragraph 10 insert\u2014",
+                                            "tokenCum": 1850,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c10AAfter that section insert (or if sections 128AZA and 128AZB (which areinserted by section 2 of the Driving Instructors (Registration) Act 2016) arein force, for sections 128AZA and 128AZB substitute)\u2014",
+                                                    "tokenCum": 1929,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 83,
+                                                    "tokenCount": 83
+                                                }
+                                            ],
+                                            "wordSum": 34,
+                                            "tokenSum": 93,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c128AZAVoluntary termination of registration",
+                                            "tokenCum": 1943,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Registrar must terminate a person\u2019s registration in relation to thegiving of a description of driving instruction if the person applies to theRegistrar for the termination of that registration.",
+                                                    "tokenCum": 1983,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An application is to be made in such manner, and accompanied by suchparticulars, as the Secretary of State may determine.",
+                                                    "tokenCum": 2009,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Registrar must give notice in writing of the termination to theapplicant.",
+                                                    "tokenCum": 2028,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Registrar may restore a person\u2019s registration where its terminationunder this section was made by mistake or procured by fraud.",
+                                                    "tokenCum": 2057,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "Where a person\u2019s registration is so restored, the termination andrestoration are ignored for the purposes of section 126(1) (duration ofregistration).",
+                                                    "tokenCum": 2093,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Where a person whose registration in relation to the giving of adescription of driving instruction has been terminated under this sectionapplies under section 125 to be registered again in relation to the giving ofthat description of driving instruction, the person\u2014",
+                                                    "tokenCum": 2143,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is required again to fulfil such of the conditions prescribed under section125ZA(1) as may be prescribed, and",
+                                                            "tokenCum": 2172,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 34,
+                                                            "tokenCount": 34
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "if required by regulations to do so, must also pass such an examination ofcontinued ability and fitness referred to in section 125ZA(4)(a) as may beprescribed.\u201d\u201d\u201d",
+                                                            "tokenCum": 2219,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        }
+                                                    ],
+                                                    "wordSum": 82,
+                                                    "tokenSum": 140,
+                                                    "tokenCount": 53
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In paragraph 10, in section 128 of the Road Traffic Act 1988 (terminationof registration) as substituted by that paragraph, in subsections (4), (6),(7) and (8) after \u201cperson\u2019s registration\u201d insert \u201cunder this section\u201d.",
+                                                    "tokenCum": 2284,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 69
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In paragraph 11, in section 128A of that Act (power to give direction as tofurther applications) as inserted by that paragraph, at the end insert\u2014",
+                                                    "tokenCum": 2322,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "\u201c(4)",
+                                                    "text": "In subsection (1)(c) the reference to termination of a person\u2019sregistration does not include termination under section 128AZA (voluntarytermination of registration).\u201d",
+                                                    "tokenCum": 2366,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In paragraph 13 (which amends section 131 (appeals) of that Act), aftersub-paragraph (8) insert\u2014",
+                                                    "tokenCum": 2397,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "\u201c(9)",
+                                                    "text": "At the end insert (or if subsection (6) of section 131 (which is insertedby section 2 of the Driving Instructors (Registration) Act 2016) is in force,for that subsection substitute)\u2014",
+                                                    "tokenCum": 2453,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 60,
+                                                    "tokenCount": 60
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "\u201c(6)",
+                                                    "text": "In subsections (1)(b) and (4D) the references to termination of a person\u2019sregistration do not include termination under section 128AZA (voluntarytermination of registration).\u201d\u201d\u201d",
+                                                    "tokenCum": 2504,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                }
+                                            ],
+                                            "wordSum": 329,
+                                            "tokenSum": 636,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 398,
+                                    "tokenSum": 795,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 566,
+                            "tokenSum": 1111,
+                            "tokenCount": 20
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General provisions",
+                            "tokenCum": 2507,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Consequential amendments, repeals and revocations",
+                                    "tokenCum": 2520,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations made by statutory instrument makesuch provision as the Secretary of State considers appropriate in consequenceof this Act.",
+                                            "tokenCum": 2551,
+                                            "wordSum": 24,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The power conferred by subsection (1) includes power\u2014",
+                                            "tokenCum": 2564,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to make transitional, transitory or saving provision;",
+                                                    "tokenCum": 2575,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to amend, repeal or revoke any provision of primary legislation orsecondary legislation which is passed or made before this Act or in the sameSession as this Act.",
+                                                    "tokenCum": 2612,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 72,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A statutory instrument containing (whether alone or with other provision)regulations under subsection (1) which amend, repeal or revoke any provisionof primary legislation may not be made unless a draft of the instrument hasbeen laid before, and approved by a resolution of, each House of Parliament.",
+                                            "tokenCum": 2678,
+                                            "wordSum": 45,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subject to that, a statutory instrument containing regulations undersubsection (1) is subject to annulment in pursuance of a resolution of eitherHouse of Parliament.",
+                                            "tokenCum": 2717,
+                                            "wordSum": 23,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 2721,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprimary legislation\u201d means\u2014 ",
+                                                    "tokenCum": 2731,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an Act of Parliament;",
+                                                    "tokenCum": 2731,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an Act of the Scottish Parliament;",
+                                                    "tokenCum": 2736,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a Measure or Act of the National Assembly for Wales;",
+                                                    "tokenCum": 2743,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "Northern Ireland legislation;",
+                                                    "tokenCum": 2755,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201csecondary legislation\u201d means an instrument made under primary legislation. ",
+                                                            "tokenCum": 2778,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        }
+                                                    ],
+                                                    "wordSum": 13,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 89,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 179,
+                                    "tokenSum": 321,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Transitional, transitory or saving provision",
+                                    "tokenCum": 2786,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "The Secretary of State may by regulations made by statutory instrument makesuch transitional, transitory or saving provision as the Secretary of Stateconsiders appropriate in connection with the coming into force of anyprovision of this Act.",
+                                            "tokenCum": 2833,
+                                            "wordSum": 35,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 60,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Extent, commencement and short title",
+                                    "tokenCum": 2842,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 1 to 4\u2014",
+                                            "tokenCum": 2850,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "extend to England and Wales, and Scotland, and",
+                                                    "tokenCum": 2860,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "come into force on such day as the Secretary of State may by regulationsmade by statutory instrument appoint.",
+                                                    "tokenCum": 2883,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 52,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The regulations may appoint different days for different purposes.",
+                                            "tokenCum": 2894,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Sections 5 and 6 and this section\u2014",
+                                            "tokenCum": 2905,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "extend to England and Wales, Scotland and Northern Ireland, and",
+                                                    "tokenCum": 2917,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "come into force on the day on which this Act is passed.",
+                                                    "tokenCum": 2930,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 47,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This Act may be cited as the Driving Instructors (Registration) Act 2016.",
+                                            "tokenCum": 2955,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 2955,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 12,
+                                            "tokenSum": 32,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 85,
+                                    "tokenSum": 156,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 306,
+                            "tokenSum": 541,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 1787,
+                    "tokenSum": 3311,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1810,
+            "tokenSum": 3409,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2016/16/enacted?view=plain",
+    "title": "Driving Instructors (Registration) Act 2016",
+    "longtitle": "An Act to make provision about the registration of driving instructors. ",
+    "date": "[12th May 2016]",
+    "wordSum": 1810,
+    "tokenSum": 3410,
+    "tokenCount": 0,
+    "totalTokens": 3410
+}

@@ -1,0 +1,346 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2013/8/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Mental Health (Discrimination) Act 2013",
+                    "tokenCum": 58,
+                    "wordSum": 5,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2013 CHAPTER 8",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make further provision about discrimination against people on thegrounds of their mental health.",
+                            "tokenCum": 87,
+                            "wordSum": 16,
+                            "tokenSum": 22,
+                            "tokenCount": 22
+                        }
+                    ],
+                    "wordSum": 19,
+                    "tokenSum": 31,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[28th February 2013]",
+                    "tokenCum": 98,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 155,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Members of Parliament etc.",
+                            "tokenCum": 161,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Section 141 of the Mental Health Act 1983 (disqualification of MPs andmembers of devolved bodies on grounds of mental illness) is repealed.",
+                                    "tokenCum": 202,
+                                    "wordSum": 22,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Any rule of the common law which disqualifies a person from membership ofthe House of Commons on grounds of mental illness is abolished.",
+                                    "tokenCum": 231,
+                                    "wordSum": 23,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Schedule (which includes amendments and repeals consequential onsubsection (1)) has effect.",
+                                    "tokenCum": 253,
+                                    "wordSum": 12,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                }
+                            ],
+                            "wordSum": 61,
+                            "tokenSum": 105,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Jurors ",
+                            "tokenCum": 256,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In section 1 of the Juries Act 1974 (qualification for jury service)\u2014",
+                                    "tokenCum": 279,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in subsection (1), omit paragraph (c) (but not the \u201cand\u201d after it),",
+                                            "tokenCum": 301,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "omit subsection (2), and",
+                                            "tokenCum": 309,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in subsection (3), for \u201cPart 2 of that Schedule\u201d substitute \u201cSchedule 1\u201d.",
+                                            "tokenCum": 332,
+                                            "wordSum": 12,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 87,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In Schedule 1 to that Act (the title to which becomes \u201cPersons Disqualifiedfor Jury Service\u201d, with the title to Part 1 becoming \u201cPersons subject toMental Health Act 1983 or Mental Capacity Act 2005\u201d and the title to Part 2becoming \u201cOther Persons Disqualified for Jury Service\u201d), for paragraph 1substitute\u2014",
+                                    "tokenCum": 420,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c1A person for the time being liable to be detained under the Mental HealthAct 1983.",
+                                            "tokenCum": 446,
+                                            "wordSum": 15,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 119,
+                                    "tokenCount": 89
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "1AA person for the time being resident in a hospital on account of mentaldisorder as defined by the Mental Health Act 1983.\u201d",
+                                    "tokenCum": 478,
+                                    "wordSum": 22,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 126,
+                            "tokenSum": 244,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Company directors",
+                            "tokenCum": 481,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In the Companies (Model Articles) Regulations 2008 ([S.I.2008/3229](/id/uksi/2008/3229?view=plain \"Go to item of legislation\")), omitthe following provisions (model articles of association: termination ofdirector\u2019s appointment on grounds of mental health)\u2014",
+                                    "tokenCum": 566,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in Schedule 1, paragraph 18(e),",
+                                            "tokenCum": 579,
+                                            "wordSum": 5,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in Schedule 2, paragraph 18(e), and",
+                                            "tokenCum": 593,
+                                            "wordSum": 6,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "in Schedule 3, paragraph 22(e).",
+                                            "tokenCum": 606,
+                                            "wordSum": 5,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 136,
+                                    "tokenCount": 86
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In the RTM Companies (Model Articles) (England) Regulations 2009 ([S.I.2009/2767](/id/uksi/2009/2767?view=plain \"Go to item of legislation\")), in theSchedule, omit paragraph 23(e) (model articles of association: termination ofdirector\u2019s appointment on grounds of mental health).",
+                                    "tokenCum": 704,
+                                    "wordSum": 32,
+                                    "tokenSum": 100,
+                                    "tokenCount": 100
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In the RTM Companies (Model Articles) (Wales) Regulations 2011 ([S.I.2011/2680](/id/uksi/2011/2680?view=plain \"Go to item of legislation\")), omitthe following provisions (model articles of association: termination ofdirector\u2019s appointment on grounds of mental health)\u2014",
+                                    "tokenCum": 795,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in Schedule 1, paragraph 23(e), and",
+                                            "tokenCum": 809,
+                                            "wordSum": 6,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in Schedule 2, paragraph 23(d).",
+                                            "tokenCum": 822,
+                                            "wordSum": 5,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 126,
+                                    "tokenCount": 92
+                                }
+                            ],
+                            "wordSum": 119,
+                            "tokenSum": 366,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Commencement, extent and short title",
+                            "tokenCum": 830,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Sections 1 and 3 come into force at the end of two months beginning withthe day on which this Act is passed.",
+                                    "tokenCum": 857,
+                                    "wordSum": 22,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 2 comes into force on such day as the Secretary of State may byorder made by statutory instrument appoint; and an order under this subsectionmay include savings or transitional provisions.",
+                                    "tokenCum": 899,
+                                    "wordSum": 31,
+                                    "tokenSum": 44,
+                                    "tokenCount": 44
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "An amendment, repeal or revocation made by this Act has the same extent asthe provision amended, repealed or revoked.",
+                                    "tokenCum": 929,
+                                    "wordSum": 19,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The other provisions of this Act extend to England and Wales, Scotland andNorthern Ireland.",
+                                    "tokenCum": 949,
+                                    "wordSum": 14,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "This Act may be cited as the Mental Health (Discrimination) Act 2013.",
+                                    "tokenCum": 973,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 1",
+                                            "tokenCum": 976,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 32,
+                                    "tokenCount": 25
+                                }
+                            ],
+                            "wordSum": 105,
+                            "tokenSum": 168,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 447,
+                    "tokenSum": 941,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 475,
+            "tokenSum": 1044,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2013/8/enacted?view=plain",
+    "title": "Mental Health (Discrimination) Act 2013",
+    "longtitle": "An Act to make further provision about discrimination against people on the grounds of their mental health.",
+    "date": "[28th February 2013]",
+    "wordSum": 475,
+    "tokenSum": 1045,
+    "tokenCount": 0,
+    "totalTokens": 1045
+}

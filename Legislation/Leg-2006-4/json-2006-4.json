@@ -1,0 +1,773 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2006/4/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Terrorism (Northern Ireland) Act 2006",
+                    "tokenCum": 58,
+                    "wordSum": 5,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2006 CHAPTER 4",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to provide for Part 7 of the Terrorism Act 2000 to continue in forcefor a limited period after 18th February 2006 subject to modifications and toauthorise the making of provision in connection with its ceasing to haveeffect; and for connected purposes.",
+                            "tokenCum": 130,
+                            "wordSum": 43,
+                            "tokenSum": 65,
+                            "tokenCount": 65
+                        }
+                    ],
+                    "wordSum": 46,
+                    "tokenSum": 74,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th February 2006]",
+                    "tokenCum": 141,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 198,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Continuance in force of Part 7 of the Terrorism Act 2000",
+                            "tokenCum": 218,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies to the provisions of Part 7 of the Terrorism Act [2000(c. 11)](/id/ukpga/2000/11?view=plain \"Go to item of legislation\") (terrorismprovisions applying to Northern Ireland), so far as they are in force on 18thFebruary 2006 but with the exception (if in force on that date) of section 78(sentencing of children convicted of scheduled offences).",
+                                    "tokenCum": 334,
+                                    "wordSum": 54,
+                                    "tokenSum": 118,
+                                    "tokenCount": 118
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The provisions to which this section applies\u2014",
+                                    "tokenCum": 343,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "shall continue in force after 18th February 2006; but",
+                                            "tokenCum": 360,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "so far as they have not previously ceased to have effect by virtue of anorder under section 112(2) of that Act (and subject to subsection (3) of thissection), shall cease to have effect as from the end of 31st July 2007.",
+                                            "tokenCum": 423,
+                                            "wordSum": 41,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 97,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State may by order provide that any of those provisionswhich is in force shall continue in force after that date for a specifiedperiod ending before 1st August 2008.",
+                                    "tokenCum": 464,
+                                    "wordSum": 31,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "In section 112(2)(c) of that Act (revival of provisions), at the end insert\u201cand ending before 1st August 2007\u201d.",
+                                    "tokenCum": 503,
+                                    "wordSum": 18,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In section 11(4)(a) of the Justice (Northern Ireland) Act [2004 (c.4)](/id/ukpga/2004/4?view=plain \"Go to item of legislation\") (expiry on 19thFebruary 2006 of provisions relating to bail under section 67 of the TerrorismAct 2000), for \u201con 19th February 2006\u201d substitute \u201cas from the end of 31stJuly 2007\u201d.",
+                                    "tokenCum": 632,
+                                    "wordSum": 45,
+                                    "tokenSum": 131,
+                                    "tokenCount": 131
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "An order under subsection (3) may\u2014",
+                                    "tokenCum": 642,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "amend section 112(2)(c) of the Terrorism Act [2000 (c.11)](/id/ukpga/2000/11?view=plain \"Go to item of legislation\") and section11(4)(a) of the Justice (Northern Ireland) Act [2004 (c.4)](/id/ukpga/2004/4?view=plain \"Go to item of legislation\") by, in each case,substituting \u201c2008\u201d for \u201c2007\u201d;",
+                                            "tokenCum": 774,
+                                            "wordSum": 36,
+                                            "tokenSum": 135,
+                                            "tokenCount": 135
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make different provision for different purposes; and",
+                                            "tokenCum": 782,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "contain savings and make transitional or transitory provision.",
+                                            "tokenCum": 794,
+                                            "wordSum": 8,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 173,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The power to make an order under subsection (3) is exercisable by statutoryinstrument.",
+                                    "tokenCum": 817,
+                                    "wordSum": 13,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "No order may be made under subsection (3) unless a draft of it has beenlaid before Parliament and approved by a resolution of each House.",
+                                    "tokenCum": 848,
+                                    "wordSum": 25,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "Paragraph 37 of Schedule 4 to the Terrorism Act 2000 (offence ofcontravening restraint order) shall be treated for the purposes of thissection as forming part of Part 7 of that Act.",
+                                    "tokenCum": 900,
+                                    "wordSum": 31,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                }
+                            ],
+                            "wordSum": 342,
+                            "tokenSum": 736,
+                            "tokenCount": 20
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Repeal of provisions of Part 7",
+                            "tokenCum": 910,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Neither\u2014 ",
+                                    "tokenCum": 914,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the power under section 112(2)(c) of the Terrorism Act 2000 to bring intoforce provisions of Part 7 that are not in force, nor",
+                                            "tokenCum": 955,
+                                            "wordSum": 23,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the power under section 1(3) of this Act to continue in force provisions ofthat Part,",
+                                            "tokenCum": 977,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "shall apply to the provisions of that Act specified in subsection (2) of thissection.",
+                                                    "tokenCum": 997,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 99,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Those provisions are\u2014",
+                                    "tokenCum": 1002,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 67(3) and (4) (discretion to admit to bail);",
+                                            "tokenCum": 1023,
+                                            "wordSum": 9,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "sections 70 and 71 (remand in custody of young persons charged withscheduled offences);",
+                                            "tokenCum": 1047,
+                                            "wordSum": 13,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "section 76 (admissions in trials on indictment);",
+                                            "tokenCum": 1063,
+                                            "wordSum": 7,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "section 78 (sentencing of children convicted of scheduled offences);",
+                                            "tokenCum": 1079,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "section 97 (port and border controls);",
+                                            "tokenCum": 1089,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "section 100 (code of practice for video recording);",
+                                            "tokenCum": 1102,
+                                            "wordSum": 8,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "paragraph 36 of Schedule 4 (power of Secretary of State to make restraintorder); and",
+                                            "tokenCum": 1124,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(h)",
+                                            "text": "paragraphs 19 to 21 of Schedule 5 (powers of Secretary to confer powers ofsearch, to require information, etc.).",
+                                            "tokenCum": 1155,
+                                            "wordSum": 18,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 87,
+                                    "tokenSum": 184,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For section 112(5) of that Act substitute\u2014",
+                                    "tokenCum": 1169,
+                                    "wordSum": 7,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "\u201c(5)",
+                                    "text": "Paragraph 37 of Schedule 4 to this Act shall be treated for the purposesof this section as forming part of this Part of this Act.\u201d",
+                                    "tokenCum": 1201,
+                                    "wordSum": 25,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 178,
+                            "tokenSum": 344,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Scheduled offences",
+                            "tokenCum": 1205,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In Part 1 of Schedule 9 to the Terrorism Act 2000 (scheduled offences)\u2014",
+                                    "tokenCum": 1232,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "omit \u201csubject to note 1 below\u201d, wherever occurring, and in note 1 \u201cwhich isstated to be subject to this note\u201d (which limit the listed offences that maybe certified in particular cases as to be treated as if not scheduled);",
+                                            "tokenCum": 1286,
+                                            "wordSum": 39,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "omit the words in note 2 after \u201c1983\u201d (under which blackmail cannot becertified where it is committed by or in relation to nuclear material); and",
+                                            "tokenCum": 1323,
+                                            "wordSum": 25,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "insert after note 4\u2014",
+                                            "tokenCum": 1329,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c5Notes 2 to 4 are subject to note 1.\u201d",
+                                                    "tokenCum": 1345,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 90,
+                                    "tokenSum": 155,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In paragraph 10 of that Part of that Schedule\u2014",
+                                    "tokenCum": 1358,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "at the beginning insert \u201cSubject to notes 2 and 3 below,\u201d; and",
+                                            "tokenCum": 1375,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in each place where they occur, omit \u201csubject to note 2 below\u201d, \u201csubject tonotes 1 and 3 below\u201d and \u201csubject to notes 1 and 2 below\u201d.",
+                                            "tokenCum": 1415,
+                                            "wordSum": 26,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 78,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "After paragraph 22A of that Part of that Schedule insert\u2014",
+                                    "tokenCum": 1430,
+                                    "wordSum": 10,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201cPrevention of Terrorism Act 2005",
+                                    "tokenCum": 1443,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "22BOffences under section 9 of the Prevention of Terrorism Act 2005(contravention of control order obligations and obstruction of persons servingcontrol order).\u201d",
+                                            "tokenCum": 1485,
+                                            "wordSum": 21,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An offence is a scheduled offence by virtue of this section only if\u2014",
+                                            "tokenCum": 1501,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the offence is charged as having been committed on, after or on or after aparticular date; and",
+                                                    "tokenCum": 1522,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "that date is after 18th February 2006.",
+                                                    "tokenCum": 1537,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 63,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the purposes of subsection (4) an offence charged as having beencommitted between two different dates is to be treated as charged as havingbeen committed on or after the earlier of those dates.",
+                                            "tokenCum": 1579,
+                                            "wordSum": 33,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 96,
+                                    "tokenSum": 168,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 245,
+                            "tokenSum": 423,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Transitional provision in connection with expiry etc. of Part 7 of 2000Act",
+                            "tokenCum": 1600,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State may by order make\u2014",
+                                    "tokenCum": 1609,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "such transitional provision,",
+                                            "tokenCum": 1614,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "such provision for savings, and",
+                                            "tokenCum": 1621,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "such consequential amendments and repeals of enactments referring toprovisions in Part 7 of the Terrorism Act [2000 (c.11)](/id/ukpga/2000/11?view=plain \"Go to item of legislation\"),",
+                                            "tokenCum": 1686,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "as he considers appropriate in connection with provisions of that Part ceasingto have effect at any time by virtue of provision made by or under section 1of this Act or section 112 of that Act.",
+                                                    "tokenCum": 1731,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 49,
+                                                    "tokenCount": 49
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 117,
+                                            "tokenCount": 67
+                                        }
+                                    ],
+                                    "wordSum": 74,
+                                    "tokenSum": 146,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The provision that may be made by an order under this section in relationto times after provisions of Part 7 of the Terrorism Act 2000 cease to haveeffect includes\u2014",
+                                    "tokenCum": 1772,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "provision authorising the retention of anything of which possession hasbeen taken, or which is detained, under that Part;",
+                                            "tokenCum": 1798,
+                                            "wordSum": 18,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "provision about the handling, disposal or restoration of anything inrelation to which powers have been exercised under that Part (includingprovision for the return of property to a person determined in accordance withthe order or for its disposal in any other manner so determined);",
+                                            "tokenCum": 1853,
+                                            "wordSum": 43,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "provision authorising the continuance of any interference begun undersection 91 of that Act (taking possession of land etc.);",
+                                            "tokenCum": 1881,
+                                            "wordSum": 18,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "provision for section 93 of that Act (offence and other supplementaryprovisions) to continue to have effect in relation to things continued orsaved by virtue of paragraph (c) of this subsection, and in relation to thingsexecuted or used in connection with anything so continued or saved;",
+                                            "tokenCum": 1945,
+                                            "wordSum": 45,
+                                            "tokenSum": 67,
+                                            "tokenCount": 67
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "provision authorising the continuance of any closure or diversion undersection 94 of that Act (directions for road closures and diversions) and forthe continuance in force, in relation to anything continued or saved by virtueof this paragraph, of the provisions of that section relating to offences;",
+                                            "tokenCum": 2010,
+                                            "wordSum": 45,
+                                            "tokenSum": 68,
+                                            "tokenCount": 68
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "provision applying provisions of Schedule 12 to that Act (compensation) tocases in which applications for compensation have been or are made in relationto things done before provisions of Part 7 of that Act cease to have effect orin relation to things done afterwards by virtue of an order under thissection;",
+                                            "tokenCum": 2077,
+                                            "wordSum": 50,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "provision for section 113 of that Act (transitional effect) to have effect,notwithstanding its inclusion in Part 7 of that Act, in relation to timesafter that Part has ceased to have effect; and",
+                                            "tokenCum": 2123,
+                                            "wordSum": 32,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(h)",
+                                            "text": "provision disapplying or modifying provisions of that section.",
+                                            "tokenCum": 2134,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 288,
+                                    "tokenSum": 429,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "An order under this section may\u2014",
+                                    "tokenCum": 2141,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "include such incidental and supplementary provision as the Secretary ofState thinks fit; and",
+                                            "tokenCum": 2159,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make different provision for different cases.",
+                                            "tokenCum": 2166,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 40,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The power to make an order under this section is exercisable by statutoryinstrument.",
+                                    "tokenCum": 2186,
+                                    "wordSum": 13,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "No order may be made under this section unless a draft of it has been laidbefore Parliament and approved by a resolution of each House.",
+                                    "tokenCum": 2213,
+                                    "wordSum": 25,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                }
+                            ],
+                            "wordSum": 437,
+                            "tokenSum": 688,
+                            "tokenCount": 21
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Short title, repeals, commencement and extent",
+                            "tokenCum": 2224,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Terrorism (Northern Ireland) Act 2006.",
+                                    "tokenCum": 2248,
+                                    "wordSum": 12,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The enactments and instruments in the first column of the Schedule arerepealed or revoked to the extent set out in the second column.",
+                                    "tokenCum": 2279,
+                                    "wordSum": 23,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act comes into force at the end of 18th February 2006.",
+                                    "tokenCum": 2299,
+                                    "wordSum": 12,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act extends only to Northern Ireland.",
+                                    "tokenCum": 2307,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Section 5",
+                                            "tokenCum": 2310,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 9,
+                                    "tokenSum": 16,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 62,
+                            "tokenSum": 109,
+                            "tokenCount": 11
+                        }
+                    ],
+                    "wordSum": 1300,
+                    "tokenSum": 2358,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1355,
+            "tokenSum": 2504,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2006/4/enacted?view=plain",
+    "title": "Terrorism (Northern Ireland) Act 2006",
+    "longtitle": "An Act to provide for Part 7 of the Terrorism Act 2000 to continue in force for a limited period after 18th February 2006 subject to modifications and to authorise the making of provision in connection with its ceasing to have effect; and for connected purposes.",
+    "date": "[16th February 2006]",
+    "wordSum": 1355,
+    "tokenSum": 2505,
+    "tokenCount": 0,
+    "totalTokens": 2505
+}

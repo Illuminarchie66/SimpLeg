@@ -1,0 +1,615 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2015/13/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Mutuals\u2019 Deferred Shares Act 2015",
+                    "tokenCum": 57,
+                    "wordSum": 5,
+                    "tokenSum": 14,
+                    "tokenCount": 13
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2015 CHAPTER 13",
+                    "tokenCum": 66,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to enable the law relating to societies registered and incorporatedunder the Friendly Societies Act 1992 and certain mutual insurers to beamended to permit or facilitate the issue of deferred shares; and to restrictthe voting rights of members who hold such shares.",
+                            "tokenCum": 130,
+                            "wordSum": 43,
+                            "tokenSum": 65,
+                            "tokenCount": 65
+                        }
+                    ],
+                    "wordSum": 46,
+                    "tokenSum": 75,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2015]",
+                    "tokenCum": 141,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 198,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Power to permit or facilitate the issue of deferred shares",
+                            "tokenCum": 210,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Treasury may by regulations make provision to permit or facilitate theissue of deferred shares by a friendly society or mutual insurer.",
+                                    "tokenCum": 241,
+                                    "wordSum": 22,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "\u201cDeferred shares\u201d are instruments that\u2014",
+                                    "tokenCum": 250,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "are issued by a friendly society or mutual insurer (\u201cthe issuer\u201d) with theconsent of the appropriate authority,",
+                                            "tokenCum": 277,
+                                            "wordSum": 17,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "can be transferred but not withdrawn,",
+                                            "tokenCum": 286,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "prohibit repayment of principal other than\u2014",
+                                            "tokenCum": 296,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "on the winding up or dissolution of the issuer where all other sums duefrom the issuer to creditors claiming in the winding up or dissolution arepaid in full, or",
+                                            "tokenCum": 337,
+                                            "wordSum": 29,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "where the appropriate authority has consented to the repayment, and",
+                                            "tokenCum": 351,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "have such characteristics as are specified in regulations made by theTreasury under this paragraph.",
+                                            "tokenCum": 370,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 87,
+                                    "tokenSum": 149,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations under subsection (1) may modify any of the following\u2014",
+                                    "tokenCum": 385,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Friendly Societies Act 1992 (as amended from time to time);",
+                                            "tokenCum": 405,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Companies Act 2006 (as amended from time to time);",
+                                            "tokenCum": 424,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "any other primary legislation relating to friendly societies or mutualinsurers (whenever passed);",
+                                            "tokenCum": 446,
+                                            "wordSum": 12,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "any instrument made under the legislation mentioned in any of paragraphs(a) to (c) (whenever made).",
+                                            "tokenCum": 471,
+                                            "wordSum": 15,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 58,
+                                    "tokenSum": 115,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Regulations under subsection (1)\u2014",
+                                    "tokenCum": 480,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "may not make provision that would permit or facilitate the issue ofdeferred shares by a friendly society or mutual insurer where it is notauthorised to do so by its memorandum, rules or constitution;",
+                                            "tokenCum": 524,
+                                            "wordSum": 33,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "may make consequential, supplementary, incidental, transitional or savingprovision;",
+                                            "tokenCum": 543,
+                                            "wordSum": 8,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "may make different provision for different purposes.",
+                                            "tokenCum": 551,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 52,
+                                    "tokenSum": 91,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A deferred share issued by virtue of regulations made under subsection (1)is not a share within the meaning of the Companies Acts.",
+                                    "tokenCum": 583,
+                                    "wordSum": 22,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "The power to make regulations under this section is exercisable bystatutory instrument.",
+                                    "tokenCum": 602,
+                                    "wordSum": 12,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "A statutory instrument containing regulations under this section may not bemade unless a draft of it has been laid before and approved by a resolution ofeach House of Parliament.",
+                                    "tokenCum": 637,
+                                    "wordSum": 29,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                }
+                            ],
+                            "wordSum": 292,
+                            "tokenSum": 493,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Restriction on voting rights",
+                            "tokenCum": 642,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Regulations under section 1(1) must make provision to ensure that nofriendly society or mutual insurer will confer\u2014",
+                                    "tokenCum": 669,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "more than one vote per person as a member on holders of deferred shares whoare members of the society or insurer by virtue only of being such a holder;",
+                                            "tokenCum": 703,
+                                            "wordSum": 29,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "additional voting rights on a member of the society or insurer by virtue ofbeing a holder of a deferred share where the member is a member other than byvirtue of being such a holder.",
+                                            "tokenCum": 744,
+                                            "wordSum": 34,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        }
+                                    ],
+                                    "wordSum": 80,
+                                    "tokenSum": 110,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Regulations under section 1(1) must make provision prohibiting the holderof a deferred share who is a member of a friendly society or mutual insurer byvirtue only of being such a holder from proposing or voting in respect of anyof the following\u2014",
+                                    "tokenCum": 800,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a resolution under section 85, 86 or 91 of the Friendly Societies Act 1992(amalgamation, transfer of engagements or conversions);",
+                                            "tokenCum": 841,
+                                            "wordSum": 19,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a resolution to similar effect in the case of a mutual insurer, including acompromise or arrangement proposed at a meeting called under section 896 ofthe Companies Act 2006 (court order for holding of meeting);",
+                                            "tokenCum": 893,
+                                            "wordSum": 34,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "an arrangement made in pursuance of section 110 of the Insolvency Act 1986(acceptance of shares etc as consideration for sale of company property) orArticle 96 of the [Insolvency (Northern Ireland) Order 1989 (S.I. 1989 / 2405(N.I. 19))](/id/nisi/1989/2405?view=plain \"Go to item of legislation\");",
+                                            "tokenCum": 1009,
+                                            "wordSum": 42,
+                                            "tokenSum": 119,
+                                            "tokenCount": 119
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "such other matters as the regulations may specify.",
+                                            "tokenCum": 1019,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 144,
+                                    "tokenSum": 289,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "References in this section to the holder of a deferred share are to theholder of a deferred share issued by virtue of regulations made under section1(1).",
+                                    "tokenCum": 1053,
+                                    "wordSum": 26,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                }
+                            ],
+                            "wordSum": 254,
+                            "tokenSum": 441,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Definitions ",
+                            "tokenCum": 1057,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1061,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cthe appropriate authority\u201d means\u2014 ",
+                                            "tokenCum": 1071,
+                                            "wordSum": 5,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to a friendly society or mutual insurer which is authorised by thePrudential Regulation Authority, the Prudential Regulation Authority; and",
+                                            "tokenCum": 1071,
+                                            "wordSum": 21,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in relation to a friendly society or mutual insurer which is not authorised bythe Prudential Regulation Authority, the Financial Conduct Authority;",
+                                            "tokenCum": 1106,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Companies Acts\u201d has the same meaning as in the Companies Act 2006; ",
+                                                    "tokenCum": 1169,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cfriendly society\u201d means a friendly society registered and incorporated under the Friendly Societies Act 1992; ",
+                                                    "tokenCum": 1198,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cmodify\u201d includes amend, repeal or revoke; ",
+                                                    "tokenCum": 1215,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cmutual insurer\u201d means a body corporate that\u2014 ",
+                                                    "tokenCum": 1231,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 144,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "is a mutual undertaking that\u2014",
+                                            "tokenCum": 1231,
+                                            "wordSum": 5,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "is neither a friendly society nor a registered society within the meaning ofthe Co-operative and Community Benefit Societies Act 2014, and",
+                                            "tokenCum": 1239,
+                                            "wordSum": 21,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "is of such description as the Treasury may specify by regulations,",
+                                            "tokenCum": 1272,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "has no share capital, and",
+                                            "tokenCum": 1287,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "has permission to effect or carry out contracts of insurance under Part 4A ofthe Financial Services and Markets Act 2000;",
+                                            "tokenCum": 1293,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cprimary legislation\u201d means\u2014 ",
+                                                    "tokenCum": 1336,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 50,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an Act of Parliament,",
+                                            "tokenCum": 1336,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an Act of the Scottish Parliament,",
+                                            "tokenCum": 1341,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "an Act or Measure of the National Assembly for Wales, or",
+                                            "tokenCum": 1348,
+                                            "wordSum": 11,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "Northern Ireland legislation.",
+                                            "tokenCum": 1361,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 185,
+                                    "tokenSum": 367,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The power to make regulations conferred by paragraph (a)(ii) of thedefinition of \u201cmutual insurer\u201d is exercisable by statutory instrument.",
+                                    "tokenCum": 1401,
+                                    "wordSum": 19,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A statutory instrument containing them is subject to annulment in pursuanceof a resolution of either House of Parliament.",
+                                    "tokenCum": 1427,
+                                    "wordSum": 18,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                }
+                            ],
+                            "wordSum": 223,
+                            "tokenSum": 437,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1435,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Mutuals\u2019 Deferred Shares Act 2015.",
+                                    "tokenCum": 1457,
+                                    "wordSum": 12,
+                                    "tokenSum": 24,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act shall come into force on such day as the Treasury may byregulations made by statutory instrument appoint, and different days may beappointed for different purposes.",
+                                    "tokenCum": 1495,
+                                    "wordSum": 27,
+                                    "tokenSum": 40,
+                                    "tokenCount": 40
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act extends to the whole of the United Kingdom.",
+                                    "tokenCum": 1506,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1506,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 10,
+                                    "tokenSum": 16,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 54,
+                            "tokenSum": 89,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 859,
+                    "tokenSum": 1518,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 914,
+            "tokenSum": 1664,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2015/13/enacted?view=plain",
+    "title": "Mutuals\u2019 Deferred Shares Act 2015",
+    "longtitle": "An Act to enable the law relating to societies registered and incorporated under the Friendly Societies Act 1992 and certain mutual insurers to be amended to permit or facilitate the issue of deferred shares; and to restrict the voting rights of members who hold such shares.",
+    "date": "[26th March 2015]",
+    "wordSum": 914,
+    "tokenSum": 1665,
+    "tokenCount": 0,
+    "totalTokens": 1665
+}

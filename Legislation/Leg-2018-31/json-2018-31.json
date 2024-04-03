@@ -1,0 +1,561 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2018/31/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Health and Social Care (National Data Guardian) Act 2018",
+                    "tokenCum": 59,
+                    "wordSum": 9,
+                    "tokenSum": 16,
+                    "tokenCount": 15
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2018 CHAPTER 31",
+                    "tokenCum": 68,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to establish, and make provision about, the National Data Guardian forHealth and Social Care; and for connected purposes.",
+                            "tokenCum": 94,
+                            "wordSum": 20,
+                            "tokenSum": 27,
+                            "tokenCount": 27
+                        }
+                    ],
+                    "wordSum": 23,
+                    "tokenSum": 37,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[20th December 2018]",
+                    "tokenCum": 105,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 162,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "National Data Guardian for Health and Social Care",
+                            "tokenCum": 170,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must appoint an individual to hold office as theNational Data Guardian for Health and Social Care (in this Act, \u201cthe DataGuardian\u201d).",
+                                    "tokenCum": 204,
+                                    "wordSum": 25,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The Data Guardian may publish guidance about the processing of health andadult social care data in England.",
+                                    "tokenCum": 224,
+                                    "wordSum": 17,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The following must have regard to such guidance\u2014",
+                                    "tokenCum": 233,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "a public body exercising functions that relate to the health service, adultsocial care or adult carer support in England;",
+                                            "tokenCum": 258,
+                                            "wordSum": 19,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "a person (other than a public body) providing\u2014",
+                                            "tokenCum": 269,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "services as part of the health service,",
+                                            "tokenCum": 277,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "adult social care, or",
+                                            "tokenCum": 282,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "adult carer support,",
+                                            "tokenCum": 287,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "pursuant to arrangements with a public body falling within paragraph (a).",
+                                                    "tokenCum": 303,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 14,
+                                            "tokenSum": 28,
+                                            "tokenCount": 7
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 100,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Data Guardian must keep under review any guidance that has beenpublished and has effect.",
+                                    "tokenCum": 321,
+                                    "wordSum": 15,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Data Guardian may revise any guidance as the Data Guardian considersappropriate, but if any guidance is revised, the guidance must be published asrevised.",
+                                    "tokenCum": 356,
+                                    "wordSum": 24,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Before publishing any guidance, the Data Guardian must consult such personsas the Data Guardian considers appropriate.",
+                                    "tokenCum": 376,
+                                    "wordSum": 16,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Data Guardian may give advice and information about, and assistance inrelation to, the processing of health and adult social care data in England.",
+                                    "tokenCum": 404,
+                                    "wordSum": 24,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The power to publish guidance or to give advice, information and assistancemay (as well as being exercised in relation to all cases to which it extends)be exercised in relation to\u2014",
+                                    "tokenCum": 444,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "those cases subject to specified exceptions, or",
+                                            "tokenCum": 452,
+                                            "wordSum": 7,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "particular cases or classes of case.",
+                                            "tokenCum": 459,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 63,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "Nothing in subsection (3) requires a public body or person to have regardto guidance that is not relevant to the functions of the body or theactivities of the person that are mentioned in that subsection.",
+                                    "tokenCum": 502,
+                                    "wordSum": 35,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "Schedule 1 makes further provision about the Data Guardian.",
+                                    "tokenCum": 514,
+                                    "wordSum": 9,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 276,
+                            "tokenSum": 398,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Interpretation ",
+                            "tokenCum": 518,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies for the purposes of section 1 and this section.",
+                                    "tokenCum": 532,
+                                    "wordSum": 12,
+                                    "tokenSum": 16,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "\u201cAdult carer support\u201d means support provided to a carer under Part 1 of theCare Act 2014.",
+                                    "tokenCum": 561,
+                                    "wordSum": 16,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "\u201cAdult social care\u201d\u2014",
+                                    "tokenCum": 568,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "includes all forms of personal care and other practical assistance providedfor individuals aged 18 or over who, by reason of age, illness, disability,pregnancy, childbirth, dependence on alcohol or drugs, or any other similarcircumstances, are in need of such care or other assistance;",
+                                            "tokenCum": 635,
+                                            "wordSum": 42,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "does not include anything provided\u2014",
+                                            "tokenCum": 641,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "by virtue of any of sections 23C to 24D of the Children Act 1989;",
+                                            "tokenCum": 666,
+                                            "wordSum": 14,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "by an establishment or agency for which Her Majesty\u2019s Chief Inspector ofEducation, Children\u2019s Services and Skills is the registration authority undersection 5 of the Care Standards Act 2000;",
+                                            "tokenCum": 713,
+                                            "wordSum": 28,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "by virtue of section 3 of the Adoption and Children Act 2002.",
+                                            "tokenCum": 733,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 104,
+                                    "tokenSum": 189,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "\u201cCarer\u201d has the meaning given in section 10 of the Care Act 2014.",
+                                    "tokenCum": 756,
+                                    "wordSum": 13,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "\u201cThe health service\u201d means the health service continued under section 1(1)of the National Health Service Act 2006.",
+                                    "tokenCum": 785,
+                                    "wordSum": 17,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "\u201cHealth and adult social care data\u201d means information (however recorded)that\u2014",
+                                    "tokenCum": 803,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "relates to\u2014",
+                                            "tokenCum": 807,
+                                            "wordSum": 2,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the physical or mental health or condition of an individual, the diagnosisof his or her condition or his or her care or treatment;",
+                                            "tokenCum": 834,
+                                            "wordSum": 23,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "adult social care provided to an individual (or an assessment for suchcare);",
+                                            "tokenCum": 850,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(iii)",
+                                            "text": "adult carer support provided to an individual (or an assessment for suchsupport),",
+                                            "tokenCum": 867,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "whether or not the identity of the individual is ascertainable, or",
+                                                    "tokenCum": 881,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 23,
+                                            "tokenSum": 38,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "is to any extent derived, directly or indirectly, from such information.",
+                                            "tokenCum": 896,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 81,
+                                    "tokenSum": 132,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "\u201cProcessing\u201d has the meaning given in section 1(1) of the Data ProtectionAct 1998.",
+                                    "tokenCum": 923,
+                                    "wordSum": 13,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "\u201cPublic body\u201d means a body or other person whose functions\u2014",
+                                    "tokenCum": 936,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "are of a public nature, or",
+                                            "tokenCum": 943,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "include functions of that nature,",
+                                            "tokenCum": 949,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "but in the case of paragraph (b), the body or person is a public body to theextent only of those functions.",
+                                            "tokenCum": 975,
+                                            "wordSum": 21,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 63,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 299,
+                            "tokenSum": 521,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Consequential amendments",
+                            "tokenCum": 981,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Schedule 2 contains amendments that are consequential on this Act.",
+                                    "tokenCum": 997,
+                                    "wordSum": 10,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 12,
+                            "tokenSum": 25,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Extent ",
+                            "tokenCum": 1000,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 1009,
+                                    "wordSum": 8,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 9,
+                            "tokenSum": 15,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Commencement ",
+                            "tokenCum": 1013,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act comes into force on such day as the Secretary of State may byregulations appoint.",
+                                    "tokenCum": 1032,
+                                    "wordSum": 16,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Regulations made under this section are to be made by statutory instrument.",
+                                    "tokenCum": 1048,
+                                    "wordSum": 12,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 29,
+                            "tokenSum": 44,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title",
+                            "tokenCum": 1050,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the Health and Social Care (National Data Guardian)Act 2018.",
+                                    "tokenCum": 1074,
+                                    "wordSum": 15,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 17,
+                            "tokenSum": 29,
+                            "tokenCount": 2
+                        }
+                    ],
+                    "wordSum": 678,
+                    "tokenSum": 1090,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 714,
+            "tokenSum": 1200,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2018/31/enacted?view=plain",
+    "title": "Health and Social Care (National Data Guardian) Act 2018",
+    "longtitle": "An Act to establish, and make provision about, the National Data Guardian for Health and Social Care; and for connected purposes.",
+    "date": "[20th December 2018]",
+    "wordSum": 714,
+    "tokenSum": 1201,
+    "tokenCount": 0,
+    "totalTokens": 1201
+}

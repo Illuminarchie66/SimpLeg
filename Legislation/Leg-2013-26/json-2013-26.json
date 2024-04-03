@@ -1,0 +1,2011 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2013/26/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Defamation Act 2013",
+                    "tokenCum": 53,
+                    "wordSum": 3,
+                    "tokenSum": 10,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2013 CHAPTER 26",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to amend the law of defamation.",
+                            "tokenCum": 74,
+                            "wordSum": 8,
+                            "tokenSum": 13,
+                            "tokenCount": 13
+                        }
+                    ],
+                    "wordSum": 11,
+                    "tokenSum": 23,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[25th April 2013]",
+                    "tokenCum": 85,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 142,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Requirement of serious harm",
+                            "tokenCum": 148,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Serious harm",
+                                    "tokenCum": 151,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A statement is not defamatory unless its publication has caused or islikely to cause serious harm to the reputation of the claimant.",
+                                            "tokenCum": 178,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For the purposes of this section, harm to the reputation of a body thattrades for profit is not \u201cserious harm\u201d unless it has caused or is likely tocause the body serious financial loss.",
+                                            "tokenCum": 220,
+                                            "wordSum": 33,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        }
+                                    ],
+                                    "wordSum": 57,
+                                    "tokenSum": 80,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 61,
+                            "tokenSum": 87,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Defences",
+                            "tokenCum": 222,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Truth ",
+                                    "tokenCum": 225,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is a defence to an action for defamation for the defendant to show thatthe imputation conveyed by the statement complained of is substantially true.",
+                                            "tokenCum": 259,
+                                            "wordSum": 25,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subsection (3) applies in an action for defamation if the statementcomplained of conveys two or more distinct imputations.",
+                                            "tokenCum": 290,
+                                            "wordSum": 18,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If one or more of the imputations is not shown to be substantially true,the defence under this section does not fail if, having regard to theimputations which are shown to be substantially true, the imputations whichare not shown to be substantially true do not seriously harm the claimant\u2019sreputation.",
+                                            "tokenCum": 359,
+                                            "wordSum": 48,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The common law defence of justification is abolished and, accordingly,section 5 of the Defamation Act 1952 (justification) is repealed.",
+                                            "tokenCum": 395,
+                                            "wordSum": 19,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 111,
+                                    "tokenSum": 187,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Honest opinion",
+                                    "tokenCum": 398,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is a defence to an action for defamation for the defendant to show thatthe following conditions are met.",
+                                            "tokenCum": 422,
+                                            "wordSum": 19,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The first condition is that the statement complained of was a statement ofopinion.",
+                                            "tokenCum": 440,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The second condition is that the statement complained of indicated, whetherin general or specific terms, the basis of the opinion.",
+                                            "tokenCum": 465,
+                                            "wordSum": 20,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The third condition is that an honest person could have held the opinion onthe basis of\u2014",
+                                            "tokenCum": 483,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any fact which existed at the time the statement complained of waspublished;",
+                                                    "tokenCum": 499,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "anything asserted to be a fact in a privileged statement published beforethe statement complained of.",
+                                                    "tokenCum": 520,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 66,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "The defence is defeated if the claimant shows that the defendant did nothold the opinion.",
+                                            "tokenCum": 539,
+                                            "wordSum": 15,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Subsection (5) does not apply in a case where the statement complained ofwas published by the defendant but made by another person (\u201cthe author\u201d); andin such a case the defence is defeated if the claimant shows that thedefendant knew or ought to have known that the author did not hold theopinion.",
+                                            "tokenCum": 608,
+                                            "wordSum": 51,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "For the purposes of subsection (4)(b) a statement is a \u201cprivilegedstatement\u201d if the person responsible for its publication would have one ormore of the following defences if an action for defamation were brought inrespect of it\u2014",
+                                            "tokenCum": 661,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a defence under section 4 (publication on matter of public interest);",
+                                                    "tokenCum": 676,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a defence under section 6 (peer-reviewed statement in scientific oracademic journal);",
+                                                    "tokenCum": 697,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "a defence under section 14 of the Defamation Act 1996 (reports of courtproceedings protected by absolute privilege);",
+                                                    "tokenCum": 729,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "a defence under section 15 of that Act (other reports protected byqualified privilege).",
+                                                    "tokenCum": 749,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 88,
+                                            "tokenSum": 160,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The common law defence of fair comment is abolished and, accordingly,section 6 of the Defamation Act 1952 (fair comment) is repealed.",
+                                            "tokenCum": 786,
+                                            "wordSum": 21,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 272,
+                                    "tokenSum": 441,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Publication on matter of public interest",
+                                    "tokenCum": 793,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "It is a defence to an action for defamation for the defendant to show that\u2014",
+                                            "tokenCum": 812,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the statement complained of was, or formed part of, a statement on a matterof public interest; and",
+                                                    "tokenCum": 834,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the defendant reasonably believed that publishing the statement complainedof was in the public interest.",
+                                                    "tokenCum": 853,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 71,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to subsections (3) and (4), in determining whether the defendanthas shown the matters mentioned in subsection (1), the court must have regardto all the circumstances of the case.",
+                                            "tokenCum": 896,
+                                            "wordSum": 29,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the statement complained of was, or formed part of, an accurate andimpartial account of a dispute to which the claimant was a party, the courtmust in determining whether it was reasonable for the defendant to believethat publishing the statement was in the public interest disregard anyomission of the defendant to take steps to verify the truth of the imputationconveyed by it.",
+                                            "tokenCum": 981,
+                                            "wordSum": 62,
+                                            "tokenSum": 88,
+                                            "tokenCount": 88
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In determining whether it was reasonable for the defendant to believe thatpublishing the statement complained of was in the public interest, the courtmust make such allowance for editorial judgement as it considers appropriate.",
+                                            "tokenCum": 1027,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For the avoidance of doubt, the defence under this section may be reliedupon irrespective of whether the statement complained of is a statement offact or a statement of opinion.",
+                                            "tokenCum": 1066,
+                                            "wordSum": 29,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "The common law defence known as the Reynolds defence is abolished.",
+                                            "tokenCum": 1080,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 216,
+                                    "tokenSum": 322,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Operators of websites",
+                                    "tokenCum": 1084,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where an action for defamation is brought against theoperator of a website in respect of a statement posted on the website.",
+                                            "tokenCum": 1112,
+                                            "wordSum": 24,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "It is a defence for the operator to show that it was not the operator whoposted the statement on the website.",
+                                            "tokenCum": 1137,
+                                            "wordSum": 21,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The defence is defeated if the claimant shows that\u2014",
+                                            "tokenCum": 1148,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it was not possible for the claimant to identify the person who posted thestatement,",
+                                                    "tokenCum": 1167,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the claimant gave the operator a notice of complaint in relation to thestatement, and",
+                                                    "tokenCum": 1187,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the operator failed to respond to the notice of complaint in accordancewith any provision contained in regulations.",
+                                                    "tokenCum": 1209,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 87,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of subsection (3)(a), it is possible for a claimant to\u201cidentify\u201d a person only if the claimant has sufficient information to bringproceedings against the person.",
+                                            "tokenCum": 1251,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Regulations may\u2014",
+                                            "tokenCum": 1255,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "make provision as to the action required to be taken by an operator of awebsite in response to a notice of complaint (which may in particular includeaction relating to the identity or contact details of the person who postedthe statement and action relating to its removal);",
+                                                    "tokenCum": 1309,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 58,
+                                                    "tokenCount": 58
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make provision specifying a time limit for the taking of any such action;",
+                                                    "tokenCum": 1323,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "make provision conferring on the court a discretion to treat action takenafter the expiry of a time limit as having been taken before the expiry;",
+                                                    "tokenCum": 1356,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "make any other provision for the purposes of this section.",
+                                                    "tokenCum": 1367,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 135,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Subject to any provision made by virtue of subsection (7), a notice ofcomplaint is a notice which\u2014",
+                                            "tokenCum": 1392,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "specifies the complainant\u2019s name,",
+                                                    "tokenCum": 1402,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sets out the statement concerned and explains why it is defamatory of thecomplainant,",
+                                                    "tokenCum": 1421,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "specifies where on the website the statement was posted, and",
+                                                    "tokenCum": 1433,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "contains such other information as may be specified in regulations.",
+                                                    "tokenCum": 1445,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 97,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Regulations may make provision about the circumstances in which a noticewhich is not a notice of complaint is to be treated as a notice of complaintfor the purposes of this section or any provision made under it.",
+                                            "tokenCum": 1488,
+                                            "wordSum": 37,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 1494,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may make different provision for different circumstances;",
+                                                    "tokenCum": 1502,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "are to be made by statutory instrument.",
+                                                    "tokenCum": 1512,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 18,
+                                            "tokenSum": 35,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "A statutory instrument containing regulations under this section may not bemade unless a draft of the instrument has been laid before, and approved by aresolution of, each House of Parliament.",
+                                            "tokenCum": 1552,
+                                            "wordSum": 30,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "In this section \u201cregulations\u201d means regulations made by the Secretary ofState.",
+                                            "tokenCum": 1569,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "The defence under this section is defeated if the claimant shows that theoperator of the website has acted with malice in relation to the posting ofthe statement concerned.",
+                                            "tokenCum": 1602,
+                                            "wordSum": 28,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "The defence under this section is not defeated by reason only of the factthat the operator of the website moderates the statements posted on it byothers.",
+                                            "tokenCum": 1633,
+                                            "wordSum": 26,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 429,
+                                    "tokenSum": 643,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Peer-reviewed statement in scientific or academic journal etc",
+                                    "tokenCum": 1645,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The publication of a statement in a scientific or academic journal (whetherpublished in electronic form or otherwise) is privileged if the followingconditions are met.",
+                                            "tokenCum": 1678,
+                                            "wordSum": 24,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The first condition is that the statement relates to a scientific oracademic matter.",
+                                            "tokenCum": 1696,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The second condition is that before the statement was published in thejournal an independent review of the statement\u2019s scientific or academic meritwas carried out by\u2014",
+                                            "tokenCum": 1728,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the editor of the journal, and",
+                                                    "tokenCum": 1735,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "one or more persons with expertise in the scientific or academic matterconcerned.",
+                                                    "tokenCum": 1753,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 68,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Where the publication of a statement in a scientific or academic journal isprivileged by virtue of subsection (1), the publication in the same journal ofany assessment of the statement\u2019s scientific or academic merit is alsoprivileged if\u2014",
+                                            "tokenCum": 1805,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the assessment was written by one or more of the persons who carried outthe independent review of the statement; and",
+                                                    "tokenCum": 1828,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the assessment was written in the course of that review.",
+                                                    "tokenCum": 1840,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 98,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Where the publication of a statement or assessment is privileged by virtueof this section, the publication of a fair and accurate copy of, extract fromor summary of the statement or assessment is also privileged.",
+                                            "tokenCum": 1883,
+                                            "wordSum": 34,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "A publication is not privileged by virtue of this section if it is shown tobe made with malice.",
+                                            "tokenCum": 1905,
+                                            "wordSum": 18,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Nothing in this section is to be construed\u2014",
+                                            "tokenCum": 1915,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "as protecting the publication of matter the publication of which isprohibited by law;",
+                                                    "tokenCum": 1933,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "as limiting any privilege subsisting apart from this section.",
+                                                    "tokenCum": 1946,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 52,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "The reference in subsection (3)(a) to \u201cthe editor of the journal\u201d is to beread, in the case of a journal with more than one editor, as a reference tothe editor or editors who were responsible for deciding to publish thestatement concerned.",
+                                            "tokenCum": 2004,
+                                            "wordSum": 41,
+                                            "tokenSum": 61,
+                                            "tokenCount": 61
+                                        }
+                                    ],
+                                    "wordSum": 277,
+                                    "tokenSum": 421,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Reports etc protected by privilege",
+                                    "tokenCum": 2011,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "For subsection (3) of section 14 of the Defamation Act 1996 (reports ofcourt proceedings absolutely privileged) substitute\u2014",
+                                            "tokenCum": 2046,
+                                            "wordSum": 17,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(3)",
+                                            "text": "This section applies to\u2014",
+                                            "tokenCum": 2051,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any court in the United Kingdom;",
+                                                    "tokenCum": 2058,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any court established under the law of a country or territory outside theUnited Kingdom;",
+                                                    "tokenCum": 2075,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any international court or tribunal established by the Security Council ofthe United Nations or by an international agreement;",
+                                                    "tokenCum": 2096,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and in paragraphs (a) and (b) \u201ccourt\u201d includes any tribunal or body exercisingthe judicial power of the State.\u201d",
+                                                            "tokenCum": 2127,
+                                                            "wordSum": 18,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 60,
+                                            "tokenSum": 101,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (3) of section 15 of that Act (qualified privilege) for\u201cpublic concern\u201d substitute \u201cpublic interest\u201d.",
+                                            "tokenCum": 2157,
+                                            "wordSum": 16,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Schedule 1 to that Act (qualified privilege) is amended as follows.",
+                                            "tokenCum": 2176,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For paragraphs 9 and 10 substitute\u2014",
+                                            "tokenCum": 2187,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c9(1)",
+                                            "text": "A fair and accurate copy of, extract from or summary of a notice or othermatter issued for the information of the public by or on behalf of\u2014",
+                                            "tokenCum": 2219,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a legislature or government anywhere in the world;",
+                                                    "tokenCum": 2229,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "an authority anywhere in the world performing governmental functions;",
+                                                    "tokenCum": 2240,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an international organisation or international conference.",
+                                                    "tokenCum": 2247,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 50,
+                                            "tokenSum": 75,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this paragraph \u201cgovernmental functions\u201d includes police functions.",
+                                            "tokenCum": 2261,
+                                            "wordSum": 8,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "10A fair and accurate copy of, extract from or summary of a document madeavailable by a court anywhere in the world, or by a judge or officer of such acourt.\u201d",
+                                            "tokenCum": 2299,
+                                            "wordSum": 30,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "After paragraph 11 insert\u2014",
+                                            "tokenCum": 2306,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c11AA fair and accurate report of proceedings at a press conference heldanywhere in the world for the discussion of a matter of public interest.\u201d",
+                                            "tokenCum": 2337,
+                                            "wordSum": 24,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In paragraph 12 (report of proceedings at public meetings)\u2014",
+                                            "tokenCum": 2353,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (1) for \u201cin a member State\u201d substitute \u201canywhere in theworld\u201d;",
+                                                    "tokenCum": 2376,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in sub-paragraph (2) for \u201cpublic concern\u201d substitute \u201cpublic interest\u201d.",
+                                                    "tokenCum": 2393,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 67,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In paragraph 13 (report of proceedings at meetings of public company)\u2014",
+                                            "tokenCum": 2411,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (1), for \u201cUK public company\u201d substitute \u201clisted company\u201d;",
+                                                    "tokenCum": 2431,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for sub-paragraphs (2) to (5) substitute\u2014",
+                                                    "tokenCum": 2445,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 63,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(2)",
+                                            "text": "A fair and accurate copy of, extract from or summary of any documentcirculated to members of a listed company\u2014",
+                                            "tokenCum": 2469,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "by or with the authority of the board of directors of the company,",
+                                                    "tokenCum": 2484,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "by the auditors of the company, or",
+                                                    "tokenCum": 2493,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "by any member of the company in pursuance of a right conferred by anystatutory provision.",
+                                                    "tokenCum": 2515,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 85,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "A fair and accurate copy of, extract from or summary of any documentcirculated to members of a listed company which relates to the appointment,resignation, retirement or dismissal of directors of the company or itsauditors.",
+                                            "tokenCum": 2564,
+                                            "wordSum": 34,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In this paragraph \u201clisted company\u201d has the same meaning as in Part 12 ofthe Corporation Tax Act 2009 (see section 1005 of that Act).\u201d",
+                                            "tokenCum": 2605,
+                                            "wordSum": 24,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In paragraph 14 (report of finding or decision of certain kinds ofassociations) in the words before paragraph (a), for \u201cin the United Kingdom oranother member State\u201d substitute \u201canywhere in the world\u201d.",
+                                            "tokenCum": 2650,
+                                            "wordSum": 31,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "After paragraph 14 insert\u2014",
+                                            "tokenCum": 2657,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c14AA fair and accurate\u2014",
+                                            "tokenCum": 2665,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "report of proceedings of a scientific or academic conference held anywherein the world, or",
+                                                    "tokenCum": 2682,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "copy of, extract from or summary of matter published by such a conference.\u201d",
+                                                    "tokenCum": 2697,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 51,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "For paragraph 15 (report of statements etc by a person designated by theLord Chancellor for the purposes of the paragraph) substitute\u2014",
+                                            "tokenCum": 2727,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c15(1)",
+                                            "text": "A fair and accurate report or summary of, copy of or extract from, anyadjudication, report, statement or notice issued by a body, officer or otherperson designated for the purposes of this paragraph by order of the LordChancellor.",
+                                            "tokenCum": 2779,
+                                            "wordSum": 37,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "An order under this paragraph shall be made by statutory instrument whichshall be subject to annulment in pursuance of a resolution of either House ofParliament.\u201d",
+                                            "tokenCum": 2815,
+                                            "wordSum": 25,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "For paragraphs 16 and 17 (general provision) substitute\u2014",
+                                            "tokenCum": 2831,
+                                            "wordSum": 8,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c16In this Schedule\u2014",
+                                            "tokenCum": 2839,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201ccourt\u201d includes\u2014",
+                                                    "tokenCum": 2846,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "any tribunal or body established under the law of any country or territoryexercising the judicial power of the State;",
+                                                    "tokenCum": 2846,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any international tribunal established by the Security Council of the UnitedNations or by an international agreement;",
+                                                    "tokenCum": 2872,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "any international tribunal deciding matters in dispute between States;",
+                                                    "tokenCum": 2892,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cinternational conference\u201d means a conference attended by representatives of two or more governments;",
+                                                            "tokenCum": 2925,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cinternational organisation\u201d means an organisation of which two or more governments are members, and includes any committee or other subordinate body of such an organisation;",
+                                                            "tokenCum": 2959,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201clegislature\u201d includes a local legislature; and",
+                                                            "tokenCum": 2973,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cmember State\u201d includes any European dependent territory of a member State.\u201d",
+                                                            "tokenCum": 2989,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 68,
+                                                    "tokenSum": 121,
+                                                    "tokenCount": 15
+                                                }
+                                            ],
+                                            "wordSum": 109,
+                                            "tokenSum": 197,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 666,
+                                    "tokenSum": 1157,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 1972,
+                            "tokenSum": 3174,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Single publication rule",
+                            "tokenCum": 2992,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Single publication rule",
+                                    "tokenCum": 2995,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies if a person\u2014",
+                                            "tokenCum": 3002,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "publishes a statement to the public (\u201cthe first publication\u201d), and",
+                                                    "tokenCum": 3017,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "subsequently publishes (whether or not to the public) that statement or astatement which is substantially the same.",
+                                                    "tokenCum": 3041,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 57,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1) \u201cpublication to the public\u201d includes publication to asection of the public.",
+                                            "tokenCum": 3063,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "For the purposes of section 4A of the Limitation Act 1980 (time limit foractions for defamation etc) any cause of action against the person fordefamation in respect of the subsequent publication is to be treated as havingaccrued on the date of the first publication.",
+                                            "tokenCum": 3126,
+                                            "wordSum": 44,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This section does not apply in relation to the subsequent publication ifthe manner of that publication is materially different from the manner of thefirst publication.",
+                                            "tokenCum": 3155,
+                                            "wordSum": 25,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In determining whether the manner of a subsequent publication is materiallydifferent from the manner of the first publication, the matters to which thecourt may have regard include (amongst other matters)\u2014",
+                                            "tokenCum": 3196,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the level of prominence that a statement is given;",
+                                                    "tokenCum": 3208,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the extent of the subsequent publication.",
+                                                    "tokenCum": 3215,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 45,
+                                            "tokenSum": 71,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Where this section applies\u2014",
+                                            "tokenCum": 3220,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it does not affect the court\u2019s discretion under section 32A of theLimitation Act 1980 (discretionary exclusion of time limit for actions fordefamation etc), and",
+                                                    "tokenCum": 3267,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the reference in subsection (1)(a) of that section to the operation ofsection 4A of that Act is a reference to the operation of section 4A togetherwith this section.",
+                                                    "tokenCum": 3307,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 56,
+                                            "tokenSum": 103,
+                                            "tokenCount": 7
+                                        }
+                                    ],
+                                    "wordSum": 220,
+                                    "tokenSum": 359,
+                                    "tokenCount": 4
+                                }
+                            ],
+                            "wordSum": 223,
+                            "tokenSum": 363,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Jurisdiction",
+                            "tokenCum": 3310,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Action against a person not domiciled in the UK or a Member State etc",
+                                    "tokenCum": 3326,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies to an action for defamation against a person who isnot domiciled\u2014",
+                                            "tokenCum": 3346,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in the United Kingdom;",
+                                                    "tokenCum": 3351,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in another Member State; or",
+                                                    "tokenCum": 3357,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in a state which is for the time being a contracting party to the LuganoConvention.",
+                                                    "tokenCum": 3378,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 38,
+                                            "tokenSum": 67,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A court does not have jurisdiction to hear and determine an action to whichthis section applies unless the court is satisfied that, of all the places inwhich the statement complained of has been published, England and Wales isclearly the most appropriate place in which to bring an action in respect ofthe statement.",
+                                            "tokenCum": 3440,
+                                            "wordSum": 52,
+                                            "tokenSum": 65,
+                                            "tokenCount": 65
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The references in subsection (2) to the statement complained of includereferences to any statement which conveys the same, or substantially the same,imputation as the statement complained of.",
+                                            "tokenCum": 3482,
+                                            "wordSum": 27,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "For the purposes of this section\u2014",
+                                            "tokenCum": 3489,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a person is domiciled in the United Kingdom or in another Member State ifthe person is domiciled there for the purposes of the Brussels Regulation;",
+                                                    "tokenCum": 3523,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a person is domiciled in a state which is a contracting party to the LuganoConvention if the person is domiciled in the state for the purposes of thatConvention.",
+                                                    "tokenCum": 3563,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 92,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In this section\u2014",
+                                            "tokenCum": 3567,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Brussels Regulation\u201d means Council Regulation [(EC) No 44/2001](/european/regulation/2001/0044?view=plain \"Go to item of legislation\") of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, as amended from time to time and as applied by the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L299 16.11.2005 at p 62); ",
+                                                    "tokenCum": 3733,
+                                                    "wordSum": 80,
+                                                    "tokenSum": 170,
+                                                    "tokenCount": 170
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe Lugano Convention\u201d means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, between the European Community and the Republic of Iceland, the Kingdom of Norway, the Swiss Confederation and the Kingdom of Denmark signed on behalf of the European Community on 30th October 2007. ",
+                                                    "tokenCum": 3812,
+                                                    "wordSum": 53,
+                                                    "tokenSum": 83,
+                                                    "tokenCount": 83
+                                                }
+                                            ],
+                                            "wordSum": 136,
+                                            "tokenSum": 260,
+                                            "tokenCount": 6
+                                        }
+                                    ],
+                                    "wordSum": 326,
+                                    "tokenSum": 547,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Action against a person who was not the author, editor etc",
+                                    "tokenCum": 3824,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "A court does not have jurisdiction to hear and determine an action fordefamation brought against a person who was not the author, editor orpublisher of the statement complained of unless the court is satisfied that itis not reasonably practicable for an action to be brought against the author,editor or publisher.",
+                                            "tokenCum": 3890,
+                                            "wordSum": 50,
+                                            "tokenSum": 69,
+                                            "tokenCount": 69
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this section \u201cauthor\u201d, \u201ceditor\u201d and \u201cpublisher\u201d have the same meaning asin section 1 of the Defamation Act 1996.",
+                                            "tokenCum": 3925,
+                                            "wordSum": 19,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 80,
+                                    "tokenSum": 121,
+                                    "tokenCount": 13
+                                }
+                            ],
+                            "wordSum": 407,
+                            "tokenSum": 672,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Trial by jury",
+                            "tokenCum": 3930,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Trial to be without a jury unless the court orders otherwise",
+                                    "tokenCum": 3943,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 69(1) of the Senior Courts Act 1981 (certain actions in theQueen\u2019s Bench Division to be tried with a jury unless the trial requiresprolonged examination of documents etc) in paragraph (b) omit \u201clibel,slander,\u201d.",
+                                            "tokenCum": 4010,
+                                            "wordSum": 34,
+                                            "tokenSum": 70,
+                                            "tokenCount": 70
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 66(3) of the County Courts Act 1984 (certain actions in thecounty court to be tried with a jury unless the trial requires prolongedexamination of documents etc) in paragraph (b) omit \u201clibel, slander,\u201d.",
+                                            "tokenCum": 4073,
+                                            "wordSum": 34,
+                                            "tokenSum": 66,
+                                            "tokenCount": 66
+                                        }
+                                    ],
+                                    "wordSum": 79,
+                                    "tokenSum": 151,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 82,
+                            "tokenSum": 157,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Summary of court judgment",
+                            "tokenCum": 4078,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Power of court to order a summary of its judgment to be published",
+                                    "tokenCum": 4091,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where a court gives judgment for the claimant in an action for defamationthe court may order the defendant to publish a summary of the judgment.",
+                                            "tokenCum": 4122,
+                                            "wordSum": 25,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The wording of any summary and the time, manner, form and place of itspublication are to be for the parties to agree.",
+                                            "tokenCum": 4150,
+                                            "wordSum": 22,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the parties cannot agree on the wording, the wording is to be settled bythe court.",
+                                            "tokenCum": 4171,
+                                            "wordSum": 16,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "If the parties cannot agree on the time, manner, form or place ofpublication, the court may give such directions as to those matters as itconsiders reasonable and practicable in the circumstances.",
+                                            "tokenCum": 4212,
+                                            "wordSum": 31,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "This section does not apply where the court gives judgment for the claimantunder section 8(3) of the Defamation Act 1996 (summary disposal of claims).",
+                                            "tokenCum": 4251,
+                                            "wordSum": 24,
+                                            "tokenSum": 42,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 131,
+                                    "tokenSum": 190,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 135,
+                            "tokenSum": 196,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Removal, etc of statements",
+                            "tokenCum": 4257,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Order to remove statement or cease distribution etc",
+                                    "tokenCum": 4266,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Where a court gives judgment for the claimant in an action for defamationthe court may order\u2014",
+                                            "tokenCum": 4287,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the operator of a website on which the defamatory statement is posted toremove the statement, or",
+                                                    "tokenCum": 4308,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "any person who was not the author, editor or publisher of the defamatorystatement to stop distributing, selling or exhibiting material containing thestatement.",
+                                                    "tokenCum": 4343,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 54,
+                                            "tokenSum": 88,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In this section \u201cauthor\u201d, \u201ceditor\u201d and \u201cpublisher\u201d have the same meaning asin section 1 of the Defamation Act 1996.",
+                                            "tokenCum": 4378,
+                                            "wordSum": 19,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Subsection (1) does not affect the power of the court apart from thatsubsection.",
+                                            "tokenCum": 4396,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 94,
+                                    "tokenSum": 158,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 98,
+                            "tokenSum": 165,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Slander",
+                            "tokenCum": 4399,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Special damage",
+                                    "tokenCum": 4401,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Slander of Women Act 1891 is repealed.",
+                                            "tokenCum": 4417,
+                                            "wordSum": 8,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The publication of a statement that conveys the imputation that a personhas a contagious or infectious disease does not give rise to a cause of actionfor slander unless the publication causes the person special damage.",
+                                            "tokenCum": 4464,
+                                            "wordSum": 35,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 73,
+                                    "tokenCount": 3
+                                }
+                            ],
+                            "wordSum": 46,
+                            "tokenSum": 77,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General provisions",
+                            "tokenCum": 4467,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Meaning of \u201cpublish\u201d and \u201cstatement\u201d",
+                                    "tokenCum": 4477,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In this Act\u2014",
+                                            "tokenCum": 4481,
+                                            "wordSum": 3,
+                                            "tokenSum": 7,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cpublish\u201d and \u201cpublication\u201d, in relation to a statement, have the meaning they have for the purposes of the law of defamation generally; ",
+                                            "tokenCum": 4515,
+                                            "wordSum": 23,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cstatement\u201d means words, pictures, visual images, gestures or any other method of signifying meaning. ",
+                                            "tokenCum": 4540,
+                                            "wordSum": 15,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 46,
+                                    "tokenSum": 84,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Consequential amendments and savings etc",
+                                    "tokenCum": 4550,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 8 of the Rehabilitation of Offenders Act 1974 (defamation actions)is amended in accordance with subsections (2) and (3).",
+                                            "tokenCum": 4590,
+                                            "wordSum": 19,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (3) for \u201cof justification or fair comment or\u201d substitute\u201cunder section 2 or 3 of the Defamation Act 2013 which is available to him orany defence\u201d.",
+                                            "tokenCum": 4635,
+                                            "wordSum": 27,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (5) for \u201cthe defence of justification\u201d substitute \u201ca defenceunder section 2 of the Defamation Act 2013\u201d.",
+                                            "tokenCum": 4669,
+                                            "wordSum": 18,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Nothing in section 1 or 14 affects any cause of action accrued before thecommencement of the section in question.",
+                                            "tokenCum": 4698,
+                                            "wordSum": 19,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Nothing in sections 2 to 7 or 10 has effect in relation to an action fordefamation if the cause of action accrued before the commencement of thesection in question.",
+                                            "tokenCum": 4740,
+                                            "wordSum": 29,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In determining whether section 8 applies, no account is to be taken of anypublication made before the commencement of the section.",
+                                            "tokenCum": 4769,
+                                            "wordSum": 21,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Nothing in section 9 or 11 has effect in relation to an action fordefamation begun before the commencement of the section in question.",
+                                            "tokenCum": 4801,
+                                            "wordSum": 23,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In determining for the purposes of subsection (7)(a) of section 3 whether aperson would have a defence under section 4 to any action for defamation, theoperation of subsection (5) of this section is to be ignored.",
+                                            "tokenCum": 4854,
+                                            "wordSum": 36,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        }
+                                    ],
+                                    "wordSum": 197,
+                                    "tokenSum": 340,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Short title, extent and commencement",
+                                    "tokenCum": 4862,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act may be cited as the Defamation Act 2013.",
+                                            "tokenCum": 4880,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Subject to subsection (3), this Act extends to England and Wales only.",
+                                            "tokenCum": 4897,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The following provisions also extend to Scotland\u2014",
+                                            "tokenCum": 4906,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 6;",
+                                                    "tokenCum": 4910,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 7(9);",
+                                                    "tokenCum": 4916,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 15;",
+                                                    "tokenCum": 4921,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "section 16(5) (in so far as it relates to sections 6 and 7(9));",
+                                                    "tokenCum": 4946,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "this section.",
+                                                    "tokenCum": 4949,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 75,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Subject to subsections (5) and (6), the provisions of this Act come intoforce on such day as the Secretary of State may by order made by statutoryinstrument appoint.",
+                                            "tokenCum": 4990,
+                                            "wordSum": 28,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Sections 6 and 7(9) come into force in so far as they extend to Scotland onsuch day as the Scottish Ministers may by order appoint.",
+                                            "tokenCum": 5024,
+                                            "wordSum": 25,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Section 15, subsections (4) to (8) of section 16 and this section come intoforce on the day on which this Act is passed.",
+                                            "tokenCum": 5059,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "",
+                                                    "tokenCum": 5059,
+                                                    "wordSum": 0,
+                                                    "tokenSum": 4,
+                                                    "tokenCount": 4
+                                                }
+                                            ],
+                                            "wordSum": 23,
+                                            "tokenSum": 42,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 131,
+                                    "tokenSum": 249,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 376,
+                            "tokenSum": 677,
+                            "tokenCount": 3
+                        }
+                    ],
+                    "wordSum": 3436,
+                    "tokenSum": 5626,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3454,
+            "tokenSum": 5716,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2013/26/enacted?view=plain",
+    "title": "Defamation Act 2013",
+    "longtitle": "An Act to amend the law of defamation.",
+    "date": "[25th April 2013]",
+    "wordSum": 3454,
+    "tokenSum": 5717,
+    "tokenCount": 0,
+    "totalTokens": 5717
+}

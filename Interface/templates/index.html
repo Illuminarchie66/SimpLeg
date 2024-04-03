@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto">
+    <style>
+        .title-container {
+            text-align: center;
+            margin-bottom: -1;
+        }
+        .title-container img {
+            display: block;
+            margin: 0 auto;
+        }
+        .title-image {
+            width: 1440px;
+            height: 582px;
+        }
+
+        .intro-container {
+            text-align: center;
+            padding-left: 450px;
+            padding-right: 450px;
+        }
+
+        .subtitle {
+            font-size: 100px;
+            font-family: Georgia, serif; 
+        }
+
+        .unfolded-section {
+            display: block; /* Initially hidden */
+            padding: 7px;
+            border: 10px solid #D3D3D3;
+            margin-top: 10px;
+        }
+
+        /* CSS for the button */
+        .toggle-button {
+            cursor: pointer;
+        }
+
+        .list-item {
+            overflow: hidden; /* Clear floats */
+            display: none;
+            padding: 10px; /* Add padding for spacing */
+        }
+
+        .leg-title {
+            font-size: 40px;
+            margin-top: 0; /* Remove default margin */
+            margin-bottom: 0; /* Add some bottom margin */
+        }
+
+        .leg-longtitle {
+            margin-top: 0;
+            font-size: 25px;
+            color: #595959; 
+        }
+        
+        .leg-date {
+            margin: 0;
+            font-size: 30px;
+            color:#FAA520;
+        }
+
+        .leg-link {
+            color: black;
+            font-size: 30px; /* Default color of the link */
+            text-decoration: none; /* Remove default underline */
+        }
+
+        /* CSS for the link when hovered over */
+        .leg-link:hover {
+            color: orange; /* Change color to orange on hover */
+            text-decoration: underline; /* Add underline on hover */
+        }
+
+        .leg-readability {
+            color: #595959;
+            font-size: 25px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        h1 {
+            margin-bottom: 0;
+            color: #FAA520;
+        }
+
+        h3 {
+            margin-bottom: 0;
+        }
+
+        body {
+            font-family: Georgia, serif; /* Use Arial as the primary font, fallback to sans-serif */
+        }
+
+        hr {
+            border: none; /* Remove default border */
+            height: 5px; /* Set the height of the line */
+            background-color: #D3D3D3; /* Set the color of the line */
+            margin: 20px; /* Optional: Add some margin for spacing */
+            margin-left: 0;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="title-container">
+        <img src="{{ url_for('static', filename='images/SimpLeg.png') }}", class="title-image">
+    </div>
+    <div class="intro-container">
+        <p class="leg-longtitle"> Law is complicated. Law is difficult and hard to understand, and when it affects so many people, it is very important that we can make it easier. SimpLeg is a way to simplify legislation, making use of the emergent abilities present in LLMs to simplify and summarise the text. </p>
+    </div> 
+    
+        <!-- Button to toggle the section -->
+    <h1 class="subtitle">Legislation</h1>
+
+    <!-- Section that unfolds when the button is clicked -->
+    <div id="unfoldedSection" class="unfolded-section">
+        <ul>
+            {% for leg in legislation %}
+            <hr>
+            <div class="toggle-button" onclick="toggleSection('{{leg.year}}{{leg.id}}')">
+                <h3 class="leg-title">{{ leg.title }}</h3>
+            </div>
+            <li class="list-item" id="{{leg.year}}{{leg.id}}">
+                <p class="leg-date"> Enacted: {{leg.date}} </p>
+                <p class="leg-longtitle"> {{ leg.general }} </p>
+                <!-- <p><a href="{{ leg.link }}" class="leg-link">ORIGINAL</a></p> -->
+                <p><a href="{{ leg.url }}" class="leg-link">SUMMARY</a></p>
+                <p class="leg-readability">Original readability: {{ leg.gradeOriginal }} </p>
+                <p class="leg-readability">Summary readability: {{ leg.gradeSummary }} </p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <script>
+        function toggleSection(id) {
+            var section = document.getElementById(id);
+            if (section.style.display === "none" || section.style.display === "") {
+                section.style.display = "block";
+            } else {
+                section.style.display = "none";
+            }
+        }
+    </script>
+
+
+    
+</body>
+
+</html>

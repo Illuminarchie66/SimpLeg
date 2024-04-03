@@ -1,0 +1,1218 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2020/11/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Divorce, Dissolution and Separation Act 2020",
+                    "tokenCum": 62,
+                    "wordSum": 6,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2020 CHAPTER 11",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make in relation to marriage and civil partnership in England andWales provision about divorce, dissolution and separation; and for connectedpurposes.",
+                            "tokenCum": 104,
+                            "wordSum": 23,
+                            "tokenSum": 34,
+                            "tokenCount": 34
+                        }
+                    ],
+                    "wordSum": 26,
+                    "tokenSum": 44,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[25th June 2020]",
+                    "tokenCum": 115,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 172,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Divorce and judicial separation",
+                            "tokenCum": 179,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Divorce: removal of requirement to establish facts etc",
+                                    "tokenCum": 190,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown ofmarriage) substitute\u2014",
+                                            "tokenCum": 221,
+                                            "wordSum": 14,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c1Divorce on breakdown of marriage",
+                                            "tokenCum": 231,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Subject to section 3, either or both parties to a marriage may apply to thecourt for an order (a \u201cdivorce order\u201d) which dissolves the marriage on theground that the marriage has broken down irretrievably.",
+                                                    "tokenCum": 281,
+                                                    "wordSum": 34,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An application under subsection (1) must be accompanied by a statement bythe applicant or applicants that the marriage has broken down irretrievably.",
+                                                    "tokenCum": 313,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The court dealing with an application under subsection (1) must\u2014",
+                                                    "tokenCum": 327,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "take the statement to be conclusive evidence that the marriage has brokendown irretrievably, and",
+                                                            "tokenCum": 349,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "make a divorce order.",
+                                                            "tokenCum": 355,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        }
+                                                    ],
+                                                    "wordSum": 28,
+                                                    "tokenSum": 56,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A divorce order\u2014",
+                                                    "tokenCum": 360,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is, in the first instance, a conditional order, and",
+                                                            "tokenCum": 372,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "may not be made final before the end of the period of 6 weeks from themaking of the conditional order.",
+                                                            "tokenCum": 395,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 28,
+                                                            "tokenCount": 28
+                                                        }
+                                                    ],
+                                                    "wordSum": 32,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The court may not make a conditional order unless\u2014",
+                                                    "tokenCum": 405,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in the case of an application that is to proceed as an application by oneparty to the marriage only, that party has confirmed to the court that theywish the application to continue, or",
+                                                            "tokenCum": 443,
+                                                            "wordSum": 33,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in the case of an application that is to proceed as an application by bothparties to the marriage, those parties have confirmed to the court that theywish the application to continue;",
+                                                            "tokenCum": 480,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "and a party may not give confirmation for the purposes of this subsectionbefore the end of the period of 20 weeks from the start of proceedings.",
+                                                                    "tokenCum": 513,
+                                                                    "wordSum": 26,
+                                                                    "tokenSum": 39,
+                                                                    "tokenCount": 39
+                                                                }
+                                                            ],
+                                                            "wordSum": 57,
+                                                            "tokenSum": 81,
+                                                            "tokenCount": 41
+                                                        }
+                                                    ],
+                                                    "wordSum": 99,
+                                                    "tokenSum": 138,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The Lord Chancellor may by order made by statutory instrument amend thissection so as to shorten or lengthen the period for the purposes of subsection(4)(b) or (5).",
+                                                    "tokenCum": 556,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "But the Lord Chancellor may not under subsection (6) provide for a periodwhich would result in the total number of days in the periods for the purposesof subsections (4)(b) and (5) (taken together) exceeding 26 weeks.",
+                                                    "tokenCum": 613,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "In a particular case the court dealing with the case may by order shortenthe period that would otherwise be applicable for the purposes of subsection(4)(b) or (5).",
+                                                    "tokenCum": 650,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "A statutory instrument containing an order under subsection (6) may not bemade unless a draft of the instrument has been laid before and approved by aresolution of each House of Parliament.",
+                                                    "tokenCum": 691,
+                                                    "wordSum": 31,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "Without prejudice to the generality of section 75 of the Courts Act 2003,Family Procedure Rules may make provision as to the procedure for anapplication under subsection (1) by both parties to a marriage to become anapplication by one party to the marriage only (including provision for astatement made under subsection (2) in connection with the application to betreated as made by one party to the marriage only).\u201d",
+                                                    "tokenCum": 785,
+                                                    "wordSum": 67,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 98
+                                                }
+                                            ],
+                                            "wordSum": 408,
+                                            "tokenSum": 643,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 430,
+                                    "tokenSum": 690,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Judicial separation: removal of factual grounds",
+                                    "tokenCum": 794,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 17 of the Matrimonial Causes Act 1973 (judicial separation) isamended as follows.",
+                                            "tokenCum": 823,
+                                            "wordSum": 13,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "For subsection (1) substitute\u2014",
+                                            "tokenCum": 831,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(1)",
+                                            "text": "Either or both parties to a marriage may apply to the court for an order(a \u201cjudicial separation order\u201d) which provides for the separation of theparties to the marriage.",
+                                            "tokenCum": 868,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(1A)An application under subsection (1) must be accompanied by\u2014",
+                                                    "tokenCum": 885,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if the application is by one party to the marriage only, a statement bythat person that they seek to be judicially separated from the other party tothe marriage, or",
+                                                    "tokenCum": 920,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the application is by both parties to the marriage, a statement by themthat they seek to be judicially separated from one another.",
+                                                    "tokenCum": 948,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(1B)The court dealing with an application under subsection (1) must make ajudicial separation order.\u201d",
+                                                    "tokenCum": 972,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 103,
+                                            "tokenSum": 160,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Omit subsection (2).",
+                                            "tokenCum": 979,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In subsection (3)\u2014",
+                                            "tokenCum": 986,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for \u201cjudicial separation\u201d, in both places, substitute \u201ca judicialseparation order\u201d;",
+                                                    "tokenCum": 1006,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for \u201cdivorce\u201d substitute \u201ca divorce order\u201d.",
+                                                    "tokenCum": 1019,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 51,
+                                            "tokenCount": 9
+                                        }
+                                    ],
+                                    "wordSum": 148,
+                                    "tokenSum": 275,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 582,
+                            "tokenSum": 973,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Civil partnership: dissolution and separation",
+                            "tokenCum": 1027,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Dissolution: removal of requirement to establish facts",
+                                    "tokenCum": 1038,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 44 of the Civil Partnership Act 2004 (dissolution of civilpartnership which has broken down irretrievably) is amended as follows.",
+                                            "tokenCum": 1079,
+                                            "wordSum": 20,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1), for \u201ceither civil partner\u201d substitute \u201ceither or bothcivil partners\u201d.",
+                                            "tokenCum": 1102,
+                                            "wordSum": 12,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (1) insert\u2014",
+                                            "tokenCum": 1110,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)An application under subsection (1) must be accompanied by a statement bythe applicant or applicants that the civil partnership has broken downirretrievably.\u201d",
+                                                    "tokenCum": 1150,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 44
+                                                }
+                                            ],
+                                            "wordSum": 26,
+                                            "tokenSum": 55,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Omit subsections (2) and (3).",
+                                            "tokenCum": 1161,
+                                            "wordSum": 5,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For subsection (4) substitute\u2014",
+                                            "tokenCum": 1169,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(4)",
+                                            "text": "The court dealing with an application under subsection (1) must\u2014",
+                                            "tokenCum": 1183,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "take the statement to be conclusive evidence that the civil partnership hasbroken down irretrievably, and",
+                                                    "tokenCum": 1206,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "make a dissolution order.\u201d",
+                                                    "tokenCum": 1212,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 54,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Omit subsection (5).",
+                                            "tokenCum": 1219,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "At the end insert\u2014",
+                                            "tokenCum": 1224,
+                                            "wordSum": 4,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(6)",
+                                            "text": "Without prejudice to the generality of section 75 of the Courts Act 2003,Family Procedure Rules may make provision as to the procedure for anapplication under subsection (1) by both civil partners to become anapplication by one civil partner only (including provision for a statementmade under subsection (1A) in connection with the application to be treated asmade by one civil partner only).\u201d",
+                                            "tokenCum": 1313,
+                                            "wordSum": 61,
+                                            "tokenSum": 92,
+                                            "tokenCount": 92
+                                        }
+                                    ],
+                                    "wordSum": 171,
+                                    "tokenSum": 327,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Dissolution orders: time limits",
+                                    "tokenCum": 1321,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Civil Partnership Act 2004 is amended as follows.",
+                                            "tokenCum": 1338,
+                                            "wordSum": 9,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 37 (powers to make orders and effect of orders), omit subsection(2).",
+                                            "tokenCum": 1361,
+                                            "wordSum": 13,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After section 37 insert\u2014",
+                                            "tokenCum": 1368,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c37ADissolution on ground of breakdown: conditional and final orders",
+                                            "tokenCum": 1385,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Every dissolution order\u2014",
+                                                    "tokenCum": 1390,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is, in the first instance, a conditional order, and",
+                                                            "tokenCum": 1402,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "may not be made final before the end of the period of 6 weeks from themaking of the conditional order (the \u201cfirst prescribed period\u201d).",
+                                                            "tokenCum": 1433,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 36,
+                                                            "tokenCount": 36
+                                                        }
+                                                    ],
+                                                    "wordSum": 36,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The court may not make a conditional order unless\u2014",
+                                                    "tokenCum": 1443,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in the case of an application that is to proceed as an application by onecivil partner only, that person has confirmed to the court that they wish theapplication to continue, or",
+                                                            "tokenCum": 1479,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in the case of an application that is to proceed as an application by bothcivil partners, those persons have confirmed to the court that they wish theapplication to continue;",
+                                                            "tokenCum": 1513,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Text",
+                                                                    "prefix": "",
+                                                                    "text": "and a person may not give confirmation for the purposes of this subsectionbefore the end of the period of 20 weeks from the start of proceedings (the\u201csecond prescribed period\u201d).",
+                                                                    "tokenCum": 1554,
+                                                                    "wordSum": 29,
+                                                                    "tokenSum": 47,
+                                                                    "tokenCount": 47
+                                                                }
+                                                            ],
+                                                            "wordSum": 58,
+                                                            "tokenSum": 86,
+                                                            "tokenCount": 38
+                                                        }
+                                                    ],
+                                                    "wordSum": 98,
+                                                    "tokenSum": 141,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Lord Chancellor may by order amend this section so as to substitute\u2014",
+                                                    "tokenCum": 1571,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "a different definition of the first prescribed period, or",
+                                                            "tokenCum": 1582,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 16,
+                                                            "tokenCount": 16
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a different definition of the second prescribed period.",
+                                                            "tokenCum": 1592,
+                                                            "wordSum": 8,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 52,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "But the Lord Chancellor may not under subsection (3) provide for a periodwhich would result in the total number of days in the first and secondprescribed periods (taken together) exceeding 26 weeks.",
+                                                    "tokenCum": 1639,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In a particular case the court dealing with the case may by order shortenthe first prescribed period or the second prescribed period.",
+                                                    "tokenCum": 1666,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The power to make an order under subsection (3) is exercisable by statutoryinstrument.",
+                                                    "tokenCum": 1689,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "An instrument containing such an order may not be made unless a draft ofthe instrument has been laid before and approved by a resolution of each Houseof Parliament.\u201d",
+                                                    "tokenCum": 1720,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 38 (the period before conditional orders may be made final)\u2014",
+                                                    "tokenCum": 1737,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "for the heading substitute \u201cAnnulment and presumption of death: conditionaland final orders\u201d;",
+                                                            "tokenCum": 1758,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 26,
+                                                            "tokenCount": 26
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "before subsection (1) insert\u2014",
+                                                            "tokenCum": 1766,
+                                                            "wordSum": 4,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(A1)Every nullity or presumption of death order\u2014",
+                                                            "tokenCum": 1781,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is, in the first instance, a conditional order, and",
+                                                            "tokenCum": 1793,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "may not be made final before the end of the prescribed period for thepurposes of this paragraph.\u201d;",
+                                                            "tokenCum": 1815,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in subsection (1), in the words before paragraph (a), for \u201csection37(2)(b)\u201d substitute \u201csubsection (A1)(b)\u201d;",
+                                                            "tokenCum": 1851,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 41,
+                                                            "tokenCount": 41
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "in subsection (2), for \u201csection 37(2)(b) substitute \u201csubsection (A1)(b)\u201d.",
+                                                            "tokenCum": 1878,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        }
+                                                    ],
+                                                    "wordSum": 84,
+                                                    "tokenSum": 197,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 352,
+                                            "tokenSum": 616,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 382,
+                                    "tokenSum": 682,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Separation: removal of factual grounds",
+                                    "tokenCum": 1887,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 56 of the Civil Partnership Act 2004 (separation orders) is amendedas follows.",
+                                            "tokenCum": 1914,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (1), for the words from \u201ceither civil partner\u201d to the endsubstitute \u201ceither or both civil partners.\u201d",
+                                            "tokenCum": 1943,
+                                            "wordSum": 18,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (1) insert\u2014",
+                                            "tokenCum": 1951,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)An application under subsection (1) must be accompanied by\u2014",
+                                                    "tokenCum": 1969,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "if the application is by one civil partner only, a statement by that personthat they seek to be separated from the other civil partner, or",
+                                                    "tokenCum": 1997,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "if the application is by both civil partners, a statement by them that theyseek to be separated from one another.\u201d",
+                                                    "tokenCum": 2021,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 93,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Omit subsection (2).",
+                                            "tokenCum": 2028,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "For subsection (3) substitute\u2014",
+                                            "tokenCum": 2036,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(3)",
+                                            "text": "The court dealing with an application under subsection (1) must make aseparation order.\u201d",
+                                            "tokenCum": 2055,
+                                            "wordSum": 13,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Omit subsection (4).",
+                                            "tokenCum": 2062,
+                                            "wordSum": 3,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 117,
+                                    "tokenSum": 219,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 675,
+                            "tokenSum": 1237,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 2063,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Minor and consequential amendments",
+                                    "tokenCum": 2070,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Schedule to this Act contains minor and consequential amendments.",
+                                            "tokenCum": 2085,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Lord Chancellor may by regulations made by statutory instrument makeprovision that is consequential on any provision made by this Act.",
+                                            "tokenCum": 2115,
+                                            "wordSum": 21,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under this section\u2014",
+                                            "tokenCum": 2121,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "may include transitional or saving provision;",
+                                                    "tokenCum": 2129,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "may amend, repeal or revoke any provision of or made under primarylegislation.",
+                                                    "tokenCum": 2149,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 22,
+                                            "tokenSum": 45,
+                                            "tokenCount": 8
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "The provision referred to in subsection (3)(b) does not include a provisionof legislation passed or made after the end of the session of Parliament inwhich this Act is passed.",
+                                            "tokenCum": 2187,
+                                            "wordSum": 29,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A statutory instrument containing regulations under this section thatamend, repeal or revoke primary legislation may not be made unless a draft ofthe instrument has been laid before and approved by a resolution of each Houseof Parliament.",
+                                            "tokenCum": 2235,
+                                            "wordSum": 36,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Any other statutory instrument containing regulations under this section issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 2267,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In this section \u201cprimary legislation\u201d means\u2014",
+                                            "tokenCum": 2277,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "an Act;",
+                                                    "tokenCum": 2280,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a Measure or Act of the National Assembly for Wales;",
+                                                    "tokenCum": 2292,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "an Act of the Scottish Parliament;",
+                                                    "tokenCum": 2299,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "Northern Ireland legislation.",
+                                                    "tokenCum": 2304,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 56,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 170,
+                                    "tokenSum": 288,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Extent ",
+                                    "tokenCum": 2307,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This Act extends to England and Wales only, subject to subsections (2) and(3).",
+                                            "tokenCum": 2327,
+                                            "wordSum": 13,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 6 to 9 also extend to Scotland and Northern Ireland.",
+                                            "tokenCum": 2342,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "An amendment or repeal made by the Schedule has the same extent as theprovision amended or repealed.",
+                                            "tokenCum": 2368,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 75,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Commencement and transitional provision",
+                                    "tokenCum": 2375,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The provisions of this Act come into force on the commencement date,subject to subsections (2) and (3).",
+                                            "tokenCum": 2402,
+                                            "wordSum": 17,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Sections 6(2) to (7), 7 and 9 and this section come into force on the dayon which this Act is passed.",
+                                            "tokenCum": 2434,
+                                            "wordSum": 21,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "The following sections come into force on the day on which this Act ispassed so far as they confer power to make provision by Family ProcedureRules\u2014",
+                                            "tokenCum": 2466,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 1;",
+                                                    "tokenCum": 2470,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "section 3.",
+                                                    "tokenCum": 2474,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 30,
+                                            "tokenSum": 51,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Section 1 and paragraphs 2 to 11, 17, 19, 20(3), 26, 28, 30, 31 and 33(a)of the Schedule do not apply in relation to proceedings for divorce thatstarted before the commencement date.",
+                                            "tokenCum": 2548,
+                                            "wordSum": 32,
+                                            "tokenSum": 77,
+                                            "tokenCount": 77
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Section 2 and paragraphs 16, 19, 20(3), 26, 28, 30, 31, 33(a) and 51(3) ofthe Schedule do not apply in relation to proceedings for judicial separationthat started before the commencement date.",
+                                            "tokenCum": 2622,
+                                            "wordSum": 31,
+                                            "tokenSum": 77,
+                                            "tokenCount": 77
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Paragraphs 12 to 14, 19, 20(3), 26, 28, 30, 33(b), 51(6) and 56 of theSchedule do not apply in relation to proceedings for nullity of marriage thatstarted before the commencement date.",
+                                            "tokenCum": 2698,
+                                            "wordSum": 31,
+                                            "tokenSum": 79,
+                                            "tokenCount": 79
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Sections 3 to 5 and Part 2 of the Schedule do not apply to proceedings fora dissolution, nullity, presumption of death or separation order that startedbefore the commencement date.",
+                                            "tokenCum": 2743,
+                                            "wordSum": 29,
+                                            "tokenSum": 48,
+                                            "tokenCount": 48
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In this section \u201cthe commencement date\u201d means such day as the LordChancellor may by regulations appoint.",
+                                            "tokenCum": 2769,
+                                            "wordSum": 16,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Different days may be appointed for different purposes.",
+                                            "tokenCum": 2779,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "Regulations under this section are to be made by statutory instrument.",
+                                            "tokenCum": 2794,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 230,
+                                    "tokenSum": 466,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Short title",
+                                    "tokenCum": 2796,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Divorce, Dissolution and Separation Act 2020.",
+                                            "tokenCum": 2823,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 34,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "Section 6",
+                                    "tokenCum": 2826,
+                                    "wordSum": 2,
+                                    "tokenSum": 5,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 460,
+                            "tokenSum": 870,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 1753,
+                    "tokenSum": 3138,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1789,
+            "tokenSum": 3258,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2020/11/enacted?view=plain",
+    "title": "Divorce, Dissolution and Separation Act 2020",
+    "longtitle": "An Act to make in relation to marriage and civil partnership in England and Wales provision about divorce, dissolution and separation; and for connected purposes.",
+    "date": "[25th June 2020]",
+    "wordSum": 1789,
+    "tokenSum": 3259,
+    "tokenCount": 0,
+    "totalTokens": 3259
+}

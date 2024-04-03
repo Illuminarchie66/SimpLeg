@@ -1,0 +1,453 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2022/16/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "National Insurance Contributions (Increase of Thresholds) Act 2022",
+                    "tokenCum": 66,
+                    "wordSum": 8,
+                    "tokenSum": 23,
+                    "tokenCount": 22
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2022 CHAPTER 16",
+                    "tokenCum": 75,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for and in connection with increasing the thresholdsat which primary Class 1 contributions, Class 2 contributions and Class 4contributions become payable.",
+                            "tokenCum": 113,
+                            "wordSum": 26,
+                            "tokenSum": 39,
+                            "tokenCount": 39
+                        }
+                    ],
+                    "wordSum": 29,
+                    "tokenSum": 49,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[31st March 2022]",
+                    "tokenCum": 124,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 181,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Increase of primary threshold for primary Class 1 contributions",
+                            "tokenCum": 193,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Social Security (Contributions) Regulations 2001 ([S.I.2001/1004](/id/uksi/2001/1004?view=plain \"Go to item of legislation\")) areamended as follows.",
+                                    "tokenCum": 255,
+                                    "wordSum": 15,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In regulation 10(c) (primary threshold) for \u201c\u00a3190\u201d substitute \u201c\u00a3242\u201d.",
+                                    "tokenCum": 282,
+                                    "wordSum": 9,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In regulation 11(3) (prescribed equivalents)\u2014",
+                                    "tokenCum": 298,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in sub-paragraph (a), for \u201c\u00a3823\u201d substitute \u201c\u00a31,048\u201d;",
+                                            "tokenCum": 322,
+                                            "wordSum": 7,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "in sub-paragraph (b), for \u201c\u00a39,880\u201d substitute \u201c\u00a312,570\u201d.",
+                                            "tokenCum": 348,
+                                            "wordSum": 7,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 19,
+                                    "tokenSum": 74,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The amendments made by subsections (2) and (3) come into force on 6 July2022 (and accordingly do not affect any liability to primary Class 1contributions for any tax week commencing before that date).",
+                                    "tokenCum": 401,
+                                    "wordSum": 33,
+                                    "tokenSum": 55,
+                                    "tokenCount": 55
+                                }
+                            ],
+                            "wordSum": 85,
+                            "tokenSum": 235,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Increase in lower limit of profits for Class 4 contributions",
+                            "tokenCum": 415,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In sections 15(3)(a) and 18(1)(c) and (1A)(a) of\u2014",
+                                    "tokenCum": 443,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Social Security Contributions and Benefits Act 1992, and",
+                                            "tokenCum": 461,
+                                            "wordSum": 9,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Social Security Contributions and Benefits (Northern Ireland) Act 1992,",
+                                            "tokenCum": 484,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "for \u201c\u00a39,880\u201d (the lower limit of profits) substitute \u201c\u00a311,908\u201d.",
+                                                    "tokenCum": 511,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 19,
+                                            "tokenSum": 57,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 36,
+                                    "tokenSum": 108,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The amendments made by subsection (1) are treated as having come into forceon 6 April 2022.",
+                                    "tokenCum": 539,
+                                    "wordSum": 16,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In those sections, for \u201c\u00a311,908\u201d (as substituted by subsection (1))substitute \u201c\u00a312,570\u201d.",
+                                    "tokenCum": 575,
+                                    "wordSum": 11,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The amendments made by subsection (3) come into force on 6 April 2023.",
+                                    "tokenCum": 599,
+                                    "wordSum": 13,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 86,
+                            "tokenSum": 217,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Equivalent provision for Class 2 contributions",
+                            "tokenCum": 607,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Treasury must by regulations make provision for the purpose of securingthat, for the purposes of\u2014",
+                                    "tokenCum": 631,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Social Security Contributions and Benefits Act 1992, and",
+                                            "tokenCum": 649,
+                                            "wordSum": 9,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Social Security Contributions and Benefits (Northern Ireland) Act 1992,",
+                                            "tokenCum": 672,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the threshold for paying Class 2 contributions for a tax year is equivalent tothe threshold at which Class 4 contributions become payable for that year.",
+                                                    "tokenCum": 703,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 61,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 108,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Regulations under this section may\u2014",
+                                    "tokenCum": 710,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "also make provision having the effect that, in such circumstances as may beprovided for, a person whose profits for a tax year are less than thatthreshold is treated as making Class 2 contributions;",
+                                            "tokenCum": 752,
+                                            "wordSum": 33,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make provision having retrospective effect from no earlier than 6 April2022;",
+                                            "tokenCum": 771,
+                                            "wordSum": 11,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "amend an Act of Parliament.",
+                                            "tokenCum": 778,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 86,
+                                    "tokenCount": 8
+                                }
+                            ],
+                            "wordSum": 120,
+                            "tokenSum": 203,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Transitional and consequential provision",
+                            "tokenCum": 784,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Regulation 21 of the Social Security (Contributions) Regulations 2001(annual maxima for Class 1 contributions etc for those with more than oneemployment) has effect as if the primary threshold were \u00a3229.",
+                                    "tokenCum": 838,
+                                    "wordSum": 30,
+                                    "tokenSum": 56,
+                                    "tokenCount": 56
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Those regulations have effect in relation to an earnings period specifiedin regulation 8(2) to (5) of those regulations (earnings periods fordirectors) as if\u2014",
+                                    "tokenCum": 878,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "for the amount specified in regulation 10(c) there were substituted \u201c\u00a3229\u201d,and",
+                                            "tokenCum": 903,
+                                            "wordSum": 11,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for the amount specified in regulation 11(3)(b) there were substituted\u201c\u00a311,908\u201d.",
+                                            "tokenCum": 932,
+                                            "wordSum": 10,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        }
+                                    ],
+                                    "wordSum": 44,
+                                    "tokenSum": 102,
+                                    "tokenCount": 41
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The modifications made by subsections (1) and (2) have effect for the taxyear 2022-23.",
+                                    "tokenCum": 960,
+                                    "wordSum": 14,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Treasury may by regulations make such provision (including provisionhaving retrospective effect from no earlier than 6 April 2022) amending orotherwise modifying the Social Security (Contributions) Regulations 2001 asthey consider appropriate in consequence of provision made by or under thisAct.",
+                                    "tokenCum": 1030,
+                                    "wordSum": 40,
+                                    "tokenSum": 72,
+                                    "tokenCount": 72
+                                }
+                            ],
+                            "wordSum": 132,
+                            "tokenSum": 267,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Regulations ",
+                            "tokenCum": 1033,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Regulations under this Act are to be made by statutory instrument.",
+                                    "tokenCum": 1048,
+                                    "wordSum": 11,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsections (3) and (4) of section 175 of the Social Security Contributionsand Benefits Act 1992 (provision which may be made by regulations) apply toregulations under this Act as they apply to regulations under that Act.",
+                                    "tokenCum": 1108,
+                                    "wordSum": 35,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A statutory instrument containing (whether alone or with other provision)regulations under section 3 that amend an Act of Parliament may not be madeunless a draft of the instrument has been laid before and approved by aresolution of each House of Parliament.",
+                                    "tokenCum": 1163,
+                                    "wordSum": 41,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Otherwise, a statutory instrument containing regulations under this Act issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                    "tokenCum": 1196,
+                                    "wordSum": 21,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 109,
+                            "tokenSum": 175,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Short title",
+                            "tokenCum": 1198,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the National Insurance Contributions (Increase ofThresholds) Act 2022.",
+                                    "tokenCum": 1229,
+                                    "wordSum": 14,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                }
+                            ],
+                            "wordSum": 16,
+                            "tokenSum": 36,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "",
+                            "tokenCum": 1229,
+                            "wordSum": 0,
+                            "tokenSum": 1,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 584,
+                    "tokenSum": 1192,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 625,
+            "tokenSum": 1321,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2022/16/enacted?view=plain",
+    "title": "National Insurance Contributions (Increase of Thresholds) Act 2022",
+    "longtitle": "An Act to make provision for and in connection with increasing the thresholds at which primary Class 1 contributions, Class 2 contributions and Class 4 contributions become payable.",
+    "date": "[31st March 2022]",
+    "wordSum": 625,
+    "tokenSum": 1322,
+    "tokenCount": 0,
+    "totalTokens": 1322
+}

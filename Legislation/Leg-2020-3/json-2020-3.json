@@ -1,0 +1,1996 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2020/3/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Terrorist Offenders (Restriction of Early Release) Act 2020",
+                    "tokenCum": 61,
+                    "wordSum": 8,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2020 CHAPTER 3",
+                    "tokenCum": 69,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the release on licence of offenders convictedof terrorist offences or offences with a terrorist connection; and forconnected purposes.",
+                            "tokenCum": 104,
+                            "wordSum": 24,
+                            "tokenSum": 36,
+                            "tokenCount": 36
+                        }
+                    ],
+                    "wordSum": 27,
+                    "tokenSum": 45,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th February 2020]",
+                    "tokenCum": 115,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 172,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Restriction of early release in England and Wales",
+                            "tokenCum": 181,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Eligibility for release on licence of terrorist prisoners: England andWales",
+                                    "tokenCum": 198,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Criminal Justice Act 2003 is amended as follows.",
+                                            "tokenCum": 214,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After section 247 insert\u2014",
+                                            "tokenCum": 222,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c247ARestricted eligibility for release on licence of terrorist prisoners",
+                                            "tokenCum": 242,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies to a prisoner (a \u201cterrorist prisoner\u201d) who\u2014",
+                                                    "tokenCum": 259,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is serving a fixed-term sentence imposed (whether before or after thissection comes into force) in respect of an offence within subsection (2), and",
+                                                            "tokenCum": 293,
+                                                            "wordSum": 23,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "has not been released on licence.",
+                                                            "tokenCum": 301,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 39,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An offence is within this subsection (whether it was committed before orafter this section comes into force) if\u2014",
+                                                    "tokenCum": 326,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "it is specified in Part 1 of Schedule 19ZA (offences under counter-terrorism legislation),",
+                                                            "tokenCum": 353,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "it is specified in Part 2 of that Schedule and was determined by the courtto have had a terrorist connection under section 30 or (in the case of aperson sentenced in Scotland but now subject to the provisions of thisChapter) section 31 of the Counter-Terrorism Act 2008 (sentences for certainoffences with a terrorist connection), or",
+                                                            "tokenCum": 438,
+                                                            "wordSum": 55,
+                                                            "tokenSum": 90,
+                                                            "tokenCount": 90
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "it is a service offence as respects which the corresponding civil offenceis an offence specified in Part 2 of that Schedule and was determined by theservice court to have had a terrorist connection under section 32 of that Act(sentences for certain offences with a terrorist connection: armed forces).",
+                                                            "tokenCum": 506,
+                                                            "wordSum": 48,
+                                                            "tokenSum": 73,
+                                                            "tokenCount": 73
+                                                        }
+                                                    ],
+                                                    "wordSum": 134,
+                                                    "tokenSum": 224,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "It is the duty of the Secretary of State to refer the case of a terroristprisoner to the Board\u2014",
+                                                    "tokenCum": 530,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "as soon as the prisoner has served the requisite custodial period, and",
+                                                            "tokenCum": 547,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "where there has been a previous reference of the prisoner\u2019s case to theBoard under this subsection and the Board did not direct the prisoner\u2019srelease, no later than the second anniversary of the disposal of thatreference.",
+                                                            "tokenCum": 594,
+                                                            "wordSum": 35,
+                                                            "tokenSum": 52,
+                                                            "tokenCount": 52
+                                                        }
+                                                    ],
+                                                    "wordSum": 66,
+                                                    "tokenSum": 102,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "It is the duty of the Secretary of State to release a terrorist prisoner onlicence as soon as\u2014",
+                                                    "tokenCum": 616,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the prisoner has served the requisite custodial period, and",
+                                                            "tokenCum": 630,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Board has directed the release of the prisoner under this section.",
+                                                            "tokenCum": 643,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        }
+                                                    ],
+                                                    "wordSum": 39,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The Board must not give a direction under subsection (4) unless\u2014",
+                                                    "tokenCum": 658,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the Secretary of State has referred the terrorist prisoner\u2019s case to theBoard, and",
+                                                            "tokenCum": 676,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Board is satisfied that it is no longer necessary for the protection ofthe public that the prisoner should be confined.",
+                                                            "tokenCum": 700,
+                                                            "wordSum": 21,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        }
+                                                    ],
+                                                    "wordSum": 45,
+                                                    "tokenSum": 71,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Subsection (7) applies where the terrorist prisoner is serving a sentenceimposed under section 226A, 226B, 227, 228 or 236A.",
+                                                    "tokenCum": 747,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "It is the duty of the Secretary of State to release the terrorist prisoneron licence under this section as soon as the prisoner has served theappropriate custodial term (see sections 255B and 255C for provision about there-release of a person who has been recalled under section 254).",
+                                                    "tokenCum": 818,
+                                                    "wordSum": 47,
+                                                    "tokenSum": 75,
+                                                    "tokenCount": 75
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(8)",
+                                                    "text": "For the purposes of this section\u2014",
+                                                    "tokenCum": 825,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe appropriate custodial term\u201d, in relation to a sentence imposed under section 226A, 226B, 227, 228 or 236A, means the term determined as such by the court under that provision;",
+                                                            "tokenCum": 885,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 65,
+                                                            "tokenCount": 65
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cthe requisite custodial period\u201d means\u2014",
+                                                            "tokenCum": 899,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in relation to a person serving one sentence imposed under section 226A, 226B,227, 228, or 236A, two-thirds of the appropriate custodial term,",
+                                                            "tokenCum": 899,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 57,
+                                                            "tokenCount": 57
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in relation to a person serving one sentence of any other kind, two-thirds ofthe sentence, and",
+                                                            "tokenCum": 951,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in relation to a person serving two or more concurrent or consecutivesentences, the period determined under sections 263(2) and 264(2);",
+                                                            "tokenCum": 973,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Bullet point",
+                                                                    "prefix": "*",
+                                                                    "text": "  * \u201cservice offence\u201d, \u201ccorresponding civil offence\u201d and \u201cservice court\u201d have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).",
+                                                                    "tokenCum": 1060,
+                                                                    "wordSum": 25,
+                                                                    "tokenSum": 56,
+                                                                    "tokenCount": 56
+                                                                }
+                                                            ],
+                                                            "wordSum": 45,
+                                                            "tokenSum": 98,
+                                                            "tokenCount": 41
+                                                        }
+                                                    ],
+                                                    "wordSum": 126,
+                                                    "tokenSum": 277,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(9)",
+                                                    "text": "For the purposes of this section, a reference of a terrorist prisoner\u2019scase to the Board disposed of before the day on which this section comes intoforce is to be treated as if it was made (and disposed of) under subsection(3) if\u2014",
+                                                    "tokenCum": 1116,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "it was made under section 244A(2)(b) and disposed of at a time when theprisoner had served the requisite custodial sentence (within the meaning ofthis section, not section 244A), or",
+                                                            "tokenCum": 1171,
+                                                            "wordSum": 29,
+                                                            "tokenSum": 60,
+                                                            "tokenCount": 60
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "it was made under section 246A(4).",
+                                                            "tokenCum": 1184,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        }
+                                                    ],
+                                                    "wordSum": 76,
+                                                    "tokenSum": 138,
+                                                    "tokenCount": 59
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(10)",
+                                                    "text": "Nothing in this section affects the duty of the Secretary of State torelease a person whose release has been directed by the Board before thissection comes into force.",
+                                                    "tokenCum": 1217,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(11)",
+                                                    "text": "This section is subject to paragraphs 5, 17 and 19 of Schedule 20B(transitional cases).\u201d",
+                                                    "tokenCum": 1247,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "After Schedule 19 insert, as Schedule 19ZA, the Schedule set out inSchedule 1 to this Act.",
+                                                    "tokenCum": 1278,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                }
+                                            ],
+                                            "wordSum": 658,
+                                            "tokenSum": 1203,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 681,
+                                    "tokenSum": 1252,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Disapplication of existing release provisions: England and Wales",
+                                    "tokenCum": 1289,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Criminal Justice Act 2003 is amended as follows.",
+                                            "tokenCum": 1305,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 243A (duty to release certain prisoners serving less than 12months) after subsection (1A) insert\u2014",
+                                            "tokenCum": 1338,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1B)But this section does not apply to a prisoner to whom section 247Aapplies.\u201d",
+                                                    "tokenCum": 1363,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                }
+                                            ],
+                                            "wordSum": 29,
+                                            "tokenSum": 65,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 244 (duty to release prisoners) in subsection (1), for \u201cor 247\u201dsubstitute \u201c, 247 or 247A\u201d.",
+                                            "tokenCum": 1406,
+                                            "wordSum": 17,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 244A (release on licence of prisoners serving sentence undersection 236A) in subsection (1), at the end insert \u201c, other than a prisoner towhom section 247A applies\u201d.",
+                                            "tokenCum": 1457,
+                                            "wordSum": 28,
+                                            "tokenSum": 54,
+                                            "tokenCount": 54
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 246(4) (exceptions from power to release prisoners earlier thanrequired) after paragraph (aa) insert\u2014",
+                                            "tokenCum": 1485,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(ab)",
+                                                    "text": "the prisoner is one to whom section 247A applies,\u201d.",
+                                                    "tokenCum": 1500,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 50,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In section 246A (release on licence of prisoners serving extended sentenceunder section 226A or 226B) in subsection (1), at the end insert \u201c, other thana prisoner to whom section 247A applies\u201d.",
+                                            "tokenCum": 1557,
+                                            "wordSum": 31,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In section 247 (release on licence of prisoner serving extended sentenceunder section 227 or 228) in subsection (1), at the end insert \u201c, other than aprisoner to whom section 247A applies\u201d.",
+                                            "tokenCum": 1612,
+                                            "wordSum": 31,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        }
+                                    ],
+                                    "wordSum": 177,
+                                    "tokenSum": 365,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 866,
+                            "tokenSum": 1627,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Restriction of early release in Scotland",
+                            "tokenCum": 1619,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Eligibility for release on licence of terrorist prisoners: Scotland",
+                                    "tokenCum": 1633,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended asfollows.",
+                                            "tokenCum": 1661,
+                                            "wordSum": 11,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After section 1AA insert\u2014",
+                                            "tokenCum": 1668,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c1ABRestricted eligibility for release on licence of terrorist prisoners",
+                                            "tokenCum": 1686,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies to a person other than a life prisoner (a \u201cterroristprisoner\u201d) who\u2014",
+                                                    "tokenCum": 1710,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "is serving a sentence of imprisonment imposed (whether before or after thissection comes into force) in respect of an offence within subsection (2), and",
+                                                            "tokenCum": 1744,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "has not been released on licence.",
+                                                            "tokenCum": 1752,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 44,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "An offence is within this subsection (whether it was committed before orafter this section comes into force) if\u2014",
+                                                    "tokenCum": 1777,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "it is specified in Part 1 of Schedule 1A (offences under counter-terrorismlegislation),",
+                                                            "tokenCum": 1803,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "it is specified in Part 2 of that Schedule and was determined by the courtto have had a terrorist connection under section 31 or (in the case of aperson sentenced in England and Wales or Northern Ireland and now subject tothe provisions of this Part relating to early release) section 30 of theCounter-Terrorism Act 2008 (sentences for certain offences with a terroristconnection), or",
+                                                            "tokenCum": 1896,
+                                                            "wordSum": 63,
+                                                            "tokenSum": 98,
+                                                            "tokenCount": 98
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "it is a service offence as respects which the corresponding civil offenceis an offence specified in Part 2 of that Schedule and was determined by theservice court to have had a terrorist connection under section 32 of that Act(sentences for certain offences with a terrorist connection: armed forces).",
+                                                            "tokenCum": 1964,
+                                                            "wordSum": 48,
+                                                            "tokenSum": 73,
+                                                            "tokenCount": 73
+                                                        }
+                                                    ],
+                                                    "wordSum": 141,
+                                                    "tokenSum": 231,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Scottish Ministers must refer the case of a terrorist prisoner to theParole Board\u2014",
+                                                    "tokenCum": 1983,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "as soon as the prisoner has served two-thirds of the prisoner\u2019s sentence,and",
+                                                            "tokenCum": 2002,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 24,
+                                                            "tokenCount": 24
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "where there has been a previous reference of the prisoner\u2019s case to theParole Board under this subsection and the Parole Board did not recommend theprisoner\u2019s release, no later than the second anniversary of the disposal ofthat reference.",
+                                                            "tokenCum": 2055,
+                                                            "wordSum": 37,
+                                                            "tokenSum": 58,
+                                                            "tokenCount": 58
+                                                        }
+                                                    ],
+                                                    "wordSum": 63,
+                                                    "tokenSum": 105,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "As soon as the Parole Board has recommended the release of a terroristprisoner under this section in pursuance of a referral under subsection (3),the Scottish Ministers must release the prisoner on licence.",
+                                                    "tokenCum": 2102,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 51,
+                                                    "tokenCount": 51
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The Parole Board must not make a recommendation under subsection (4) unlessit is satisfied that it is no longer necessary for the protection of thepublic that the terrorist prisoner should be confined.",
+                                                    "tokenCum": 2143,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "For the purposes of this section, \u201cservice offence\u201d, \u201ccorresponding civiloffence\u201d and \u201cservice court\u201d have the same meanings as in the Counter-Terrorism Act 2008 (see section 95 of that Act).",
+                                                    "tokenCum": 2198,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(7)",
+                                                    "text": "This section is subject to section 8 of the Terrorist Offenders(Restriction of Early Release) Act 2020 (transitional provision for terroristprisoners subject to supervised release orders).\u201d",
+                                                    "tokenCum": 2244,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "After Schedule 1 insert, as Schedule 1A, the Schedule set out in Schedule 2to this Act.",
+                                                    "tokenCum": 2272,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 391,
+                                            "tokenSum": 674,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 415,
+                                    "tokenSum": 731,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Disapplication of existing release provisions: Scotland",
+                                    "tokenCum": 2281,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended asfollows.",
+                                            "tokenCum": 2309,
+                                            "wordSum": 11,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 1 (early release of short-term, long-term and life prisoners)after subsection (8) insert\u2014",
+                                            "tokenCum": 2337,
+                                            "wordSum": 14,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(9)",
+                                            "text": "This section does not apply in relation to a person to whom section 1ABapplies.\u201d",
+                                            "tokenCum": 2356,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 1AA (short-term prisoners: early release of certain sexualoffenders) after subsection (8) insert\u2014",
+                                            "tokenCum": 2383,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(9)",
+                                            "text": "This section does not apply in relation to a person to whom section 1ABapplies.\u201d",
+                                            "tokenCum": 2402,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 3AA (further powers to release prisoners) after subsection (7)insert\u2014",
+                                            "tokenCum": 2423,
+                                            "wordSum": 11,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(8)",
+                                            "text": "This section does not apply in relation to a person to whom section 1ABapplies.\u201d",
+                                            "tokenCum": 2442,
+                                            "wordSum": 14,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 5 (application of Part to fine defaulters and persons incontempt of court)\u2014",
+                                            "tokenCum": 2465,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (2) at the beginning insert \u201cSubject to subsection (2A),\u201d,and",
+                                                    "tokenCum": 2486,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after subsection (2) insert\u2014",
+                                                    "tokenCum": 2494,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(2A)Subsection (2) does not apply in relation to a person to whom section 1ABapplies.\u201d",
+                                                            "tokenCum": 2521,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 32,
+                                                            "tokenCount": 32
+                                                        }
+                                                    ],
+                                                    "wordSum": 18,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 43,
+                                            "tokenSum": 95,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In section 7 (children detained in solemn proceedings)\u2014",
+                                            "tokenCum": 2535,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (5)(a) after \u201csections\u201d insert \u201c1AB,\u201d, and",
+                                                    "tokenCum": 2554,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after subsection (7) insert\u2014",
+                                                    "tokenCum": 2562,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 52,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(8)",
+                                            "text": "This section (other than subsection (5)) does not apply in relation to aperson to whom section 1AB applies.\u201d",
+                                            "tokenCum": 2588,
+                                            "wordSum": 18,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In section 9 (persons liable to removal from the United Kingdom) aftersubsection (1) insert\u2014",
+                                            "tokenCum": 2611,
+                                            "wordSum": 14,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "\u201c(1A)Subsection (1) does not apply in relation to a person to whom section 1ABapplies.\u201d",
+                                            "tokenCum": 2638,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 207,
+                                    "tokenSum": 425,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 628,
+                            "tokenSum": 1164,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Licence conditions",
+                            "tokenCum": 2641,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Setting of licence conditions for terrorist prisoners: England and Wales",
+                                    "tokenCum": 2654,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In section 250 of the Criminal Justice Act 2003 (licence conditions) aftersubsection (5B) (Secretary of State not to include, vary or cancel licenceconditions unless directed by the Parole Board) insert\u2014",
+                                            "tokenCum": 2708,
+                                            "wordSum": 30,
+                                            "tokenSum": 57,
+                                            "tokenCount": 57
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 72,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c(5BA)But in the case of a licence granted to a prisoner to whom section 247Aapplies, or would apply but for the prisoner\u2019s release under the licence,subsection (5B) applies only if the licence was granted following a directionof the Board for the prisoner\u2019s release.\u201d",
+                                    "tokenCum": 2777,
+                                    "wordSum": 43,
+                                    "tokenSum": 71,
+                                    "tokenCount": 71
+                                }
+                            ],
+                            "wordSum": 85,
+                            "tokenSum": 147,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Consequential and transitional provision",
+                            "tokenCum": 2784,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Consequential amendments relating to transitional cases: England andWales",
+                                    "tokenCum": 2801,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Schedule 20B to the Criminal Justice Act 2003 (modifications of releaseprovisions in certain transitional cases) is amended as follows.",
+                                            "tokenCum": 2838,
+                                            "wordSum": 19,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In paragraph 5 (duty to release on licence at two-thirds of sentence)\u2014",
+                                            "tokenCum": 2860,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (1), after \u201cparagraph 4 applies\u201d insert \u201c(but to whomsection 247A does not apply)\u201d;",
+                                                    "tokenCum": 2892,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after sub-paragraph (3) insert\u2014",
+                                                    "tokenCum": 2901,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 31,
+                                            "tokenSum": 74,
+                                            "tokenCount": 24
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(4)",
+                                            "text": "Where section 247A applies to a person\u2014",
+                                            "tokenCum": 2913,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to whom paragraph 4 also applies, and",
+                                                    "tokenCum": 2922,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "who is serving a section 85 extended sentence,",
+                                                    "tokenCum": 2933,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "it does so with the modifications set out in sub-paragraphs (5) and (6).",
+                                                            "tokenCum": 2953,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 21,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 35,
+                                            "tokenSum": 68,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Section 247A(7) applies to the person (despite subsection (6) of thatsection).",
+                                            "tokenCum": 2979,
+                                            "wordSum": 11,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "References in section 247A to\u2014",
+                                            "tokenCum": 2989,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the \u201cappropriate custodial term\u201d are to be read as references to thecustodial term;",
+                                                    "tokenCum": 3013,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the \u201crequisite custodial period\u201d are to be read as references to two-thirdsof the custodial term.\u201d",
+                                                    "tokenCum": 3041,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 33,
+                                            "tokenSum": 73,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In paragraph 6(1) (duty to release on direction of Parole Board) after\u201cparagraph 4 applies\u201d insert \u201c(but to whom section 247A does not apply)\u201d.",
+                                            "tokenCum": 3085,
+                                            "wordSum": 23,
+                                            "tokenSum": 47,
+                                            "tokenCount": 47
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In paragraph 15(2) (modification of section 247 for certain extendedsentence prisoners under section 227 or 228) for \u201cSection 247 (release ofprisoner on licence) applies to P\u201d substitute \u201cIf section 247 (release ofprisoner on licence) applies to P, it applies\u201d.",
+                                            "tokenCum": 3166,
+                                            "wordSum": 39,
+                                            "tokenSum": 84,
+                                            "tokenCount": 84
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In paragraph 17 (licence to remain in force for three-quarters ofsentence)\u2014",
+                                            "tokenCum": 3187,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (1), after \u201c244\u201d insert \u201c, 247A\u201d;",
+                                                    "tokenCum": 3210,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after sub-paragraph (1) insert\u2014",
+                                                    "tokenCum": 3219,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1A)But if section 247A would (disregarding this sub-paragraph) require therelease on licence of a person to whom paragraph 16 applies at any time afterthe end of the period referred to in sub-paragraph (1)\u2014",
+                                                    "tokenCum": 3277,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 62
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "that requirement does not apply, and",
+                                                    "tokenCum": 3284,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it is instead the duty of the Secretary of State to release the personunconditionally.\u201d;",
+                                                    "tokenCum": 3303,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in sub-paragraph (3), for \u201c(1) and (2)\u201d substitute \u201c(1) to (2)\u201d.",
+                                                    "tokenCum": 3330,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 191,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In paragraph 19 (period for which licence to remain in force for section 85extended sentence prisoners)\u2014",
+                                            "tokenCum": 3356,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in sub-paragraph (2), for the words from \u201cthe period found\u201d to the endsubstitute \u201cthe relevant period\u201d;",
+                                                    "tokenCum": 3383,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after sub-paragraph (4) insert\u2014",
+                                                    "tokenCum": 3392,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 36,
+                                            "tokenSum": 73,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(5)",
+                                            "text": "In sub-paragraph (2), \u201cthe relevant period\u201d\u2014",
+                                            "tokenCum": 3405,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to a person released on licence under section 247A at any timeafter the end of the period of three-quarters of the custodial term, means theperiod found by adding\u2014",
+                                                    "tokenCum": 3448,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the proportion of the custodial term served before release, and",
+                                                    "tokenCum": 3461,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the extension period;",
+                                                    "tokenCum": 3465,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to any other case, means the period found by adding\u2014",
+                                                    "tokenCum": 3479,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "three-quarters of the custodial term, and",
+                                                    "tokenCum": 3490,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the extension period.\u201d",
+                                                    "tokenCum": 3494,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 129,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 392,
+                                    "tokenSum": 827,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Other consequential amendments: England and Wales",
+                                    "tokenCum": 3504,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "In section 106A(6) of the Powers of Criminal Courts (Sentencing) Act 2000(Parole Board directions when detention and training order to take effect onrelease from sentence of detention)\u2014",
+                                            "tokenCum": 3557,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "omit \u201cunder section 226B or 228 of the 2003 Act\u201d;",
+                                                    "tokenCum": 3582,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for \u201c(as the case may be) subsection (2)(b) of section 247 of\u201d substitute\u201csubsection (4)(b) of section 247A of, or paragraph 15(3) of Schedule 20Bto,\u201d.",
+                                                    "tokenCum": 3641,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 63
+                                                }
+                                            ],
+                                            "wordSum": 61,
+                                            "tokenSum": 148,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Criminal Justice Act 2003 is amended in accordance with subsections (3)to (8).",
+                                            "tokenCum": 3667,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 256AA (supervision after end of sentence of prisoners servingless than 2 years) in subsection (1), after paragraph (ba) (but before the\u201cor\u201d at the end of it) insert\u2014",
+                                            "tokenCum": 3716,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(bb)",
+                                                    "text": "section 247A applied to the offender in respect of the sentence,\u201d.",
+                                                    "tokenCum": 3734,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 40,
+                                            "tokenSum": 74,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 256B (supervision after release of certain young offendersserving less than 12 months) after subsection (1A) insert\u2014",
+                                            "tokenCum": 3769,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(1B)But this section does not apply where a person (\u201cthe offender\u201d) isreleased from a sentence in respect of which section 247A applied to theoffender.\u201d",
+                                                    "tokenCum": 3812,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 42,
+                                            "tokenSum": 85,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 260 (early removal of prisoners liable to removal from theUnited Kingdom)\u2014",
+                                            "tokenCum": 3835,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (1), for \u201csubsection (2)\u201d substitute \u201csubsections (2) and(2C)\u201d;",
+                                                    "tokenCum": 3862,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (2A), at the beginning insert \u201cSubject to subsection (2C),\u201d;",
+                                                    "tokenCum": 3884,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "after subsection (2B) insert\u2014",
+                                                    "tokenCum": 3893,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(2C)Subsections (1) and (2A) do not apply in relation to a prisoner to whomsection 247A applies.\u201d;",
+                                                    "tokenCum": 3927,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 38,
+                                                    "tokenCount": 38
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "at the end insert\u2014",
+                                                    "tokenCum": 3932,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 143,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(9)",
+                                            "text": "Subsection (2C) does not affect the continued liability to detention undersubsection (4)(b) of a prisoner removed from prison under this section beforesubsection (2C) came into force and in such a case\u2014",
+                                            "tokenCum": 3983,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the \u201crequisite custodial period\u201d in subsection (4)(b) has the meaning givenby section 247A(8), and",
+                                                    "tokenCum": 4016,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "subsection (5) is to be read as including reference to section 247A.\u201d",
+                                                    "tokenCum": 4036,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                }
+                                            ],
+                                            "wordSum": 57,
+                                            "tokenSum": 115,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "In section 261 (re-entry into the United Kingdom of offender removed fromprison early)\u2014",
+                                            "tokenCum": 4060,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (5)(b), for \u201cor 247\u201d substitute \u201c, 247 or 247A\u201d;",
+                                                    "tokenCum": 4091,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (6), after the definition of \u201coutstanding custodial period\u201d,insert\u2014",
+                                                    "tokenCum": 4111,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201c\u201crequisite custodial period\u201d, in relation to a person to whom section 247A applies, has the meaning given by section 247A(8) (see section 268(1A) for its meaning in other cases);\u201d.",
+                                                            "tokenCum": 4171,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 65,
+                                                            "tokenCount": 65
+                                                        }
+                                                    ],
+                                                    "wordSum": 40,
+                                                    "tokenSum": 89,
+                                                    "tokenCount": 23
+                                                }
+                                            ],
+                                            "wordSum": 64,
+                                            "tokenSum": 151,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In section 264 (release on licence of prisoners serving consecutivesentences)\u2014",
+                                            "tokenCum": 4192,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (6), after \u201c\u201ccustodial period\u201d\u201d insert \u201c, except ifsubsection (6A) applies,\u201d;",
+                                                    "tokenCum": 4221,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "after that subsection insert\u2014",
+                                                    "tokenCum": 4227,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(6A)In this section \u201ccustodial period\u201d, in the case of a sentence imposed ona person to whom section 247A applies, means\u2014",
+                                                    "tokenCum": 4265,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to an extended sentence imposed under section 226A, 226B, 227or 228, or a sentence imposed under section 236A, two-thirds of theappropriate custodial term determined by the court under that section;",
+                                                    "tokenCum": 4331,
+                                                    "wordSum": 32,
+                                                    "tokenSum": 70,
+                                                    "tokenCount": 70
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to any other sentence, two-thirds of the sentence.\u201d",
+                                                    "tokenCum": 4346,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 88,
+                                            "tokenSum": 198,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "In section 268 (interpretation of release provisions) in subsection (1A),after \u201c\u201cthe requisite custodial period\u201d means\u201d insert \u201c(except where it hasthe meaning given by section 247A(8))\u201d.",
+                                            "tokenCum": 4403,
+                                            "wordSum": 25,
+                                            "tokenSum": 60,
+                                            "tokenCount": 60
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "In section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act2012 (power to change test for discretionary release)\u2014",
+                                            "tokenCum": 4443,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (2)\u2014",
+                                                    "tokenCum": 4450,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "after paragraph (ba) (but before the \u201cor\u201d at the end of it) insert\u2014",
+                                                    "tokenCum": 4470,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(bb)",
+                                                    "text": "a terrorist prisoner,\u201d;",
+                                                    "tokenCum": 4476,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in paragraph (c), after \u201ca person\u201d insert \u201c, other than a terroristprisoner,\u201d;",
+                                                    "tokenCum": 4499,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (3), after paragraph (b) insert\u2014",
+                                                    "tokenCum": 4512,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(ba)",
+                                                    "text": "amend section 247A of the Criminal Justice Act 2003 (restrictedeligibility for release on licence of terrorist prisoners);\u201d;",
+                                                    "tokenCum": 4550,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in subsection (6)\u2014",
+                                                    "tokenCum": 4557,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "in the definitions of \u201cextended sentence prisoner\u201d and \u201csection 236Aprisoner\u201d, after \u201ca prisoner\u201d insert \u201c, other than a terrorist prisoner,\u201d;",
+                                                    "tokenCum": 4595,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "at the end insert\u2014",
+                                                    "tokenCum": 4600,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201c\u201cterrorist prisoner\u201d means a prisoner to whom section 247A of the Criminal Justice Act 2003 applies (or would apply but for the prisoner\u2018s release on licence).\u201d",
+                                                            "tokenCum": 4648,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 62,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 129,
+                                            "tokenSum": 289,
+                                            "tokenCount": 42
+                                        }
+                                    ],
+                                    "wordSum": 583,
+                                    "tokenSum": 1304,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Transitional provision for terrorist prisoners subject to supervisedrelease orders: Scotland",
+                                    "tokenCum": 4663,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 4668,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a terrorist prisoner was sentenced before the coming into force of section1AB of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (the \u201c1993Act\u201d) (inserted by section 3), and",
+                                                    "tokenCum": 4725,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 61,
+                                                    "tokenCount": 61
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the court, on passing sentence, made a supervised release order undersection 209 of the Criminal Procedure (Scotland) Act 1995 (the \u201c1995 Act\u201d) inrespect of the prisoner.",
+                                                    "tokenCum": 4778,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 57,
+                                                    "tokenCount": 57
+                                                }
+                                            ],
+                                            "wordSum": 58,
+                                            "tokenSum": 126,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "If the terrorist prisoner is not released under section 1AB of the 1993 Actuntil the end of the prisoner\u2019s sentence, the supervised release order isrevoked on the prisoner\u2019s release.",
+                                            "tokenCum": 4824,
+                                            "wordSum": 29,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "If the Parole Board for Scotland recommends the release of the terroristprisoner under section 1AB of the 1993 Act before the end of the prisoner\u2019ssentence\u2014",
+                                            "tokenCum": 4866,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Scottish Ministers must release the prisoner unconditionally (despitesection 1AB(4)), and",
+                                                    "tokenCum": 4889,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the supervised release order applies in relation to the prisoner subject tothe modifications in subsection (4).",
+                                                    "tokenCum": 4910,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                }
+                                            ],
+                                            "wordSum": 52,
+                                            "tokenSum": 97,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Where the terrorist prisoner is released under subsection (3), thesupervised release order has effect during the period\u2014",
+                                            "tokenCum": 4935,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "beginning with the day on which the terrorist prisoner is released, and",
+                                                    "tokenCum": 4949,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "ending with whichever of the following is the earlier\u2014",
+                                                    "tokenCum": 4961,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the day on which the supervised release order would, but for section 3 andthis section, have ceased to have effect, and",
+                                                    "tokenCum": 4988,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the end of the prisoner\u2019s sentence,",
+                                                    "tokenCum": 4997,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "and section 209 of the 1995 Act and the supervised release order are to beread accordingly.",
+                                                            "tokenCum": 5023,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 22,
+                                                    "tokenSum": 44,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 81,
+                                            "tokenSum": 137,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "Terms used in this section and defined for the purposes of section 1AB ofthe 1993 Act have the same meaning in this section as in that section.",
+                                            "tokenCum": 5059,
+                                            "wordSum": 27,
+                                            "tokenSum": 39,
+                                            "tokenCount": 39
+                                        }
+                                    ],
+                                    "wordSum": 257,
+                                    "tokenSum": 465,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Consequential amendments: Scotland",
+                                    "tokenCum": 5067,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 11 of the Prisoners and Criminal Proceedings (Scotland) Act 1993(duration of licence) is amended as follows.",
+                                            "tokenCum": 5105,
+                                            "wordSum": 17,
+                                            "tokenSum": 41,
+                                            "tokenCount": 41
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In subsection (3)(a)\u2014",
+                                            "tokenCum": 5114,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "after \u201cuntil\u201d insert\u2014",
+                                                    "tokenCum": 5120,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(i)",
+                                                    "text": "in the case of a person to whom section 1AB applies, the date on which,but for such release, the entire period specified in the prisoner\u2019s sentence(reckoned from the commencement of the sentence) has elapsed, and",
+                                                    "tokenCum": 5171,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "in any other case,\u201d, and",
+                                                    "tokenCum": 5178,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for \u201csuch release\u201d substitute \u201cthe release under section 3(1)\u201d.",
+                                                    "tokenCum": 5195,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                }
+                                            ],
+                                            "wordSum": 55,
+                                            "tokenSum": 109,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After subsection (3) insert\u2014",
+                                            "tokenCum": 5203,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(3ZA)Where a short-term prisoner is released on licence under section 1AB,the licence (unless revoked) remains in force until the entire periodspecified in the prisoner\u2019s sentence (reckoned from the commencement of thesentence) has elapsed.\u201d",
+                                                    "tokenCum": 5266,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 67
+                                                }
+                                            ],
+                                            "wordSum": 37,
+                                            "tokenSum": 78,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 112,
+                                    "tokenSum": 238,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 1348,
+                            "tokenSum": 2842,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Final provision",
+                            "tokenCum": 5268,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Extent, commencement, transitory provision and short title",
+                                    "tokenCum": 5281,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The following extend to England and Wales only\u2014",
+                                            "tokenCum": 5290,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 1 (and Schedule 1), and",
+                                                    "tokenCum": 5301,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sections 2, 5, 6 and 7.",
+                                                    "tokenCum": 5314,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 20,
+                                            "tokenSum": 44,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The following extend to Scotland only\u2014",
+                                            "tokenCum": 5321,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "section 3 (and Schedule 2), and",
+                                                    "tokenCum": 5332,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sections 4, 8 and 9.",
+                                                    "tokenCum": 5342,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 39,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "This section extends to England and Wales and Scotland.",
+                                            "tokenCum": 5352,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "This Act comes into force on the day on which it is passed.",
+                                            "tokenCum": 5366,
+                                            "wordSum": 13,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A reference to any paragraph of Schedule 4 to the Space Industry Act 2018in\u2014",
+                                            "tokenCum": 5389,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "Schedule 19ZA to the Criminal Justice Act 2003 (as inserted by section 1 ofthis Act), or",
+                                                    "tokenCum": 5419,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "Schedule 1A to the Prisoners and Criminal Proceedings (Scotland) Act 1993(as inserted by section 3 of this Act),",
+                                                    "tokenCum": 5457,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "is to be ignored until the paragraph concerned comes into force.",
+                                                            "tokenCum": 5469,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 17,
+                                                            "tokenCount": 17
+                                                        }
+                                                    ],
+                                                    "wordSum": 29,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 41
+                                                }
+                                            ],
+                                            "wordSum": 59,
+                                            "tokenSum": 119,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "This Act may be cited as the Terrorist Offenders (Restriction of EarlyRelease) Act 2020.",
+                                            "tokenCum": 5496,
+                                            "wordSum": 14,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        }
+                                    ],
+                                    "wordSum": 139,
+                                    "tokenSum": 277,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 141,
+                            "tokenSum": 280,
+                            "tokenCount": 2
+                        }
+                    ],
+                    "wordSum": 3104,
+                    "tokenSum": 6118,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3143,
+            "tokenSum": 6238,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2020/3/enacted?view=plain",
+    "title": "Terrorist Offenders (Restriction of Early Release) Act 2020",
+    "longtitle": "An Act to make provision about the release on licence of offenders convicted of terrorist offences or offences with a terrorist connection; and for connected purposes.",
+    "date": "[26th February 2020]",
+    "wordSum": 3143,
+    "tokenSum": 6239,
+    "tokenCount": 0,
+    "totalTokens": 6239
+}

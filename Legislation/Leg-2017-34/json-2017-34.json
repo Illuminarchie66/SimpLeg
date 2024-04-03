@@ -1,0 +1,525 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2017/34/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Northern Ireland Budget Act 2017",
+                    "tokenCum": 54,
+                    "wordSum": 5,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2017 CHAPTER 34",
+                    "tokenCum": 63,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to authorise the issue out of the Consolidated Fund of Northern Irelandof certain sums for the service of the year ending 31 March 2018; toappropriate those sums for specified purposes; to authorise the Department ofFinance in Northern Ireland to borrow on the credit of the appropriated sums;to authorise the use for the public service of certain resources (includingaccruing resources) for the year ending 31 March 2018; and to repeal certainspent provisions.",
+                            "tokenCum": 175,
+                            "wordSum": 73,
+                            "tokenSum": 113,
+                            "tokenCount": 113
+                        }
+                    ],
+                    "wordSum": 76,
+                    "tokenSum": 123,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th November 2017]",
+                    "tokenCum": 186,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 243,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Issue of sum out of the Consolidated Fund for the year ending 31 March2018 and appropriation of that sum",
+                            "tokenCum": 271,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Department may issue out of the Consolidated Fund and apply to theservice of the year ending 31 March 2018 the sum of \u00a316,116,048,000.",
+                                    "tokenCum": 321,
+                                    "wordSum": 24,
+                                    "tokenSum": 52,
+                                    "tokenCount": 52
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "That sum is appropriated for the purposes specified in Schedule 1.",
+                                    "tokenCum": 336,
+                                    "wordSum": 11,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The authorisation and appropriations in this section supersede those madeunder section 59 of the Northern Ireland Act 1998 for that year (which total\u00a312,272,909,000).",
+                                    "tokenCum": 387,
+                                    "wordSum": 23,
+                                    "tokenSum": 53,
+                                    "tokenCount": 53
+                                }
+                            ],
+                            "wordSum": 77,
+                            "tokenSum": 151,
+                            "tokenCount": 28
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Power of the Department of Finance to borrow",
+                            "tokenCum": 396,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Subject to subsection (2), the Department may borrow on the credit of thesum specified in section 1(1) any sum or sums not exceeding in the whole\u00a38,058,024,000.",
+                                    "tokenCum": 448,
+                                    "wordSum": 26,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Any money so borrowed is to be repaid, with any interest due on it, out ofthe Consolidated Fund not later than 31 March 2018.",
+                                    "tokenCum": 487,
+                                    "wordSum": 24,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                }
+                            ],
+                            "wordSum": 58,
+                            "tokenSum": 105,
+                            "tokenCount": 9
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Use of resources (other than accruing resources) in the year ending 31March 2018",
+                            "tokenCum": 512,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "For the purposes of section 6(1) of the 2001 Act, this section authorisesthe use of resources in the year ending 31 March 2018.",
+                                    "tokenCum": 554,
+                                    "wordSum": 23,
+                                    "tokenSum": 44,
+                                    "tokenCount": 44
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The use of resources by\u2014",
+                                    "tokenCum": 560,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Northern Ireland departments;",
+                                            "tokenCum": 566,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Food Standards Agency;",
+                                            "tokenCum": 572,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the Northern Ireland Assembly Commission;",
+                                            "tokenCum": 578,
+                                            "wordSum": 5,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the Northern Ireland Audit Office;",
+                                            "tokenCum": 585,
+                                            "wordSum": 5,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "the Northern Ireland Authority for Utility Regulation;",
+                                            "tokenCum": 596,
+                                            "wordSum": 7,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "the Northern Ireland Public Services Ombudsman;",
+                                            "tokenCum": 607,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "the Public Prosecution Service for Northern Ireland,",
+                                            "tokenCum": 617,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "in that year is authorised to the amount of \u00a318,007,637,000.",
+                                                    "tokenCum": 643,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 17,
+                                            "tokenSum": 43,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 116,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In that year, resources may be used by a Northern Ireland department or abody or person mentioned in subsection (2) for the purposes specified inrelation to that department, body or person in column 1 of Schedule 2 up tothe amounts specified in the corresponding entries in column 2 of thatSchedule.",
+                                    "tokenCum": 708,
+                                    "wordSum": 50,
+                                    "tokenSum": 67,
+                                    "tokenCount": 67
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The authorisations in this section supersede those made under section 7 ofthe 2001 Act for that year (which total \u00a314,935,660,000).",
+                                    "tokenCum": 754,
+                                    "wordSum": 20,
+                                    "tokenSum": 48,
+                                    "tokenCount": 48
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section \u201cresources\u201d does not include accruing resources within themeaning of section 8(1) of the 2001 Act.",
+                                    "tokenCum": 787,
+                                    "wordSum": 18,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                }
+                            ],
+                            "wordSum": 177,
+                            "tokenSum": 336,
+                            "tokenCount": 25
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Limits on use of certain accruing resources in the year ending 31 March2018",
+                            "tokenCum": 809,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "For the purposes of section 8(1) of the 2001 Act, this section sets therelevant limits on the accruing resources that may be directed to be used forcertain purposes in the year ending 31 March 2018 in addition to resourcesauthorised by this Act or any other statutory provision to be used for thosepurposes in that year.",
+                                    "tokenCum": 890,
+                                    "wordSum": 55,
+                                    "tokenSum": 83,
+                                    "tokenCount": 83
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In that year accruing resources not exceeding the amount specified incolumn 3 of Schedule 2 may be directed to be used for the purposes specifiedin the corresponding entries in column 1 of that Schedule.",
+                                    "tokenCum": 935,
+                                    "wordSum": 34,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                }
+                            ],
+                            "wordSum": 102,
+                            "tokenSum": 153,
+                            "tokenCount": 22
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Act to take effect as if it were a Budget Act of the Assembly etc",
+                            "tokenCum": 951,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The authorisations and appropriations in this Act, and the limits set byit, are to take effect as if they were authorisations and appropriations in,and limits set by, an Act of the Assembly; and accordingly any reference inany statutory provision to a Budget Act of the Assembly is to be regarded asincluding a reference to this Act.",
+                                    "tokenCum": 1026,
+                                    "wordSum": 56,
+                                    "tokenSum": 77,
+                                    "tokenCount": 77
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The 2001 Act applies in respect of the year ending 31 March 2018 with thefollowing modifications\u2014",
+                                    "tokenCum": 1055,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 6(4) has effect as if for \u201cif an estimate is approved by theAssembly for that body or person in respect of each financial year\u201d there weresubstituted \u201cif an estimate is laid before Parliament for that body or personin respect of the year ending 31 March 2018\u201d;",
+                                            "tokenCum": 1124,
+                                            "wordSum": 47,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 9(1) has effect as if for \u201cfor which an estimate is approved by theAssembly in respect of a financial year\u201d there were substituted \u201cfor which anestimate is laid before Parliament in respect of the year ending 31 March2018\u201d;",
+                                            "tokenCum": 1183,
+                                            "wordSum": 39,
+                                            "tokenSum": 62,
+                                            "tokenCount": 62
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "section 13(1) has effect as if for \u201cwhere an estimate is approved by theAssembly for any body or person in respect of any financial year\u201d there weresubstituted \u201cwhere an estimate is laid before Parliament for any body orperson in respect of the year ending 31 March 2018\u201d.",
+                                            "tokenCum": 1252,
+                                            "wordSum": 47,
+                                            "tokenSum": 72,
+                                            "tokenCount": 72
+                                        }
+                                    ],
+                                    "wordSum": 149,
+                                    "tokenSum": 237,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of preparing accounts for the year ending 31 March 2018for\u2014",
+                                    "tokenCum": 1274,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Northern Ireland Audit Office (as required by Article 6(3) of the Audit(Northern Ireland) Order 1987), or",
+                                            "tokenCum": 1308,
+                                            "wordSum": 17,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the office of the Northern Ireland Public Services Ombudsman (as requiredby paragraph 19 of Schedule 1 to the Public Services Ombudsman Act (NorthernIreland) 2016),",
+                                            "tokenCum": 1357,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "any estimate of the use of resources for that year that is laid beforeParliament is to be treated as if it had been laid before the Assembly underArticle 6(2) of that Order or (as the case may be) under paragraph 18 ofSchedule 1 to that Act.",
+                                                    "tokenCum": 1419,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                }
+                                            ],
+                                            "wordSum": 70,
+                                            "tokenSum": 118,
+                                            "tokenCount": 51
+                                        }
+                                    ],
+                                    "wordSum": 100,
+                                    "tokenSum": 179,
+                                    "tokenCount": 23
+                                }
+                            ],
+                            "wordSum": 320,
+                            "tokenSum": 510,
+                            "tokenCount": 16
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Repeal of spent provisions",
+                            "tokenCum": 1426,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The following Acts (which are spent) are repealed\u2014",
+                                    "tokenCum": 1439,
+                                    "wordSum": 8,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * Budget Act (Northern Ireland) 2014; ",
+                                    "tokenCum": 1457,
+                                    "wordSum": 6,
+                                    "tokenSum": 20,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * Budget (No. 2) Act (Northern Ireland) 2014. ",
+                                    "tokenCum": 1481,
+                                    "wordSum": 8,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 26,
+                            "tokenSum": 69,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Interpretation ",
+                            "tokenCum": 1485,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 1489,
+                                    "wordSum": 3,
+                                    "tokenSum": 6,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cthe 2001 Act\u201d means the Government Resources and Accounts Act (Northern Ireland) 2001; ",
+                                    "tokenCum": 1521,
+                                    "wordSum": 14,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cthe Consolidated Fund\u201d means the Consolidated Fund of Northern Ireland; ",
+                                    "tokenCum": 1541,
+                                    "wordSum": 11,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cthe Department\u201d means the Department of Finance in Northern Ireland; ",
+                                    "tokenCum": 1558,
+                                    "wordSum": 11,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cNorthern Ireland department\u201d has the same meaning as in the Northern Ireland Act 1998; ",
+                                    "tokenCum": 1584,
+                                    "wordSum": 15,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201cstatutory provision\u201d has the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) 1954. ",
+                                    "tokenCum": 1623,
+                                    "wordSum": 18,
+                                    "tokenSum": 41,
+                                    "tokenCount": 41
+                                }
+                            ],
+                            "wordSum": 73,
+                            "tokenSum": 155,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Short title",
+                            "tokenCum": 1625,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "This Act may be cited as the Northern Ireland Budget Act 2017.",
+                                    "tokenCum": 1644,
+                                    "wordSum": 12,
+                                    "tokenSum": 21,
+                                    "tokenCount": 21
+                                }
+                            ],
+                            "wordSum": 14,
+                            "tokenSum": 24,
+                            "tokenCount": 2
+                        }
+                    ],
+                    "wordSum": 883,
+                    "tokenSum": 1561,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 968,
+            "tokenSum": 1752,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2017/34/enacted?view=plain",
+    "title": "Northern Ireland Budget Act 2017",
+    "longtitle": "An Act to authorise the issue out of the Consolidated Fund of Northern Ireland of certain sums for the service of the year ending 31 March 2018; to appropriate those sums for specified purposes; to authorise the Department of Finance in Northern Ireland to borrow on the credit of the appropriated sums; to authorise the use for the public service of certain resources (including accruing resources) for the year ending 31 March 2018; and to repeal certain spent provisions.",
+    "date": "[16th November 2017]",
+    "wordSum": 968,
+    "tokenSum": 1753,
+    "tokenCount": 0,
+    "totalTokens": 1753
+}

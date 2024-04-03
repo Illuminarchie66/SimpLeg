@@ -1,0 +1,355 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2012/12/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Sunday Trading (London Olympic Games and Paralympic Games) Act 2012",
+                    "tokenCum": 65,
+                    "wordSum": 10,
+                    "tokenSum": 22,
+                    "tokenCount": 21
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2012 CHAPTER 12",
+                    "tokenCum": 74,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to suspend restrictions on Sunday trading hours for the period of theLondon Olympic Games and Paralympic Games; and for connected purposes.",
+                            "tokenCum": 106,
+                            "wordSum": 23,
+                            "tokenSum": 33,
+                            "tokenCount": 33
+                        }
+                    ],
+                    "wordSum": 26,
+                    "tokenSum": 43,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[1st May 2012]",
+                    "tokenCum": 116,
+                    "wordSum": 3,
+                    "tokenSum": 11,
+                    "tokenCount": 10
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 173,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Suspension of restriction on Sunday trading hours",
+                            "tokenCum": 183,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Paragraph 2(1) of Schedule 1 to the Sunday Trading Act 1994 (whichrestricts Sunday opening at large shops) does not apply during the suspensionperiod.",
+                                    "tokenCum": 227,
+                                    "wordSum": 23,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "But Schedule 3 to that Act (which restricts loading and unloading at largeshops on Sunday mornings) is to apply during the suspension period to any shopto which it would apply during that period were it not for the disapplicationmade by subsection (1).",
+                                    "tokenCum": 287,
+                                    "wordSum": 42,
+                                    "tokenSum": 62,
+                                    "tokenCount": 62
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "\u201cThe suspension period\u201d means the part of the London Olympics period which\u2014",
+                                    "tokenCum": 303,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "begins with Sunday 22 July 2012, and",
+                                            "tokenCum": 317,
+                                            "wordSum": 7,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "ends with Sunday 9 September 2012.",
+                                            "tokenCum": 329,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 50,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "\u201cThe London Olympics period\u201d has the same meaning as in the London OlympicGames and Paralympic Games Act 2006 (see section 1(3) of that Act).",
+                                    "tokenCum": 370,
+                                    "wordSum": 24,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                }
+                            ],
+                            "wordSum": 121,
+                            "tokenSum": 212,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Opting out of Sunday work",
+                            "tokenCum": 376,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Where a shop worker gives an opting-out notice in the pre-Games period thatrelates to work at an exempted large shop, section 41(3) of the EmploymentRights Act 1996 has effect as if the notice period in relation to the shopworker were the period which\u2014",
+                                    "tokenCum": 444,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "begins with the day on which the notice is given, and",
+                                            "tokenCum": 456,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "ends two months after that day, or with Saturday 21 July 2012 (if that islater).",
+                                            "tokenCum": 482,
+                                            "wordSum": 15,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 69,
+                                    "tokenSum": 114,
+                                    "tokenCount": 69
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Section 42(2) of that Act accordingly has effect in relation to the shopworker as if the reference to three months were a reference to the noticeperiod as it is modified by subsection (1).",
+                                    "tokenCum": 525,
+                                    "wordSum": 33,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Where the opting-out notice includes an express statement to the effectthat the shop worker objects to Sunday working only during the suspensionperiod, the shop worker is to be treated for the purposes of that Act ashaving given an opting-in notice at the end of that period.",
+                                    "tokenCum": 583,
+                                    "wordSum": 46,
+                                    "tokenSum": 60,
+                                    "tokenCount": 60
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The \u201cpre-Games period\u201d is the period which\u2014",
+                                    "tokenCum": 596,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "begins with the day on which this Act is passed, and",
+                                            "tokenCum": 608,
+                                            "wordSum": 11,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "ends with Monday 9 July 2012.",
+                                            "tokenCum": 620,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 45,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "An \u201cexempted large shop\u201d is a shop to which paragraph 2(1) of Schedule 1 tothe Sunday Trading Act 1994 would apply during the suspension period were itnot for the disapplication made by section 1(1).",
+                                    "tokenCum": 677,
+                                    "wordSum": 34,
+                                    "tokenSum": 59,
+                                    "tokenCount": 59
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 681,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201copting-in notice\u201d, \u201copting-out notice\u201d and \u201cshop worker\u201d each have the same meaning as in the Employment Rights Act 1996, and ",
+                                            "tokenCum": 722,
+                                            "wordSum": 21,
+                                            "tokenSum": 44,
+                                            "tokenCount": 44
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201csuspension period\u201d has the meaning given in section 1(3). ",
+                                            "tokenCum": 743,
+                                            "wordSum": 10,
+                                            "tokenSum": 24,
+                                            "tokenCount": 24
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 74,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 245,
+                            "tokenSum": 404,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Duration, transitional provision, extent and short title",
+                            "tokenCum": 754,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Sections 1 and 2 are repealed immediately after the end of the suspensionperiod (as defined by section 1(3)).",
+                                    "tokenCum": 783,
+                                    "wordSum": 18,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Subsection (3) applies in a case within section 2 where\u2014",
+                                    "tokenCum": 798,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the opting-out notice was given less than three months before the end ofthe suspension period, and",
+                                            "tokenCum": 820,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "section 42(2) of the Employment Rights Act 1996 (which sets out the case inwhich the notice period is to be one month beginning with the day on which thenotice was given) does not apply.",
+                                            "tokenCum": 870,
+                                            "wordSum": 34,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 95,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "For the purposes of section 41(3) of that Act, the notice period (which, asa result of the repeal made by subsection (1), reverts to being the period ofthree months beginning with the day on which the notice was given) is to betreated as ending immediately after that repeal.",
+                                    "tokenCum": 937,
+                                    "wordSum": 48,
+                                    "tokenSum": 69,
+                                    "tokenCount": 69
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act extends to England and Wales only.",
+                                    "tokenCum": 946,
+                                    "wordSum": 8,
+                                    "tokenSum": 11,
+                                    "tokenCount": 11
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "This Act may be cited as the Sunday Trading (London Olympic Games andParalympic Games) Act 2012.",
+                                    "tokenCum": 976,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 976,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 16,
+                                    "tokenSum": 35,
+                                    "tokenCount": 31
+                                }
+                            ],
+                            "wordSum": 157,
+                            "tokenSum": 253,
+                            "tokenCount": 11
+                        }
+                    ],
+                    "wordSum": 559,
+                    "tokenSum": 927,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 599,
+            "tokenSum": 1048,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2012/12/enacted?view=plain",
+    "title": "Sunday Trading (London Olympic Games and Paralympic Games) Act 2012",
+    "longtitle": "An Act to suspend restrictions on Sunday trading hours for the period of the London Olympic Games and Paralympic Games; and for connected purposes.",
+    "date": "[1st May 2012]",
+    "wordSum": 599,
+    "tokenSum": 1049,
+    "tokenCount": 0,
+    "totalTokens": 1049
+}

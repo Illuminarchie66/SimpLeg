@@ -1,0 +1,726 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2014/24/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "House of Lords Reform Act 2014",
+                    "tokenCum": 55,
+                    "wordSum": 6,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2014 CHAPTER 24",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision for resignation from the House of Lords; and to makeprovision for the expulsion of Members of the House of Lords in specifiedcircumstances.",
+                            "tokenCum": 104,
+                            "wordSum": 27,
+                            "tokenSum": 41,
+                            "tokenCount": 41
+                        }
+                    ],
+                    "wordSum": 30,
+                    "tokenSum": 51,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[14th May 2014]",
+                    "tokenCum": 115,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 172,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Resignation ",
+                            "tokenCum": 175,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A member of the House of Lords who is a peer may retire or otherwise resignas a member of the House of Lords by giving notice in writing to the Clerk ofthe Parliaments.",
+                                    "tokenCum": 218,
+                                    "wordSum": 33,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The notice must\u2014",
+                                    "tokenCum": 222,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specify a date from which the resignation is to take effect, and",
+                                            "tokenCum": 236,
+                                            "wordSum": 12,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "be signed by the peer and by a witness.",
+                                            "tokenCum": 246,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 24,
+                                    "tokenSum": 36,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "At the beginning of that date the peer ceases to be a member of the Houseof Lords.",
+                                    "tokenCum": 267,
+                                    "wordSum": 17,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Resignation may not be rescinded.",
+                                    "tokenCum": 277,
+                                    "wordSum": 5,
+                                    "tokenSum": 12,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 80,
+                            "tokenSum": 120,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Non-attendance ",
+                            "tokenCum": 282,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A member of the House of Lords who is a peer and does not attend the Houseof Lords during a Session ceases to be a member of the House at the beginningof the following Session.",
+                                    "tokenCum": 323,
+                                    "wordSum": 35,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A peer \u201cdoes not attend the House of Lords during a Session\u201d if, and onlyif, the Lord Speaker certifies that the peer\u2014",
+                                    "tokenCum": 354,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "at no time during the Session attended the House, having regard toattendance records kept by officials of the House, and",
+                                            "tokenCum": 378,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "did not have leave of absence in respect of the Session, in accordance withStanding Orders of the House.",
+                                            "tokenCum": 402,
+                                            "wordSum": 18,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 87,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Subsection (1) does not apply to a peer in respect of attendance during aSession if\u2014",
+                                    "tokenCum": 423,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the peer was disqualified from sitting or voting in the House, or suspendedfrom its service, for the whole of the Session, or",
+                                            "tokenCum": 452,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the House resolves that subsection (1) should not apply to the peer byreason of special circumstances.",
+                                            "tokenCum": 474,
+                                            "wordSum": 16,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 80,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Subsection (1) does not apply in respect of attendance during a Sessionthat is less than six months long.",
+                                    "tokenCum": 498,
+                                    "wordSum": 18,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In this section a reference to attendance is a reference to attending theproceedings of the House (including the proceedings of a Committee of theHouse).",
+                                    "tokenCum": 532,
+                                    "wordSum": 24,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "This section applies in respect of attendance during the first Session tobegin after its coming into force and subsequent Sessions.",
+                                    "tokenCum": 556,
+                                    "wordSum": 20,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                }
+                            ],
+                            "wordSum": 211,
+                            "tokenSum": 304,
+                            "tokenCount": 5
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Conviction of serious offence",
+                            "tokenCum": 563,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A member of the House of Lords who is convicted of a serious offence ceasesto be a member of the House of Lords.",
+                                    "tokenCum": 593,
+                                    "wordSum": 23,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A person \u201cis convicted of a serious offence\u201d if, and only if, the LordSpeaker certifies that the person, while a member of the House of Lords, hasbeen\u2014",
+                                    "tokenCum": 635,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "convicted of a criminal offence, and",
+                                            "tokenCum": 644,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "sentenced or ordered to be imprisoned or detained indefinitely or for morethan one year.",
+                                            "tokenCum": 666,
+                                            "wordSum": 14,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 47,
+                                    "tokenSum": 81,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "It is irrelevant for the purposes of subsection (2)\u2014",
+                                    "tokenCum": 679,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "whether the offence is committed at a time when the person is a member ofthe House of Lords;",
+                                            "tokenCum": 701,
+                                            "wordSum": 18,
+                                            "tokenSum": 25,
+                                            "tokenCount": 25
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "whether any of the offence, conviction, sentence, order, imprisonment ordetention occurs in the United Kingdom or elsewhere; (but see subsection (9)).",
+                                            "tokenCum": 736,
+                                            "wordSum": 21,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 78,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The reference in subsection (2) to an offence is only to an offencecommitted on or after the day on which this section comes into force.",
+                                    "tokenCum": 769,
+                                    "wordSum": 25,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The reference in subsection (2) to a person being sentenced or ordered tobe imprisoned or detained indefinitely or for more than one year does notinclude such a sentence or order where the sentence or order is suspended.",
+                                    "tokenCum": 818,
+                                    "wordSum": 37,
+                                    "tokenSum": 51,
+                                    "tokenCount": 51
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A certificate under subsection (2) takes effect when it is issued.",
+                                    "tokenCum": 833,
+                                    "wordSum": 11,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "If a person who has ceased to be a member of the House of Lords inaccordance with this section is successful on appeal\u2014",
+                                    "tokenCum": 861,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Lord Speaker must issue a further certificate to that effect, and",
+                                            "tokenCum": 875,
+                                            "wordSum": 12,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "on the issue of that certificate, the original certificate under subsection(2) shall be treated for the purposes of this Act as never having had effect.",
+                                            "tokenCum": 906,
+                                            "wordSum": 25,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 60,
+                                    "tokenSum": 81,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "A person who has ceased to be a member of the House of Lords in accordancewith this section \u201cis successful on appeal\u201d if, and only if, the Lord Speakercertifies that\u2014",
+                                    "tokenCum": 947,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the conviction certified under subsection (2)(a) has been quashed, or",
+                                            "tokenCum": 966,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the sentence or order certified under subsection (2)(b) has been\u2014",
+                                            "tokenCum": 983,
+                                            "wordSum": 10,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "varied so that it is no longer a sentence or order that the person beimprisoned or detained indefinitely or for more than one year within themeaning of subsection (2)(b), or",
+                                            "tokenCum": 1026,
+                                            "wordSum": 30,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "replaced with another sentence or order that is not a sentence or orderthat the person be so imprisoned or detained.",
+                                            "tokenCum": 1050,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 100,
+                                    "tokenSum": 158,
+                                    "tokenCount": 42
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "A certificate under subsection (2) in respect of a conviction outside theUnited Kingdom may be issued only if the House of Lords resolves thatsubsection (1) should apply; and where the House does so resolve the LordSpeaker must issue the certificate.",
+                                    "tokenCum": 1105,
+                                    "wordSum": 40,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                }
+                            ],
+                            "wordSum": 395,
+                            "tokenSum": 598,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Effect of ceasing to be a member",
+                            "tokenCum": 1113,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This section applies where a person ceases to be a member of the House ofLords in accordance with this Act.",
+                                    "tokenCum": 1138,
+                                    "wordSum": 20,
+                                    "tokenSum": 27,
+                                    "tokenCount": 27
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The person becomes disqualified from attending the proceedings of the Houseof Lords (including the proceedings of a Committee of the House).",
+                                    "tokenCum": 1168,
+                                    "wordSum": 21,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Accordingly, the person shall not be entitled to receive a writ to attendthe House (whether under section 1 of the Life Peerages Act 1958, by virtue ofthe dignity conferred by virtue of appointment as a Lord of Appeal inOrdinary, by virtue of a hereditary peerage or as a Lord Spiritual) and maynot attend the House in pursuance of a writ already received.",
+                                    "tokenCum": 1260,
+                                    "wordSum": 62,
+                                    "tokenSum": 94,
+                                    "tokenCount": 94
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "If the person is a hereditary peer who is excepted from section 1 of theHouse of Lords Act 1999 by virtue of section 2 of that Act, the person ceasesto be excepted from section 1 of that Act (and accordingly section 3 of thatAct applies (removal of disqualification on voting in parliamentary electionsor being an MP)).",
+                                    "tokenCum": 1343,
+                                    "wordSum": 56,
+                                    "tokenSum": 85,
+                                    "tokenCount": 85
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "If the person is a peer other than a hereditary peer, the person is not, byvirtue of that peerage, disqualified for\u2014",
+                                    "tokenCum": 1375,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "voting at elections to the House of Commons, or",
+                                            "tokenCum": 1385,
+                                            "wordSum": 9,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "being, or being elected as, a member of that House.",
+                                            "tokenCum": 1398,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 63,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In relation to a peer who ceases to be a member of the House of Lords inaccordance with this Act, any reference in section 1(3) or (4)(b) of theRepresentation of the People Act 1985 to a register of parliamentary electorsis to be read as including\u2014",
+                                    "tokenCum": 1467,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any register of local government electors in Great Britain, and",
+                                            "tokenCum": 1479,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any register of local electors in Northern Ireland,",
+                                            "tokenCum": 1489,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "which was required to be published on any date before the date on which thepeer ceased to be a member.",
+                                                    "tokenCum": 1512,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 28,
+                                            "tokenSum": 40,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 83,
+                                    "tokenSum": 126,
+                                    "tokenCount": 70
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Standing Orders of the House required by section 2(4) of the House ofLords Act 1999 (filling of vacancies) must make provision requiring theholding of a by-election to fill any vacancy which arises under this Act amongthe people excepted from section 1 of that Act in consequence of an election.",
+                                    "tokenCum": 1590,
+                                    "wordSum": 50,
+                                    "tokenSum": 80,
+                                    "tokenCount": 80
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "Subject to section 3(7), a person who ceases to be a member of the House ofLords in accordance with this Act may not subsequently become a member of thatHouse.",
+                                    "tokenCum": 1631,
+                                    "wordSum": 29,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                }
+                            ],
+                            "wordSum": 368,
+                            "tokenSum": 559,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Certificate of Lord Speaker",
+                            "tokenCum": 1637,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A certificate of the Lord Speaker under this Act shall be conclusive forall purposes.",
+                                    "tokenCum": 1654,
+                                    "wordSum": 14,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "A certificate may be issued on the Lord Speaker\u2019s own initiative.",
+                                    "tokenCum": 1670,
+                                    "wordSum": 11,
+                                    "tokenSum": 18,
+                                    "tokenCount": 18
+                                }
+                            ],
+                            "wordSum": 29,
+                            "tokenSum": 44,
+                            "tokenCount": 6
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Interpretation ",
+                            "tokenCum": 1674,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "For the purposes of this Act a person is a member of the House of Lords ifthe person is entitled to receive writs of summons to attend that House.",
+                                    "tokenCum": 1708,
+                                    "wordSum": 29,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In determining whether a person is so entitled, ignore\u2014",
+                                    "tokenCum": 1720,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "section 2 of the Forfeiture Act 1870 (disqualification on conviction oftreason);",
+                                            "tokenCum": 1745,
+                                            "wordSum": 11,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "sections 426A and 427 of the Insolvency Act 1986 (disqualification oninsolvency);",
+                                            "tokenCum": 1778,
+                                            "wordSum": 11,
+                                            "tokenSum": 36,
+                                            "tokenCount": 36
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "regulation 4 of the European Parliament (House of Lords Disqualification)Regulations 2008 ([S.I. 2008/1647](/id/uksi/2008/1647?view=plain \"Go to itemof legislation\")) (disqualification where MEP).",
+                                            "tokenCum": 1853,
+                                            "wordSum": 20,
+                                            "tokenSum": 78,
+                                            "tokenCount": 78
+                                        }
+                                    ],
+                                    "wordSum": 51,
+                                    "tokenSum": 156,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "In this Act \u201cpeer\u201d includes a person upon whom a dignity has been conferredby virtue of appointment as a Lord of Appeal in Ordinary.",
+                                    "tokenCum": 1887,
+                                    "wordSum": 24,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                }
+                            ],
+                            "wordSum": 105,
+                            "tokenSum": 233,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Short title, commencement and extent",
+                            "tokenCum": 1895,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the House of Lords Reform Act 2014.",
+                                    "tokenCum": 1915,
+                                    "wordSum": 13,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Sections 1 and 2 of this Act shall come into force at the end of the periodof three months beginning with the day on which this Act is passed.",
+                                    "tokenCum": 1949,
+                                    "wordSum": 29,
+                                    "tokenSum": 36,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The remaining provisions of this Act shall come into force on the day onwhich this Act is passed.",
+                                    "tokenCum": 1970,
+                                    "wordSum": 18,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "This Act extends to England and Wales, Scotland and Northern Ireland.",
+                                    "tokenCum": 1983,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 1983,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 11,
+                                    "tokenSum": 18,
+                                    "tokenCount": 14
+                                }
+                            ],
+                            "wordSum": 76,
+                            "tokenSum": 108,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 1300,
+                    "tokenSum": 2024,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1340,
+            "tokenSum": 2144,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2014/24/enacted?view=plain",
+    "title": "House of Lords Reform Act 2014",
+    "longtitle": "An Act to make provision for resignation from the House of Lords; and to make provision for the expulsion of Members of the House of Lords in specified circumstances.",
+    "date": "[14th May 2014]",
+    "wordSum": 1340,
+    "tokenSum": 2145,
+    "tokenCount": 0,
+    "totalTokens": 2145
+}

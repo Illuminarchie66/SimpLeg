@@ -1,0 +1,941 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2019/14/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Healthcare (European Economic Area and Switzerland Arrangements) Act 2019",
+                    "tokenCum": 64,
+                    "wordSum": 9,
+                    "tokenSum": 21,
+                    "tokenCount": 20
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2019 CHAPTER 14",
+                    "tokenCum": 73,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about paying and arranging for healthcare provided inan EEA state or Switzerland and giving effect to healthcare agreements withsuch countries; and for connected purposes.",
+                            "tokenCum": 113,
+                            "wordSum": 29,
+                            "tokenSum": 41,
+                            "tokenCount": 41
+                        }
+                    ],
+                    "wordSum": 32,
+                    "tokenSum": 51,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[26th March 2019]",
+                    "tokenCum": 124,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 181,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Power to make healthcare payments",
+                            "tokenCum": 188,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "The Secretary of State may make payments, and arrange for payments to be made,in respect of the cost of healthcare provided in an EEA state or Switzerland.",
+                                    "tokenCum": 225,
+                                    "wordSum": 27,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                }
+                            ],
+                            "wordSum": 32,
+                            "tokenSum": 47,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Healthcare and healthcare agreements",
+                            "tokenCum": 232,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State may by regulations make provision\u2014",
+                                    "tokenCum": 243,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "in relation to the exercise of the power conferred by section 1;",
+                                            "tokenCum": 258,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "for and in connection with the provision of healthcare in an EEA state orSwitzerland;",
+                                            "tokenCum": 278,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "to give effect to a healthcare agreement.",
+                                            "tokenCum": 287,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 66,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Regulations under subsection (1) may only do one or more of the followingthings\u2014",
+                                    "tokenCum": 307,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specify or describe levels of payments and how they are to be calculated;",
+                                            "tokenCum": 322,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "specify or describe persons in respect of whom payments and provision maybe made;",
+                                            "tokenCum": 337,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "specify or describe the types of healthcare in respect of which paymentsand provision may be made;",
+                                            "tokenCum": 357,
+                                            "wordSum": 16,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "make provision about set-off arrangements between countries or territories;",
+                                            "tokenCum": 371,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "make provision about reimbursement levels (which may include caps);",
+                                            "tokenCum": 385,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(f)",
+                                            "text": "specify or describe evidential or administrative requirements or processes;",
+                                            "tokenCum": 396,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(g)",
+                                            "text": "make provision about appeals;",
+                                            "tokenCum": 402,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(h)",
+                                            "text": "confer functions (including conferring a discretion);",
+                                            "tokenCum": 413,
+                                            "wordSum": 6,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "provide for the delegation of functions.",
+                                            "tokenCum": 421,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 98,
+                                    "tokenSum": 163,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "But regulations under subsection (1) may not confer functions on, orprovide for the delegation of functions to, a person who is not a publicauthority.",
+                                    "tokenCum": 457,
+                                    "wordSum": 24,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The Secretary of State may give directions to a person about the exerciseof any functions exercisable by the person by virtue of regulations undersubsection (1).",
+                                    "tokenCum": 490,
+                                    "wordSum": 25,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State may vary or revoke directions given under subsection(4).",
+                                    "tokenCum": 507,
+                                    "wordSum": 12,
+                                    "tokenSum": 19,
+                                    "tokenCount": 19
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In this section \u201cpublic authority\u201d means a person who exercises functionsof a public nature (but does not include a person who does so only because ofexercising functions on behalf of another).",
+                                    "tokenCum": 551,
+                                    "wordSum": 31,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "No regulations may be made under subsection (1)(a) or (b) after the end ofthe period of five years beginning with exit day.",
+                                    "tokenCum": 583,
+                                    "wordSum": 22,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                }
+                            ],
+                            "wordSum": 258,
+                            "tokenSum": 409,
+                            "tokenCount": 7
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Meaning of \u201chealthcare\u201d and \u201chealthcare agreement\u201d",
+                            "tokenCum": 598,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In this Act\u2014",
+                                    "tokenCum": 602,
+                                    "wordSum": 3,
+                                    "tokenSum": 6,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201chealthcare\u201d means all forms of healthcare provided for individuals, whether relating to mental or physical health, and includes related ancillary care; ",
+                                    "tokenCum": 637,
+                                    "wordSum": 22,
+                                    "tokenSum": 37,
+                                    "tokenCount": 37
+                                },
+                                {
+                                    "type": "Bullet point",
+                                    "prefix": "*",
+                                    "text": "  * \u201chealthcare agreement\u201d means an agreement made between the government of the United Kingdom and either the government of an EEA state or Switzerland or an international organisation, concerning either or both of the following\u2014 ",
+                                    "tokenCum": 682,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "healthcare provided in an EEA state or Switzerland, payments in respect ofwhich may be made by the government of the United Kingdom;",
+                                            "tokenCum": 682,
+                                            "wordSum": 22,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "healthcare provided in the United Kingdom, payments in respect of which may bemade by an EEA state or Switzerland;",
+                                            "tokenCum": 711,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cinternational organisation\u201d means an organisation of which\u2014 ",
+                                                    "tokenCum": 751,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 47,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "two or more sovereign powers are members, or",
+                                            "tokenCum": 751,
+                                            "wordSum": 8,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the governments of two or more sovereign powers are members.",
+                                            "tokenCum": 762,
+                                            "wordSum": 10,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 102,
+                                    "tokenSum": 157,
+                                    "tokenCount": 46
+                                }
+                            ],
+                            "wordSum": 133,
+                            "tokenSum": 216,
+                            "tokenCount": 15
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Data processing",
+                            "tokenCum": 778,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "An authorised person may process personal data held by the person inconnection with any of the person\u2019s functions where that person considers itnecessary for the purposes of implementing, operating or facilitating thedoing of anything under or by virtue of this Act.",
+                                    "tokenCum": 832,
+                                    "wordSum": 41,
+                                    "tokenSum": 56,
+                                    "tokenCount": 56
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The processing of personal data in accordance with subsection (1) does notbreach\u2014",
+                                    "tokenCum": 851,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any obligation of confidence owed by the person processing the personaldata, or",
+                                            "tokenCum": 867,
+                                            "wordSum": 12,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any other restriction on the processing of personal data (however imposed).",
+                                            "tokenCum": 882,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 58,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "But nothing in subsection (1) authorises the processing of personal datawhich\u2014",
+                                    "tokenCum": 899,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "contravenes the data protection legislation, or",
+                                            "tokenCum": 909,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of theInvestigatory Powers Act 2016.",
+                                            "tokenCum": 944,
+                                            "wordSum": 20,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 70,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Until the repeal of Part 1 of the Regulation of Investigatory Powers Act2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act2016 is fully in force, subsection (3)(b) has effect as if it included areference to that Part.",
+                                    "tokenCum": 1017,
+                                    "wordSum": 42,
+                                    "tokenSum": 75,
+                                    "tokenCount": 75
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Subsection (1) does not limit the circumstances in which personal data maybe processed apart from this section.",
+                                    "tokenCum": 1038,
+                                    "wordSum": 17,
+                                    "tokenSum": 23,
+                                    "tokenCount": 23
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1042,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cauthorised person\u201d means\u2014 ",
+                                            "tokenCum": 1052,
+                                            "wordSum": 4,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the Secretary of State, the Treasury, the Commissioners for Her Majesty\u2019sRevenue and Customs, the Scottish Ministers, the Welsh Ministers and aNorthern Ireland department;",
+                                            "tokenCum": 1052,
+                                            "wordSum": 23,
+                                            "tokenSum": 45,
+                                            "tokenCount": 45
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an NHS body (as defined in section 275 of the National Health Service Act 2006or in section 206 of the National Health Service (Wales) Act 2006);",
+                                            "tokenCum": 1094,
+                                            "wordSum": 26,
+                                            "tokenSum": 50,
+                                            "tokenCount": 50
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a health service body listed in section 17A(2)(a) to (e) of the NationalHealth Service (Scotland) Act 1978 or in article 8(2)(a) to (e) of the Healthand Personal Social Services (Northern Ireland) Order 1991 ([S.R. & O. (N.I.)1991 No. 194](/id/nisi/1991/194?view=plain \"Go to item of legislation\"));",
+                                            "tokenCum": 1141,
+                                            "wordSum": 44,
+                                            "tokenSum": 122,
+                                            "tokenCount": 122
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "a provider of healthcare (not falling within paragraph (b) or (c));",
+                                            "tokenCum": 1260,
+                                            "wordSum": 11,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "any other person authorised, or falling within a description of personsauthorised, by regulations made by the Secretary of State for the purposes ofthis section;",
+                                            "tokenCum": 1277,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cthe data protection legislation\u201d has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act); ",
+                                                    "tokenCum": 1344,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                },
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201cpersonal data\u201d has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act). ",
+                                                    "tokenCum": 1377,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                }
+                                            ],
+                                            "wordSum": 66,
+                                            "tokenSum": 111,
+                                            "tokenCount": 34
+                                        }
+                                    ],
+                                    "wordSum": 177,
+                                    "tokenSum": 367,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 351,
+                            "tokenSum": 652,
+                            "tokenCount": 2
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "Requirement for consultation with devolved authorities",
+                            "tokenCum": 1388,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Before making regulations under section 2 that contain provision which iswithin the legislative competence of a devolved legislature, the Secretary ofState must consult the relevant devolved authority on that provision.",
+                                    "tokenCum": 1432,
+                                    "wordSum": 30,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 1436,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cdevolved authority\u201d means the Scottish Ministers, the Welsh Ministers or a Northern Ireland department; ",
+                                            "tokenCum": 1462,
+                                            "wordSum": 15,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cdevolved legislature\u201d means the Scottish Parliament, the National Assembly for Wales or the Northern Ireland Assembly. ",
+                                            "tokenCum": 1488,
+                                            "wordSum": 17,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 64,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A provision is within the legislative competence of a devolved legislatureif\u2014",
+                                    "tokenCum": 1506,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "it would be within the legislative competence of the Scottish Parliament ifit were contained in an Act of the Scottish Parliament;",
+                                            "tokenCum": 1531,
+                                            "wordSum": 21,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "it would be within the legislative competence of the National Assembly forWales if it were contained in an Act of the Assembly (including any provisionthat could only be made with the consent of a Minister of the Crown); or",
+                                            "tokenCum": 1577,
+                                            "wordSum": 39,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the provision, if it were contained in an Act of the Northern IrelandAssembly\u2014",
+                                            "tokenCum": 1593,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "would be within the legislative competence of the Assembly, and",
+                                            "tokenCum": 1606,
+                                            "wordSum": 10,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "would not require the consent of the Secretary of State.",
+                                            "tokenCum": 1617,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 104,
+                                    "tokenSum": 146,
+                                    "tokenCount": 19
+                                }
+                            ],
+                            "wordSum": 175,
+                            "tokenSum": 268,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Report on payments made under this Act",
+                            "tokenCum": 1625,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must, in relation to each relevant period\u2014",
+                                    "tokenCum": 1638,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "prepare a report in accordance with this section, and",
+                                            "tokenCum": 1649,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "lay the report before Parliament as soon as practicable after the end ofthe period.",
+                                            "tokenCum": 1667,
+                                            "wordSum": 14,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 50,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Each report must give details of payments made under the powers conferredby or under this Act.",
+                                    "tokenCum": 1687,
+                                    "wordSum": 16,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "\u201cRelevant period\u201d means\u2014",
+                                    "tokenCum": 1694,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "the period beginning with the day on which this Act is passed and endingwith the end of the first financial year to begin after exit day;",
+                                            "tokenCum": 1722,
+                                            "wordSum": 26,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "each subsequent period of 12 months.",
+                                            "tokenCum": 1731,
+                                            "wordSum": 6,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 35,
+                                    "tokenSum": 52,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "\u201cFinancial year\u201d means the period of 12 months beginning with 1 April.",
+                                    "tokenCum": 1751,
+                                    "wordSum": 12,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                }
+                            ],
+                            "wordSum": 104,
+                            "tokenSum": 155,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Regulations and directions",
+                            "tokenCum": 1755,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "A power to make regulations under this Act is exercisable by statutoryinstrument.",
+                                    "tokenCum": 1775,
+                                    "wordSum": 12,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Regulations and directions under this Act may\u2014",
+                                    "tokenCum": 1784,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "make different provision for different purposes;",
+                                            "tokenCum": 1791,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "be made for all cases to which the power in question applies, for thosecases subject to specified exceptions or for any specified cases ordescriptions of case;",
+                                            "tokenCum": 1823,
+                                            "wordSum": 26,
+                                            "tokenSum": 35,
+                                            "tokenCount": 35
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "make any provision either unconditionally or subject to specifiedconditions;",
+                                            "tokenCum": 1837,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "provide for a person to exercise a discretion in dealing with any matter;",
+                                            "tokenCum": 1853,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(e)",
+                                            "text": "include consequential, supplementary, incidental, transitional, transitoryor saving provision.",
+                                            "tokenCum": 1873,
+                                            "wordSum": 8,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 69,
+                                    "tokenSum": 115,
+                                    "tokenCount": 10
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Regulations under this Act may amend, repeal or revoke retained EU law thatis not primary legislation.",
+                                    "tokenCum": 1897,
+                                    "wordSum": 16,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A statutory instrument which contains (whether alone or with otherprovision) regulations under section 4(6) may not be made unless a draft ofthe instrument has been laid before Parliament and approved by a resolution ofeach House.",
+                                    "tokenCum": 1947,
+                                    "wordSum": 35,
+                                    "tokenSum": 52,
+                                    "tokenCount": 52
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Any other statutory instrument which contains regulations under this Act issubject to annulment in pursuance of a resolution of either House ofParliament.",
+                                    "tokenCum": 1980,
+                                    "wordSum": 22,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In this section \u201cprimary legislation\u201d means\u2014",
+                                    "tokenCum": 1990,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "an Act;",
+                                            "tokenCum": 1993,
+                                            "wordSum": 2,
+                                            "tokenSum": 6,
+                                            "tokenCount": 6
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "an Act of the Scottish Parliament;",
+                                            "tokenCum": 2000,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "a Measure or Act of the National Assembly for Wales;",
+                                            "tokenCum": 2012,
+                                            "wordSum": 10,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "Northern Ireland legislation.",
+                                            "tokenCum": 2017,
+                                            "wordSum": 3,
+                                            "tokenSum": 8,
+                                            "tokenCount": 8
+                                        }
+                                    ],
+                                    "wordSum": 27,
+                                    "tokenSum": 51,
+                                    "tokenCount": 11
+                                }
+                            ],
+                            "wordSum": 184,
+                            "tokenSum": 306,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Extent, commencement and short title",
+                            "tokenCum": 2026,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act extends to England and Wales, Scotland and Northern Ireland.",
+                                    "tokenCum": 2039,
+                                    "wordSum": 11,
+                                    "tokenSum": 15,
+                                    "tokenCount": 15
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act comes into force on the day it is passed.",
+                                    "tokenCum": 2051,
+                                    "wordSum": 11,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "This Act may be cited as the Healthcare (European Economic Area andSwitzerland Arrangements) Act 2019.",
+                                    "tokenCum": 2081,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 2081,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 15,
+                                    "tokenSum": 35,
+                                    "tokenCount": 31
+                                }
+                            ],
+                            "wordSum": 42,
+                            "tokenSum": 74,
+                            "tokenCount": 9
+                        }
+                    ],
+                    "wordSum": 1315,
+                    "tokenSum": 2185,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 1360,
+            "tokenSum": 2314,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2019/14/enacted?view=plain",
+    "title": "Healthcare (European Economic Area and Switzerland Arrangements) Act 2019",
+    "longtitle": "An Act to make provision about paying and arranging for healthcare provided in an EEA state or Switzerland and giving effect to healthcare agreements with such countries; and for connected purposes. ",
+    "date": "[26th March 2019]",
+    "wordSum": 1360,
+    "tokenSum": 2315,
+    "tokenCount": 0,
+    "totalTokens": 2315
+}

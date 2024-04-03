@@ -1,0 +1,324 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2005/24/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Regulation of Financial Services (Land Transactions) Act 2005",
+                    "tokenCum": 62,
+                    "wordSum": 8,
+                    "tokenSum": 19,
+                    "tokenCount": 18
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2005 CHAPTER 24",
+                    "tokenCum": 71,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to enable activities relating to certain arrangements involving theacquisition or disposal of land to be regulated under the Financial Servicesand Markets Act 2000.",
+                            "tokenCum": 111,
+                            "wordSum": 25,
+                            "tokenSum": 41,
+                            "tokenCount": 41
+                        }
+                    ],
+                    "wordSum": 28,
+                    "tokenSum": 51,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[19th December 2005]",
+                    "tokenCum": 122,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 179,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Financial Services and Markets Act 2000: regulated activities",
+                            "tokenCum": 196,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "In Part 2 of Schedule 2 to the Financial Services and Markets Act [2000 (c.8)](/id/ukpga/2000/8?view=plain \"Go to item of legislation\") (regulatedactivities_investments), after paragraph 23 there is inserted\u2014",
+                                    "tokenCum": 269,
+                                    "wordSum": 27,
+                                    "tokenSum": 75,
+                                    "tokenCount": 75
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201cOther finance arrangements involving land",
+                                    "tokenCum": 277,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "23A(1)Rights under any arrangement for the provision of finance under whichthe person providing the finance either\u2014",
+                                            "tokenCum": 306,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "acquires a major interest in land from the person to whom the finance isprovided, or",
+                                                    "tokenCum": 326,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 24,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "disposes of a major interest in land to that person,",
+                                                    "tokenCum": 338,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "as part of the arrangement.",
+                                                    "tokenCum": 344,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                }
+                                            ],
+                                            "wordSum": 46,
+                                            "tokenSum": 82,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "References in sub-paragraph (1) to a \u201cmajor interest\u201d in land are to\u2014",
+                                            "tokenCum": 363,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in relation to land in England or Wales\u2014",
+                                                    "tokenCum": 372,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "an estate in fee simple absolute, or",
+                                                    "tokenCum": 380,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "a term of years absolute,",
+                                                    "tokenCum": 386,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "whether subsisting at law or in equity;",
+                                                    "tokenCum": 396,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in relation to land in Scotland\u2014",
+                                                    "tokenCum": 403,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "the interest of an owner of land, or",
+                                                    "tokenCum": 412,
+                                                    "wordSum": 8,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "the tenant\u2019s right over or interest in a property subject to a lease;",
+                                                    "tokenCum": 430,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in relation to land in Northern Ireland\u2014",
+                                                    "tokenCum": 438,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "any freehold estate, or",
+                                                    "tokenCum": 444,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(ii)",
+                                                    "text": "any leasehold estate,",
+                                                    "tokenCum": 450,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "whether subsisting at law or in equity.",
+                                                    "tokenCum": 460,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 14,
+                                                    "tokenCount": 14
+                                                }
+                                            ],
+                                            "wordSum": 87,
+                                            "tokenSum": 163,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "It is immaterial for the purposes of sub-paragraph (1) whether either partyacquires or (as the case may be) disposes of the interest in land\u2014",
+                                            "tokenCum": 496,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "directly, or",
+                                                    "tokenCum": 499,
+                                                    "wordSum": 2,
+                                                    "tokenSum": 7,
+                                                    "tokenCount": 7
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "indirectly.\u201d ",
+                                                    "tokenCum": 503,
+                                                    "wordSum": 1,
+                                                    "tokenSum": 8,
+                                                    "tokenCount": 8
+                                                }
+                                            ],
+                                            "wordSum": 27,
+                                            "tokenSum": 54,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 165,
+                                    "tokenSum": 309,
+                                    "tokenCount": 9
+                                }
+                            ],
+                            "wordSum": 200,
+                            "tokenSum": 402,
+                            "tokenCount": 17
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Short title and commencement",
+                            "tokenCum": 509,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Regulation of Financial Services (LandTransactions) Act 2005.",
+                                    "tokenCum": 536,
+                                    "wordSum": 14,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "This Act shall come into force at the end of the period of two monthsbeginning with the day on which it is passed.",
+                                    "tokenCum": 562,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 562,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 23,
+                                    "tokenSum": 31,
+                                    "tokenCount": 27
+                                }
+                            ],
+                            "wordSum": 41,
+                            "tokenSum": 67,
+                            "tokenCount": 6
+                        }
+                    ],
+                    "wordSum": 277,
+                    "tokenSum": 527,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 317,
+            "tokenSum": 654,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2005/24/enacted?view=plain",
+    "title": "Regulation of Financial Services (Land Transactions) Act 2005",
+    "longtitle": "An Act to enable activities relating to certain arrangements involving the acquisition or disposal of land to be regulated under the Financial Services and Markets Act 2000.",
+    "date": "[19th December 2005]",
+    "wordSum": 317,
+    "tokenSum": 655,
+    "tokenCount": 0,
+    "totalTokens": 655
+}

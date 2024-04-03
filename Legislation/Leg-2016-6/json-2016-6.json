@@ -1,0 +1,2346 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2016/6/introduction/enacted?view=plain)",
+            "tokenCum": 43,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Education and Adoption Act 2016",
+                    "tokenCum": 54,
+                    "wordSum": 5,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2016 CHAPTER 6",
+                    "tokenCum": 62,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about schools in England that are causing concern,including provision about their conversion into Academies and aboutintervention powers; and to make provision about joint arrangements forcarrying out local authority adoption functions in England.",
+                            "tokenCum": 111,
+                            "wordSum": 37,
+                            "tokenSum": 50,
+                            "tokenCount": 50
+                        }
+                    ],
+                    "wordSum": 40,
+                    "tokenSum": 59,
+                    "tokenCount": 8
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[16th March 2016]",
+                    "tokenCum": 122,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 179,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Maintained schools causing concern: eligibility for intervention",
+                            "tokenCum": 192,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 1",
+                                    "text": "Coasting schools",
+                                    "tokenCum": 195,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Education and Inspections Act 2006 is amended as follows.",
+                                            "tokenCum": 213,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 59 (meaning of \u201cmaintained school\u201d and \u201celigible forintervention\u201d), in subsection (2), at the appropriate place insert\u2014",
+                                            "tokenCum": 250,
+                                            "children": [
+                                                {
+                                                    "type": "Bullet point",
+                                                    "prefix": "*",
+                                                    "text": "  * \u201csection 60B (coasting schools),\u201d.",
+                                                    "tokenCum": 265,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 19,
+                                                    "tokenCount": 19
+                                                }
+                                            ],
+                                            "wordSum": 23,
+                                            "tokenSum": 59,
+                                            "tokenCount": 39
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After section 60A insert\u2014",
+                                            "tokenCum": 273,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c60BCoasting schools",
+                                            "tokenCum": 281,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "A maintained school is by virtue of this section eligible for interventionif\u2014",
+                                                    "tokenCum": 298,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the school is coasting, and",
+                                                            "tokenCum": 305,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Secretary of State has notified the governing body that it is coasting.",
+                                                            "tokenCum": 322,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        }
+                                                    ],
+                                                    "wordSum": 30,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Secretary of State may by regulations provide that this section doesnot apply in relation to a school of a description specified in theregulations.",
+                                                    "tokenCum": 351,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The Secretary of State must by regulations define what \u201ccoasting\u201d means inrelation to a school to which this section applies.\u201d",
+                                                    "tokenCum": 378,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 182 (Parliamentary control of orders and regulations), insubsection (3), after paragraph (a) insert\u2014",
+                                                    "tokenCum": 407,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "\u201c(aza)",
+                                                            "text": "the first regulations to be made under section 60B(3) (regulationsdefining \u201ccoasting\u201d in relation to a school),\u201d.",
+                                                            "tokenCum": 440,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 38,
+                                                            "tokenCount": 38
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 71,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 107,
+                                            "tokenSum": 201,
+                                            "tokenCount": 10
+                                        }
+                                    ],
+                                    "wordSum": 146,
+                                    "tokenSum": 297,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 2",
+                                    "text": "Performance standards and safety warning notices",
+                                    "tokenCum": 447,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Education and Inspections Act 2006 is amended as follows.",
+                                            "tokenCum": 465,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 60 (performance standards and safety warning notice)\u2014",
+                                            "tokenCum": 480,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for \u201clocal authority\u201d, in each place it occurs, substitute \u201crelevantauthority\u201d;",
+                                                    "tokenCum": 499,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "for subsection (1) substitute\u2014",
+                                                    "tokenCum": 507,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 23,
+                                            "tokenSum": 53,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(1)",
+                                            "text": "A maintained school is by virtue of this section eligible for interventionif\u2014",
+                                            "tokenCum": 524,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a relevant authority have given the governing body a warning notice inaccordance with subsection (2),",
+                                                    "tokenCum": 546,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the period for compliance specified in the notice (\u201cthe compliance period\u201d)has expired,",
+                                                    "tokenCum": 567,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the governing body have failed to comply, or secure compliance, with thenotice to the relevant authority\u2019s satisfaction by the end of the complianceperiod, and",
+                                                    "tokenCum": 603,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the relevant authority have given reasonable notice in writing to thegoverning body that the authority proposes to exercise the authority\u2019s powersunder any one or more of sections 63 to 69 (whether or not the notice iscombined with a notice under section 62(2A)(c) of SSFA 1998).\u201d;",
+                                                    "tokenCum": 679,
+                                                    "wordSum": 45,
+                                                    "tokenSum": 80,
+                                                    "tokenCount": 80
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "in subsection (4), for paragraph (c) (but not the \u201cand\u201d at the end)substitute\u2014",
+                                                    "tokenCum": 704,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(c)",
+                                                    "text": "the compliance period for the purposes of subsection (1)(c),\u201d;",
+                                                    "tokenCum": 721,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "in subsection (4)(d), for \u201c66\u201d substitute \u201c69\u201d;",
+                                                    "tokenCum": 740,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "after subsection (4) insert\u2014",
+                                                    "tokenCum": 748,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "\u201c(4A)If a local authority are notified that the Secretary of State has given awarning notice to the governing body of a maintained school the localauthority may not give a warning notice unless or until the Secretary of Stateinforms them that they may.",
+                                                            "tokenCum": 803,
+                                                            "wordSum": 42,
+                                                            "tokenSum": 60,
+                                                            "tokenCount": 60
+                                                        }
+                                                    ],
+                                                    "wordSum": 46,
+                                                    "tokenSum": 72,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(4B)If the Secretary of State gives a warning notice to the governing body ofa maintained school, any earlier warning notice given to the maintained schoolby the local authority ceases to have effect from that time.\u201d;",
+                                                    "tokenCum": 849,
+                                                    "wordSum": 35,
+                                                    "tokenSum": 50,
+                                                    "tokenCount": 50
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(f)",
+                                                    "text": "omit subsection (5);",
+                                                    "tokenCum": 856,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(g)",
+                                                    "text": "after subsection (6) insert\u2014",
+                                                    "tokenCum": 864,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(6A)If a local authority give a warning notice to the governing body of amaintained school they must, at the same time, give a copy of it to theSecretary of State.",
+                                                    "tokenCum": 907,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "(6B)If the Secretary of State gives a warning notice to the governing body ofa maintained school the Secretary of State must, at the same time, give a copyof it to the local authority.\u201d;",
+                                                    "tokenCum": 951,
+                                                    "wordSum": 33,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 48
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(h)",
+                                                    "text": "omit subsections (7) to (9);",
+                                                    "tokenCum": 962,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 15,
+                                                    "tokenCount": 15
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(i)",
+                                                    "text": "for subsection (10) substitute\u2014",
+                                                    "tokenCum": 971,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 13,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 297,
+                                            "tokenSum": 532,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(10)",
+                                            "text": "In this section \u201crelevant authority\u201d means\u2014",
+                                            "tokenCum": 981,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the local authority, or",
+                                                    "tokenCum": 986,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the Secretary of State.\u201d",
+                                                    "tokenCum": 991,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 9,
+                                                    "tokenCount": 9
+                                                }
+                                            ],
+                                            "wordSum": 14,
+                                            "tokenSum": 31,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 63 (power of local authority to require governing body to enterinto arrangements), in subsection (3), for \u201csection 60(10)\u201d substitute\u201csection 60(1)(b)\u201d.",
+                                            "tokenCum": 1041,
+                                            "wordSum": 22,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 64 (power of local authority etc to appoint additionalgovernors), in subsection (2), for \u201csection 60(10)\u201d substitute \u201csection60(1)(b)\u201d.",
+                                            "tokenCum": 1087,
+                                            "wordSum": 19,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 66 (power of local authority to suspend right to delegatedbudget), in subsection (2), for \u201csection 60(10)\u201d substitute \u201csection60(1)(b)\u201d.",
+                                            "tokenCum": 1135,
+                                            "wordSum": 20,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Omit section 69A (power of Secretary of State to direct local authority togive performance standards and safety warning notice).",
+                                            "tokenCum": 1161,
+                                            "wordSum": 19,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "In section 73 (interpretation), omit the definition of \u201cworking day\u201d.",
+                                            "tokenCum": 1180,
+                                            "wordSum": 10,
+                                            "tokenSum": 22,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 440,
+                                    "tokenSum": 850,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 3",
+                                    "text": "Other warning notices",
+                                    "tokenCum": 1184,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Education and Inspections Act 2006 is amended as follows.",
+                                            "tokenCum": 1202,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 60A (teachers\u2019 pay and conditions warning notice)\u2014",
+                                            "tokenCum": 1220,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "for subsection (1) substitute\u2014",
+                                                    "tokenCum": 1228,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 13,
+                                            "tokenSum": 33,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "\u201c(1)",
+                                            "text": "A maintained school is by virtue of this section eligible for interventionif\u2014",
+                                            "tokenCum": 1245,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the local authority have given the governing body a warning notice inaccordance with subsection (2),",
+                                                    "tokenCum": 1267,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 26,
+                                                    "tokenCount": 26
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the period for compliance specified in the notice (\u201cthe compliance period\u201d)has expired,",
+                                                    "tokenCum": 1288,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the governing body have failed to comply, or secure compliance, with thenotice to the local authority\u2019s satisfaction by the end of the complianceperiod, and",
+                                                    "tokenCum": 1324,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "the local authority have given reasonable notice in writing to thegoverning body that the authority proposes to exercise the authority\u2019s powersunder any one or more of sections 64 to 66.\u201d;",
+                                                    "tokenCum": 1367,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in subsection (4), for paragraph (c) (but not the \u201cand\u201d at the end)substitute\u2014",
+                                                    "tokenCum": 1392,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(c)",
+                                                    "text": "the compliance period for the purposes of subsection (1)(c),\u201d;",
+                                                    "tokenCum": 1409,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "omit subsection (5);",
+                                                    "tokenCum": 1416,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "in subsection (6), before paragraph (a) insert\u2014",
+                                                    "tokenCum": 1429,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "\u201c(za)",
+                                                    "text": "the Secretary of State,\u201d;",
+                                                    "tokenCum": 1435,
+                                                    "wordSum": 4,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "omit subsections (7) to (10).",
+                                                    "tokenCum": 1447,
+                                                    "wordSum": 5,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                }
+                                            ],
+                                            "wordSum": 134,
+                                            "tokenSum": 262,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In section 64 (power of local authority etc to appoint additionalgovernors), in subsection (2), for \u201csection 60A(10)\u201d substitute \u201csection60A(1)(b)\u201d.",
+                                            "tokenCum": 1495,
+                                            "wordSum": 19,
+                                            "tokenSum": 51,
+                                            "tokenCount": 51
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "In section 66 (power of local authority to suspend right to delegatedbudget), in subsection (2), for \u201csection 60A(10)\u201d substitute \u201csection60A(1)(b)\u201d.",
+                                            "tokenCum": 1545,
+                                            "wordSum": 20,
+                                            "tokenSum": 53,
+                                            "tokenCount": 53
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In section 69B (power of Secretary of State to direct local authority), insubsection (3)\u2014",
+                                            "tokenCum": 1568,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "omit paragraph (c);",
+                                                    "tokenCum": 1574,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 10,
+                                                    "tokenCount": 10
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "in paragraph (d), for \u201c60A(10)\u201d substitute \u201c60A(1)(b)\u201d.",
+                                                    "tokenCum": 1600,
+                                                    "wordSum": 7,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 66,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 223,
+                                    "tokenSum": 492,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 816,
+                            "tokenSum": 1653,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Maintained schools causing concern: intervention powers",
+                            "tokenCum": 1610,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 4",
+                                    "text": "Power to require governing body to enter into arrangements",
+                                    "tokenCum": 1621,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "Before section 67 of the Education and Inspections Act 2006 insert\u2014",
+                                            "tokenCum": 1641,
+                                            "wordSum": 11,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c66APower of Secretary of State to require governing body to enter intoarrangements",
+                                            "tokenCum": 1661,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "If at any time a maintained school is eligible for intervention other thanby virtue of section 60A, then (subject to subsection (3)) the Secretary ofState may, with a view to improving the performance of the school, give thegoverning body of the school a notice requiring the governing body\u2014",
+                                                    "tokenCum": 1730,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "to enter into a contract or other arrangement with a specified person (whomay be the governing body of another school) for the provision to thegoverning body of specified services of an advisory nature,",
+                                                            "tokenCum": 1773,
+                                                            "wordSum": 33,
+                                                            "tokenSum": 48,
+                                                            "tokenCount": 48
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "to make specified arrangements authorised by section 26 of EA 2002(collaboration between schools) with the governing body of such other schoolas may be specified,",
+                                                            "tokenCum": 1814,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "to make specified arrangements authorised by regulations under section 166of this Act (collaboration arrangements: maintained schools and furthereducation bodies) with a further education body within the meaning of thatsection, or",
+                                                            "tokenCum": 1862,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 53,
+                                                            "tokenCount": 53
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "to take specified steps for the purpose of creating or joining afederation, as defined by section 24(2) of EA 2002.",
+                                                            "tokenCum": 1896,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 155,
+                                                    "tokenSum": 259,
+                                                    "tokenCount": 72
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Before exercising the power conferred by subsection (1), the Secretary ofState must consult\u2014",
+                                                    "tokenCum": 1917,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the governing body of the school,",
+                                                            "tokenCum": 1925,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in the case of a foundation or voluntary school which is a Church ofEngland school or a Roman Catholic Church school, the appropriate diocesanauthority, and",
+                                                            "tokenCum": 1959,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in the case of any other foundation or voluntary school, the person orpersons by whom the foundation governors are appointed.",
+                                                            "tokenCum": 1985,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 64,
+                                                    "tokenSum": 108,
+                                                    "tokenCount": 24
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Where the school is eligible for intervention by virtue of section 60(school subject to performance standards and safety warning), the powerconferred by subsection (1) is only exercisable within the period of twomonths following the end of the compliance period (as defined by section60(1)(b)).",
+                                                    "tokenCum": 2055,
+                                                    "wordSum": 43,
+                                                    "tokenSum": 74,
+                                                    "tokenCount": 74
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "A notice under subsection (1)(a) may require the contract or otherarrangement to contain specified terms and conditions.\u201d",
+                                                    "tokenCum": 2081,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 30,
+                                                    "tokenCount": 30
+                                                }
+                                            ],
+                                            "wordSum": 291,
+                                            "tokenSum": 494,
+                                            "tokenCount": 22
+                                        }
+                                    ],
+                                    "wordSum": 311,
+                                    "tokenSum": 530,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 5",
+                                    "text": "Appointment of interim executive members",
+                                    "tokenCum": 2089,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In Schedule 6 to the Education and Inspections Act 2006 (governing bodiesconsisting of interim executive members), after paragraph 5 insert\u2014",
+                                            "tokenCum": 2126,
+                                            "wordSum": 20,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        }
+                                    ],
+                                    "wordSum": 25,
+                                    "tokenSum": 50,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "\u201c5AWhere the appropriate authority is a local authority the Secretary of Statemay give the local authority directions about\u2014",
+                                    "tokenCum": 2150,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "who to appoint as interim executive members;",
+                                            "tokenCum": 2159,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "how many people to appoint as interim executive members;",
+                                            "tokenCum": 2170,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "the terms of appointment of interim executive members;",
+                                            "tokenCum": 2180,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "the termination of any appointment in accordance with provision made underparagraph 5.\u201d",
+                                            "tokenCum": 2197,
+                                            "wordSum": 12,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 85,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 6",
+                                    "text": "Interaction between intervention powers",
+                                    "tokenCum": 2203,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Education and Inspections Act 2006 is amended as follows.",
+                                            "tokenCum": 2221,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "In section 64 (power of local authority etc to appoint additionalgovernors)\u2014",
+                                            "tokenCum": 2240,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "in subsection (1), for \u201csubsections (1A) and (2)\u201d substitute \u201csubsection(2)\u201d;",
+                                                    "tokenCum": 2267,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 31,
+                                                    "tokenCount": 31
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "omit subsection (1A).",
+                                                    "tokenCum": 2275,
+                                                    "wordSum": 3,
+                                                    "tokenSum": 12,
+                                                    "tokenCount": 12
+                                                }
+                                            ],
+                                            "wordSum": 24,
+                                            "tokenSum": 65,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "After section 70 insert\u2014",
+                                            "tokenCum": 2282,
+                                            "wordSum": 4,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201cInteraction between different intervention powers etc",
+                                            "tokenCum": 2291,
+                                            "children": [
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 70",
+                                                    "text": "ADuties for local authorities and Secretary of State to notify eachother",
+                                                    "tokenCum": 2305,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "A local authority must notify the Secretary of State before exercising apower under section 63, 64 or 66 in relation to a maintained school.",
+                                                            "tokenCum": 2340,
+                                                            "wordSum": 24,
+                                                            "tokenSum": 40,
+                                                            "tokenCount": 40
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "The Secretary of State must notify the local authority before exercising apower under any of sections 66A to 69 in relation to a maintained school.",
+                                                            "tokenCum": 2374,
+                                                            "wordSum": 25,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 60,
+                                                    "tokenSum": 97,
+                                                    "tokenCount": 17
+                                                },
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 70",
+                                                    "text": "BRestriction on use of local authority intervention powers",
+                                                    "tokenCum": 2385,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "This section applies where a local authority are notified that theSecretary of State intends to exercise a power under any of sections 66A to 69in relation to a maintained school.",
+                                                            "tokenCum": 2426,
+                                                            "wordSum": 30,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "The local authority may not use any of their powers under section 63, 64 or66 in relation to the school unless or until the Secretary of State notifiesthem that they may.",
+                                                            "tokenCum": 2468,
+                                                            "wordSum": 31,
+                                                            "tokenSum": 47,
+                                                            "tokenCount": 47
+                                                        }
+                                                    ],
+                                                    "wordSum": 69,
+                                                    "tokenSum": 108,
+                                                    "tokenCount": 14
+                                                },
+                                                {
+                                                    "type": "Heading",
+                                                    "prefix": "##### 70",
+                                                    "text": "CSecretary of State\u2019s power to take over responsibility for interimexecutive members",
+                                                    "tokenCum": 2487,
+                                                    "children": [
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(1)",
+                                                            "text": "This section applies where a local authority have given the governing bodyof a maintained school a notice under section 65 (governing body to consist ofinterim executive members).",
+                                                            "tokenCum": 2524,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Digit point",
+                                                            "prefix": "(2)",
+                                                            "text": "The Secretary of State may take over responsibility for arrangements inconnection with the interim executive members by giving notice to the localauthority and, where the Secretary of State does so\u2014",
+                                                            "tokenCum": 2561,
+                                                            "children": [
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(a)",
+                                                                    "text": "the notice given by the local authority in accordance with section 65 is tobe treated as having been given by the Secretary of State in accordance withsection 69, and",
+                                                                    "tokenCum": 2599,
+                                                                    "wordSum": 29,
+                                                                    "tokenSum": 44,
+                                                                    "tokenCount": 44
+                                                                },
+                                                                {
+                                                                    "type": "Alpha point",
+                                                                    "prefix": "(b)",
+                                                                    "text": "anything done by or in relation to the local authority under Schedule 6 isto be treated as having been done by or in relation to the Secretary ofState.\u201d",
+                                                                    "tokenCum": 2632,
+                                                                    "wordSum": 28,
+                                                                    "tokenSum": 39,
+                                                                    "tokenCount": 39
+                                                                }
+                                                            ],
+                                                            "wordSum": 87,
+                                                            "tokenSum": 125,
+                                                            "tokenCount": 41
+                                                        }
+                                                    ],
+                                                    "wordSum": 125,
+                                                    "tokenSum": 190,
+                                                    "tokenCount": 22
+                                                }
+                                            ],
+                                            "wordSum": 260,
+                                            "tokenSum": 407,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 302,
+                                    "tokenSum": 511,
+                                    "tokenCount": 7
+                                }
+                            ],
+                            "wordSum": 698,
+                            "tokenSum": 1187,
+                            "tokenCount": 10
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Maintained schools causing concern: conversion into Academies",
+                            "tokenCum": 2643,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 7",
+                                    "text": "Duty to make Academy orders",
+                                    "tokenCum": 2650,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Section 4 of the Academies Act 2010 (Academy orders) is amended as follows.",
+                                            "tokenCum": 2674,
+                                            "wordSum": 13,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "Before subsection (1) insert\u2014",
+                                            "tokenCum": 2682,
+                                            "children": [
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "\u201c(A1)The Secretary of State must make an Academy order in respect of amaintained school in England that is eligible for intervention by virtue ofsection 61 or 62 EIA 2006 (schools requiring significant improvement orschools requiring special measures).\u201d",
+                                                    "tokenCum": 2745,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 67
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 78,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "In subsection (1)(b), after \u201c(within the meaning of Part 4 of EIA 2006)\u201dinsert \u201cother than by virtue of section 61 or 62 of EIA 2006\u201d.",
+                                            "tokenCum": 2798,
+                                            "wordSum": 25,
+                                            "tokenSum": 56,
+                                            "tokenCount": 56
+                                        }
+                                    ],
+                                    "wordSum": 84,
+                                    "tokenSum": 170,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 8",
+                                    "text": "Consultation about conversion",
+                                    "tokenCum": 2803,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "For section 5 of the Academies Act 2010 (consultation on conversion)substitute\u2014",
+                                            "tokenCum": 2827,
+                                            "wordSum": 11,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5Consultation about conversion: schools not eligible for intervention",
+                                            "tokenCum": 2843,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Before a maintained school in England is converted into an Academy, theschool\u2019s governing body must consult such persons as they think appropriateabout whether the conversion should take place.",
+                                                    "tokenCum": 2879,
+                                                    "wordSum": 28,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "But this section does not apply if an Academy order under section 4(A1) or(1)(b) has effect in respect of the school.",
+                                                    "tokenCum": 2911,
+                                                    "wordSum": 21,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Consultation for the purposes of this section may be carried out before orafter an Academy order, or an application for an Academy order, has been madein respect of the school.",
+                                                    "tokenCum": 2948,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In the case of a federated school, the reference in subsection (1) to thegoverning body includes a reference to any members of the governing body.\u201d",
+                                                    "tokenCum": 2983,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 39,
+                                                    "tokenCount": 39
+                                                }
+                                            ],
+                                            "wordSum": 112,
+                                            "tokenSum": 175,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 126,
+                                    "tokenSum": 209,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 9",
+                                    "text": "Consultation about identity of Academy sponsor in certain cases",
+                                    "tokenCum": 2995,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 5 of the Academies Act 2010 insert\u2014",
+                                            "tokenCum": 3011,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5AConsultation about identity of Academy sponsor in certain cases",
+                                            "tokenCum": 3026,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "This section applies where an Academy order under section 4(A1) has effectin respect of a foundation or voluntary school that has a foundation.",
+                                                    "tokenCum": 3057,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 35,
+                                                    "tokenCount": 35
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Before entering into Academy arrangements in relation to the school theSecretary of State must consult the following about the identity of the personwith whom the arrangements are to be entered into\u2014",
+                                                    "tokenCum": 3094,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the trustees of the school,",
+                                                            "tokenCum": 3101,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the person or persons by whom the foundation governors are appointed, and",
+                                                            "tokenCum": 3115,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "in the case of a school which has a religious character, the appropriatereligious body.",
+                                                            "tokenCum": 3135,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 25,
+                                                            "tokenCount": 25
+                                                        }
+                                                    ],
+                                                    "wordSum": 62,
+                                                    "tokenSum": 97,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "In this section, \u201cthe appropriate religious body\u201d, in relation to a school,means\u2014",
+                                                    "tokenCum": 3154,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "in the case of a Church of England school or a Roman Catholic school, theappropriate diocesan authority;",
+                                                            "tokenCum": 3178,
+                                                            "wordSum": 17,
+                                                            "tokenSum": 29,
+                                                            "tokenCount": 29
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "in any other case, such body or person representing the specified religionor religious denomination as is prescribed under section 88F(3)(e) of SSFA1998.",
+                                                            "tokenCum": 3219,
+                                                            "wordSum": 22,
+                                                            "tokenSum": 46,
+                                                            "tokenCount": 46
+                                                        }
+                                                    ],
+                                                    "wordSum": 51,
+                                                    "tokenSum": 98,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In the case of a school in relation to which there is more than onereligion or religious denomination specified, references to \u201cthe appropriatereligious body\u201d are to be read as references to both or all of the bodiesconcerned.",
+                                                    "tokenCum": 3274,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "In subsections (3) and (4), \u201cspecified\u201d means specified in the order undersection 69(3) of SSFA 1998 relating to the school.",
+                                                    "tokenCum": 3315,
+                                                    "wordSum": 20,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "Expressions used in this section and SSFA 1998 have the same meaning as inthat Act.\u201d",
+                                                    "tokenCum": 3338,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 27,
+                                                    "tokenCount": 27
+                                                }
+                                            ],
+                                            "wordSum": 217,
+                                            "tokenSum": 379,
+                                            "tokenCount": 17
+                                        }
+                                    ],
+                                    "wordSum": 235,
+                                    "tokenSum": 412,
+                                    "tokenCount": 13
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 10",
+                                    "text": "Duty to facilitate conversion",
+                                    "tokenCum": 3345,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 5A of the Academies Act 2010 (inserted by section 9 above)insert\u2014",
+                                            "tokenCum": 3371,
+                                            "wordSum": 13,
+                                            "tokenSum": 29,
+                                            "tokenCount": 29
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5BDuty to facilitate conversion",
+                                            "tokenCum": 3380,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where an Academy order under section 4(A1) or (1)(b) has effect in respectof a school, the governing body of the school and the local authority musttake all reasonable steps to facilitate the conversion of the school into anAcademy.",
+                                                    "tokenCum": 3435,
+                                                    "wordSum": 38,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "Where the Secretary of State notifies the governing body or local authoritythat the Secretary of State is minded to enter into Academy arrangements witha specified person, their duty under subsection (1) includes a duty to takeall reasonable steps to facilitate the making of Academy arrangements withthat person.\u201d",
+                                                    "tokenCum": 3497,
+                                                    "wordSum": 47,
+                                                    "tokenSum": 66,
+                                                    "tokenCount": 66
+                                                }
+                                            ],
+                                            "wordSum": 89,
+                                            "tokenSum": 137,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 106,
+                                    "tokenSum": 175,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 11",
+                                    "text": "Power to give directions to do with conversion",
+                                    "tokenCum": 3505,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 5B of the Academies Act 2010 (inserted by section 10 above)insert\u2014",
+                                            "tokenCum": 3532,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5CPower to give directions to do with conversion",
+                                            "tokenCum": 3543,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Where an Academy order under section 4(A1) or (1)(b) has effect in respectof a school, the Secretary of State may direct the governing body of theschool or the local authority to take specified steps for the purpose offacilitating the conversion of the school into an Academy.",
+                                                    "tokenCum": 3608,
+                                                    "wordSum": 46,
+                                                    "tokenSum": 69,
+                                                    "tokenCount": 69
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A direction may, in particular, require the governing body or localauthority to prepare a draft of a scheme under section 8 or Part 1 of Schedule1.",
+                                                    "tokenCum": 3644,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A direction may specify the period within which any steps must be taken.\u201d",
+                                                    "tokenCum": 3658,
+                                                    "wordSum": 13,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                }
+                                            ],
+                                            "wordSum": 93,
+                                            "tokenSum": 141,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 114,
+                                    "tokenSum": 181,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 12",
+                                    "text": "Power to revoke Academy orders",
+                                    "tokenCum": 3664,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 5C of the Academies Act 2010 (inserted by section 11 above)insert\u2014",
+                                            "tokenCum": 3691,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5DPower to revoke Academy orders under section 4(A1) or (1)(b)",
+                                            "tokenCum": 3714,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Secretary of State may by order revoke an Academy order under section4(A1) or (1)(b).",
+                                                    "tokenCum": 3739,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "If an Academy order is revoked the Secretary of State must give a copy ofthe order to everyone to whom a copy of the Academy order was given undersection 4(4).",
+                                                    "tokenCum": 3776,
+                                                    "wordSum": 30,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Despite section 568(1) of EA 1996 (orders to be made by statutoryinstrument) (as applied by section 17(4) of this Act) the power of theSecretary of State to make an order under this section is not required to beexercised by statutory instrument.\u201d",
+                                                    "tokenCum": 3849,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 77,
+                                                    "tokenCount": 77
+                                                }
+                                            ],
+                                            "wordSum": 96,
+                                            "tokenSum": 173,
+                                            "tokenCount": 25
+                                        }
+                                    ],
+                                    "wordSum": 114,
+                                    "tokenSum": 211,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 13",
+                                    "text": "Duty to communicate information about plans to improve school",
+                                    "tokenCum": 3860,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 5D of the Academies Act 2010 (inserted by section 12 above)insert\u2014",
+                                            "tokenCum": 3887,
+                                            "wordSum": 13,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c5EDuty to communicate information about plans to improve school",
+                                            "tokenCum": 3900,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "Before a maintained school in England which is causing concern is convertedinto an Academy, the proposed proprietor of the Academy must communicate tothe registered parents of registered pupils at the school information aboutthe proposed proprietor\u2019s plans to improve the school.",
+                                                    "tokenCum": 3950,
+                                                    "wordSum": 40,
+                                                    "tokenSum": 54,
+                                                    "tokenCount": 54
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "For the purposes of subsection (1)\u2014",
+                                                    "tokenCum": 3960,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the \u201cproposed proprietor of the Academy\u201d is the person with whom theSecretary of State proposes to enter or has entered into Academy arrangementsin respect of the school;",
+                                                            "tokenCum": 3997,
+                                                            "wordSum": 27,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "a school is \u201ccausing concern\u201d if it is eligible for intervention within themeaning of Part 4 of EIA 2006.\u201d",
+                                                            "tokenCum": 4031,
+                                                            "wordSum": 19,
+                                                            "tokenSum": 39,
+                                                            "tokenCount": 39
+                                                        }
+                                                    ],
+                                                    "wordSum": 52,
+                                                    "tokenSum": 95,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 101,
+                                            "tokenSum": 165,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 123,
+                                    "tokenSum": 208,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 909,
+                            "tokenSum": 1578,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Academies causing concern: intervention powers",
+                            "tokenCum": 4039,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 14",
+                                    "text": "Academies causing concern",
+                                    "tokenCum": 4043,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "After section 2 of the Academies Act 2010 insert\u2014",
+                                            "tokenCum": 4059,
+                                            "wordSum": 9,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c2AAcademy agreements: provision about failing schools",
+                                            "tokenCum": 4070,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "An Academy agreement in respect of an Academy school or an alternativeprovision Academy must include provision allowing the Secretary of State toterminate the agreement if\u2014",
+                                                    "tokenCum": 4100,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "special measures are required to be taken in relation to the Academy, or",
+                                                            "tokenCum": 4114,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Academy requires significant improvement.",
+                                                            "tokenCum": 4120,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        }
+                                                    ],
+                                                    "wordSum": 43,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Academy agreement must require the Secretary of State, beforeterminating the agreement on one of those grounds, to give the proprietor anopportunity to make representations.",
+                                                    "tokenCum": 4156,
+                                                    "wordSum": 25,
+                                                    "tokenSum": 40,
+                                                    "tokenCount": 40
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "For the purposes of this section special measures are required to be takenin relation to an Academy, or an Academy requires significant improvement, ifthe Chief Inspector has given notice under section 13(3)(a) of the EducationAct 2005.",
+                                                    "tokenCum": 4211,
+                                                    "wordSum": 36,
+                                                    "tokenSum": 59,
+                                                    "tokenCount": 59
+                                                }
+                                            ],
+                                            "wordSum": 110,
+                                            "tokenSum": 177,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 2",
+                                            "text": "BAcademy agreements: provision about coasting schools",
+                                            "tokenCum": 4222,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "An Academy agreement in respect of an Academy school or an alternativeprovision Academy must include provision allowing the Secretary of State toterminate the agreement if\u2014",
+                                                    "tokenCum": 4252,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the Academy is coasting, and",
+                                                            "tokenCum": 4259,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 12,
+                                                            "tokenCount": 12
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the Secretary of State has notified the proprietor that it is coasting.",
+                                                            "tokenCum": 4275,
+                                                            "wordSum": 12,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 42,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "The Academy agreement must require the Secretary of State, beforeterminating the agreement on that ground, to give the proprietor a terminationwarning notice.",
+                                                    "tokenCum": 4308,
+                                                    "wordSum": 22,
+                                                    "tokenSum": 37,
+                                                    "tokenCount": 37
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "A termination warning notice is a notice requiring the proprietor\u2014",
+                                                    "tokenCum": 4321,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "to take specified action to improve the Academy by a specified date, and",
+                                                            "tokenCum": 4335,
+                                                            "wordSum": 13,
+                                                            "tokenSum": 19,
+                                                            "tokenCount": 19
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "to respond to the Secretary of State by making representations, or byagreeing to take that action, by a specified date.",
+                                                            "tokenCum": 4361,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 31,
+                                                            "tokenCount": 31
+                                                        }
+                                                    ],
+                                                    "wordSum": 43,
+                                                    "tokenSum": 67,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Academy agreement must provide that the power to terminate theagreement on the ground that the Academy is coasting is available only if theproprietor has failed to comply with a termination warning notice (whether byfailing to take specified action, or to respond, on time).",
+                                                    "tokenCum": 4422,
+                                                    "wordSum": 44,
+                                                    "tokenSum": 65,
+                                                    "tokenCount": 65
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "The Secretary of State may by regulations provide that this section doesnot apply in relation to an Academy of a description specified in theregulations.",
+                                                    "tokenCum": 4451,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 33,
+                                                    "tokenCount": 33
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "\u201cCoasting\u201d, in relation to an Academy to which this section applies, hasthe meaning given by regulations under subsection (3) of section 60B of theEducation and Inspections Act 2006 in relation to a school to which thatsection applies.",
+                                                    "tokenCum": 4511,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 64
+                                                }
+                                            ],
+                                            "wordSum": 218,
+                                            "tokenSum": 347,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 2",
+                                            "text": "CSections 2A and 2B supplementary - new agreements",
+                                            "tokenCum": 4528,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "An Academy agreement may include further provision about\u2014",
+                                                    "tokenCum": 4537,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the procedure for terminating the agreement in accordance with theprovision required by section 2A or 2B;",
+                                                            "tokenCum": 4562,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the consequences of terminating the agreement in accordance with thatprovision.",
+                                                            "tokenCum": 4577,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 20,
+                                                            "tokenCount": 20
+                                                        }
+                                                    ],
+                                                    "wordSum": 34,
+                                                    "tokenSum": 63,
+                                                    "tokenCount": 12
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "This section does not apply to agreements made before the day on whichsection 14 of the Education and Adoption Act 2016 comes into force (but seesection 2D).",
+                                                    "tokenCum": 4620,
+                                                    "wordSum": 27,
+                                                    "tokenSum": 47,
+                                                    "tokenCount": 47
+                                                }
+                                            ],
+                                            "wordSum": 69,
+                                            "tokenSum": 130,
+                                            "tokenCount": 19
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "#### 2",
+                                            "text": "DSections 2A and 2B: supplementary - old agreements",
+                                            "tokenCum": 4638,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "An old Academy agreement is to be treated as if it included the newtermination powers.",
+                                                    "tokenCum": 4656,
+                                                    "wordSum": 15,
+                                                    "tokenSum": 22,
+                                                    "tokenCount": 22
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A provision of an old Academy agreement that relates to the procedure forterminating the agreement does not apply to the new termination powers.",
+                                                    "tokenCum": 4684,
+                                                    "wordSum": 23,
+                                                    "tokenSum": 32,
+                                                    "tokenCount": 32
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Subsections (4) and (5) apply where an old Academy agreement\u2014",
+                                                    "tokenCum": 4700,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "contains provision about the consequences of terminating the agreement(\u201crelevant provision\u201d), and",
+                                                            "tokenCum": 4718,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 23,
+                                                            "tokenCount": 23
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the relevant provision is expressed in a way that is capable of coveringtermination in accordance with the new termination powers.",
+                                                            "tokenCum": 4743,
+                                                            "wordSum": 20,
+                                                            "tokenSum": 30,
+                                                            "tokenCount": 30
+                                                        }
+                                                    ],
+                                                    "wordSum": 41,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 19
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The relevant provision applies to termination in accordance with the newtermination powers.",
+                                                    "tokenCum": 4760,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "If the relevant provision sets out different consequences depending onwhether the agreement is terminated on the ground that the proprietor hasbreached the Agreement or on other grounds, termination in accordance with thenew termination powers is to be treated as termination on the grounds ofbreach by the proprietor.",
+                                                    "tokenCum": 4824,
+                                                    "wordSum": 47,
+                                                    "tokenSum": 68,
+                                                    "tokenCount": 68
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "In this section\u2014",
+                                                    "tokenCum": 4828,
+                                                    "children": [
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cnew termination powers\u201d, in relation to an Academy agreement, means the powers to terminate in accordance with the provision required by sections 2A and 2B;",
+                                                            "tokenCum": 4865,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 42,
+                                                            "tokenCount": 42
+                                                        },
+                                                        {
+                                                            "type": "Bullet point",
+                                                            "prefix": "*",
+                                                            "text": "  * \u201cold Academy agreement\u201d means an Academy agreement made before the day on which section 14 of the Education and Adoption Act 2016 comes into force.\u201d",
+                                                            "tokenCum": 4903,
+                                                            "wordSum": 26,
+                                                            "tokenSum": 43,
+                                                            "tokenCount": 43
+                                                        }
+                                                    ],
+                                                    "wordSum": 55,
+                                                    "tokenSum": 93,
+                                                    "tokenCount": 7
+                                                }
+                                            ],
+                                            "wordSum": 201,
+                                            "tokenSum": 330,
+                                            "tokenCount": 20
+                                        }
+                                    ],
+                                    "wordSum": 610,
+                                    "tokenSum": 1009,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 615,
+                            "tokenSum": 1018,
+                            "tokenCount": 8
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "Adoption",
+                            "tokenCum": 4906,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 15",
+                                    "text": "Local authority adoption functions: joint arrangements",
+                                    "tokenCum": 4915,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Adoption and Children Act 2002 is amended as follows.",
+                                            "tokenCum": 4933,
+                                            "wordSum": 10,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "After section 3 insert\u2014",
+                                            "tokenCum": 4939,
+                                            "wordSum": 4,
+                                            "tokenSum": 9,
+                                            "tokenCount": 9
+                                        },
+                                        {
+                                            "type": "Heading",
+                                            "prefix": "####",
+                                            "text": "\u201c3ZAEngland - joint arrangements etc",
+                                            "tokenCum": 4950,
+                                            "children": [
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(1)",
+                                                    "text": "The Secretary of State may give directions requiring one or more localauthorities in England to make arrangements for all or any of their functionswithin subsection (3) to be carried out on their behalf by\u2014",
+                                                    "tokenCum": 4994,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "one of those authorities, or",
+                                                            "tokenCum": 5000,
+                                                            "wordSum": 5,
+                                                            "tokenSum": 11,
+                                                            "tokenCount": 11
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "one or more other adoption agencies.",
+                                                            "tokenCum": 5009,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 14,
+                                                            "tokenCount": 14
+                                                        }
+                                                    ],
+                                                    "wordSum": 45,
+                                                    "tokenSum": 73,
+                                                    "tokenCount": 47
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(2)",
+                                                    "text": "A direction under subsection (1) may, in particular\u2014",
+                                                    "tokenCum": 5022,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "specify who is to carry out the functions, or",
+                                                            "tokenCum": 5032,
+                                                            "wordSum": 9,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "require the local authority or authorities to determine who is to carry outthe functions.",
+                                                            "tokenCum": 5048,
+                                                            "wordSum": 14,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        }
+                                                    ],
+                                                    "wordSum": 31,
+                                                    "tokenSum": 53,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "The functions mentioned in subsection (1) are functions in relation to\u2014",
+                                                    "tokenCum": 5063,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(a)",
+                                                            "text": "the recruitment of persons as prospective adopters;",
+                                                            "tokenCum": 5076,
+                                                            "wordSum": 7,
+                                                            "tokenSum": 18,
+                                                            "tokenCount": 18
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(b)",
+                                                            "text": "the assessment of prospective adopters\u2019 suitability to adopt a child;",
+                                                            "tokenCum": 5093,
+                                                            "wordSum": 10,
+                                                            "tokenSum": 22,
+                                                            "tokenCount": 22
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(c)",
+                                                            "text": "the approval of prospective adopters as suitable to adopt a child;",
+                                                            "tokenCum": 5109,
+                                                            "wordSum": 11,
+                                                            "tokenSum": 21,
+                                                            "tokenCount": 21
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(d)",
+                                                            "text": "decisions as to whether a particular child should be placed for adoptionwith a particular prospective adopter;",
+                                                            "tokenCum": 5131,
+                                                            "wordSum": 16,
+                                                            "tokenSum": 27,
+                                                            "tokenCount": 27
+                                                        },
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "(e)",
+                                                            "text": "the provision of adoption support services.",
+                                                            "tokenCum": 5139,
+                                                            "wordSum": 6,
+                                                            "tokenSum": 13,
+                                                            "tokenCount": 13
+                                                        }
+                                                    ],
+                                                    "wordSum": 61,
+                                                    "tokenSum": 120,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "The Secretary of State may give a direction requiring a local authority inEngland to terminate arrangements made in accordance with a direction undersubsection (1).",
+                                                    "tokenCum": 5171,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 36,
+                                                    "tokenCount": 36
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(5)",
+                                                    "text": "A direction under this section may make different provision for differentpurposes.",
+                                                    "tokenCum": 5185,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(6)",
+                                                    "text": "The Secretary of State may by regulations amend subsection (3).\u201d",
+                                                    "tokenCum": 5201,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(3)",
+                                                    "text": "Omit section 3A as inserted by the Children and Families Act 2014.",
+                                                    "tokenCum": 5222,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Digit point",
+                                                    "prefix": "(4)",
+                                                    "text": "In section 140(3) (subordinate legislation subject to affirmativeprocedure), for paragraph (za) substitute\u2014",
+                                                    "tokenCum": 5251,
+                                                    "children": [
+                                                        {
+                                                            "type": "Alpha point",
+                                                            "prefix": "\u201c(za)",
+                                                            "text": "under section 3ZA(6),\u201d.",
+                                                            "tokenCum": 5261,
+                                                            "wordSum": 3,
+                                                            "tokenSum": 15,
+                                                            "tokenCount": 15
+                                                        }
+                                                    ],
+                                                    "wordSum": 15,
+                                                    "tokenSum": 48,
+                                                    "tokenCount": 32
+                                                }
+                                            ],
+                                            "wordSum": 214,
+                                            "tokenSum": 407,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 234,
+                                    "tokenSum": 448,
+                                    "tokenCount": 10
+                                }
+                            ],
+                            "wordSum": 235,
+                            "tokenSum": 452,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "##",
+                            "text": "General",
+                            "tokenCum": 5262,
+                            "children": [
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 16",
+                                    "text": "Consequential repeals",
+                                    "tokenCum": 5267,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "In consequence of the amendments made by this Act, omit the following\u2014",
+                                            "tokenCum": 5284,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "paragraphs 6(2) and (3) and 11 of Schedule 13 to the Apprenticeships,Skills, Children and Learning Act 2009;",
+                                                    "tokenCum": 5325,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 45,
+                                                    "tokenCount": 45
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "sections 44(3) and 56 of the Education Act 2011;",
+                                                    "tokenCum": 5346,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "section 4 of the Children and Families Act 2014.",
+                                                    "tokenCum": 5362,
+                                                    "wordSum": 9,
+                                                    "tokenSum": 20,
+                                                    "tokenCount": 20
+                                                }
+                                            ],
+                                            "wordSum": 47,
+                                            "tokenSum": 110,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 49,
+                                    "tokenSum": 117,
+                                    "tokenCount": 6
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 17",
+                                    "text": "Transitional, saving and consequential provision",
+                                    "tokenCum": 5370,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "The Secretary of State may by regulations make transitional or savingprovision in connection with the coming into force of any provision of thisAct.",
+                                            "tokenCum": 5399,
+                                            "wordSum": 23,
+                                            "tokenSum": 32,
+                                            "tokenCount": 32
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The Secretary of State may by regulations, make provision that isconsequential on any provision of this Act.",
+                                            "tokenCum": 5422,
+                                            "wordSum": 17,
+                                            "tokenSum": 26,
+                                            "tokenCount": 26
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Regulations under subsection (2) may amend, repeal or revoke any provisionmade by or under an Act passed or made before this Act or in the same Session.",
+                                            "tokenCum": 5459,
+                                            "wordSum": 27,
+                                            "tokenSum": 40,
+                                            "tokenCount": 40
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "Regulations under this section are to be made by statutory instrument.",
+                                            "tokenCum": 5474,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "A statutory instrument containing regulations under subsection (2) thatamend or repeal provision made by an Act may not be made unless a draft of thestatutory instrument has been laid before and approved by a resolution of eachHouse of Parliament.",
+                                            "tokenCum": 5529,
+                                            "wordSum": 39,
+                                            "tokenSum": 58,
+                                            "tokenCount": 58
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "Any other statutory instrument containing regulations under subsection (2)is subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                            "tokenCum": 5564,
+                                            "wordSum": 21,
+                                            "tokenSum": 38,
+                                            "tokenCount": 38
+                                        }
+                                    ],
+                                    "wordSum": 143,
+                                    "tokenSum": 222,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 18",
+                                    "text": "Extent ",
+                                    "tokenCum": 5567,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act extends to England and Wales only.",
+                                            "tokenCum": 5576,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 9,
+                                    "tokenSum": 17,
+                                    "tokenCount": 4
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 19",
+                                    "text": "Commencement ",
+                                    "tokenCum": 5580,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "Sections 17 and 18, this section and section 20 come into force on the dayon which this Act is passed.",
+                                            "tokenCum": 5610,
+                                            "wordSum": 20,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "The other provisions of this Act come into force on such day as theSecretary of State may by regulations made by statutory instrument appoint.",
+                                            "tokenCum": 5641,
+                                            "wordSum": 24,
+                                            "tokenSum": 34,
+                                            "tokenCount": 34
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Different days may be appointed for different purposes.",
+                                            "tokenCum": 5651,
+                                            "wordSum": 8,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        }
+                                    ],
+                                    "wordSum": 53,
+                                    "tokenSum": 86,
+                                    "tokenCount": 5
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "### 20",
+                                    "text": "Short title",
+                                    "tokenCum": 5653,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "This Act may be cited as the Education and Adoption Act 2016.",
+                                            "tokenCum": 5673,
+                                            "wordSum": 12,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        }
+                                    ],
+                                    "wordSum": 14,
+                                    "tokenSum": 27,
+                                    "tokenCount": 3
+                                },
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "",
+                                    "tokenCum": 5673,
+                                    "wordSum": 0,
+                                    "tokenSum": 2,
+                                    "tokenCount": 2
+                                }
+                            ],
+                            "wordSum": 269,
+                            "tokenSum": 473,
+                            "tokenCount": 1
+                        }
+                    ],
+                    "wordSum": 3578,
+                    "tokenSum": 6419,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3627,
+            "tokenSum": 6546,
+            "tokenCount": 43
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2016/6/enacted?view=plain",
+    "title": "Education and Adoption Act 2016",
+    "longtitle": "An Act to make provision about schools in England that are causing concern, including provision about their conversion into Academies and about intervention powers; and to make provision about joint arrangements for carrying out local authority adoption functions in England.",
+    "date": "[16th March 2016]",
+    "wordSum": 3627,
+    "tokenSum": 6547,
+    "tokenCount": 0,
+    "totalTokens": 6547
+}

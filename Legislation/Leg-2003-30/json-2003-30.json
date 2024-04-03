@@ -1,0 +1,1583 @@
+{
+    "type": "",
+    "prefix": "",
+    "text": "",
+    "tokenCum": 0,
+    "children": [
+        {
+            "type": "Text",
+            "prefix": "",
+            "text": "[![LegislationCrest](/images/crests/ukpga.gif)](/ukpga/2003/30/introduction/enacted?view=plain)",
+            "tokenCum": 44,
+            "children": [
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "Sustainable Energy Act 2003",
+                    "tokenCum": 55,
+                    "wordSum": 4,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Heading",
+                    "prefix": "#",
+                    "text": "2003 CHAPTER 30",
+                    "tokenCum": 64,
+                    "children": [
+                        {
+                            "type": "Text",
+                            "prefix": "",
+                            "text": "An Act to make provision about the development and promotion of a sustainableenergy policy; to amend the Utilities Act 2000; and for connected purposes.",
+                            "tokenCum": 100,
+                            "wordSum": 24,
+                            "tokenSum": 37,
+                            "tokenCount": 37
+                        }
+                    ],
+                    "wordSum": 27,
+                    "tokenSum": 47,
+                    "tokenCount": 9
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "[30th October 2003]",
+                    "tokenCum": 111,
+                    "wordSum": 3,
+                    "tokenSum": 12,
+                    "tokenCount": 11
+                },
+                {
+                    "type": "Text",
+                    "prefix": "",
+                    "text": "Be it enacted by the Queen\u2019s most Excellent Majesty, by and with the adviceand consent of the Lords Spiritual and Temporal, and Commons, in this presentParliament assembled, and by the authority of the same, as follows:\u2014",
+                    "tokenCum": 168,
+                    "children": [
+                        {
+                            "type": "Heading",
+                            "prefix": "## 1",
+                            "text": "Annual reports on progress towards sustainable energy aims",
+                            "tokenCum": 180,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must in each calendar year, beginning with 2004,publish a report (\u201ca sustainable energy report\u201d) on the progress made in thereporting period towards\u2014",
+                                    "tokenCum": 222,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "cutting the United Kingdom\u2019s carbon emissions;",
+                                            "tokenCum": 232,
+                                            "wordSum": 6,
+                                            "tokenSum": 13,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "maintaining the reliability of the United Kingdom\u2019s energy supplies;",
+                                            "tokenCum": 246,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "promoting competitive energy markets in the United Kingdom; and",
+                                            "tokenCum": 259,
+                                            "wordSum": 9,
+                                            "tokenSum": 16,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(d)",
+                                            "text": "reducing the number of people living in fuel poverty in the United Kingdom.",
+                                            "tokenCum": 274,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 63,
+                                    "tokenSum": 108,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "\u201cThe reporting period\u201d, for the purposes of subsection (1), means the yearending with 23 February in the calendar year in question.",
+                                    "tokenCum": 304,
+                                    "wordSum": 21,
+                                    "tokenSum": 32,
+                                    "tokenCount": 32
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Accordingly, the report must be published in that calendar year within theperiod beginning with 24 February and ending with 31 December (\u201cthepublication period\u201d).",
+                                    "tokenCum": 340,
+                                    "wordSum": 23,
+                                    "tokenSum": 38,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "A sustainable energy report may either be published as a single report orpublished in a number of parts during the publication period, and any suchreport or part may be contained in a document containing other material.",
+                                    "tokenCum": 383,
+                                    "wordSum": 36,
+                                    "tokenSum": 45,
+                                    "tokenCount": 45
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "A sustainable energy report must be based on such information as isavailable to the Secretary of State when the report is completed (except thatif it is published in parts, each of those parts must be based on suchinformation as is so available when that part is completed).",
+                                    "tokenCum": 438,
+                                    "wordSum": 47,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "For the purposes of this section a person is to be regarded as living infuel poverty if he is a member of a household living on a lower income in ahome which cannot be kept warm at a reasonable cost.",
+                                    "tokenCum": 482,
+                                    "wordSum": 40,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                }
+                            ],
+                            "wordSum": 238,
+                            "tokenSum": 339,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 2",
+                            "text": "Energy efficiency of residential accommodation: Secretary of State",
+                            "tokenCum": 493,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The Secretary of State must within one week beginning with the coming intoforce of this section designate under this subsection at least one energyefficiency aim.",
+                                    "tokenCum": 525,
+                                    "wordSum": 25,
+                                    "tokenSum": 34,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of this section an \u201cenergy efficiency aim\u201d is an aimwhich\u2014",
+                                    "tokenCum": 542,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "is contained in a published document;",
+                                            "tokenCum": 549,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "relates to the energy efficiency of residential accommodation in England;and",
+                                            "tokenCum": 564,
+                                            "wordSum": 10,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "is compatible with Community obligations and any other internationalobligations of the United Kingdom.",
+                                            "tokenCum": 582,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 42,
+                                    "tokenSum": 68,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State may, at any time after designation under subsection(1), designate under this subsection a further energy efficiency aim or aims.",
+                                    "tokenCum": 615,
+                                    "wordSum": 23,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Where an energy efficiency aim is for the time being designated under thissection, the Secretary of State must take reasonable steps to achieve the aim.",
+                                    "tokenCum": 643,
+                                    "wordSum": 25,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In deciding which steps to take for the purposes of subsection (4), theSecretary of State must consider steps relating to the heating, cooling,ventilation, lighting and insulation of residential accommodation.",
+                                    "tokenCum": 691,
+                                    "wordSum": 29,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A designation under this section may be withdrawn, but not if itswithdrawal would result in there being no energy efficiency aim designatedunder this section.",
+                                    "tokenCum": 724,
+                                    "wordSum": 24,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "If an energy efficiency aim designated under this section ceases to meetthe condition in subsection (2)(c) it ceases to be designated under thissection, but if this results in there being no energy efficiency aim sodesignated the Secretary of State must without delay designate a new energyefficiency aim.",
+                                    "tokenCum": 789,
+                                    "wordSum": 47,
+                                    "tokenSum": 67,
+                                    "tokenCount": 67
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "A designation of an aim under this section, or a withdrawal or cessation ofsuch a designation, must be published in such way as the Secretary of Stateconsiders appropriate: a designation may be contained in the same publisheddocument as the aim itself.",
+                                    "tokenCum": 844,
+                                    "wordSum": 41,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "In this section \u201cresidential accommodation\u201d has the meaning given bysection 1 of the Home Energy Conservation Act [1995 (c.10)](/id/ukpga/1995/10?view=plain \"Go to item of legislation\").",
+                                    "tokenCum": 906,
+                                    "wordSum": 24,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                }
+                            ],
+                            "wordSum": 288,
+                            "tokenSum": 452,
+                            "tokenCount": 11
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 3",
+                            "text": "Energy efficiency of residential accommodation: National Assembly forWales",
+                            "tokenCum": 919,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "The National Assembly for Wales (\u201cthe Assembly\u201d) must within one weekbeginning with the coming into force of this section designate under thissubsection at least one energy efficiency aim.",
+                                    "tokenCum": 956,
+                                    "wordSum": 28,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of this section an \u201cenergy efficiency aim\u201d is an aimwhich\u2014",
+                                    "tokenCum": 973,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "is contained in a published document;",
+                                            "tokenCum": 980,
+                                            "wordSum": 6,
+                                            "tokenSum": 10,
+                                            "tokenCount": 10
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "relates to the energy efficiency of residential accommodation in Wales; and",
+                                            "tokenCum": 995,
+                                            "wordSum": 11,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "is compatible with Community obligations and any other internationalobligations of the United Kingdom.",
+                                            "tokenCum": 1013,
+                                            "wordSum": 13,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 68,
+                                    "tokenCount": 18
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Assembly may, at any time after designation under subsection (1),designate under this subsection a further energy efficiency aim or aims.",
+                                    "tokenCum": 1044,
+                                    "wordSum": 21,
+                                    "tokenSum": 33,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Where an energy efficiency aim is for the time being designated under thissection, the Assembly must (using the powers it has apart from this section)take reasonable steps to achieve the aim.",
+                                    "tokenCum": 1081,
+                                    "wordSum": 31,
+                                    "tokenSum": 39,
+                                    "tokenCount": 39
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In deciding which steps to take for the purposes of subsection (4), theAssembly must consider steps relating to the heating, cooling, ventilation,lighting and insulation of residential accommodation.",
+                                    "tokenCum": 1126,
+                                    "wordSum": 27,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "A designation under this section may be withdrawn, but not if itswithdrawal would result in there being no energy efficiency aim designatedunder this section.",
+                                    "tokenCum": 1159,
+                                    "wordSum": 24,
+                                    "tokenSum": 35,
+                                    "tokenCount": 35
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "If an energy efficiency aim designated under this section ceases to meetthe condition in subsection (2)(c) it ceases to be designated under thissection, but if this results in there being no energy efficiency aim sodesignated the Assembly must without delay designate a new energy efficiencyaim.",
+                                    "tokenCum": 1221,
+                                    "wordSum": 45,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "A designation of an aim under this section, or a withdrawal or cessation ofsuch a designation, must be published in such way as the Assembly considersappropriate: a designation may be contained in the same published document asthe aim itself.",
+                                    "tokenCum": 1276,
+                                    "wordSum": 39,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "In this section \u201cresidential accommodation\u201d has the meaning given bysection 1 of the Home Energy Conservation Act [1995 (c.10)](/id/ukpga/1995/10?view=plain \"Go to item of legislation\").",
+                                    "tokenCum": 1338,
+                                    "wordSum": 24,
+                                    "tokenSum": 64,
+                                    "tokenCount": 64
+                                }
+                            ],
+                            "wordSum": 290,
+                            "tokenSum": 460,
+                            "tokenCount": 13
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 4",
+                            "text": "Energy efficiency of residential accommodation: energy conservationauthorities",
+                            "tokenCum": 1350,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "In this section an \u201cenergy efficiency direction\u201d means a directionrequiring each energy conservation authority to which it applies to take suchenergy conservation measures as that authority considers to be\u2014",
+                                    "tokenCum": 1387,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "likely to result in achieving, by a date specified in the direction, animprovement so specified (which may be expressed as a percentage) in theenergy efficiency of residential accommodation in that authority\u2019s area; and",
+                                            "tokenCum": 1433,
+                                            "wordSum": 33,
+                                            "tokenSum": 49,
+                                            "tokenCount": 49
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "practicable and cost-effective.",
+                                            "tokenCum": 1442,
+                                            "wordSum": 3,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        }
+                                    ],
+                                    "wordSum": 65,
+                                    "tokenSum": 100,
+                                    "tokenCount": 38
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "For the purposes of this section, \u201cthe energy efficiency\u201d of residentialaccommodation in an energy conservation authority\u2019s area has such meaning asmay be specified in an order made by the Secretary of State.",
+                                    "tokenCum": 1486,
+                                    "wordSum": 32,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "The Secretary of State may, after consulting the Local GovernmentAssociation, give an energy efficiency direction which applies\u2014",
+                                    "tokenCum": 1509,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "to one or more named energy conservation authorities in England;",
+                                            "tokenCum": 1520,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "to all energy conservation authorities in England; or",
+                                            "tokenCum": 1529,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "to a particular description of energy conservation authority in England.",
+                                            "tokenCum": 1540,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 45,
+                                    "tokenSum": 65,
+                                    "tokenCount": 24
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "The National Assembly for Wales (\u201cthe Assembly\u201d) may, after consulting theWelsh Local Government Association, give an energy efficiency direction whichapplies\u2014",
+                                    "tokenCum": 1572,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "to one or more named energy conservation authorities in Wales;",
+                                            "tokenCum": 1583,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "to all energy conservation authorities in Wales; or",
+                                            "tokenCum": 1592,
+                                            "wordSum": 8,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(c)",
+                                            "text": "to a particular description of energy conservation authority in Wales.",
+                                            "tokenCum": 1603,
+                                            "wordSum": 10,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 48,
+                                    "tokenSum": 74,
+                                    "tokenCount": 33
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "With effect from the giving of an energy efficiency direction\u2014",
+                                    "tokenCum": 1614,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "each energy conservation authority to which the direction applies mustcomply with the direction, using the powers it has apart from this section;and",
+                                            "tokenCum": 1641,
+                                            "wordSum": 22,
+                                            "tokenSum": 30,
+                                            "tokenCount": 30
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the Home Energy Conservation Act [1995 (c.10)](/id/ukpga/1995/10?view=plain \"Go to item of legislation\") (\u201cHECA\u201d) shallcease to apply in relation to each such authority.",
+                                            "tokenCum": 1702,
+                                            "wordSum": 22,
+                                            "tokenSum": 64,
+                                            "tokenCount": 64
+                                        }
+                                    ],
+                                    "wordSum": 54,
+                                    "tokenSum": 107,
+                                    "tokenCount": 12
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In deciding which measures to take for the purposes of complying with anenergy efficiency direction, an authority must give preference to measureswhich it considers would also contribute to\u2014",
+                                    "tokenCum": 1737,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "achieving the objective mentioned in paragraph (d) of section 2(2) of theWarm Homes and Energy Conservation Act [2000 (c.31)](/id/ukpga/2000/31?view=plain \"Go to item of legislation\") by the targetdate for the time being specified under that paragraph;",
+                                            "tokenCum": 1815,
+                                            "wordSum": 35,
+                                            "tokenSum": 81,
+                                            "tokenCount": 81
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "achieving any interim objectives for the time being specified underparagraph (c) of section 2(2) of that Act by the target date so specified.",
+                                            "tokenCum": 1849,
+                                            "wordSum": 23,
+                                            "tokenSum": 37,
+                                            "tokenCount": 37
+                                        }
+                                    ],
+                                    "wordSum": 86,
+                                    "tokenSum": 155,
+                                    "tokenCount": 36
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "Different energy efficiency directions may be given in relation todifferent energy conservation authorities or different descriptions of suchauthority.",
+                                    "tokenCum": 1873,
+                                    "wordSum": 18,
+                                    "tokenSum": 26,
+                                    "tokenCount": 26
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "The Secretary of State may after consulting the Local GovernmentAssociation, and the Assembly may after consulting the Welsh Local GovernmentAssociation, alter the date or the improvement (or both) for the time beingspecified in an energy efficiency direction given by the Secretary of State or(as the case may be) by the Assembly.",
+                                    "tokenCum": 1942,
+                                    "wordSum": 51,
+                                    "tokenSum": 71,
+                                    "tokenCount": 71
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "An energy efficiency direction may be revoked, but only if each authorityto which it applies either\u2014",
+                                    "tokenCum": 1962,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "is subject to a new energy efficiency direction taking effect immediatelyon the revocation; or",
+                                            "tokenCum": 1979,
+                                            "wordSum": 14,
+                                            "tokenSum": 20,
+                                            "tokenCount": 20
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "no longer exists at the time of the revocation.",
+                                            "tokenCum": 1990,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 39,
+                                    "tokenSum": 56,
+                                    "tokenCount": 21
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(10)",
+                                    "text": "The Secretary of State may give to energy conservation authorities inEngland, and the Assembly may give to energy conservation authorities inWales, such guidance as he or it considers appropriate in relation to theexercise of an energy conservation authority\u2019s functions under this section.",
+                                    "tokenCum": 2045,
+                                    "wordSum": 42,
+                                    "tokenSum": 57,
+                                    "tokenCount": 57
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(11)",
+                                    "text": "An energy conservation authority must have regard to any such guidance.",
+                                    "tokenCum": 2057,
+                                    "wordSum": 11,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(12)",
+                                    "text": "The Secretary of State may by order\u2014",
+                                    "tokenCum": 2065,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "amend this section so as to alter the body which must be consulted by him;",
+                                            "tokenCum": 2083,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make transitional provision in relation to HECA\u2019s ceasing to apply inrelation to an energy conservation authority in England.",
+                                            "tokenCum": 2108,
+                                            "wordSum": 18,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 40,
+                                    "tokenSum": 59,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(13)",
+                                    "text": "The Assembly may by order\u2014",
+                                    "tokenCum": 2114,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "amend this section so as to alter the body which must be consulted by it;",
+                                            "tokenCum": 2132,
+                                            "wordSum": 15,
+                                            "tokenSum": 21,
+                                            "tokenCount": 21
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "make transitional provision in relation to HECA\u2019s ceasing to apply inrelation to an energy conservation authority in Wales.",
+                                            "tokenCum": 2157,
+                                            "wordSum": 18,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 38,
+                                    "tokenSum": 57,
+                                    "tokenCount": 7
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(14)",
+                                    "text": "Any power to make an order under this section is exercisable by statutoryinstrument which, in the case of an order made by the Secretary of State,shall be subject to annulment in pursuance of a resolution of either House ofParliament.",
+                                    "tokenCum": 2213,
+                                    "wordSum": 39,
+                                    "tokenSum": 58,
+                                    "tokenCount": 58
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(15)",
+                                    "text": "In this section the following expressions have the meaning given bysection 1 of HECA\u2014",
+                                    "tokenCum": 2231,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cenergy conservation authority\u201d; ",
+                                            "tokenCum": 2240,
+                                            "wordSum": 4,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cresidential accommodation\u201d; ",
+                                            "tokenCum": 2251,
+                                            "wordSum": 3,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201carea\u201d, in relation to an energy conservation authority; ",
+                                            "tokenCum": 2265,
+                                            "wordSum": 9,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cenergy conservation measures\u201d. ",
+                                            "tokenCum": 2273,
+                                            "wordSum": 4,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        }
+                                    ],
+                                    "wordSum": 34,
+                                    "tokenSum": 74,
+                                    "tokenCount": 19
+                                }
+                            ],
+                            "wordSum": 649,
+                            "tokenSum": 1032,
+                            "tokenCount": 12
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 5",
+                            "text": "CHP targets",
+                            "tokenCum": 2276,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "Before the end of 2003, the Secretary of State must make a statement\u2014",
+                                    "tokenCum": 2295,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specifying one or more CHP targets; and",
+                                            "tokenCum": 2304,
+                                            "wordSum": 7,
+                                            "tokenSum": 12,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "specifying the period that each CHP target is for.",
+                                            "tokenCum": 2315,
+                                            "wordSum": 9,
+                                            "tokenSum": 14,
+                                            "tokenCount": 14
+                                        }
+                                    ],
+                                    "wordSum": 29,
+                                    "tokenSum": 47,
+                                    "tokenCount": 20
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "At any time after making the statement mentioned in subsection (1), theSecretary of State may make a further statement doing either or both of thefollowing\u2014",
+                                    "tokenCum": 2348,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specifying as mentioned in that subsection;",
+                                            "tokenCum": 2356,
+                                            "wordSum": 6,
+                                            "tokenSum": 11,
+                                            "tokenCount": 11
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "revoking a CHP target contained in an earlier statement under this section.",
+                                            "tokenCum": 2371,
+                                            "wordSum": 12,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 43,
+                                    "tokenSum": 64,
+                                    "tokenCount": 34
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "A CHP target is the percentage of the amount of electricity for governmentuse in the period the target is for that the Secretary of State considers willbe capable, at a reasonable cost to the government, of being supplied from CHPelectricity.",
+                                    "tokenCum": 2423,
+                                    "wordSum": 40,
+                                    "tokenSum": 54,
+                                    "tokenCount": 54
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "For the purposes of this section\u2014",
+                                    "tokenCum": 2430,
+                                    "children": [
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201camount of electricity for government use in the period the target is for\u201d means the amount of electricity that the Secretary of State estimates that the government will use in that period; ",
+                                            "tokenCum": 2470,
+                                            "wordSum": 33,
+                                            "tokenSum": 43,
+                                            "tokenCount": 43
+                                        },
+                                        {
+                                            "type": "Bullet point",
+                                            "prefix": "*",
+                                            "text": "  * \u201cCHP electricity\u201d means electricity that\u2014 ",
+                                            "tokenCum": 2484,
+                                            "wordSum": 6,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "is generated by a generating station which is operated for the purposes ofproducing heat, or a cooling effect, in association with electricity; and",
+                                            "tokenCum": 2484,
+                                            "wordSum": 23,
+                                            "tokenSum": 33,
+                                            "tokenCount": 33
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "satisfies any other requirements specified in an order made by the Secretaryof State.",
+                                            "tokenCum": 2514,
+                                            "wordSum": 13,
+                                            "tokenSum": 18,
+                                            "tokenCount": 18
+                                        }
+                                    ],
+                                    "wordSum": 81,
+                                    "tokenSum": 120,
+                                    "tokenCount": 8
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "The Secretary of State may by order\u2014",
+                                    "tokenCum": 2537,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "specify the departments and other bodies which (taken together) are toconstitute \u201cthe government\u201d for the purposes of this section;",
+                                            "tokenCum": 2565,
+                                            "wordSum": 19,
+                                            "tokenSum": 31,
+                                            "tokenCount": 31
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "provide for the exclusion from any estimation of the amount of electricitythat the government will use in a period of\u2014",
+                                            "tokenCum": 2589,
+                                            "wordSum": 20,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(i)",
+                                            "text": "the use of electricity for purposes specified in the order or incircumstances so specified;",
+                                            "tokenCum": 2609,
+                                            "wordSum": 14,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(ii)",
+                                            "text": "the use of electricity by any part of the government specified in theorder.",
+                                            "tokenCum": 2625,
+                                            "wordSum": 13,
+                                            "tokenSum": 19,
+                                            "tokenCount": 19
+                                        }
+                                    ],
+                                    "wordSum": 73,
+                                    "tokenSum": 110,
+                                    "tokenCount": 9
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "One of the periods specified under subsection (1)(b) must\u2014",
+                                    "tokenCum": 2640,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "begin with 1 January 2010; and",
+                                            "tokenCum": 2652,
+                                            "wordSum": 6,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "end with 31 December 2010.",
+                                            "tokenCum": 2664,
+                                            "wordSum": 5,
+                                            "tokenSum": 15,
+                                            "tokenCount": 15
+                                        }
+                                    ],
+                                    "wordSum": 20,
+                                    "tokenSum": 47,
+                                    "tokenCount": 16
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Secretary of State must lay any statement made under this sectionbefore Parliament.",
+                                    "tokenCum": 2679,
+                                    "wordSum": 13,
+                                    "tokenSum": 17,
+                                    "tokenCount": 17
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "Any power to make an order under this section is exercisable by statutoryinstrument which shall be subject to annulment in pursuance of a resolution ofeither House of Parliament.",
+                                    "tokenCum": 2720,
+                                    "wordSum": 28,
+                                    "tokenSum": 43,
+                                    "tokenCount": 43
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(9)",
+                                    "text": "No proceedings may be brought to enforce any CHP target contained in astatement made under this section or otherwise to review any act done, or anyfailure to act, in relation to any such CHP target.",
+                                    "tokenCum": 2765,
+                                    "wordSum": 35,
+                                    "tokenSum": 47,
+                                    "tokenCount": 47
+                                }
+                            ],
+                            "wordSum": 364,
+                            "tokenSum": 553,
+                            "tokenCount": 3
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 6",
+                            "text": "Duty of Gas and Electricity Markets Authority to carry out impactassessments",
+                            "tokenCum": 2784,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "After section 5 of the Utilities Act [2000 (c.27)](/id/ukpga/2000/27?view=plain \"Go to item of legislation\") insert\u2014",
+                                    "tokenCum": 2832,
+                                    "wordSum": 15,
+                                    "tokenSum": 50,
+                                    "tokenCount": 50
+                                },
+                                {
+                                    "type": "Heading",
+                                    "prefix": "###",
+                                    "text": "\u201c5ADuty of Authority to carry out impact assessment",
+                                    "tokenCum": 2846,
+                                    "children": [
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(1)",
+                                            "text": "This section applies where\u2014",
+                                            "tokenCum": 2851,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "the Authority is proposing to do anything for the purposes of, or inconnection with, the carrying out of any function exercisable by it under orby virtue of Part 1 of the 1986 Act or Part 1 of the 1989 Act; and",
+                                                    "tokenCum": 2911,
+                                                    "wordSum": 41,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 64
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "it appears to it that the proposal is important;",
+                                                    "tokenCum": 2921,
+                                                    "children": [
+                                                        {
+                                                            "type": "Text",
+                                                            "prefix": "",
+                                                            "text": "but this section does not apply if it appears to the Authority that theurgency of the matter makes it impracticable or inappropriate for theAuthority to comply with the requirements of this section.",
+                                                            "tokenCum": 2966,
+                                                            "wordSum": 32,
+                                                            "tokenSum": 50,
+                                                            "tokenCount": 50
+                                                        }
+                                                    ],
+                                                    "wordSum": 41,
+                                                    "tokenSum": 64,
+                                                    "tokenCount": 13
+                                                }
+                                            ],
+                                            "wordSum": 86,
+                                            "tokenSum": 136,
+                                            "tokenCount": 7
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(2)",
+                                            "text": "A proposal is important for the purposes of this section only if itsimplementation would be likely to do one or more of the following\u2014",
+                                            "tokenCum": 2992,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "involve a major change in the activities carried on by the Authority;",
+                                                    "tokenCum": 3006,
+                                                    "wordSum": 12,
+                                                    "tokenSum": 18,
+                                                    "tokenCount": 18
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "have a significant impact on persons engaged in the shipping,transportation or supply of gas conveyed through pipes or in the generation,transmission, distribution or supply of electricity;",
+                                                    "tokenCum": 3044,
+                                                    "wordSum": 26,
+                                                    "tokenSum": 42,
+                                                    "tokenCount": 42
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "have a significant impact on persons engaged in commercial activitiesconnected with the shipping, transportation or supply of gas conveyed throughpipes or with the generation, transmission, distribution or supply ofelectricity;",
+                                                    "tokenCum": 3086,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 46,
+                                                    "tokenCount": 46
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(d)",
+                                                    "text": "have a significant impact on the general public in Great Britain or in apart of Great Britain; or",
+                                                    "tokenCum": 3105,
+                                                    "wordSum": 18,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(e)",
+                                                    "text": "have significant effects on the environment.",
+                                                    "tokenCum": 3112,
+                                                    "wordSum": 6,
+                                                    "tokenSum": 11,
+                                                    "tokenCount": 11
+                                                }
+                                            ],
+                                            "wordSum": 115,
+                                            "tokenSum": 169,
+                                            "tokenCount": 28
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(3)",
+                                            "text": "Before implementing its proposal, the Authority must either\u2014",
+                                            "tokenCum": 3123,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "carry out and publish an assessment of the likely impact of implementingthe proposal; or",
+                                                    "tokenCum": 3140,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 21,
+                                                    "tokenCount": 21
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "publish a statement setting out its reasons for thinking that it isunnecessary for it to carry out an assessment.",
+                                                    "tokenCum": 3164,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 41,
+                                            "tokenSum": 63,
+                                            "tokenCount": 13
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(4)",
+                                            "text": "An assessment carried out under this section must\u2014",
+                                            "tokenCum": 3174,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "include an assessment of the likely effects on the environment ofimplementing the proposal; and",
+                                                    "tokenCum": 3193,
+                                                    "wordSum": 14,
+                                                    "tokenSum": 23,
+                                                    "tokenCount": 23
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "relate to such other matters as the Authority considers appropriate.",
+                                                    "tokenCum": 3206,
+                                                    "wordSum": 10,
+                                                    "tokenSum": 17,
+                                                    "tokenCount": 17
+                                                }
+                                            ],
+                                            "wordSum": 32,
+                                            "tokenSum": 53,
+                                            "tokenCount": 12
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(5)",
+                                            "text": "In determining the matters to which an assessment under this section shouldrelate, the Authority must have regard to such general guidance relating tothe carrying out of impact assessments as it considers appropriate.",
+                                            "tokenCum": 3249,
+                                            "wordSum": 32,
+                                            "tokenSum": 46,
+                                            "tokenCount": 46
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(6)",
+                                            "text": "An assessment carried out under this section may take such form as theAuthority considers appropriate.",
+                                            "tokenCum": 3269,
+                                            "wordSum": 15,
+                                            "tokenSum": 23,
+                                            "tokenCount": 23
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(7)",
+                                            "text": "Where the Authority publishes an assessment under this section\u2014",
+                                            "tokenCum": 3282,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "it must provide an opportunity of making representations to the Authorityabout its proposal to members of the public and other persons who, in theAuthority\u2019s opinion, are likely to be affected to a significant extent by theproposal\u2019s implementation;",
+                                                    "tokenCum": 3333,
+                                                    "wordSum": 37,
+                                                    "tokenSum": 55,
+                                                    "tokenCount": 55
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "the published assessment must be accompanied by a statement setting out howrepresentations may be made; and",
+                                                    "tokenCum": 3354,
+                                                    "wordSum": 16,
+                                                    "tokenSum": 25,
+                                                    "tokenCount": 25
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(c)",
+                                                    "text": "the Authority must not implement its proposal unless the period for makingrepresentations about the proposal has expired and it has considered all therepresentations that were made in that period.",
+                                                    "tokenCum": 3391,
+                                                    "wordSum": 29,
+                                                    "tokenSum": 41,
+                                                    "tokenCount": 41
+                                                }
+                                            ],
+                                            "wordSum": 91,
+                                            "tokenSum": 137,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(8)",
+                                            "text": "Where the Authority is required (apart from this section)\u2014",
+                                            "tokenCum": 3405,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "to consult about a proposal to which this section applies, or",
+                                                    "tokenCum": 3417,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "to give a person an opportunity of making representations about it,",
+                                                    "tokenCum": 3429,
+                                                    "wordSum": 11,
+                                                    "tokenSum": 16,
+                                                    "tokenCount": 16
+                                                },
+                                                {
+                                                    "type": "Text",
+                                                    "prefix": "",
+                                                    "text": "the requirements of this section are in addition to, but may be performedcontemporaneously with, the other requirements.",
+                                                    "tokenCum": 3453,
+                                                    "wordSum": 17,
+                                                    "tokenSum": 28,
+                                                    "tokenCount": 28
+                                                }
+                                            ],
+                                            "wordSum": 48,
+                                            "tokenSum": 77,
+                                            "tokenCount": 16
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(9)",
+                                            "text": "Every report under section 5(1) must set out\u2014",
+                                            "tokenCum": 3466,
+                                            "children": [
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(a)",
+                                                    "text": "a list of the assessments under this section carried out during thefinancial year to which the report relates; and",
+                                                    "tokenCum": 3491,
+                                                    "wordSum": 19,
+                                                    "tokenSum": 29,
+                                                    "tokenCount": 29
+                                                },
+                                                {
+                                                    "type": "Alpha point",
+                                                    "prefix": "(b)",
+                                                    "text": "a summary of the decisions taken during that year in relation to proposalsto which assessments carried out in that year or previous financial yearsrelate.",
+                                                    "tokenCum": 3521,
+                                                    "wordSum": 24,
+                                                    "tokenSum": 34,
+                                                    "tokenCount": 34
+                                                }
+                                            ],
+                                            "wordSum": 51,
+                                            "tokenSum": 79,
+                                            "tokenCount": 15
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(10)",
+                                            "text": "The publication of anything under this section must be in such manner asthe Authority considers appropriate for bringing it to the attention of thepersons who, in the Authority\u2019s opinion, are likely to be affected if itsproposal is implemented.",
+                                            "tokenCum": 3573,
+                                            "wordSum": 38,
+                                            "tokenSum": 55,
+                                            "tokenCount": 55
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(11)",
+                                            "text": "References in sections 4AA, 4AB and 4A of the 1986 Act to functions of theAuthority under Part 1 of that Act include references to any functions of theAuthority under this section that are exercisable in relation to a proposal todo anything for the purposes of, or in connection with, the carrying out ofany function of the Authority under Part 1 of the 1986 Act.",
+                                            "tokenCum": 3665,
+                                            "wordSum": 64,
+                                            "tokenSum": 95,
+                                            "tokenCount": 95
+                                        },
+                                        {
+                                            "type": "Digit point",
+                                            "prefix": "(12)",
+                                            "text": "References in sections 3A, 3B and 3C of the 1989 Act to functions of theAuthority under Part 1 of that Act include references to any functions of theAuthority under this section that are exercisable in relation to a proposal todo anything for the purposes of, or in connection with, the carrying out ofany function of the Authority under Part 1 of the 1989 Act.\u201d",
+                                            "tokenCum": 3757,
+                                            "wordSum": 64,
+                                            "tokenSum": 95,
+                                            "tokenCount": 95
+                                        }
+                                    ],
+                                    "wordSum": 685,
+                                    "tokenSum": 1044,
+                                    "tokenCount": 15
+                                }
+                            ],
+                            "wordSum": 711,
+                            "tokenSum": 1114,
+                            "tokenCount": 19
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 7",
+                            "text": "Use of certain money held by Gas and Electricity Markets Authority",
+                            "tokenCum": 3771,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "If the Secretary of State so directs, the person prescribed under section33(1)(b) of the Electricity Act (collection of fossil fuel levy) must pay anamount into the Consolidated Fund out of money that has been paid undersection 33(5A) of that Act.",
+                                    "tokenCum": 3837,
+                                    "wordSum": 40,
+                                    "tokenSum": 68,
+                                    "tokenCount": 68
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "The total of the amounts directed to be paid under this section must notexceed \u00a360,000,000.",
+                                    "tokenCum": 3865,
+                                    "wordSum": 15,
+                                    "tokenSum": 30,
+                                    "tokenCount": 30
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "At any time which falls after the giving of a direction under this section,the Secretary of State is under a duty to spend the required amount for thepurpose of promoting the use of energy from renewable sources.",
+                                    "tokenCum": 3909,
+                                    "wordSum": 37,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "\u201cThe required amount\u201d, for the purposes of subsection (3), is an amount ofmoney equal to the total of the amounts that at the time in question have beenpaid into the Consolidated Fund under subsection (1), less the total of anyamounts that the Secretary of State has already spent under subsection (3).",
+                                    "tokenCum": 3979,
+                                    "wordSum": 51,
+                                    "tokenSum": 72,
+                                    "tokenCount": 72
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "In subsection (3) \u201crenewable sources\u201d means sources of energy other thanfossil fuel or nuclear fuel.",
+                                    "tokenCum": 4005,
+                                    "wordSum": 15,
+                                    "tokenSum": 28,
+                                    "tokenCount": 28
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "In subsection (5) \u201cfossil fuel\u201d means coal, substances produced directly orindirectly from coal, lignite, natural gas, crude liquid petroleum, orpetroleum products (and \u201cnatural gas\u201d and \u201cpetroleum products\u201d have the samemeanings as in the Energy Act [1976 (c. 76)](/id/ukpga/1976/76?view=plain \"Goto item of legislation\")).",
+                                    "tokenCum": 4113,
+                                    "wordSum": 42,
+                                    "tokenSum": 110,
+                                    "tokenCount": 110
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The Secretary of State\u2019s duty under subsection (3) is without prejudice toany power or duty of his apart from this section to spend money for thepurpose mentioned in that subsection.",
+                                    "tokenCum": 4155,
+                                    "wordSum": 30,
+                                    "tokenSum": 44,
+                                    "tokenCount": 44
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "In this section\u2014",
+                                    "tokenCum": 4159,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "\u201cthe Electricity Act\u201d means the Electricity Act [1989 (c.29)](/id/ukpga/1989/29?view=plain \"Go to item of legislation\"); and",
+                                            "tokenCum": 4208,
+                                            "wordSum": 15,
+                                            "tokenSum": 52,
+                                            "tokenCount": 52
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "the references to section 33 of that Act are to that section as it haseffect in England and Wales.",
+                                            "tokenCum": 4232,
+                                            "wordSum": 19,
+                                            "tokenSum": 27,
+                                            "tokenCount": 27
+                                        }
+                                    ],
+                                    "wordSum": 37,
+                                    "tokenSum": 85,
+                                    "tokenCount": 5
+                                }
+                            ],
+                            "wordSum": 278,
+                            "tokenSum": 498,
+                            "tokenCount": 14
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 8",
+                            "text": "Financial provision",
+                            "tokenCum": 4236,
+                            "children": [
+                                {
+                                    "type": "Text",
+                                    "prefix": "",
+                                    "text": "There shall be paid out of money provided by Parliament\u2014",
+                                    "tokenCum": 4247,
+                                    "children": [
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(a)",
+                                            "text": "any expenditure of the Secretary of State under this Act; and",
+                                            "tokenCum": 4261,
+                                            "wordSum": 11,
+                                            "tokenSum": 17,
+                                            "tokenCount": 17
+                                        },
+                                        {
+                                            "type": "Alpha point",
+                                            "prefix": "(b)",
+                                            "text": "any increase attributable to this Act in the sums which under any other Actare payable out of money so provided.",
+                                            "tokenCum": 4286,
+                                            "wordSum": 20,
+                                            "tokenSum": 28,
+                                            "tokenCount": 28
+                                        }
+                                    ],
+                                    "wordSum": 41,
+                                    "tokenSum": 58,
+                                    "tokenCount": 12
+                                }
+                            ],
+                            "wordSum": 43,
+                            "tokenSum": 63,
+                            "tokenCount": 4
+                        },
+                        {
+                            "type": "Heading",
+                            "prefix": "## 9",
+                            "text": "Citation, extent and commencement",
+                            "tokenCum": 4294,
+                            "children": [
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(1)",
+                                    "text": "This Act may be cited as the Sustainable Energy Act 2003.",
+                                    "tokenCum": 4314,
+                                    "wordSum": 11,
+                                    "tokenSum": 22,
+                                    "tokenCount": 22
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(2)",
+                                    "text": "Except as provided in subsections (3) and (4), this Act extends to Englandand Wales, Scotland and Northern Ireland.",
+                                    "tokenCum": 4341,
+                                    "wordSum": 18,
+                                    "tokenSum": 29,
+                                    "tokenCount": 29
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(3)",
+                                    "text": "Sections 2, 3, 4, 5 and 7 extend to England and Wales only.",
+                                    "tokenCum": 4364,
+                                    "wordSum": 13,
+                                    "tokenSum": 25,
+                                    "tokenCount": 25
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(4)",
+                                    "text": "Section 6 extends to England and Wales and to Scotland.",
+                                    "tokenCum": 4376,
+                                    "wordSum": 10,
+                                    "tokenSum": 14,
+                                    "tokenCount": 14
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(5)",
+                                    "text": "Sections 2, 4 (so far as it relates to England) and 5 shall come into forceon such day as the Secretary of State may by order made by statutoryinstrument appoint.",
+                                    "tokenCum": 4420,
+                                    "wordSum": 30,
+                                    "tokenSum": 46,
+                                    "tokenCount": 46
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(6)",
+                                    "text": "Sections 3 and 4 (so far as it relates to Wales) shall come into force onsuch day as the National Assembly for Wales may by order made by statutoryinstrument appoint.",
+                                    "tokenCum": 4462,
+                                    "wordSum": 30,
+                                    "tokenSum": 44,
+                                    "tokenCount": 44
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(7)",
+                                    "text": "The other provisions of this Act shall come into force at the end of twomonths beginning with the day on which it is passed.",
+                                    "tokenCum": 4491,
+                                    "wordSum": 24,
+                                    "tokenSum": 31,
+                                    "tokenCount": 31
+                                },
+                                {
+                                    "type": "Digit point",
+                                    "prefix": "(8)",
+                                    "text": "An order under subsection (5) or (6) may appoint different days fordifferent purposes.",
+                                    "tokenCum": 4511,
+                                    "children": [
+                                        {
+                                            "type": "Text",
+                                            "prefix": "",
+                                            "text": "",
+                                            "tokenCum": 4511,
+                                            "wordSum": 0,
+                                            "tokenSum": 3,
+                                            "tokenCount": 3
+                                        }
+                                    ],
+                                    "wordSum": 13,
+                                    "tokenSum": 25,
+                                    "tokenCount": 21
+                                }
+                            ],
+                            "wordSum": 153,
+                            "tokenSum": 245,
+                            "tokenCount": 8
+                        }
+                    ],
+                    "wordSum": 3050,
+                    "tokenSum": 4814,
+                    "tokenCount": 57
+                }
+            ],
+            "wordSum": 3085,
+            "tokenSum": 4930,
+            "tokenCount": 44
+        }
+    ],
+    "link": "https://www.legislation.gov.uk/ukpga/2003/30/enacted?view=plain",
+    "title": "Sustainable Energy Act 2003",
+    "longtitle": "An Act to make provision about the development and promotion of a sustainable energy policy; to amend the Utilities Act 2000; and for connected purposes.",
+    "date": "[30th October 2003]",
+    "wordSum": 3085,
+    "tokenSum": 4931,
+    "tokenCount": 0,
+    "totalTokens": 4931
+}
