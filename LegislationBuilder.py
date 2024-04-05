@@ -1,11 +1,11 @@
-from Pipeline.Legislation import Legislation
-from Pipeline.LegislationPipe import LegislationPipe
+from Legislation import Legislation
+from LegislationPipe import LegislationPipe
 import time
 import pickle
 import os
 import json
 import re
-from Pipeline.TextMetrics import TextMetrics
+from TextMetrics import TextMetrics
 
 class LegislationBuilder:
 
@@ -17,14 +17,15 @@ class LegislationBuilder:
 
         leg = Legislation(year, id)
 
-        directory = "../Legislation/Leg-" + str(year) + "-" + str(id)
+        directory = "Legislation/Leg-" + str(year) + "-" + str(id)
         jsonPath = f"{directory}/json-{year}-{id}.json"
         rawPath = f"{directory}/raw-{year}-{id}.txt"
         chunkPath = f"{directory}/chunked-{year}-{id}.json"
         summPath = f"{directory}/summ-{year}-{id}.json"
         metricPath = f"{directory}/metrics-{year}-{id}.pkl"
+
         if (preFile and os.path.exists(jsonPath) and os.path.exists(rawPath)):
-            print("Preload")
+            #print("Preload")
             with open(f"{directory}/json-{year}-{id}.json", 'r') as f:
                 data = json.load(f)
                 leg.link = data['link']

@@ -2,7 +2,7 @@ import json
 import pickle
 import os
 import re
-from Pipeline.LegislationPipe import LegislationPipe
+from LegislationPipe import LegislationPipe
 
 class Legislation:
     def __init__(self, year, id):
@@ -15,7 +15,7 @@ class Legislation:
         self.summary = None
         self.metrics = None
 
-        self.directory = "../Legislation/Leg-" + str(self.year) + "-" + str(self.id)
+        self.directory = "Legislation/Leg-" + str(self.year) + "-" + str(self.id)
 
         self.written = False
 
